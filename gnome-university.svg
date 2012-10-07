@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="3401.7112"
-     inkscape:cy="1649.754"
+     inkscape:zoom="0.5"
+     inkscape:cx="3358.6092"
+     inkscape:cy="1583.3566"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -36,12 +36,7 @@
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     showborder="false">
-    <sodipodi:guide
-       orientation="1,0"
-       position="4679.7766,1547.7452"
-       id="guide4796" />
-  </sodipodi:namedview>
+     showborder="false" />
   <defs
      id="defs3138">
     <inkscape:path-effect
@@ -1825,13 +1820,14 @@
        style="font-size:32.91776657px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="text5495"
        sodipodi:linespacing="125%"
-       transform="translate(0,-14.754702)"><textPath
+       x="319.06052"
+       y="0"><textPath
          xlink:href="#path5513"
-         id="textPath5517"><tspan
-   id="tspan5497"> GNOME UNIVERSITY</tspan></textPath></text>
+         id="textPath5517"
+         style="text-align:start;text-anchor:start;letter-spacing:7.44999977px"> GNOME UNIVERSITY</textPath></text>
     <path
-       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3531.2152,-979.74058 c 0,0 50.5338,-63.67162 165.1357,-63.67162 114.6019,0 166.4163,63.46333 166.4163,63.46333"
+       style="fill:none;stroke:none;stroke-width:0.99999994000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3484.7152,-979.74054 c 0,0 88.3252,-83.17166 211.456,-83.17166 123.1309,0 213.096,82.82433 213.096,82.82433"
        id="path5513"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czc" />
