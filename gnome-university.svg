@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.94034673"
-     inkscape:cx="2883.291"
-     inkscape:cy="416.32216"
+     inkscape:cx="2815.5271"
+     inkscape:cy="81.339341"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -1205,16 +1205,16 @@
          id="tspan6428"
          sodipodi:role="line">instrue machinas liberum</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="4305.4551"
+       sodipodi:linespacing="125%"
+       id="text7379"
        y="306.29419"
-       id="text6418"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6420"
+       x="4305.4551"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="306.29419"
          x="4305.4551"
-         y="306.29419">instrue machinas liberum</tspan></text>
+         id="tspan7381"
+         sodipodi:role="line">instrue machinas liberum</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
        d="m 3107.9532,133.82027 c 2.6765,6.37687 5.353,12.75375 8.0294,19.13063 5.825,16.306 9.8293,33.28624 12.1678,50.50517 3.3444,24.51609 3.1894,49.51795 -0.557,73.95894 0,0 0,1e-5 0,1e-5 -4.7406,31.01326 -15.3798,61.11522 -30.5423,88.69812 -8.2181,14.95571 -18.7133,28.68879 -30.7885,40.8679 0,0 0,0 0,0 -11.8061,11.91072 -25.1414,22.35885 -39.3622,31.48193 0,1e-5 0,1e-5 0,2e-5 -27.3268,17.5433 -57.8038,30.1486 -89.2288,39.48103 0,10e-6 0,10e-6 0,10e-6 -25.0766,7.43148 -50.7944,12.75136 -76.7708,16.17358 0,0 0,0 0,0 0,0 0,0 0,0 -7.9035,1.04011 -15.8132,1.90249 -23.725,2.51823 0,0 0,0 0,0 -2.1616,0.16821 -4.3127,0.31777 -6.4535,0.43623 0,1e-5 0,1e-5 0,1e-5 -0.5587,0.0309 -1.1109,0.0595 -1.657,0.0841 -0.1396,0.006 -0.2758,0.0122 -0.4088,0.0175 0.01,1.06313 0.014,2.12617 0.024,3.18909 0.02,0.79204 0.041,1.58408 0.061,2.37611 5e-4,0.27223 0.011,0.54411 0.021,0.81599 l 0,0 c 0.01,0.27188 0.021,0.54376 0.031,0.81563 0.049,0.79094 0.088,1.58216 0.1273,2.37328 0.084,1.05957 0.1664,2.11872 0.247,3.17747 0.1605,-0.01 0.3177,-0.0199 0.4716,-0.0302 0.6022,-0.0402 1.1975,-0.084 1.7862,-0.12962 0,-10e-6 0,-10e-6 10e-5,-10e-6 2.2566,-0.17504 4.4981,-0.38057 6.7257,-0.60417 0,0 0,0 0,0 8.1548,-0.8185 16.2606,-1.88497 24.3178,-3.13024 0,0 10e-5,0 10e-5,0 26.4805,-4.08942 52.6477,-10.12337 78.1042,-18.28986 0,0 10e-5,0 10e-5,0 31.911,-10.22521 62.8903,-23.91086 90.6228,-42.57271 0,-10e-6 0,-10e-6 0,-10e-6 0,-1e-5 0,-1e-5 0,-1e-5 14.4403,-9.71878 27.9529,-20.82207 39.8845,-33.40376 12.2095,-12.87496 22.7227,-27.31971 30.8649,-42.95565 14.8271,-28.46927 24.9197,-59.32782 29.0119,-90.87462 0,-1e-5 0,-2e-5 0,-3e-5 3.2293,-24.85705 2.7955,-50.1045 -1.1386,-74.70194 -2.7579,-17.28653 -7.1811,-34.25143 -13.3951,-50.44865 -2.8251,-6.32381 -5.6485,-12.64365 -8.4704,-18.95953 z"
@@ -1308,39 +1308,54 @@
        d="m 2341.6862,448.35314 c 0,0 -44.1406,6.15801 -62.2733,14.57471 -18.1313,8.41804 -44.6033,31.85727 -44.6033,31.85727 0,0 39.3554,13.46505 59.0735,5.62669 19.7177,-7.83883 47.8031,-52.05867 47.8031,-52.05867 z"
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <g
-       id="g6291"
+       style="stroke:#000000;stroke-width:5.79532528;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        transform="matrix(0.6902115,0,0,0.6902115,1485.6863,162.06622)"
-       style="stroke:#000000;stroke-width:5.79532528;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+       id="g7383">
       <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path3780-8-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.79532528;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 2224.4916,512.22482 110.3174,53.30477 -55.875,24.49137 18.625,48.98275 -102.4375,-48.98275 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.79532528;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         sodipodi:nodetypes="cc"
+         id="path7385"
          inkscape:connector-curvature="0"
-         id="path3782-4-7"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.79532528;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 2250.4592,576.15451 -55.3378,14.58678"
-         style="fill:none;stroke:#000000;stroke-width:5.79532528;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         sodipodi:nodetypes="cccccc"
+         id="path7387"
          inkscape:connector-curvature="0"
-         id="path3780-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.79532528;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 1795.3596,512.22482 -110.3174,53.30477 55.8751,24.49137 -18.6251,48.98275 102.4377,-48.98275 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.79532528;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         sodipodi:nodetypes="czcczcc"
+         id="path7389"
          inkscape:connector-curvature="0"
-         id="rect2998-0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.79532528;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 1735.9029,499.97914 c 0,0 119.1046,-38.3479 278.2358,-38.03997 159.1312,0.30793 271.202,38.03997 271.202,38.03997 l -34.3847,76.35547 c 0,0 -87.1641,-20.3998 -236.0357,-20.75193 -148.8715,-0.35212 -244.6329,21.47227 -244.6329,21.47227 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.79532528;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         sodipodi:nodetypes="cc"
+         id="path7391"
          inkscape:connector-curvature="0"
-         id="path3782-9"
+         sodipodi:nodetypes="czcczcc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.79532528;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 1769.392,576.15451 55.3377,14.58678"
-         style="fill:none;stroke:#000000;stroke-width:5.79532528;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         id="path7393"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
     </g>
+    <path
+       sodipodi:nodetypes="czc"
+       inkscape:connector-curvature="0"
+       id="path7395"
+       d="m 3038.2586,533.27306 c 0,0 -60.1617,-14.08018 -162.9145,-14.32322 -102.7529,-0.24304 -168.8485,14.8204 -168.8485,14.8204"
+       style="fill:#ffffff;fill-opacity:1;stroke:#2e3436;stroke-width:4;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       id="text6418"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path7395"
+         startOffset="50%"
+         id="textPath7398"><tspan
+   id="tspan6420">instrue machinas liberum</tspan></textPath></text>
   </g>
 </svg>
