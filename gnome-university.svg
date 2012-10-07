@@ -23,10 +23,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="3721.343"
-     inkscape:cy="1773.5009"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="1"
+     inkscape:cx="3976.7688"
+     inkscape:cy="1676.092"
+     inkscape:current-layer="g6430-9"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:window-width="1920"
@@ -36,7 +36,13 @@
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     showborder="false" />
+     showborder="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5553" />
+  </sodipodi:namedview>
   <defs
      id="defs3138">
     <inkscape:path-effect
@@ -1541,31 +1547,37 @@
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect10366-41"
-         width="76.700317"
-         height="76.700317"
-         x="3659.0562"
-         y="129.2067" />
+         width="76.921288"
+         height="76.971001"
+         x="3658.8352"
+         y="129.2067"
+         rx="3.9824448"
+         ry="3.9850187" />
       <rect
          style="fill:none;stroke:#a40000;stroke-width:4.99999952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect10366-4-2"
-         width="41.733997"
-         height="35.906273"
-         x="3668.2678"
-         y="122.81499" />
+         width="42.000092"
+         height="36.000004"
+         x="3670.2537"
+         y="123.67769"
+         rx="3.0191281"
+         ry="3.0078311" />
       <rect
          style="fill:#a40000;fill-opacity:1;stroke:none"
          id="rect10386-8"
-         width="9.5709372"
+         width="10.000018"
          height="16.084492"
-         x="3675.8579"
-         y="134.25772" />
+         x="3677.7537"
+         y="134.1777" />
       <rect
          style="fill:none;stroke:#a40000;stroke-width:4.99999952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect10366-4-9-6"
          width="59.014854"
          height="35.906273"
-         x="3668.2678"
-         y="178.37959" />
+         x="3668.2537"
+         y="178.6777"
+         rx="3.5"
+         ry="3.5" />
     </g>
     <g
        transform="matrix(1.0407996,0,0,1.0407996,3568.3611,-792.20554)"
