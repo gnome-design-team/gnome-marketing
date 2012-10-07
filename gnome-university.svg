@@ -24,9 +24,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.66492555"
-     inkscape:cx="3383.4988"
-     inkscape:cy="449.99457"
-     inkscape:current-layer="layer1"
+     inkscape:cx="3599.3124"
+     inkscape:cy="430.44351"
+     inkscape:current-layer="g6187"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:window-width="1366"
@@ -1072,7 +1072,7 @@
        style="fill:#a40000;fill-opacity:1;stroke:none" />
     <path
        style="fill:#a40000;fill-opacity:1;stroke:none"
-       d="m 3450.0102,86.720735 332.3681,0 0,300.785565 -166.1841,114.29851 -166.184,-114.29851 z"
+       d="m 3450.0102,86.720735 332.3681,0 0,300.785565 -166.1841,84.29851 -166.184,-84.29851 z"
        id="rect10343"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -1104,26 +1104,12 @@
        id="rect6372"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect10366"
-       width="76.700317"
-       height="76.700317"
-       x="3659.0562"
-       y="129.2067" />
-    <rect
        y="122.81499"
        x="2938.8628"
        height="35.906273"
        width="41.733997"
        id="rect6374"
        style="fill:none;stroke:#a40000;stroke-width:4.99999952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <rect
-       style="fill:none;stroke:#a40000;stroke-width:4.99999952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect10366-4"
-       width="41.733997"
-       height="35.906273"
-       x="3668.2678"
-       y="122.81499" />
     <rect
        y="134.25772"
        x="2946.4529"
@@ -1132,26 +1118,44 @@
        id="rect6376"
        style="fill:#a40000;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#a40000;fill-opacity:1;stroke:none"
-       id="rect10386"
-       width="9.5709372"
-       height="16.084492"
-       x="3675.8579"
-       y="134.25772" />
-    <rect
        y="178.37959"
        x="2938.8628"
        height="35.906273"
        width="59.014854"
        id="rect6378"
        style="fill:none;stroke:#a40000;stroke-width:4.99999952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <rect
-       style="fill:none;stroke:#a40000;stroke-width:4.99999952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect10366-4-9"
-       width="59.014854"
-       height="35.906273"
-       x="3668.2678"
-       y="178.37959" />
+    <g
+       id="g6430"
+       transform="translate(4.5117833,-1.5039278)">
+      <rect
+         y="129.2067"
+         x="3659.0562"
+         height="76.700317"
+         width="76.700317"
+         id="rect10366"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <rect
+         y="122.81499"
+         x="3668.2678"
+         height="35.906273"
+         width="41.733997"
+         id="rect10366-4"
+         style="fill:none;stroke:#a40000;stroke-width:4.99999952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="134.25772"
+         x="3675.8579"
+         height="16.084492"
+         width="9.5709372"
+         id="rect10386"
+         style="fill:#a40000;fill-opacity:1;stroke:none" />
+      <rect
+         y="178.37959"
+         x="3668.2678"
+         height="35.906273"
+         width="59.014854"
+         id="rect10366-4-9"
+         style="fill:none;stroke:#a40000;stroke-width:4.99999952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
     <g
        transform="matrix(1.0445028,0,0,1.0445028,2758.0435,276.7453)"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1189,7 +1193,7 @@
     <g
        id="g15043"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       transform="matrix(1.0445028,0,0,1.0445028,3487.4485,276.7453)">
+       transform="matrix(1.0407996,0,0,1.0407996,3487.6266,274.4682)">
       <g
          id="g15045"
          style="fill:#ffffff;fill-opacity:1">
@@ -1237,7 +1241,7 @@
     </g>
     <g
        id="g11305"
-       transform="matrix(0.98578713,0,0,0.98578713,3207.5454,-23.856133)"
+       transform="matrix(0.86652816,0,0,0.86652816,3265.2953,11.818952)"
        style="fill:#ffffff;fill-opacity:1">
       <path
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -1267,17 +1271,17 @@
     </g>
     <g
        id="g6187"
-       transform="matrix(0.836745,0,0,0.836745,1186.5193,25.677812)">
+       transform="matrix(0.836745,0,0,0.836745,1189.5272,22.669957)">
       <path
          sodipodi:nodetypes="ccscssccccccc"
-         style="fill:none;stroke:#ffffff;stroke-width:11.23111057;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:none;stroke:#ffffff;stroke-width:8.36575062;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          id="path29274-9-1"
          d="m 2790.2984,128.82681 c 0,8.87395 0,13.91163 0,22.98801 -2.6456,3.63021 -15.8012,27.55239 -24.1789,42.87997 -2.6455,4.84043 -2.6383,10.89068 1.33,15.73097 2.6454,3.63027 7.2652,4.84522 11.8993,4.84522 15.8731,0 31.7479,0 47.6209,0 4.6342,0 9.254,-1.21495 11.8994,-4.84522 3.9683,-4.84029 3.9753,-10.89054 1.3299,-15.73097 -7.4957,-15.32758 -16.3852,-27.55225 -23.8811,-42.87997 0,-8.87394 0,-22.98801 0,-22.98801 l 6.5049,-3.6289 -39.0294,3.2e-4 z"
          inkscape:connector-curvature="0" />
       <path
          id="rect5725"
          d="m 2791.6167,176.39972 -14.3776,25.91409 51.8406,0 -14.3777,-25.91409 -23.0853,0 z"
-         style="opacity:0.25;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.73317528;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.73317527999999998;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          inkscape:connector-curvature="0" />
     </g>
     <g
@@ -1348,5 +1352,38 @@
          d="m 1769.392,576.15451 55.3377,14.58678"
          style="fill:none;stroke:#000000;stroke-width:14.48831272;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6422"
+       y="68.673607"
+       x="4299.4399"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro"
+       xml:space="preserve"><tspan
+         y="68.673607"
+         x="4519.3032"
+         id="tspan6424"
+         sodipodi:role="line">instrue machinas liberum</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6426"
+       y="185.97997"
+       x="4312.9751"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="185.97997"
+         x="4312.9751"
+         id="tspan6428"
+         sodipodi:role="line">instrue machinas liberum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="4305.4551"
+       y="306.29419"
+       id="text6418"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6420"
+         x="4305.4551"
+         y="306.29419">instrue machinas liberum</tspan></text>
   </g>
 </svg>
