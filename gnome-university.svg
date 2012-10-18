@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.739248"
-     inkscape:cx="713.25209"
-     inkscape:cy="537.53867"
+     inkscape:zoom="0.77285018"
+     inkscape:cx="1055.065"
+     inkscape:cy="190.96142"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -213,21 +213,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czczc" />
     <path
-       sodipodi:nodetypes="cccccc"
-       inkscape:connector-curvature="0"
-       id="rect10343-5"
-       d="m 192.46892,221.86251 332.3681,0 0,300.78557 -166.1841,84.29851 -166.184,-84.29851 z"
-       style="fill:#a40000;fill-opacity:1;stroke:none" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 178.19302,372.75302 0,5 359.4374,0 0,-5 -359.4374,0 z"
-       id="path10346-5"
-       inkscape:connector-curvature="0" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 355.41172,185.75302 0,455.78125 5,0 0,-455.78125 -5,0 z"
-       id="path10346-3-7"
-       inkscape:connector-curvature="0" />
+       style="fill:#a40000;fill-opacity:1;stroke:none"
+       d="M 192.46875 153.875 L 192.46875 304.75 L 356.15625 304.75 L 356.15625 153.875 L 192.46875 153.875 z M 361.15625 153.875 L 361.15625 304.75 L 524.84375 304.75 L 524.84375 153.875 L 361.15625 153.875 z M 192.46875 309.75 L 192.46875 454.65625 L 356.15625 537.65625 L 356.15625 309.75 L 192.46875 309.75 z M 361.15625 309.75 L 361.15625 537.65625 L 524.84375 454.65625 L 524.84375 309.75 L 361.15625 309.75 z "
+       transform="translate(0,68)"
+       id="rect10343-5" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect10366-41"
