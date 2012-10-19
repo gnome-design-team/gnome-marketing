@@ -20,11 +20,11 @@
    inkscape:version="0.48.2 r9819"
    id="svg6136">
   <sodipodi:namedview
-     inkscape:zoom="1"
+     inkscape:zoom="0.70710678"
      borderopacity="0.44705882"
      inkscape:current-layer="layer2"
-     inkscape:cx="496.5"
-     inkscape:cy="408"
+     inkscape:cx="393.77006"
+     inkscape:cy="463.36717"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      showgrid="false"
@@ -53,6 +53,10 @@
   </sodipodi:namedview>
   <defs
      id="defs6142">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7584"
+       effect="spiro" />
     <inkscape:path-effect
        is_visible="true"
        id="path-effect7580"
@@ -787,23 +791,23 @@
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
-       x="872.87891"
-       y="463"
+       x="866.59766"
+       y="461"
        id="text7574"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="872.87891"
-         y="463"
+         x="866.59766"
+         y="461"
          id="tspan7576">Fix kerning for the latin text too</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6109"
-       y="48"
+       y="35"
        x="866.63281"
        style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan6113"
-         y="48"
+         y="35"
          x="866.63281"
          sodipodi:role="line">Fix kerning for the title</tspan></text>
     <path
@@ -823,20 +827,20 @@
        id="path7570"
        inkscape:connector-curvature="0" />
     <path
-       inkscape:original-d="m 852.83911,475 c 12.82432,-17.1216 -10.04299,11.7362 -0.0847,10.13654 21.39097,-3.43618 -17.68041,41.6922 -33.48575,54.60085 C 787.42871,565.74192 717.9436,547.31067 712.54741,572"
-       inkscape:path-effect="#path-effect7580"
-       sodipodi:nodetypes="csac"
+       inkscape:original-d="m 848.82102,57.91268 c -9.32491,17.747409 -15.22854,40.59834 -27.97472,53.24223 -16.10882,15.97954 -37.00583,19.69213 -56.39381,23.72405 -14.81326,3.08056 -32.96023,6.11512 -44.90501,0.17268"
+       inkscape:path-effect="#path-effect7584"
+       sodipodi:nodetypes="caac"
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1LendO)"
-       d="m 852.83911,475 c 0.26814,3.37266 0.23976,6.76883 -0.0847,10.13654 -1.05136,10.91249 -5.22404,21.39792 -11.21576,30.57872 -5.99172,9.18079 -13.76371,17.10614 -22.26999,24.02213 C 789.69247,563.78415 750.49192,575.63476 712.54741,572"
-       id="path7578"
+       d="m 848.82102,57.91268 c -2.25974,20.39693 -12.45977,39.809898 -27.97472,53.24223 -15.6298,13.53176 -35.93469,20.7536 -56.39381,23.72405 -14.86187,2.15779 -30.02699,2.2161 -44.90501,0.17268"
+       id="path7582"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path6133"
-       d="m 847.82102,62.91268 c -2.25974,20.39693 -12.45977,39.8099 -27.97472,53.24223 -15.6298,13.53176 -35.93469,20.7536 -56.39381,23.72405 -14.86187,2.15779 -30.02699,2.2161 -44.90501,0.17268"
+       d="m 850.86872,479.91268 c -3.05326,15.21246 -11.88076,29.19287 -24.30305,38.48955 -15.52042,11.61529 -35.43861,15.54776 -54.75776,17.15045 -14.92911,1.2385 -29.95733,1.28029 -44.89309,0.12483"
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1LendO)"
        sodipodi:nodetypes="caac"
        inkscape:path-effect="#path-effect7564"
-       inkscape:original-d="m 847.82102,62.91268 c -9.32491,17.747409 -15.22854,40.59834 -27.97472,53.24223 -16.10882,15.97954 -37.00583,19.69213 -56.39381,23.72405 -14.81326,3.08056 -32.96023,6.11512 -44.90501,0.17268" />
+       inkscape:original-d="m 850.86872,479.91268 c -8.10102,12.82985 -12.42881,29.34911 -24.30305,38.48955 -15.00684,11.55183 -35.64783,14.23572 -54.75776,17.15045 -14.60082,2.22698 -32.53851,4.4207 -44.89309,0.12483" />
   </g>
 </svg>
