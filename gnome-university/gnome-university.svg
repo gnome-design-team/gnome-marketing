@@ -22,9 +22,9 @@
   <sodipodi:namedview
      inkscape:zoom="1.0454545"
      borderopacity="0.44705882"
-     inkscape:current-layer="g7560"
-     inkscape:cx="339.73185"
-     inkscape:cy="373.21356"
+     inkscape:current-layer="layer4"
+     inkscape:cx="269.4275"
+     inkscape:cy="414.344"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      showgrid="false"
@@ -706,9 +706,7 @@
        inkscape:groupmode="layer">
       <text
          id="text6205"
-         fill="#000000"
          sodipodi:linespacing="50%"
-         font-family="Trajan"
          x="-39.98381"
          y="0"
          font-variant="normal"
@@ -719,40 +717,37 @@
          xml:space="preserve"
          font-weight="normal"
          line-height="50%"
-         style="letter-spacing:-0.82820313999999984px;text-anchor:middle;word-spacing:0px;text-align:center"><textPath
+         style="font-size:43.89476776px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:50%;letter-spacing:-0.82820314px;word-spacing:0px;text-anchor:middle;fill:#000000;font-family:Trajan"><textPath
            id="textPath6207"
            dy="0"
-           dx="0 0 0 0 0 0 20.879072"
+           dx="0 0 0 0 0 -1.4969861e-09 20.879072 0 0.79219437 0.79219437 -1.4969861e-09 -1.5843887 2.3765831 -0.79219437 1.5843887 -1.4969861e-09 -0.79219437"
            line-height="50%"
            xlink:href="#path6376"
            startOffset="50%"
-           style="letter-spacing:-2.48460960000000020px;font-size:43.06656468px"><tspan
+           style="font-size:43.06656647px;line-height:50%;letter-spacing:-2.4846096px"><tspan
    id="tspan7477"
    style="font-size:48.03578186px"> G</tspan>NOME UNIVERSITY</textPath></text>
       <text
          id="text6227"
          font-size="28px"
          sodipodi:linespacing="0%"
-         font-family="Trajan"
          font-style="normal"
          font-variant="normal"
          dx="0 0 0 0 0 0 0 0 28.695654 0 0 0 0 0 0 0 28.695654"
          font-stretch="normal"
-         stroke="url(#linearGradient16675)"
          transform="translate(0,-0.702976)"
          xml:space="preserve"
          font-weight="normal"
-         fill="#000000"
          line-height="200%"
-         style="letter-spacing:0px;text-anchor:middle;word-spacing:0px;text-align:center"><textPath
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke:url(#linearGradient16675);font-family:Trajan"><textPath
            id="textPath6229"
            dy="10"
            startOffset="50%"
-           stroke="url(#linearGradient16675)"
            line-height="0%"
-           style="letter-spacing:4px;"
+           style="font-size:24px;line-height:0%;letter-spacing:4px;stroke:url(#linearGradient16675)"
            xlink:href="#path6376-1"
-           font-size="24px">INSTRUE MACHINAS LIBERUM</textPath></text>
+           font-size="24px"
+           dx="0 0 0 -0.95652181 -0.95652181 -4.782609 0 0 19.130436 -1.9130436 -2.8695655 0.95652181 0.95652181 0.95652181 -1.9130436 -0.95652181 0 19.130436 0 0 0 0 -3.8260872 -0.95652181">INSTRUE MACHINAS LIBERUM</textPath></text>
       <g
          transform="matrix(1.2074332,0,0,1.2074332,-60.50528,-470.86381)"
          style="font-size:43.89476776px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:50%;letter-spacing:-0.82820314px;word-spacing:0px;text-anchor:middle;fill:#000000;font-family:Trajan"
