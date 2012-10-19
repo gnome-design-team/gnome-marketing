@@ -1,0 +1,94 @@
+    The trajan bundle provides fonts based on the capitals carved on 
+the Trajan column in Rome in 114 AD. Many typographers think these rank 
+first among the Roman's artistic legacy.
+The font is uppercase letters together with punctuation
+and some analphabetics; no lowercase or digits.
+
+Changes in version 1.1 (2005/06/29)
+o Font supplied as Postscript Type1 as well as METAFONT
+
+Changes in version 1.0 (1999/04/02)
+o First public release
+
+------------------------------------------------------------------
+  Author: Peter Wilson (Herries Press) herries dot press at earthlink dot net
+  Copyright 1999--2005 Peter R. Wilson
+
+  This work may be distributed and/or modified under the
+  conditions of the Latex Project Public License, either
+  version 1.3 of this license or (at your option) any
+  later version.
+  The latest version of the license is in
+    http://www.latex-project.org/lppl.txt
+  and version 1.3 or later is part of all distributions of
+  LaTeX version 2003/06/01 or later.
+
+  This work has the LPPL maintenance status "author-maintained".
+
+  This work consists of the files:
+    README (this file)
+    trajan.dtx
+    trajan.ins
+    trajan.pdf
+  and the derived files
+    trajan.sty
+    t1trjn.fd
+    trajan.map
+    trjnr10.mf
+    trjnsl10.mf
+    trjnlig.mf
+    trjnpunct.mf
+    trjnromanp.mf
+    trjnromanu.mf
+    trjntitle.mf
+
+------------------------------------------------------------------
+     The distribution consists of the following files:
+README (this file)
+trajan.dtx
+trajan.ins
+trajan.pdf     (user manual)
+trytrajan.tex  (example usage)
+trytrajan.pdf
+trjnr10.afm
+trjnr10.pfb
+trjnr10.tfm
+trjnsl10.afm
+trjnsl10.pfb
+trjnsl10.tfm
+
+    To install the bundle:
+o If you want MetaFont sources uncomment the appropriate lines in trajan.ins.
+o run: latex trajan.ins, which will generate:
+       trajan.sty
+       *.fd files
+       trajan.map
+       and possibly several *.mf files
+o Move *.sty and *.fd files to a location where LaTeX will find them
+    e.g., .../texmf-local/tex/latex/trajan
+o Move *.afm, *.pfb and *.tfm files to where LaTeX looks for font information
+    e.g., .../texmf-var/fonts/afm/public/trajan/*.afm
+          .../texmf-var/fonts/type1/public/trajan/*.pfb
+          .../texmf-var/fonts/tfm/public/trajan/*.tfm
+o Add the *.map information to the dvips/pdftex font maps
+   If you want the MetaFont version as well:
+   o Move the *.mf files to, e.g., .../texmf-var/fonts/source/public/trajan
+   o Add a line like the following to the (texmf/fontname/)special.map file:
+      trjn10.mf      public    trajan 
+      trjnsl10.mf    public    trajan
+o Refresh the database
+ (for more information on the above see the FAQ).
+
+o run: (pdf)latex trytrajan for a test of the font
+
+    If you want a full manual with all the MetaFont and LaTeX code and commentry, 
+comment out the \OnlyDescription line in trajan.dtx.
+o run: (pdf)latex trajan.dtx
+o (for an index run: makeindex -s gind.ist *.idx)
+o run: (pdf)latex *.dtx
+o Print *.(pdf|dvi) for a hardcopy of the package manual
+
+2005/06/29
+Peter Wilson
+herries dot press at earthlink dot net
+
