@@ -798,13 +798,13 @@
     <text
        sodipodi:linespacing="125%"
        id="text6109"
-       y="40"
-       x="872.63281"
+       y="48"
+       x="866.63281"
        style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan6113"
-         y="40"
-         x="872.63281"
+         y="48"
+         x="866.63281"
          sodipodi:role="line">Fix kerning for the title</tspan></text>
     <path
        inkscape:original-d="m 306,-65 c 1.82249,-2.121598 4.03652,-1.781398 6.77356,-1.863458 2.73705,-0.08206 5.9971,-0.586377 9.91165,-4.397009 12.48527,-12.153841 12.71867,7.816608 13.0034,19.997852 C 335.97335,-39.081371 336.30941,-34.689334 337,-10"
@@ -833,10 +833,10 @@
     <path
        inkscape:connector-curvature="0"
        id="path6133"
-       d="m 885.83911,53 c 0.26814,3.372657 0.23976,6.768835 -0.0847,10.13654 -1.05136,10.91249 -5.22404,21.397917 -11.21576,30.578716 -5.99172,9.180794 -13.76371,17.106144 -22.26999,24.022134 C 822.69247,141.78415 783.49192,153.63476 745.54741,150"
+       d="m 847.82102,62.91268 c -2.25974,20.39693 -12.45977,39.8099 -27.97472,53.24223 -15.6298,13.53176 -35.93469,20.7536 -56.39381,23.72405 -14.86187,2.15779 -30.02699,2.2161 -44.90501,0.17268"
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1LendO)"
-       sodipodi:nodetypes="csac"
+       sodipodi:nodetypes="caac"
        inkscape:path-effect="#path-effect7564"
-       inkscape:original-d="m 885.83911,53 c 12.82432,-17.1216 -10.04299,11.7362 -0.0847,10.13654 21.39097,-3.43618 -17.68041,41.6922 -33.48575,54.60085 C 820.42871,143.74192 750.9436,125.31067 745.54741,150" />
+       inkscape:original-d="m 847.82102,62.91268 c -9.32491,17.747409 -15.22854,40.59834 -27.97472,53.24223 -16.10882,15.97954 -37.00583,19.69213 -56.39381,23.72405 -14.81326,3.08056 -32.96023,6.11512 -44.90501,0.17268" />
   </g>
 </svg>
