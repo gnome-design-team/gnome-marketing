@@ -23,8 +23,8 @@
      inkscape:zoom="1"
      borderopacity="0.44705882"
      inkscape:current-layer="layer2"
-     inkscape:cx="441.5"
-     inkscape:cy="250"
+     inkscape:cx="496.5"
+     inkscape:cy="408"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      showgrid="false"
@@ -53,6 +53,10 @@
   </sodipodi:namedview>
   <defs
      id="defs6142">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7580"
+       effect="spiro" />
     <inkscape:path-effect
        is_visible="true"
        id="path-effect7572"
@@ -750,14 +754,14 @@
     <text
        sodipodi:linespacing="125%"
        id="text6125"
-       y="-139"
-       x="435.92969"
-       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
+       y="-146"
+       x="394.92969"
+       style="font-size:32px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"><tspan
          id="tspan6127"
-         y="-139"
-         x="580"
-         sodipodi:role="line">We probably need to tweak the text a bit.</tspan></text>
+         y="-146"
+         x="394.92969"
+         sodipodi:role="line">We probably still need to tweak a bit.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
@@ -781,16 +785,27 @@
          y="-72"
          id="tspan6131">I'm not happy with the “RS” — perhaps kern &amp; make it a ligature?</tspan></text>
     <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
+       x="872.87891"
+       y="463"
+       id="text7574"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="872.87891"
+         y="463"
+         id="tspan7576">Fix kerning for the latin text too</tspan></text>
+    <text
        sodipodi:linespacing="125%"
        id="text6109"
-       y="473"
-       x="981"
-       style="font-size:16px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
+       y="40"
+       x="872.63281"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan6113"
-         y="473"
-         x="981"
-         sodipodi:role="line">Fix kerning for the latin text</tspan></text>
+         y="40"
+         x="872.63281"
+         sodipodi:role="line">Fix kerning for the title</tspan></text>
     <path
        inkscape:original-d="m 306,-65 c 1.82249,-2.121598 4.03652,-1.781398 6.77356,-1.863458 2.73705,-0.08206 5.9971,-0.586377 9.91165,-4.397009 12.48527,-12.153841 12.71867,7.816608 13.0034,19.997852 C 335.97335,-39.081371 336.30941,-34.689334 337,-10"
        inkscape:path-effect="#path-effect7568"
@@ -808,12 +823,20 @@
        id="path7570"
        inkscape:connector-curvature="0" />
     <path
+       inkscape:original-d="m 852.83911,475 c 12.82432,-17.1216 -10.04299,11.7362 -0.0847,10.13654 21.39097,-3.43618 -17.68041,41.6922 -33.48575,54.60085 C 787.42871,565.74192 717.9436,547.31067 712.54741,572"
+       inkscape:path-effect="#path-effect7580"
+       sodipodi:nodetypes="csac"
+       style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1LendO)"
+       d="m 852.83911,475 c 0.26814,3.37266 0.23976,6.76883 -0.0847,10.13654 -1.05136,10.91249 -5.22404,21.39792 -11.21576,30.57872 -5.99172,9.18079 -13.76371,17.10614 -22.26999,24.02213 C 789.69247,563.78415 750.49192,575.63476 712.54741,572"
+       id="path7578"
+       inkscape:connector-curvature="0" />
+    <path
        inkscape:connector-curvature="0"
        id="path6133"
-       d="m 887.80817,482 c 0.30318,3.37099 0.26969,6.77217 -0.0998,10.13654 -1.26538,11.5218 -6.47872,22.38424 -13.64219,31.49674 -7.16348,9.1125 -16.22157,16.58164 -25.80334,23.10411 C 811.77377,571.5761 766.4882,583.19784 722.54742,579"
+       d="m 885.83911,53 c 0.26814,3.372657 0.23976,6.768835 -0.0847,10.13654 -1.05136,10.91249 -5.22404,21.397917 -11.21576,30.578716 -5.99172,9.180794 -13.76371,17.106144 -22.26999,24.022134 C 822.69247,141.78415 783.49192,153.63476 745.54741,150"
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1LendO)"
        sodipodi:nodetypes="csac"
        inkscape:path-effect="#path-effect7564"
-       inkscape:original-d="m 887.80817,482 c 15.10679,-17.1216 -11.83044,11.7362 -0.0998,10.13654 25.19813,-3.43618 -20.82716,41.6922 -39.44553,54.60085 C 810.75606,572.74192 728.90402,554.31067 722.54742,579" />
+       inkscape:original-d="m 885.83911,53 c 12.82432,-17.1216 -10.04299,11.7362 -0.0847,10.13654 21.39097,-3.43618 -17.68041,41.6922 -33.48575,54.60085 C 820.42871,143.74192 750.9436,125.31067 745.54741,150" />
   </g>
 </svg>
