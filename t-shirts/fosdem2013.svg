@@ -809,9 +809,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="429.49788"
-     inkscape:cy="359.70181"
+     inkscape:zoom="1"
+     inkscape:cx="122.12267"
+     inkscape:cy="535.559"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -849,13 +849,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#c71807;fill-opacity:1;fill-rule:evenodd;stroke:#2e3436;stroke-width:0.71537894000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 13.520157,275.49343 L 117.26746,200.91068 L 220.36636,163.94356 C 220.36636,163.94356 233.33474,200.91066 263.81053,201.55921 C 293.63788,202.20776 308.55156,163.94356 308.55156,163.94356 L 414.89255,198.96504 L 516.69459,274.84488 L 459.63358,356.56162 L 409.05676,346.18492 L 409.70518,588.741 C 409.70518,588.741 337.24417,593.11872 264.78316,593.60512 C 192.32215,594.09153 119.86114,590.68673 119.86114,590.68673 L 120.50957,346.18492 L 70.581195,357.21019 L 13.520157,275.49343 z"
+       style="fill:#c71807;fill-opacity:1;fill-rule:evenodd;stroke:#2e3436;stroke-width:0.71537894px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 13.520157,275.49343 103.747303,-74.58275 103.0989,-36.96712 88.1852,0 106.34099,35.02148 101.80204,75.87984 -57.06101,81.71674 -50.57682,-10.3767 0.64842,242.55608 c 0,0 -72.46101,4.37772 -144.92202,4.86412 -72.46101,0.48641 -144.92202,-2.91839 -144.92202,-2.91839 l 0.64843,-244.50181 -49.928375,11.02527 z"
        id="path6132"
-       sodipodi:nodetypes="ccczcccccczcccc"
+       sodipodi:nodetypes="ccccccccczcccc"
        inkscape:export-filename="/home/andreas/project/gtk-tshirt-preview.png"
        inkscape:export-xdpi="45"
-       inkscape:export-ydpi="45" />
+       inkscape:export-ydpi="45"
+       inkscape:connector-curvature="0" />
     <path
        style="opacity:0.6;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#eeeeec;stroke-width:0.71537888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 115.97063,201.00152 C 129.80359,261.39887 129.3713,341.92865 120.50957,346.78816"
@@ -895,7 +896,7 @@
        inkscape:export-xdpi="45"
        inkscape:export-ydpi="45" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.71537894px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#2e3436;stroke-width:0.71537894000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 228,178.09448 72.77052,0"
        id="path6146"
        inkscape:export-filename="/home/andreas/project/gtk-tshirt-preview.png"
@@ -908,13 +909,6 @@
        d="M 119.86114,575.77011 C 119.86114,575.77011 191.67374,580.95848 263.81053,580.95848 C 335.94733,580.95848 408.40834,575.77011 408.40834,575.77011"
        id="path6148"
        sodipodi:nodetypes="czc"
-       inkscape:export-filename="/home/andreas/project/gtk-tshirt-preview.png"
-       inkscape:export-xdpi="45"
-       inkscape:export-ydpi="45" />
-    <path
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.71537894px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 220.69056,164.59211 L 308.22733,164.26784"
-       id="path6150"
        inkscape:export-filename="/home/andreas/project/gtk-tshirt-preview.png"
        inkscape:export-xdpi="45"
        inkscape:export-ydpi="45" />
@@ -1120,5 +1114,23 @@
        y="291.03934"
        rx="7.2499995"
        ry="7.2500005" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#2e3436;stroke-width:0.71537894000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 220.36636,163.94356 c 0,0 12.96838,36.9671 43.44417,37.61565 29.82735,0.64855 44.74103,-37.61565 44.74103,-37.61565"
+       id="path6132-3"
+       sodipodi:nodetypes="czc"
+       inkscape:export-filename="/home/andreas/project/gtk-tshirt-preview.png"
+       inkscape:export-xdpi="45"
+       inkscape:export-ydpi="45" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:none;stroke-width:0.71537894000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.25"
+       d="m 220.36636,163.94356 c 0,0 12.96838,36.9671 43.44417,37.61565 29.82735,0.64855 44.74103,-37.61565 44.74103,-37.61565"
+       id="path6132-3-1"
+       sodipodi:nodetypes="czc"
+       inkscape:export-filename="/home/andreas/project/gtk-tshirt-preview.png"
+       inkscape:export-xdpi="45"
+       inkscape:export-ydpi="45" />
   </g>
 </svg>
