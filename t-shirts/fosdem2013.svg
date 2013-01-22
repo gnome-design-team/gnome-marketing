@@ -839,11 +839,11 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="338.7512"
-     inkscape:cy="352.06951"
+     inkscape:zoom="2"
+     inkscape:cx="220.43719"
+     inkscape:cy="372.81138"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3909"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1021"
@@ -868,7 +868,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
       <cc:Work
          rdf:about="">
@@ -1065,18 +1065,6 @@
              width="25.773521"
              id="rect2820-72-6-04" /></flowRegion><flowPara
            id="flowPara2822-4-1-1">FOR</flowPara></flowRoot>    </g>
-    <path
-       style="fill:#eeeeec;fill-opacity:1;stroke:none"
-       d="M 194.4375 279.09375 C 178.69739 279.09375 165.9375 291.85364 165.9375 307.59375 C 165.9375 323.33386 178.69739 336.09375 194.4375 336.09375 C 210.17761 336.09375 222.9375 323.33386 222.9375 307.59375 C 222.9375 291.85364 210.17761 279.09375 194.4375 279.09375 z M 207.4375 287.25 C 216.00757 287.25 206.914 299.4375 202.09375 299.4375 C 197.27281 299.4375 198.86778 287.25 207.4375 287.25 z M 194.21875 288.71875 C 198.43704 288.73432 195.70541 298.08935 193.21875 297.9375 C 190.65082 297.78075 188.95856 289.37596 193.78125 288.75 C 193.93201 288.73044 194.08268 288.71825 194.21875 288.71875 z M 185.6875 292.0625 C 188.85982 291.7258 188.63117 299.58461 186.59375 300 C 184.42223 300.44378 181.15499 293.84955 185.03125 292.25 C 185.27347 292.15005 185.47601 292.08495 185.6875 292.0625 z M 179.6875 297.21875 C 182.04664 297.29815 183.06617 303.42184 181.46875 304.125 C 179.64313 304.92826 175.49079 299.73775 178.59375 297.59375 C 178.98179 297.32579 179.35048 297.20741 179.6875 297.21875 z M 196.375 301.1875 C 200.82171 301.03655 204.59396 302.34092 205.0625 305.125 C 206.452 313.38122 185.34376 316.4255 193.28125 322.46875 C 195.77462 324.36718 198.3231 322.91357 197.9375 319.96875 C 197.61564 317.51195 206.57654 316.00585 205.875 319.71875 C 204.95645 324.58777 200.06914 328.4375 195.8125 328.4375 C 187.15987 328.4375 178.84796 318.37766 180.46875 311.125 C 181.89046 304.75815 189.87596 301.40813 196.375 301.1875 z "
-       id="path6222" />
-    <path
-       style="fill:#eeeeec;fill-opacity:1;stroke:none"
-       d="M 265.5 279.09375 C 249.75989 279.09375 237 291.85364 237 307.59375 C 237 323.33386 249.75989 336.09375 265.5 336.09375 C 281.24011 336.09375 294 323.33386 294 307.59375 C 294 291.85364 281.24011 279.09375 265.5 279.09375 z M 257.53125 294.4375 C 259.98809 294.45672 262.68825 295.43297 265.34375 297.71875 C 272.93748 290.12819 283.38114 297.14506 283.3125 304.34375 C 283.2498 310.92461 278.23069 314.07587 265.625 325.78125 C 252.43065 314.8919 247.77511 312.37046 247.84375 304.5625 C 247.89091 299.00582 252.12621 294.39521 257.53125 294.4375 z "
-       id="path6222-8" />
-    <path
-       style="fill:#eeeeec;fill-opacity:1;stroke:none"
-       d="M 336.5625 279.09375 C 320.82239 279.09375 308.0625 291.85364 308.0625 307.59375 C 308.0625 323.33386 320.82239 336.09375 336.5625 336.09375 C 352.30261 336.09375 365.0625 323.33386 365.0625 307.59375 C 365.0625 291.85364 352.30261 279.09375 336.5625 279.09375 z M 333.9375 288.9375 L 339.28125 288.9375 C 344.42246 288.9375 348.625 293.14004 348.625 298.28125 L 348.625 303.03125 L 349.8125 303.03125 C 350.69391 303.03125 351.40625 303.74359 351.40625 304.625 L 351.40625 321.8125 C 351.40625 322.69391 350.69391 323.40625 349.8125 323.40625 L 323.40625 323.40625 C 322.52484 323.40625 321.8125 322.69391 321.8125 321.8125 L 321.8125 304.625 C 321.8125 303.74359 322.52484 303.03125 323.40625 303.03125 L 324.59375 303.03125 L 324.59375 298.28125 C 324.59375 293.14004 328.79629 288.9375 333.9375 288.9375 z M 333.9375 293.125 C 331.04571 293.125 328.78125 295.38946 328.78125 298.28125 L 328.78125 303.03125 L 344.4375 303.03125 L 344.4375 298.28125 C 344.4375 295.38946 342.17304 293.125 339.28125 293.125 L 333.9375 293.125 z "
-       id="path6222-8-8" />
     <g
        id="g7164"
        transform="matrix(0.83823529,0,0,0.83823529,38.948529,49.75793)" />
@@ -1098,23 +1086,49 @@
        inkscape:export-filename="/home/andreas/project/gtk-tshirt-preview.png"
        inkscape:export-xdpi="45"
        inkscape:export-ydpi="45" />
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:none;stroke-width:1.09599996000000011;stroke-opacity:1"
-       id="path7199"
-       sodipodi:cx="195"
-       sodipodi:cy="309.84448"
-       sodipodi:rx="34.25"
-       sodipodi:ry="34.25"
-       d="m 229.25,309.84448 a 34.25,34.25 0 1 1 -68.5,0 34.25,34.25 0 1 1 68.5,0 z"
-       transform="matrix(0.91240876,0,0,0.91240876,158.83029,24.889663)" />
-    <text
-       xml:space="preserve"
-       style="font-size:11.24338245000000036px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       id="text7201"
-       sodipodi:linespacing="125%"><textPath
-         xlink:href="#path7199"
-         id="textPath7205"
-         style="font-size:6px;font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#ffffff;fill-opacity:1">PRIVACY  PRIVACY  PRIVACY  PRIVACY  PRIVACY  PRIVACY</textPath></text>
+    <g
+       style="display:inline;fill:#ffffff;fill-opacity:1"
+       id="g3909"
+       transform="matrix(0.19057346,0,0,0.19057346,183.24872,268.4546)">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         inkscape:connector-curvature="0"
+         id="rect3259-2-8-6"
+         d="m 214.99956,8.3887765 0,33.3333325 0,200.000001 c 0,69.05566 50.32,122.70066 94.79166,162.49999 44.47167,39.79934 88.54167,66.66667 88.54167,66.66667 l 16.66667,9.375 17.70833,-10.41667 c 0,0 43.143,-26.58566 87.5,-66.66666 44.357,-40.081 94.79167,-93.315 94.79167,-161.45833 l 0,-200.000001 0,-33.3333325 -33.33334,0 -333.33333,0 -33.33333,0 z m 66.66667,66.6666655 266.66666,0 0,166.666668 c 0,30.65599 -32.89867,77.28099 -71.875,112.49999 -30.19633,27.28567 -49.29633,37.96667 -61.45833,45.83334 -11.79234,-7.41434 -30.953,-17.49167 -61.45834,-44.79167 -38.86166,-34.77833 -71.87499,-80.908 -71.87499,-113.54166 l 0,-166.666668 z" />
+      <g
+         id="g15043"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1.662939,0,0,1.662939,335.00396,111.99669)">
+        <g
+           id="g15045"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             id="path15047"
+             style="fill:#ffffff;fill-opacity:1"
+             d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15049"
+             style="fill:#ffffff;fill-opacity:1"
+             d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15051"
+             style="fill:#ffffff;fill-opacity:1"
+             d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15053"
+             style="fill:#ffffff;fill-opacity:1"
+             d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path15055"
+             style="fill:#ffffff;fill-opacity:1"
+             d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
