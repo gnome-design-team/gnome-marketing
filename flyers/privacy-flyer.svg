@@ -14,7 +14,10 @@
    id="svg9264"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="privacy-flyer.svg">
+   sodipodi:docname="privacy-flyer.svg"
+   inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/flyers/privacy-flyer.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs3" />
   <sodipodi:namedview
@@ -56,6 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
