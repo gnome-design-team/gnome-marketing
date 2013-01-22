@@ -14,7 +14,7 @@
    id="svg9264"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 14">
+   sodipodi:docname="privacy-flyer.svg">
   <defs
      id="defs3" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="203.62141"
-     inkscape:cy="398.27336"
+     inkscape:cx="277.37097"
+     inkscape:cy="332.20726"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
@@ -37,7 +37,9 @@
      inkscape:window-height="1021"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid9533"
@@ -54,7 +56,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,103 +65,94 @@
      id="layer1"
      transform="translate(0,-308.26769)">
     <path
-       style="fill:#4e9a06;fill-opacity:1;stroke:none"
-       d="m 0.12626849,308.32168 524.26921151,0 0,289.05594 -524.26921151,0 z"
+       style="fill:#2e3436;fill-opacity:1;stroke:none"
+       d="m 0.12626849,308.32168 524.26921151,0 0,317.05594 -524.26921151,0 z"
        id="rect9346"
        inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccscccsccc"
+       d="m 167.62211,361.07494 0,108.10675 c 0,31.9945 23.31399,56.84901 43.91836,75.28863 20.60438,18.43961 41.02266,30.88764 41.02266,30.88764 l 7.72191,4.34358 8.20453,-4.8262 c 0,0 19.98878,-12.31753 40.54003,-30.88764 20.55125,-18.57011 43.91837,-43.23421 43.91837,-74.80601 l 0,-108.10675 z"
+       id="rect3259-2-8-6"
+       inkscape:connector-curvature="0"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <g
-       style="fill:#eeeeec;fill-opacity:1;display:inline"
-       id="g3909"
-       transform="matrix(0.46331464,0,0,0.46331464,68.009667,345.1883)">
-      <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         inkscape:connector-curvature="0"
-         id="rect3259-2-8-6"
-         d="m 214.99956,8.3887765 0,33.3333325 0,200.000001 c 0,69.05566 50.32,122.70066 94.79166,162.49999 44.47167,39.79934 88.54167,66.66667 88.54167,66.66667 l 16.66667,9.375 17.70833,-10.41667 c 0,0 43.143,-26.58566 87.5,-66.66666 44.357,-40.081 94.79167,-93.315 94.79167,-161.45833 l 0,-200.000001 0,-33.3333325 -33.33334,0 -333.33333,0 -33.33333,0 z m 66.66667,66.6666655 266.66666,0 0,166.666668 c 0,30.65599 -32.89867,77.28099 -71.875,112.49999 -30.19633,27.28567 -49.29633,37.96667 -61.45833,45.83334 -11.79234,-7.41434 -30.953,-17.49167 -61.45834,-44.79167 -38.86166,-34.77833 -71.87499,-80.908 -71.87499,-113.54166 l 0,-166.666668 z" />
+       transform="matrix(1.035036,0,0,1.035036,210.49469,393.43387)"
+       style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="g15043">
       <g
-         id="g15043"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(1.662939,0,0,1.662939,335.00396,111.99669)">
-        <g
-           id="g15045"
-           style="fill:#eeeeec;fill-opacity:1">
-          <path
-             id="path15047"
-             style="fill:#eeeeec;fill-opacity:1"
-             d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 z"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path15049"
-             style="fill:#eeeeec;fill-opacity:1"
-             d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 z"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path15051"
-             style="fill:#eeeeec;fill-opacity:1"
-             d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 z"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path15053"
-             style="fill:#eeeeec;fill-opacity:1"
-             d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path15055"
-             style="fill:#eeeeec;fill-opacity:1"
-             d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z"
-             inkscape:connector-curvature="0" />
-        </g>
+         style="fill:#2e3436;fill-opacity:1"
+         id="g15045">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 z"
+           style="fill:#2e3436;fill-opacity:1"
+           id="path15047" />
+        <path
+           inkscape:connector-curvature="0"
+           d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 z"
+           style="fill:#2e3436;fill-opacity:1"
+           id="path15049" />
+        <path
+           inkscape:connector-curvature="0"
+           d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 z"
+           style="fill:#2e3436;fill-opacity:1"
+           id="path15051" />
+        <path
+           inkscape:connector-curvature="0"
+           d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
+           style="fill:#2e3436;fill-opacity:1"
+           id="path15053" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z"
+           style="fill:#2e3436;fill-opacity:1"
+           id="path15055" />
       </g>
     </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot9312"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(8.4786124,275.39517)"><flowRegion
+       transform="matrix(1.0997427,0,0,1.0997427,-3.4088279,317.86795)"><flowRegion
          id="flowRegion9314"><rect
            id="rect9316"
-           width="446.81726"
-           height="383.13718"
+           width="391.40305"
+           height="233.07111"
            x="38.57143"
            y="359.80878" /></flowRegion><flowPara
-         id="flowPara9318"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell">GNOME was founded with the goal of promoting software freedom. We remain committed to the empowerment of our users, and are always looking for ways to improve our software. We want people to be safe, in control, and enriched by the software they use. The GNOME community was inspired by the keynote delivered by Jacob Applebaum on the topic of privacy at this years' GUADEC and was reminded of our mission. To this end, GNOME is working on a new campaign focused on privacy. Through this campaign, we aim to enhance GNOME 3 so that it offers one of the most secure computing environments available.</flowPara><flowPara
-         id="flowPara9320"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /><flowPara
-         id="flowPara9322"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /><flowPara
-         id="flowPara9324"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /><flowPara
-         id="flowPara9326"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /><flowPara
-         id="flowPara9328"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /><flowPara
-         id="flowPara9330"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /><flowPara
-         id="flowPara9332"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /><flowPara
-         id="flowPara9334"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /><flowPara
-         id="flowPara9336"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /><flowPara
-         id="flowPara9338"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /><flowPara
-         id="flowPara9340"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /><flowPara
          id="flowPara9342"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRoot>    <flowRoot
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:170.00000477%;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell">People should be safe, in control, and enriched by the software they use. GNOME was founded with the goal of promoting software freedom. We remain committed to the empowerment of our users, and have launched a campaign to make GNOME 3 one of the most secure computing environments available. </flowPara><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:170.00000477%;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowPara10638" /><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:170.00000477%;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowPara10640" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9312-4"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(7.8522141,587.53231)"><flowRegion
+       transform="matrix(1.1305281,0,0,1.1305281,-4.5959899,514.87835)"><flowRegion
          id="flowRegion9314-5"><rect
            id="rect9316-3"
-           width="425.60406"
-           height="74.030464"
+           width="421.10858"
+           height="149.73543"
            x="38.57143"
            y="359.80878" /></flowRegion><flowPara
          id="flowPara9342-9"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold">Become a Friend of GNOME and help us reach our pledge of $20000 today at <flowSpan
-   style="fill:#4e9a06"
-   id="flowSpan9529">www.gnome.org/friends</flowSpan></flowPara></flowRoot>  </g>
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold">Become a Friend of GNOME and help us</flowPara><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         id="flowPara10646">reach our pledge of $20000</flowPara><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477%;fill:#4e9a06;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         id="flowPara10644">www.gnome.org/friends</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9312-4-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.9577083,0,0,1.9577083,-36.494126,-54.260035)"><flowRegion
+         id="flowRegion9314-5-0"><rect
+           id="rect9316-3-9"
+           width="186.70486"
+           height="57.743008"
+           x="38.57143"
+           y="359.80878"
+           style="fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477000000387%;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;fill-opacity:1"
+         id="flowPara10644-5">Putting you in control</flowPara></flowRoot>  </g>
 </svg>
