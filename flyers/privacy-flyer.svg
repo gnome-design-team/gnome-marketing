@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="254.57368"
-     inkscape:cy="328.71863"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-266.04229"
+     inkscape:cy="355.89705"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
@@ -69,7 +69,7 @@
      id="layer1"
      transform="translate(0,-308.26769)">
     <path
-       style="fill:#2e3436;fill-opacity:1;stroke:none"
+       style="fill:#018094;fill-opacity:1;stroke:none"
        d="m 0.12626849,308.32168 524.26921151,0 0,317.05594 -524.26921151,0 z"
        id="rect9346"
        inkscape:connector-curvature="0" />
@@ -78,7 +78,7 @@
        d="m 167.62211,361.07494 0,108.10675 c 0,31.9945 23.31399,56.84901 43.91836,75.28863 20.60438,18.43961 41.02266,30.88764 41.02266,30.88764 l 7.72191,4.34358 8.20453,-4.8262 c 0,0 19.98878,-12.31753 40.54003,-30.88764 20.55125,-18.57011 43.91837,-43.23421 43.91837,-74.80601 l 0,-108.10675 z"
        id="rect3259-2-8-6"
        inkscape:connector-curvature="0"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <g
        transform="matrix(1.035036,0,0,1.035036,210.49469,393.43387)"
        style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -89,27 +89,27 @@
         <path
            inkscape:connector-curvature="0"
            d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 z"
-           style="fill:#2e3436;fill-opacity:1"
+           style="fill:#018094;fill-opacity:1"
            id="path15047" />
         <path
            inkscape:connector-curvature="0"
            d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 z"
-           style="fill:#2e3436;fill-opacity:1"
+           style="fill:#018094;fill-opacity:1"
            id="path15049" />
         <path
            inkscape:connector-curvature="0"
            d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 z"
-           style="fill:#2e3436;fill-opacity:1"
+           style="fill:#018094;fill-opacity:1"
            id="path15051" />
         <path
            inkscape:connector-curvature="0"
            d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
-           style="fill:#2e3436;fill-opacity:1"
+           style="fill:#018094;fill-opacity:1"
            id="path15053" />
         <path
            inkscape:connector-curvature="0"
            d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z"
-           style="fill:#2e3436;fill-opacity:1"
+           style="fill:#018094;fill-opacity:1"
            id="path15055" />
       </g>
     </g>
@@ -142,7 +142,7 @@
          id="flowPara10644">www.gnome.org/friends</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9312-4-1"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#018094;fill-opacity:1;stroke:none;font-family:Sans"
        transform="matrix(1.9577083,0,0,1.9577083,-36.494126,-54.260035)"><flowRegion
          id="flowRegion9314-5-0"><rect
            id="rect9316-3-9"
@@ -150,7 +150,7 @@
            height="57.743008"
            x="38.57143"
            y="359.80878"
-           style="fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477000000387%;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;fill-opacity:1"
+           style="fill:#018094;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477000000387%;fill:#018094;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;fill-opacity:1"
          id="flowPara10644-5">Putting you in control</flowPara></flowRoot>  </g>
 </svg>
