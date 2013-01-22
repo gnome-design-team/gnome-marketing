@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="privacy-flyer.svg"
-   inkscape:export-filename="/home/aday/Dropbox/Public/marketing/privacy-leaflet1.png"
+   inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/flyers/privacy-flyer.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -29,8 +29,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="415.07892"
-     inkscape:cy="402.13487"
+     inkscape:cx="373.63915"
+     inkscape:cy="402.11391"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -126,11 +126,11 @@
        xml:space="preserve"
        id="flowRoot9312"
        style="font-size:14.54885769px;font-style:normal;font-weight:normal;text-align:justify;line-height:150%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.0997427,0,0,1.0997427,23.343363,335.2491)"><flowRegion
+       transform="matrix(1.0997427,0,0,1.0997427,9.343363,335.2491)"><flowRegion
          id="flowRegion9314"><rect
            id="rect9316"
-           width="372.35645"
-           height="155.75885"
+           width="388.72391"
+           height="162.12398"
            x="38.57143"
            y="359.80878"
            style="font-size:14.54885769px;text-align:justify;line-height:150%;text-anchor:start" /></flowRegion><flowPara
@@ -138,23 +138,23 @@
          id="flowPara10640">Software should make people feel safe and put them in control. GNOME was founded to promote software freedom. We remain committed to the empowerment of our users, and have launched a campaign to make GNOME 3 the most secure computing environment available.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9312-4"
-       style="font-size:14.15267753999999911px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#018094;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.1305281,0,0,1.1305281,22.236201,500.87835)"><flowRegion
+       style="font-size:14.15267754px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#018094;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.1305281,0,0,1.1305281,8.236201,500.87835)"><flowRegion
          id="flowRegion9314-5"><rect
            id="rect9316-3"
            width="375.1124"
            height="134.6982"
            x="38.57143"
            y="359.80878"
-           style="font-size:14.15267753999999911px;fill:#018094;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:14.15267753999999911px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477000000387%;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;fill:#018094;fill-opacity:1"
+           style="font-size:14.15267754px;fill:#018094;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:14.15267754px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477%;fill:#018094;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
          id="flowPara10646" /><flowPara
-         style="font-size:14.15267753999999911px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477000000387%;fill:#018094;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;fill-opacity:1"
+         style="font-size:14.15267754px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477%;fill:#018094;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
          id="flowPara10644">www.gnome.org/friends</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9312-4-1"
        style="font-size:16.34564209px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#018094;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.9577083,0,0,1.9577083,-12.285935,-34.260035)"><flowRegion
+       transform="matrix(1.9577083,0,0,1.9577083,-26.285935,-34.260035)"><flowRegion
          id="flowRegion9314-5-0"><rect
            id="rect9316-3-9"
            width="186.70486"
@@ -164,7 +164,7 @@
            style="font-size:16.34564209px;fill:#018094;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:16.34564209px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477%;fill:#018094;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
          id="flowPara10644-5">Putting you in control</flowPara></flowRoot>    <flowRoot
-       transform="matrix(1.1305281,0,0,1.1305281,21.852201,461.87835)"
+       transform="matrix(1.1305281,0,0,1.1305281,7.852201,461.87835)"
        style="font-size:14.15267754px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot3005"
        xml:space="preserve"><flowRegion
