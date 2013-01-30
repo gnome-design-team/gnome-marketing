@@ -13,7 +13,7 @@
    height="768px"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="friends-of-gnome-smplrrr.svg"
    inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrr.png"
    inkscape:export-xdpi="90"
@@ -42,18 +42,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="28.678778"
-     inkscape:cy="307.97016"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="577.49937"
+     inkscape:cy="357.12217"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1021"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,40 +104,16 @@
        id="rect4633-2-7"
        width="132"
        height="69.5"
-       x="403.5"
+       x="185.71111"
        y="-87"
        rx="6"
        ry="6"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <rect
-       style="color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect4633-2"
-       width="132"
-       height="91"
-       x="1069.6135"
-       y="343.64764"
-       rx="6"
-       ry="6"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect4633"
-       width="132"
-       height="120.875"
-       x="-149.3934"
-       y="295"
-       rx="6"
-       ry="6"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#babdb6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2,6;stroke-dashoffset:0"
-       d="m 467.43357,307.85579 0,-332.476508"
+       style="fill:none;stroke:#babdb6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0"
+       d="m 249.64468,307.85579 0,-332.476508"
        id="path4186-6"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
@@ -149,15 +125,15 @@
        width="20"
        height="20"
        x="71.86039"
-       y="440.63397"
+       y="422.63397"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:21.26966286px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="104.57725"
-       y="457.70566"
+       style="font-size:17.13646317px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="104.98289"
+       y="440.5654"
        id="text3765"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
@@ -165,112 +141,43 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3767"
-         x="104.57725"
-         y="457.70566">Don't list me as a donor, please</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 75,335.42641 358.5,0"
-       id="path3849"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3851"
-       sodipodi:cx="182.25677"
-       sodipodi:cy="337.90231"
-       sodipodi:rx="17.854446"
-       sodipodi:ry="17.854446"
-       d="m 200.11122,337.90231 a 17.854446,17.854446 0 1 1 -35.70889,0 17.854446,17.854446 0 1 1 35.70889,0 z"
-       transform="matrix(0.86813113,0,0,0.86813113,110.27722,43.582887)"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 257.03125,337.42641 c 0.26132,6.11973 5.2847,11 11.46875,11 6.18405,0 11.20743,-4.88027 11.46875,-11 l -22.9375,0 z"
-       id="path3851-0"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3874"
-       sodipodi:cx="176"
-       sodipodi:cy="327.875"
-       sodipodi:rx="1.8125"
-       sodipodi:ry="1.8125"
-       d="m 177.8125,327.875 a 1.8125,1.8125 0 1 1 -3.625,0 1.8125,1.8125 0 1 1 3.625,0 z"
-       transform="matrix(1.1034483,0,0,1.1034483,68.79309,-32.366713)"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3874-9"
-       sodipodi:cx="176"
-       sodipodi:cy="327.875"
-       sodipodi:rx="1.8125"
-       sodipodi:ry="1.8125"
-       d="m 177.8125,327.875 a 1.8125,1.8125 0 1 1 -3.625,0 1.8125,1.8125 0 1 1 3.625,0 z"
-       transform="matrix(1.1034483,0,0,1.1034483,79.7931,-32.366713)"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 96,331.23891 0,8.1875"
-       id="path3894"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 417,331.23891 0,8.1875"
-       id="path3894-8"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 245,331.23891 0,8.1875"
-       id="path3894-8-9"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+         x="104.98289"
+         y="440.5654">Don't list me as a donor, please</tspan></text>
     <rect
        style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3954"
        width="323.82697"
        height="140.49643"
        x="566.73657"
-       y="325.99847"
+       y="363.99847"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#2e3436;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3954-90"
+       width="323.82697"
+       height="33.723305"
+       x="566.73657"
+       y="326.52182"
+       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2993-0"
        width="20"
        height="20"
-       x="71.86039"
-       y="410.63397"
+       x="584.69922"
+       y="335.63397"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:21.26966286px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="104.57725"
-       y="427.70569"
+       style="font-size:12.87790489px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="610.89825"
+       y="350.20859"
        id="text3765-9"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
@@ -278,21 +185,21 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3767-9"
-         x="104.57725"
-         y="427.70569">Save money and don't send me a gift</tspan></text>
+         x="610.89825"
+         y="350.20859">Save money and don't send me a gift</tspan></text>
     <rect
        style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#2e3436;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2993-0-1"
        width="135"
        height="30"
        x="727.76453"
-       y="405.1604"
+       y="439.6604"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 835.76451,413.16037 10.5,16 10.5,-16 -21,0 z"
+       d="m 835.76451,447.66037 10.5,16 10.5,-16 -21,0 z"
        id="rect4000"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
@@ -302,7 +209,7 @@
        xml:space="preserve"
        style="font-size:10.36332798px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="731.97021"
-       y="423.45654"
+       y="457.95654"
        id="text4005"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
@@ -311,14 +218,14 @@
          sodipodi:role="line"
          id="tspan4007"
          x="731.97021"
-         y="423.45654">Select a t-shirt size</tspan></text>
+         y="457.95654">Select a t-shirt size</tspan></text>
     <rect
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4009"
        width="75"
        height="82.5"
        x="605.27209"
-       y="343.68729"
+       y="381.68729"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -328,13 +235,13 @@
        width="123.25"
        height="31.25"
        x="582.02209"
-       y="343.68729"
+       y="381.68729"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 665.27208,341.18729 c 0,12.42641 -10.07359,22.5 -22.5,22.5 -12.42641,0 -22.5,-10.07359 -22.5,-22.5 0,-12.42641 10.07359,-2.625 22.5,-2.625 12.42641,0 22.5,-9.80141 22.5,2.625 z"
+       d="m 665.27208,379.18729 c 0,12.42641 -10.07359,22.5 -22.5,22.5 -12.42641,0 -22.5,-10.07359 -22.5,-22.5 0,-12.42641 10.07359,-2.625 22.5,-2.625 12.42641,0 22.5,-9.80141 22.5,2.625 z"
        id="path4015"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss"
@@ -345,7 +252,7 @@
        xml:space="preserve"
        id="flowRoot4022"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.78496346,0,0,0.78496346,287.18424,129.13617)"
+       transform="matrix(0.78496346,0,0,0.78496346,287.18424,163.63617)"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -356,13 +263,13 @@
            x="563.5"
            y="272" /></flowRegion><flowPara
          id="flowPara4028"
-         style="font-size:13px">As a thank you for your generous support, we're going to send you a t-shirt</flowPara></flowRoot>    <rect
+         style="font-size:13px">As a thank you for your generous support, we'll send you a t-shirt</flowPara></flowRoot>    <rect
        style="color:#000000;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2993-0-1-5"
        width="313.14929"
        height="40.378506"
        x="70.446175"
-       y="511.17874"
+       y="514.00714"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -370,7 +277,7 @@
        xml:space="preserve"
        style="font-size:21.26966286px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
        x="99.065941"
-       y="538.56671"
+       y="541.39514"
        id="text3765-5"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
@@ -379,85 +286,47 @@
          sodipodi:role="line"
          id="tspan3767-49"
          x="99.065941"
-         y="538.56671">Make my donation now!</tspan></text>
+         y="541.39514">Make my donation now!</tspan></text>
+    <rect
+       style="fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect6128"
+       width="111.20975"
+       height="56.568542"
+       x="73.465919"
+       y="301.30951"
+       rx="6"
+       ry="6" />
     <text
        xml:space="preserve"
-       style="font-size:16.59064865px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="443.3479"
-       y="340.54568"
+       style="font-size:37.45029449px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="90.827805"
+       y="342.39413"
        id="text3765-0-1-7-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="443.3479"
-         y="340.54568"
-         id="tspan4090-0">$510</tspan></text>
-    <path
-       style="fill:none;stroke:#babdb6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,6;stroke-dashoffset:0"
-       d="m 48.25,335.92641 -73.5,0"
-       id="path4186"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+         x="90.827805"
+         y="342.39413"
+         id="tspan4090-0">510</tspan></text>
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot4192"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(91.547733,-5.9217919)"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion4194"><rect
-           id="rect4196"
-           width="101.11626"
-           height="72.124901"
-           x="-226.98128"
-           y="318.28009" /></flowRegion><flowPara
-         id="flowPara4198"
-         style="font-size:11px">as you drag the slider, the smiley becomes happer and happier</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4192-3"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(653.71534,-393.81074)"
+       transform="translate(435.92645,-390.98231)"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4194-1"><rect
            id="rect4196-8"
-           width="101.11626"
-           height="72.124901"
+           width="97.934273"
+           height="53.740131"
            x="-226.98128"
            y="318.28009"
            style="fill:#2e3436" /></flowRegion><flowPara
          id="flowPara4198-1"
-         style="font-size:11px;fill:#2e3436">at the top level this becomes a input field</flowPara></flowRoot>    <path
-       style="fill:none;stroke:#babdb6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,6;stroke-dashoffset:0"
-       d="m 1063.7781,377.82172 -143.73357,0"
-       id="path4200-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4192-3-4"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(1308.2277,36.428398)"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion4194-1-0"><rect
-           id="rect4196-8-1"
-           width="101.11626"
-           height="72.124901"
-           x="-226.98128"
-           y="318.28009" /></flowRegion><flowPara
-         id="flowPara4198-1-8"
-         style="font-size:11px">differs on the donation level, inactive if &quot;save money&quot; option is ticked</flowPara></flowRoot>    <flowRoot
+         style="font-size:11px;fill:#2e3436">Localized, EUR for Europe, USD for America</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4356"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -467,11 +336,11 @@
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4358"><rect
            id="rect4360"
-           width="580"
-           height="74"
+           width="843.0437"
+           height="89.556351"
            x="72"
            y="34" /></flowRegion><flowPara
-         id="flowPara4362">Become a Friend of GNOME</flowPara></flowRoot>    <rect
+         id="flowPara4362">Donate and Become a Friend of GNOME</flowPara></flowRoot>    <rect
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4364"
        width="639"
@@ -558,7 +427,7 @@
        xml:space="preserve"
        id="flowRoot4410"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.51527961,0,0,0.51527961,52.540291,62.916349)"
+       transform="matrix(0.51527961,0,0,0.51527961,52.540291,68.573203)"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -654,15 +523,15 @@
        width="20"
        height="20"
        x="71.86039"
-       y="376.63397"
+       y="389.63397"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:21.26966286px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="104.57725"
-       y="395.88589"
+       style="font-size:16.8496418px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="105.01105"
+       y="406.8053"
        id="text3765-9-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
@@ -670,152 +539,36 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3767-9-1"
-         x="104.57725"
-         y="395.88589">Make this donation every month</tspan></text>
+         x="105.01105"
+         y="406.8053">Make my impact bigger and make this monthly</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28.1013298px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="207.36066"
+       y="339.69809"
+       id="text3765-0-1-7-0-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="207.36066"
+         y="339.69809"
+         id="tspan4090-0-1">USD</tspan></text>
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#2e3436;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2993-0-1-4"
+       width="113.43324"
+       height="54.805511"
+       x="194.83665"
+       y="302.92651"
+       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
-       sodipodi:type="arc"
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3851-02"
-       sodipodi:cx="182.25677"
-       sodipodi:cy="337.90231"
-       sodipodi:rx="17.854446"
-       sodipodi:ry="17.854446"
-       d="m 200.11122,337.90231 a 17.854446,17.854446 0 1 1 -35.70889,0 17.854446,17.854446 0 1 1 35.70889,0 z"
-       transform="matrix(0.86813113,0,0,0.86813113,-282.72277,98.156489)"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:none;stroke:#eeeeec;stroke-width:1.99999988;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -134.99998,392.00001 c 0.23925,3.89436 4.8383,6.99999 10.49999,6.99999 5.66169,0 10.26074,-3.10563 10.49999,-6.99999"
-       id="path3851-0-4"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:nodetypes="csc" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3874-3"
-       sodipodi:cx="176"
-       sodipodi:cy="327.875"
-       sodipodi:rx="1.8125"
-       sodipodi:ry="1.8125"
-       d="m 177.8125,327.875 a 1.8125,1.8125 0 1 1 -3.625,0 1.8125,1.8125 0 1 1 3.625,0 z"
-       transform="matrix(1.1034483,0,0,1.1034483,-324.2069,22.206889)"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3874-9-9"
-       sodipodi:cx="176"
-       sodipodi:cy="327.875"
-       sodipodi:rx="1.8125"
-       sodipodi:ry="1.8125"
-       d="m 177.8125,327.875 a 1.8125,1.8125 0 1 1 -3.625,0 1.8125,1.8125 0 1 1 3.625,0 z"
-       transform="matrix(1.1034483,0,0,1.1034483,-313.20689,22.206889)"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3851-02-0"
-       sodipodi:cx="182.25677"
-       sodipodi:cy="337.90231"
-       sodipodi:rx="17.854446"
-       sodipodi:ry="17.854446"
-       d="m 200.11122,337.90231 a 17.854446,17.854446 0 1 1 -35.70889,0 17.854446,17.854446 0 1 1 35.70889,0 z"
-       transform="matrix(0.86813113,0,0,0.86813113,-242.72277,98.156494)"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3874-3-9"
-       sodipodi:cx="176"
-       sodipodi:cy="327.875"
-       sodipodi:rx="1.8125"
-       sodipodi:ry="1.8125"
-       d="m 177.8125,327.875 a 1.8125,1.8125 0 1 1 -3.625,0 1.8125,1.8125 0 1 1 3.625,0 z"
-       transform="matrix(1.1034483,0,0,1.1034483,-284.2069,22.206894)"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3874-9-9-6"
-       sodipodi:cx="176"
-       sodipodi:cy="327.875"
-       sodipodi:rx="1.8125"
-       sodipodi:ry="1.8125"
-       d="m 177.8125,327.875 a 1.8125,1.8125 0 1 1 -3.625,0 1.8125,1.8125 0 1 1 3.625,0 z"
-       transform="matrix(1.1034483,0,0,1.1034483,-273.20689,22.206894)"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path3851-02-0-2"
-       sodipodi:cx="182.25677"
-       sodipodi:cy="337.90231"
-       sodipodi:rx="17.854446"
-       sodipodi:ry="17.854446"
-       d="m 200.11122,337.90231 a 17.854446,17.854446 0 1 1 -35.70889,0 17.854446,17.854446 0 1 1 35.70889,0 z"
-       transform="matrix(0.86813113,0,0,0.86813113,-202.72277,98.156494)"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -95.968739,392.00002 c 0.26132,3.89436 5.2847,6.99998 11.46875,6.99998 6.18405,0 11.20743,-3.10562 11.46875,-6.99998 l -22.9375,0 z"
-       id="path3851-0-4-4-4-1"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -55.968739,392.00002 c 0.26132,6.67605 5.2847,11.99998 11.46875,11.99998 6.18405,0 11.20743,-5.32393 11.46875,-11.99998 l -22.9375,0 z"
-       id="path3851-0-4-4-4-1-6"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#eeeeec;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -41,381.96875 4.023437,4.02344"
-       id="path4061"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#eeeeec;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M -36.976563,381.96875 -41,385.99219"
-       id="path4061-1-7"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#eeeeec;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -51,381.96875 4.023437,4.02344"
-       id="path4061-9"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#eeeeec;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M -46.976563,381.96875 -51,385.99219"
-       id="path4061-1-7-6"
+       d="m 273.35024,319.40335 13.57984,20.93289 13.57985,-20.93289 -27.15969,0 z"
+       id="rect4000-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
