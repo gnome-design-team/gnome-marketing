@@ -42,9 +42,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="577.49937"
-     inkscape:cy="357.12217"
+     inkscape:zoom="1"
+     inkscape:cx="330.22225"
+     inkscape:cy="309.06073"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -272,7 +272,9 @@
        y="514.00714"
        inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrrr.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       rx="9"
+       ry="9" />
     <text
        xml:space="preserve"
        style="font-size:21.26966286px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
