@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="542.21222"
-     inkscape:cy="615.95212"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="569.33643"
+     inkscape:cy="452.78829"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,6 +50,10 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="661.85195,247.48737"
+       id="guide26087" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -59,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -136,7 +140,7 @@
        xml:space="preserve"
        id="flowRoot6087-3"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.76168793,0,0,0.76168793,351.4003,366.96486)"><flowRegion
+       transform="matrix(0.78672603,0,0,0.78672603,360.24179,350.37071)"><flowRegion
          id="flowRegion6089-3"><rect
            id="rect6091-5"
            width="1043.5453"
@@ -145,7 +149,7 @@
            y="652.36218"
            style="fill:#555753" /></flowRegion><flowPara
          id="flowPara6097-5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Light">This have been a public service announcement</flowPara></flowRoot>    <rect
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Light">This has been a public service announcement</flowPara></flowRoot>    <rect
        style="fill:#ffffff"
        y="316.18393"
        x="941.07898"
