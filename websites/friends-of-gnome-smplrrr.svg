@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="friends-of-gnome-smplrrr.svg"
-   inkscape:export-filename="/home/andreasn/Gnome/friends-of-gnome-smplrrr.png"
+   inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/websites/friends-of-gnome-smplrrr.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -42,19 +42,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
+     inkscape:zoom="0.71290274"
      inkscape:cx="437.06584"
-     inkscape:cy="463.22726"
+     inkscape:cy="379.9166"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-width="960"
+     inkscape:window-height="1011"
+     inkscape:window-x="760"
+     inkscape:window-y="107"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid3763" />
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
