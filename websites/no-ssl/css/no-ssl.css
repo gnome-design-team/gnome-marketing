@@ -1,0 +1,21 @@
+.footer-art {
+  height: 180px;
+  background: url('../images/footer-friends.png') no-repeat bottom center;
+}
+
+.footer-grass {
+  height: 39px;
+  background-image: url('../images/grass.png');
+  margin-top: -39px;
+}
+
+.footer {
+  background: #d3d7cf;
+  height: 100px;
+}
+
+.footer .grid_24 {
+  text-align: center;
+  margin-top: 30px;
+  color: #676c72;
+}
