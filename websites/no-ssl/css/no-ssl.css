@@ -37,7 +37,7 @@ body > #wrapper { height: auto; min-height: 100%; }
 /* must be same height as the footer */
 #content { overflow: auto; padding-bottom: 150px; } 
 
-#footer {
+.footer {
     position: relative;
     margin-top: -150px; /* negative value of footer height */
     height: 150px;
