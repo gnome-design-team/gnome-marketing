@@ -25,12 +25,6 @@ body {
   color: #676c72;
 }
 
-html, body {height: 100%;}
-
-.wrap {min-height: 100%;}
-
-.main {overflow:auto;
-	padding-bottom: 150px;}  /* must be same height as the footer */
 
 .footer {position: relative;
 	margin-top: -150px; /* negative value of footer height */
