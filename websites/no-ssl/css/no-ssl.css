@@ -27,6 +27,7 @@ body {
 
 html, body {height: 100%;}
 
+.wrap {min-height: 100%;}
 
 .main {overflow:auto;
 	padding-bottom: 150px;}  /* must be same height as the footer */
