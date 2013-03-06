@@ -1,0 +1,156 @@
+  @font-face {
+    font-family: 'ChunkFiveRegular';
+    src: url('Chunkfive-webfont.eot');
+    src: url('Chunkfive-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Chunkfive-webfont.woff') format('woff'),
+         url('Chunkfive-webfont.ttf') format('truetype'),
+         url('Chunkfive-webfont.svg#ChunkFiveRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+  font-family: "Verdana", sans-serif;
+  background: url("../images/waterbrush-body-bg.jpg") repeat-x;
+}
+
+h1 {
+  font-size: 42px;
+  color: #0489B7;
+  font-family: 'Droid Serif','DejaVu Serif',Cambria,Georgia,serif;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: ChunkFiveRegular;
+  color: #3465a4;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  padding: 0px;
+  margin: 0px;
+}
+
+ul {
+  list-style-image: url(../images/bullet.png);
+}
+
+.active-text {
+  font-size: 12px;
+  padding: 1em;
+  visibility: hidden;
+  text-align: center;
+  height: 65%;
+}
+
+/* relative position, bottom, left */
+.level-text {
+    position: relative;
+    /* really ugly, why does this work? */
+    text-align: center;
+    height: 35%;
+}
+
+.greyed {
+    background-color: #d3d7cf !important;
+    color: #babdb6;
+}
+
+
+
+/* allow room for 3 columns */
+#below ul {
+    width: 700px;
+}
+
+
+/* float & allow room for the widest item */
+#below ul li {
+    float: left;
+    width: 200px;
+    list-style: none;
+}
+
+/* stop the float */
+#below br {
+    clear: left;
+}
+
+/* Get rid of some 960 spacing */
+#below li {
+  margin-left: 0px;
+}
+
+/* separate the list from subsequent markup */
+div.wrapper {
+    margin-bottom: 1em;
+}
+
+#foundation-info {
+
+  padding: 10px;
+  width: 650px;
+}
+
+small {
+  font-size: 12px;
+  color: gray;
+}
+
+.footer-art {
+  height: 180px;
+  background: url('../images/footer-friends.png') no-repeat bottom center;
+}
+
+.footer-grass {
+  height: 39px;
+  background-image: url('../images/grass.png');
+  margin-top: -39px;
+}
+
+.footer {
+  background: #d3d7cf;
+  height: 100px;
+}
+
+.footer .grid_24 {
+  text-align: center;
+  margin-top: 30px;
+  color: #676c72;
+}
+
+.bubble {
+  border: 1px solid gray;
+  border-radius: 4px;
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+.bubble-tip {
+  background: url(../images/bubble-tip.png) no-repeat;
+  width: 16px;
+  height: 31px;
+  float: left;
+  position: absolute;
+  margin-left: -26px;
+  margin-top: 50px;
+}
+
+.logo {
+  background: url(../images/logo.png) no-repeat center center;
+  width: 431px;
+  height: 68px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.photogrid {
+  background: gray;
+  height: 200px;
+  margin-bottom: 10px;
+}
