@@ -1,3 +1,8 @@
+body {
+  font-family: "Verdana", sans-serif;
+  background: url("../images/waterbrush-body-bg.jpg") repeat-x;
+}
+
 .footer-art {
   height: 180px;
   background: url('../images/footer-friends.png') no-repeat bottom center;
