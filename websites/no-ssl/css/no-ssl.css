@@ -24,24 +24,31 @@ body {
   margin-top: 30px;
   color: #676c72;
 }
+/*  
+Sticky Footer Solution
+by Steve Hatcher
+http://stever.ca http://www.cssstickyfooter.com
+*/
 
-html, body {height: 100%;}
+html, body, #wrapper {height: 100%;}
 
-.wrap {min-height: 100%;}
+body > #wrapper { height: auto; min-height: 100%; }
 
-.main {overflow:auto;
-	padding-bottom: 150px;}  /* must be same height as the footer */
+/* must be same height as the footer */
+#content { overflow: auto; padding-bottom: 150px; } 
 
-.footer {position: relative;
-	margin-top: -150px; /* negative value of footer height */
-	height: 150px;
-	clear:both;} 
+#footer {
+    position: relative;
+    margin-top: -150px; /* negative value of footer height */
+    height: 150px;
+    clear: both;
+} 
 
 /*Opera Fix*/
-body:before {
-	content:"";
-	height:100%;
-	float:left;
-	width:0;
-	margin-top:-32767px;/
+body:before { /* thanks to Maleika (Kohoutec)*/
+    content: "";
+    height:100%;
+    float: left;
+    width: 0;
+    margin-top: -32767px; /* thank you Erik J */
 }
