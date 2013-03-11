@@ -14,7 +14,7 @@
    id="svg9264"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="flyer-love.svg"
+   sodipodi:docname="gnome-love-flyer.svg"
    inkscape:export-filename="/home/fabiana/Dropbox/Projects/GNOME/love flyer/flyer-heart-v2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -28,18 +28,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="57.489375"
-     inkscape:cy="190.30788"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="279.91103"
+     inkscape:cy="303.24779"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
      showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="772"
+     inkscape:window-width="1600"
+     inkscape:window-height="841"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,17 +73,17 @@
     <path
        inkscape:connector-curvature="0"
        id="path4532"
-       d="m -1.0453006,308.51033 525.6834206,0 0,276.01122 -525.6834206,0 z"
+       d="m -605.28794,308.51033 525.683419,0 0,276.01122 -525.683419,0 z"
        style="fill:#c71807;fill-opacity:1;stroke:none" />
     <path
        style="fill:#c71807;fill-opacity:1;stroke:none"
-       d="m 605.40967,315.33876 524.26923,0 0,276.01122 -524.26923,0 z"
+       d="m 0.10636913,308.33876 524.32989087,0 0,282.97997 -524.32989087,0 z"
        id="rect9346"
        inkscape:connector-curvature="0" />
     <g
        id="g3235">
       <flowRoot
-         transform="matrix(1.0997427,0,0,1.0997427,3.2368634,290.12778)"
+         transform="matrix(1.0997427,0,0,1.0997427,3.2368634,280.12778)"
          style="font-size:14.54885769px;font-style:normal;font-weight:normal;text-align:justify;line-height:150%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          id="flowRoot9312"
          xml:space="preserve"><flowRegion
@@ -91,19 +91,19 @@
              style="font-size:14.54885769px;text-align:justify;line-height:150%;text-anchor:start"
              y="359.80878"
              x="38.57143"
-             height="356.30237"
-             width="396.43961"
+             height="282.36026"
+             width="397.08258"
              id="rect9316" /></flowRegion><flowPara
            style="font-size:14.54885769px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-           id="flowPara3264">It is the work of thousands of contributors that makes GNOME a reality. Anyone can contribute and there is a lot of different things to do. You don't need to be a programmer, a technologist or fit any particular category to help.</flowPara><flowPara
+           id="flowPara6170">Thousands of diverse contributors make GNOME a reality. Anyone can contribute and there are a lot of different things to do. You can use and improve your skills in coding, design or writing, and will meet many friends of all ages and walks of life in the process.</flowPara><flowPara
+           style="font-size:14.54885769px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;letter-spacing:0.17788678px;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           id="flowPara6186"></flowPara><flowPara
+           style="font-size:14.54885769px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;letter-spacing:0.17788678px;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           id="flowPara6196">We are happy to provide full guidance to anyone who wants to become a part of the GNOME community. Our GNOME Love initiative provides a series of easy-to-follow resources, and introduces you to over 40 mentors available to help you get started at any time.</flowPara><flowPara
            style="font-size:14.54885769px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-           id="flowPara3288" /><flowPara
+           id="flowPara6176" /><flowPara
            style="font-size:14.54885769px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-           id="flowPara3284">We are happy to provide full guidance to anyone who wants to become a part of GNOME. Our GNOME Love initiative provides a series of easy-to-follow resources, and introduces you to over 40 mentors available to help you get started at any time.</flowPara><flowPara
-           style="font-size:14.54885769px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-           id="flowPara3290" /><flowPara
-           style="font-size:14.54885769px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-           id="flowPara3286">Join us. Get involved! What do you want to do?</flowPara></flowRoot>      <flowRoot
+           id="flowPara6188">Join us. Get involved! What do you want to do?</flowPara></flowRoot>      <flowRoot
          transform="matrix(1.1305281,0,0,1.1305281,1.2684514,556.89412)"
          style="font-size:14.15267754px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;font-family:Sans"
          id="flowRoot9312-4"
@@ -136,7 +136,7 @@
            style="font-size:16.34564209px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:170.00000477%;fill:#c71807;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell">Get involved today</flowPara></flowRoot>    </g>
     <g
        id="g4420"
-       transform="matrix(0.92053401,0,0,0.91805755,26.164879,11.628673)">
+       transform="matrix(0.92053401,0,0,0.91805755,-578.07776,11.628673)">
       <path
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          d="m 254.32444,385.04555 c 54.38642,-54.36374 129.1261,-4.25645 128.63446,47.30071 -0.44942,47.1322 -36.38585,69.70439 -126.66795,153.53847 -94.49811,-77.98969 -127.79321,-95.9744 -127.3016,-151.89518 0.49163,-57.88649 64.4751,-101.33056 125.33509,-48.944 z"
@@ -183,7 +183,7 @@
     </g>
     <g
        id="g4181"
-       transform="translate(612.52144,1.3903099)">
+       transform="translate(8.2787993,1.3903099)">
       <g
          transform="translate(0,5.6968781)"
          id="g4176">
