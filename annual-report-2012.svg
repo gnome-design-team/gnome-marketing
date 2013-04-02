@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2856.1364"
-     inkscape:cy="-672.07087"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="5245.1135"
+     inkscape:cy="491.96106"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -477,7 +477,7 @@
        xml:space="preserve"
        id="flowRoot6049-2-3-9-1-2-1-9-7-5"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(4104.9605,-3.651244)"
+       transform="translate(4104.9605,117.56706)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2012.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -511,7 +511,7 @@
        xml:space="preserve"
        id="flowRoot6049-24-6-1-0-4-2-7"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(4107.7031,24.291956)"
+       transform="translate(4107.7031,145.51026)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2012.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -536,7 +536,7 @@
        xml:space="preserve"
        id="flowRoot6049-24-6-1-0-9"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(4104.8461,342.86338)"
+       transform="translate(4104.8461,464.08168)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2012.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -555,7 +555,7 @@
        xml:space="preserve"
        id="flowRoot6049-2-3-9-1-2-1-9-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(4102.1034,314.92017)"
+       transform="translate(4102.1034,436.13847)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2012.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -570,7 +570,7 @@
        xml:space="preserve"
        id="flowRoot6049-2-3-9-1-2-1-9-7-55"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(4102.1034,624.92018)"
+       transform="translate(4102.1034,746.13848)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2012.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -585,7 +585,7 @@
        xml:space="preserve"
        id="flowRoot6049-24-6-1-0-4-28"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(4104.8461,652.86339)"
+       transform="translate(4104.8461,774.08169)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2012.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1448,5 +1448,17 @@
          id="tspan9328-9-6"
          x="2758.6257"
          y="2936.0566">back</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10533"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.69550517,0,0,0.69550517,1226.0532,33.313398)"><flowRegion
+         id="flowRegion10535"><rect
+           id="rect10537"
+           width="937.42145"
+           height="337.39096"
+           x="6618.5195"
+           y="86.656357"
+           style="fill:#888a85" /></flowRegion><flowPara
+         id="flowPara10539">GUADEC featured 22 lightning talks from newcomers about their GSoC and OPW work</flowPara></flowRoot>  </g>
 </svg>
