@@ -5536,26 +5536,26 @@
             <tab/>
             <tab/>
             <tab/>
-            <para ALIGN="4"/>
-            <para/>
+            <para PARENT="regular body text"/>
+            <para PARENT="regular body text"/>
             <ITEXT CH="http://www.gnome.org/wp-content/uploads/2012/09/gnome-3-6.png"/>
-            <para/>
-            <para/>
+            <para PARENT="regular body text"/>
+            <para PARENT="regular body text"/>
             <ITEXT CH="New features and enhancements to the interface included a new applications button and improved layout in the Activities Overview, a new login and lock screen, a redesigned Message Tray, smarter Notifications, improved System Settings and much more."/>
             <tab/>
             <tab/>
             <tab/>
             <tab/>
-            <para ALIGN="4"/>
-            <para ALIGN="4"/>
+            <para PARENT="regular body text"/>
+            <para PARENT="regular body text"/>
             <ITEXT CH="Accessibility became an always on feature in GNOME 3.6, enabling universal access to assistive technologies and settings such as brightness, contrast, inversion and greyscale, improved web navigation, and the Orca screen reader. Braille support was also improved in Orca."/>
             <tab/>
             <tab/>
-            <para ALIGN="4"/>
-            <para ALIGN="4"/>
+            <para PARENT="regular body text"/>
+            <para PARENT="regular body text"/>
             <ITEXT CH="Two new applications were included in the release. Boxes allows access and management of remote systems and virtual machines, and a preview of the new Clocks application was showcased."/>
-            <para ALIGN="4"/>
-            <para ALIGN="4"/>
+            <para PARENT="regular body text"/>
+            <para PARENT="regular body text"/>
             <ITEXT CH="Many other smaller enhancements rounded out the release to help make GNOME 3.6 the best one yet.    "/>
             <tab/>
             <tab/>
@@ -5570,8 +5570,8 @@
             <tab/>
             <tab/>
             <tab/>
-            <para ALIGN="4"/>
-            <para ALIGN="4"/>
+            <para PARENT="regular body text"/>
+            <para PARENT="regular body text"/>
             <ITEXT CH="Looking ahead to the future, GNOME will continue to deliver an effective and efficient workflow while keeping an eye on security. Planned features, refinements and usability enhancements will provide an even better user experience going forward. "/>
             <tab/>
             <tab/>
@@ -5579,7 +5579,7 @@
             <tab/>
             <tab/>
             <tab/>
-            <trail ALIGN="4"/>
+            <trail PARENT="regular body text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="627.853246657926" YPOS="2684.14" WIDTH="30.9865935462903" HEIGHT="20.2227807091664" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.982104720699627" PCOLOR="White" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME=" path3775" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="8" POCOOR="16.8216 0 2.65706 0 7.96829 20.2228 0 20.2228 7.96829 20.2228 15.9355 20.2228 16.8216 0 30.9866 0 " NUMCO="8" COCOOR="16.8216 0 2.65706 0 7.96829 20.2228 0 20.2228 7.96829 20.2228 15.9355 20.2228 16.8216 0 30.9866 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="0" doOverprint="0" gXpos="89.8936767242972" gYpos="0" gWidth="167.239840204217" gHeight="170" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
