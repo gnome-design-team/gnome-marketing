@@ -2599,7 +2599,7 @@
             <ITEXT CH="Better hardware support, topic-oriented documentation, better accessibility and many other improvments made for a very solid release."/>
             <para PARENT="regular body text"/>
             <para PARENT="regular body text"/>
-            <ITEXT CH="GNOME 3.6 focused on improving the experience that was developed in 3.4, refining the overall user interface and adding polish. Andreas Nilsson, President of the GNOME Foundation, described GNOME 3.6 as &quot;an important milestone in our mission to bring a free and open computing environment to everyone.&quot;"/>
+            <ITEXT KERN="-1" CH="GNOME 3.6 focused on improving the experience that was developed in 3.4, refining the overall user interface and adding polish. Andreas Nilsson, President of the GNOME Foundation, described GNOME 3.6 as &quot;an important milestone in our mission to bring a free and open computing environment to everyone.&quot;"/>
             <para PARENT="regular body text"/>
             <ITEXT CH="New features and enhancements to the interface included a new applications button and improved layout in the Activities Overview, a new login and lock screen, a redesigned Message Tray, smarter Notifications, improved System Settings and much more."/>
             <para PARENT="regular body text"/>
@@ -2609,7 +2609,7 @@
             <para PARENT="regular body text"/>
             <ITEXT CH="Many other smaller enhancements rounded out the release to help make GNOME 3.6 the best one yet."/>
             <para PARENT="regular body text"/>
-            <ITEXT CH="Looking ahead to the future, GNOME will continue to deliver an effective and efficient workflow while keeping an eye on security. Planned features, refinements and usability enhancements will provide an even better user experience going forward. "/>
+            <ITEXT CH="Looking ahead to the future, GNOME will continue to deliver an effective and efficient workflow while keeping an eye on security. Planned features, refinements and usability enhancements will provide an even better user experience going forward."/>
             <trail PARENT="regular body text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
