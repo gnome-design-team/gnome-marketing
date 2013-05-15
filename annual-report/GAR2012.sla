@@ -57,7 +57,7 @@
         <STYLE NAME="timeline body" LINESP="12" FONTSIZE="9" LANGUAGE="Spanish"/>
         <STYLE NAME="timeline header" LINESP="12" FONT="Source Sans Pro Bold" FONTSIZE="9" LANGUAGE="Spanish"/>
         <STYLE NAME="regular body text" LANGUAGE="Spanish"/>
-        <STYLE NAME="quote" FONT="Source Sans Pro Bold" FONTSIZE="14" LANGUAGE="Spanish"/>
+        <STYLE NAME="quote" FONT="Source Sans Pro Bold" FONTSIZE="14" FSHADE="50" LANGUAGE="Spanish"/>
         <STYLE NAME="Page title" FONT="Source Sans Pro Bold" FONTSIZE="15" FCOLOR="White" LANGUAGE="Spanish"/>
         <CHARSTYLE CNAME="Default Character Style" FONT="Source Sans Pro Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Spanish"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Fondo" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
