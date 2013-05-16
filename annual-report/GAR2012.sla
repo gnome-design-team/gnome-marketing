@@ -11,32 +11,105 @@
         <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
         <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
         <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#0000004d" CMYK="#0000004d" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#001aff00" CMYK="#001aff00" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#00ffad00" CMYK="#00ffad00" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#204a87" RGB="#204a87" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#333333" RGB="#333333" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#6d9acb" RGB="#6d9acb" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#cc0000" RGB="#cc0000" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#f000ff00" CMYK="#f000ff00" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#ff8c0000" CMYK="#ff8c0000" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#ffffff" RGB="#ffffff" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#000000" RGB="#000000" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#005daa" RGB="#005daa" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#0066ab" RGB="#0066ab" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#008080" RGB="#008080" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#00ac08" RGB="#00ac08" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#033cd2" RGB="#033cd2" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#0a0a0d" RGB="#0a0a0d" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#1d8a43" RGB="#1d8a43" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#1f1917" RGB="#1f1917" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#1f70c1" RGB="#1f70c1" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#204a87" RGB="#204a87" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#212de8" RGB="#212de8" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#233164" RGB="#233164" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#283c4c" RGB="#283c4c" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#2c4df0" RGB="#2c4df0" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#2c57d2" RGB="#2c57d2" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#333333" RGB="#333333" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#333ef2" RGB="#333ef2" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#3465a4" RGB="#3465a4" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#3541d0" RGB="#3541d0" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#3a393a" RGB="#3a393a" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#3b52b8" RGB="#3b52b8" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#3bb449" RGB="#3bb449" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#3f53a3" RGB="#3f53a3" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#4552d6" RGB="#4552d6" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#4566ff" RGB="#4566ff" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#46b2d4" RGB="#46b2d4" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#495bff" RGB="#495bff" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#4a80ba" RGB="#4a80ba" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#4e4f4f" RGB="#4e4f4f" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#500000" RGB="#500000" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#5258f8" RGB="#5258f8" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#547cfc" RGB="#547cfc" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#5682ec" RGB="#5682ec" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#5876fd" RGB="#5876fd" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#58a2f8" RGB="#58a2f8" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#5c9efb" RGB="#5c9efb" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#5e97f7" RGB="#5e97f7" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#5ea8fe" RGB="#5ea8fe" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#5ecaf0" RGB="#5ecaf0" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#636cff" RGB="#636cff" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#64a5ff" RGB="#64a5ff" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#6699ff" RGB="#6699ff" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#69bc45" RGB="#69bc45" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#6d5b51" RGB="#6d5b51" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#729fcf" RGB="#729fcf" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#73ba25" RGB="#73ba25" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#73d216" RGB="#73d216" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#75507b" RGB="#75507b" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#772953" RGB="#772953" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#77b700" RGB="#77b700" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#78e600" RGB="#78e600" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#7dbbc5" RGB="#7dbbc5" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#808080" RGB="#808080" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#888a85" RGB="#888a85" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#967e72" RGB="#967e72" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#969696" RGB="#969696" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#b11107" RGB="#b11107" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#babdb6" RGB="#babdb6" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#bbd4df" RGB="#bbd4df" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#c32026" RGB="#c32026" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#c7f19e" RGB="#c7f19e" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#c82027" RGB="#c82027" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#cfcfcf" RGB="#cfcfcf" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#d2e9f2" RGB="#d2e9f2" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#d3d7cf" RGB="#d3d7cf" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#d45500" RGB="#d45500" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#d70751" RGB="#d70751" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#d91f26" RGB="#d91f26" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#dcdcdc" RGB="#dcdcdc" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#e7e7e8" RGB="#e7e7e8" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#ea1b22" RGB="#ea1b22" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#ec1b35" RGB="#ec1b35" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#ee4240" RGB="#ee4240" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#ef2929" RGB="#ef2929" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#eff7f4" RGB="#eff7f4" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#f27259" RGB="#f27259" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#f37f5a" RGB="#f37f5a" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#ff1a00" RGB="#ff1a00" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#ff6600" RGB="#ff6600" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#ff7f2a" RGB="#ff7f2a" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#ff8815" RGB="#ff8815" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#ffb873" RGB="#ffb873" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#fff500" RGB="#fff500" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#fff73b" RGB="#fff73b" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#fffab0" RGB="#fffab0" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#ffffff" RGB="#ffffff" Spot="0" Register="0"/>
         <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Intel Blue 4c" CMYK="#ff660000" Spot="1" Register="0"/>
         <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
         <COLOR NAME="Ninguno" RGB="#966432" Spot="0" Register="0"/>
         <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
@@ -47,6 +120,7 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <COLOR NAME="dd" RGB="#d4d7d0" Spot="0" Register="0"/>
+        <COLOR NAME="pms super black" RGB="#000000" Spot="0" Register="0"/>
         <COLOR NAME="tango red" RGB="#ef2929" Spot="0" Register="0"/>
         <COLOR NAME="tango2" RGB="#4e9a06" Spot="0" Register="0"/>
         <COLOR NAME="tango3" RGB="#4374b7" Spot="0" Register="0"/>
@@ -61,7 +135,14 @@
         <STYLE NAME="quote" FONT="Source Sans Pro Bold" FONTSIZE="14" FSHADE="50" LANGUAGE="Spanish"/>
         <STYLE NAME="Page title" FONT="Source Sans Pro Bold" FONTSIZE="15" FCOLOR="White" LANGUAGE="Spanish"/>
         <STYLE NAME="subheader" FONT="Source Sans Pro Bold" LANGUAGE="Spanish"/>
+        <STYLE NAME="GNOME Bread" LINESPMode="0" LINESP="13" VOR="0" NACH="10" FONT="Liberation Sans Regular" FONTSIZE="10" LANGUAGE="English"/>
+        <STYLE NAME="GNOME Header 1" LINESP="28" FONT="Cantarell Bold" FONTSIZE="28" FCOLOR="Cyan" LANGUAGE="English"/>
+        <STYLE NAME="GNOME Header 2" LINESP="20" VOR="0" NACH="0" OpticalMargins="0" FONT="Cantarell Bold" FONTSIZE="20" FCOLOR="Cyan" BASEO="-20" LANGUAGE="English"/>
+        <STYLE NAME="GNOME Header 3" FONT="Cantarell Bold" FONTSIZE="14" LANGUAGE="English"/>
+        <STYLE NAME="GNOME Header 4" FONT="Cantarell Bold" FONTSIZE="10" LANGUAGE="English"/>
+        <STYLE NAME="GNOME Quote" FONT="DejaVu Serif Italic" FSHADE="80" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Default Character Style" FONT="Source Sans Pro Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Spanish"/>
+        <CHARSTYLE CNAME="Copy of Default Character Style (1)" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Fondo" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="3" PDLanguage="3" markOffset="9.30439760045882e-315" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
@@ -3321,11 +3402,6 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="735.28" YPOS="1012.77" WIDTH="512.0625" HEIGHT="144" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 512.062 0 512.062 0 512.062 0 512.062 0 512.062 144 512.062 144 512.062 144 512.062 144 0 144 0 144 0 144 0 144 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 512.062 0 512.062 0 512.062 0 512.062 0 512.062 144 512.062 144 512.062 144 512.062 144 0 144 0 144 0 144 0 144 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="needs photo"/>
-            <trail ALIGN="1"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="733.28" YPOS="1262.77" WIDTH="512.0625" HEIGHT="144" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 512.062 0 512.062 0 512.062 0 512.062 0 512.062 144 512.062 144 512.062 144 512.062 144 0 144 0 144 0 144 0 144 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 512.062 0 512.062 0 512.062 0 512.062 0 512.062 144 512.062 144 512.062 144 512.062 144 0 144 0 144 0 144 0 144 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="needs text"/>
             <trail ALIGN="1"/>
@@ -3512,6 +3588,23 @@
         <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="140" YPOS="4540.33" WIDTH="512.0625" HEIGHT="144" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 512.062 0 512.062 0 512.062 0 512.062 0 512.062 144 512.062 144 512.062 144 512.062 144 0 144 0 144 0 144 0 144 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 512.062 0 512.062 0 512.062 0 512.062 0 512.062 144 512.062 144 512.062 144 512.062 144 0 144 0 144 0 144 0 144 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="needs photo"/>
             <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="5" XPOS="740.25377953" YPOS="1646.4264567" WIDTH="203.4491644" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="7" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="738.33448819" YPOS="1652.4264567" WIDTH="264.75" HEIGHT="27.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 264.75 0 264.75 0 264.75 0 264.75 0 264.75 27.75 264.75 27.75 264.75 27.75 264.75 27.75 0 27.75 0 27.75 0 27.75 0 27.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 264.75 0 264.75 0 264.75 0 264.75 0 264.75 27.75 264.75 27.75 264.75 27.75 264.75 27.75 0 27.75 0 27.75 0 27.75 0 27.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Quote" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="9" CH="Karen Sandler, GNOME Executive Director"/>
+            <trail PARENT="GNOME Quote"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="1130.7959055" YPOS="1475.0326772" WIDTH="114.4053543" HEIGHT="164.4" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.48" LOCALSCY="0.48" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Gnome/annual-report/photos/karen-sandler.jpg" PFILE2="" PFILE3="" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 114.405 0 114.405 0 114.405 0 114.405 0 114.405 164.4 114.405 164.4 114.405 164.4 114.405 164.4 0 164.4 0 164.4 0 164.4 0 164.4 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 114.405 0 114.405 0 114.405 0 114.405 0 114.405 164.4 114.405 164.4 114.405 164.4 114.405 164.4 0 164.4 0 164.4 0 164.4 0 164.4 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="736.59590551" YPOS="1610.5514173" WIDTH="220.2" HEIGHT="36.61984252" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.72" LOCALSCY="0.72" LOCALX="0" LOCALY="-2.846456693" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Gnome/annual-report/photos/sig.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 220.2 0 220.2 0 220.2 0 220.2 0 220.2 36.6198 220.2 36.6198 220.2 36.6198 220.2 36.6198 0 36.6198 0 36.6198 0 36.6198 0 36.6198 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 220.2 0 220.2 0 220.2 0 220.2 0 220.2 36.6198 220.2 36.6198 220.2 36.6198 220.2 36.6198 0 36.6198 0 36.6198 0 36.6198 0 36.6198 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
