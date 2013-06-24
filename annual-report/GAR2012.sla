@@ -1515,7 +1515,7 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="140.28" YPOS="1896.5" WIDTH="515" HEIGHT="55.1100000000006" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 55.11 515 55.11 515 55.11 515 55.11 0 55.11 0 55.11 0 55.11 0 55.11 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 55.11 515 55.11 515 55.11 515 55.11 0 55.11 0 55.11 0 55.11 0 55.11 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="The GNOME Foundation had another very successful year of outreach programs in 2012. The GNOME Outreach Program for Women grew to 12 interns, sponsored by the GNOME Foundation, Google, Mozilla, in the third round, 11 of whom successfully completed the internship."/>
-            <trail PARENT="regular body text"/>
+            <trail PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="140" YPOS="2765.5" WIDTH="515" HEIGHT="331.360000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 331.36 515 331.36 515 331.36 515 331.36 0 331.36 0 331.36 0 331.36 0 331.36 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 331.36 515 331.36 515 331.36 515 331.36 0 331.36 0 331.36 0 331.36 0 331.36 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="302" BACKITEM="-1">
@@ -2389,9 +2389,9 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="733.78" YPOS="1895.91" WIDTH="514.5" HEIGHT="64.5900000000006" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514.5 0 514.5 0 514.5 0 514.5 0 514.5 64.59 514.5 64.59 514.5 64.59 514.5 64.59 0 64.59 0 64.59 0 64.59 0 64.59 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514.5 0 514.5 0 514.5 0 514.5 0 514.5 64.59 514.5 64.59 514.5 64.59 514.5 64.59 0 64.59 0 64.59 0 64.59 0 64.59 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT KERN="-2" CH="The GNOME Project also participated in Google Summer of Code for the once again. GNOME had a total of 29 participants, 6 of whom were women. Students worked on a variety of projects, and greatly improved GNOME in a variety of ways. Students added activities to Gcompris, overhauled the Applications View, added better synchronization to Epiphany, voice controls to Banshee and many others."/>
-            <tab KERN="-2"/>
-            <trail PARENT="regular body text"/>
+            <ITEXT CH="The GNOME Project also participated in Google Summer of Code for the once again. GNOME had a total of 29 participants, 6 of whom were women. Students worked on a variety of projects, and greatly improved GNOME in a variety of ways. Students added activities to Gcompris, overhauled the Applications View, added better synchronization to Epiphany, voice controls to Banshee and many others."/>
+            <tab/>
+            <trail PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="166" YPOS="1202" WIDTH="8" HEIGHT="8" RADRECT="0" FRTYPE="1" CLIPEDIT="0" PWIDTH="1" PCOLOR="tango3" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="8 4 8 6.20922 4 8 6.20922 8 4 8 1.79086 8 0 4 0 6.20922 0 4 0 1.79086 4 0 1.79086 0 4 0 6.20922 0 8 4 8 1.79086 " NUMCO="16" COCOOR="8 4 8 6.20922 4 8 6.20922 8 4 8 1.79086 8 0 4 0 6.20922 0 4 0 1.79086 4 0 1.79086 0 4 0 6.20922 0 8 4 8 1.79086 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -4637,54 +4637,54 @@
             <trail PARENT="Page title"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="140.78" YPOS="2345.31" WIDTH="103.97" HEIGHT="166.47" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 103.97 0 103.97 0 103.97 0 103.97 0 103.97 166.47 103.97 166.47 103.97 166.47 103.97 166.47 0 166.47 0 166.47 0 166.47 0 166.47 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 103.97 0 103.97 0 103.97 0 103.97 0 103.97 166.47 103.97 166.47 103.97 166.47 103.97 166.47 0 166.47 0 166.47 0 166.47 0 166.47 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Source Sans Pro Semibold" CH="Student"/>
-            <para PARENT="regular body text"/>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="140.78" YPOS="2345.31" WIDTH="103.97" HEIGHT="166.47" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 103.97 0 103.97 0 103.97 0 103.97 0 103.97 166.47 103.97 166.47 103.97 166.47 103.97 166.47 0 166.47 0 166.47 0 166.47 0 166.47 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 103.97 0 103.97 0 103.97 0 103.97 0 103.97 166.47 103.97 166.47 103.97 166.47 103.97 166.47 0 166.47 0 166.47 0 166.47 0 166.47 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" ALIGN="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Student"/>
+            <breakline/>
             <ITEXT CH="Marta Maria Casetti"/>
-            <para PARENT="regular body text"/>
+            <breakline/>
             <ITEXT CH="Taryn Fox"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Monica Kochofar"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Radina Matic"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Barbara Muraus"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Fabiana Simões"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Elena Petrevska"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Ana Risteska"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Riko Yamada"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Anna Zacchi"/>
-            <trail/>
+            <trail PARENT="GNOME Bread" ALIGN="0"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="301.78" YPOS="2344.31" WIDTH="270.22" HEIGHT="166.47" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 270.22 0 270.22 0 270.22 0 270.22 0 270.22 166.47 270.22 166.47 270.22 166.47 270.22 166.47 0 166.47 0 166.47 0 166.47 0 166.47 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 270.22 0 270.22 0 270.22 0 270.22 0 270.22 166.47 270.22 166.47 270.22 166.47 270.22 166.47 0 166.47 0 166.47 0 166.47 0 166.47 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Source Sans Pro Semibold" CH="Project"/>
-            <para/>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="301.78" YPOS="2344.31" WIDTH="270.22" HEIGHT="166.47" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 270.22 0 270.22 0 270.22 0 270.22 0 270.22 166.47 270.22 166.47 270.22 166.47 270.22 166.47 0 166.47 0 166.47 0 166.47 0 166.47 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 270.22 0 270.22 0 270.22 0 270.22 0 270.22 166.47 270.22 166.47 270.22 166.47 270.22 166.47 0 166.47 0 166.47 0 166.47 0 166.47 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" ALIGN="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Project"/>
+            <breakline/>
             <ITEXT CH="Developer Documentation for Python"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Developer Documentation for Javascript"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Developer Documentation for C"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Documentation"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Grapic Design"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="UX Design"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Web Development"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="GNOME Shell"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="GUPnP"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="GNOME Documents"/>
-            <para/>
+            <para PARENT="GNOME Bread" ALIGN="0"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="735.78" YPOS="2033.31" WIDTH="126.47" HEIGHT="446.940000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 126.47 0 126.47 0 126.47 0 126.47 0 126.47 446.94 126.47 446.94 126.47 446.94 126.47 446.94 0 446.94 0 446.94 0 446.94 0 446.94 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 126.47 0 126.47 0 126.47 0 126.47 0 126.47 446.94 126.47 446.94 126.47 446.94 126.47 446.94 0 446.94 0 446.94 0 446.94 0 446.94 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -4750,64 +4750,64 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="889.78" YPOS="2033.31" WIDTH="361.72" HEIGHT="462.690000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 361.72 0 361.72 0 361.72 0 361.72 0 361.72 462.69 361.72 462.69 361.72 462.69 361.72 462.69 0 462.69 0 462.69 0 462.69 0 462.69 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 361.72 0 361.72 0 361.72 0 361.72 0 361.72 462.69 361.72 462.69 361.72 462.69 361.72 462.69 0 462.69 0 462.69 0 462.69 0 462.69 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Project"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Replace lex-bison based parser with handwritten parser in gcalctool"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Integrate GTG to Gnome-Shell"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Activity Development for GCompris, especially Music Education"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Completion of the Gnome Sudoku Vala Port"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="GNOME Clocks implementation"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Development of a graphical profiler for GNOME"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Documents: Removable devices support"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="libosinfo-based express installation for major OSes in GNOME Boxes"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="GNOME Shell Lock Screen implementation"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Proposal to upgrade the UI of Gcalctool"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Collaborative Getting Things GNOME!"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Overhaul the Applications View in GNOME Shell"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Ability to save and load virtual machines in GNOME Boxes"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Library providing models and widgets to display and choose contacts"/>
             <tab/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Integration of multiple theme based activities in the GCompris"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="GNOME Documents UIs for Viewing and Editing of File Metadata"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Helping on anjuta mades everybody happy"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="GNUcash Android Application"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="GXml and GObject Serialisation"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Lockdown editor for GNOME"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Refactor and Rework the Task Editor of Getting Things Gnome"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Revamp of the Activity Journal"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Smarter Searching in GNOME Shell"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Improve overall Mac OS X port of Banshee"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Voice Control For Banshee"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Get an useful state to Shotwell Faces tool"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Anti malware and phishing daemon for the GNOME desktop"/>
-            <para PARENT="GNOME Bread"/>
+            <breakline/>
             <ITEXT CH="Support for Gamepad API in WebKitGTK+ and general gamepad configuration options in System Settings"/>
-            <trail PARENT="GNOME Bread"/>
+            <trail PARENT="GNOME Bread" ALIGN="0"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="735.78" YPOS="2011.31" WIDTH="169.97" HEIGHT="20.4400000000005" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 169.97 0 169.97 0 169.97 0 169.97 0 169.97 20.44 169.97 20.44 169.97 20.44 169.97 20.44 0 20.44 0 20.44 0 20.44 0 20.44 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 169.97 0 169.97 0 169.97 0 169.97 0 169.97 20.44 169.97 20.44 169.97 20.44 169.97 20.44 0 20.44 0 20.44 0 20.44 0 20.44 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
