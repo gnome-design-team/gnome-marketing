@@ -2017,12 +2017,9 @@
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="The GNOME Board of Directors, with the advice of the GNOME Accessibility Team, decided to spend the money in several tasks to enhance the accessibility of documents within GNOME, such as PDFs, word processing documents and HTML content."/>
             <para PARENT="GNOME Bread"/>
-            <para PARENT="GNOME Bread"/>
             <ITEXT CH="The non-exhaustive list of modules and software projects that could be involved in enhancing accessibility for GNOME is:"/>
             <para PARENT="GNOME Bread"/>
-            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Poppler (PDF rendering library) libxps (XPS rendering library) evince (PDF and XPS reader for GNOME) WebKitGTK (HTML rendering library used in Web, Yelp, and Evolution amongst others) GNOME Documents (document viewer for local and remote documents in GNOME) "/>
-            <para PARENT="GNOME Bread"/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="The bid selection will be made by a group including professional consultants with GNOME-related experience and GNOME Foundation Board members and will be accomplished in 2013. "/>
             <trail PARENT="GNOME Bread"/>
