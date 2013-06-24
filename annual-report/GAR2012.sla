@@ -137,7 +137,7 @@
         <STYLE NAME="quote" FONT="Source Sans Pro Bold" FONTSIZE="14" FSHADE="50" LANGUAGE="Spanish"/>
         <STYLE NAME="Page title" FONT="Source Sans Pro Bold" FONTSIZE="15" FCOLOR="White" LANGUAGE="Spanish"/>
         <STYLE NAME="subheader" FONT="Source Sans Pro Bold" LANGUAGE="Spanish"/>
-        <STYLE NAME="GNOME Bread" LINESPMode="0" LINESP="13" VOR="0" NACH="10" FONT="Liberation Sans Regular" FONTSIZE="10" LANGUAGE="English"/>
+        <STYLE NAME="GNOME Bread" ALIGN="3" LINESPMode="0" LINESP="13" VOR="0" NACH="10" FONT="Source Sans Pro Regular" FONTSIZE="10" LANGUAGE="English"/>
         <STYLE NAME="GNOME Header 1" LINESP="28" FONT="Cantarell Bold" FONTSIZE="28" FCOLOR="Cyan" LANGUAGE="English"/>
         <STYLE NAME="GNOME Header 2" LINESP="20" VOR="0" NACH="0" OpticalMargins="0" FONT="Cantarell Bold" FONTSIZE="20" FCOLOR="Cyan" BASEO="-20" LANGUAGE="English"/>
         <STYLE NAME="GNOME Header 3" FONT="Cantarell Bold" FONTSIZE="14" LANGUAGE="English"/>
@@ -540,40 +540,41 @@
             <trail PARENT="Page title"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="141" YPOS="3900.28" WIDTH="515" HEIGHT="425.940000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 425.94 515 425.94 515 425.94 515 425.94 0 425.94 0 425.94 0 425.94 0 425.94 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 425.94 515 425.94 515 425.94 515 425.94 0 425.94 0 425.94 0 425.94 0 425.94 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="38" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="141" YPOS="3900.28" WIDTH="515" HEIGHT="425.940000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 425.94 515 425.94 515 425.94 515 425.94 0 425.94 0 425.94 0 425.94 0 425.94 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 425.94 515 425.94 515 425.94 515 425.94 0 425.94 0 425.94 0 425.94 0 425.94 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="38" BACKITEM="-1">
             <ITEXT CH="User Observation Hackfest"/>
-            <para PARENT="subheader"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="In September, a group of GNOME hackers met in Florida for the User Observation Hackfest, which was held together with the 2012 OpenSUSE Summit. The central event of the hackfest was a visit to the city of Largo, home of a large GNOME deployment within its public sector. During the hackfest, the developers had the opportunity to talk to users that use GNOME in a day-to-day basis and hear about their goals, their tasks, their attitudes and about how they communicate with the software they use. Work was done on extracting user behavioral trends from the evidence collected during the visit to Largo. This material is one of the foundations that help shape our GNOME Pattern Language and the new version of the GNOME Human Interface Guidelines. Events like the User Observation Hackfest are crucial to GNOME in its mission: Design is part determining problems and part providing solutions, and the problems are out there to be observed. Good interface design starts with understanding people: who they are, why they use our software and how they communicate with it. The more we know about our users, the more effectively we can design for them. User observation is, among other tools, one of the ways we can understand our users’ world."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
-            <ITEXT CH="A Coruña UX Hackfest"/>
-            <para PARENT="subheader"/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
+            <ITEXT FONT="Liberation Sans Bold" CH="A Coruña UX Hackfest"/>
+            <para PARENT="GNOME Bread" ALIGN="3"/>
+            <breakline/>
             <ITEXT CH="With design taking a bigger role in the GNOME project, designers and developers decided to come together to refine what would become the GNOME 3.6 release at the UX Hackfest, just a few days before GUADEC. The event, kindly hosted by Igalia at their office in A Coruña, included the presence of some of our awesome Google Summer of Code and GNOME Outreach Program for Women interns, who contributed with a good deal of fresh ideas. Great collaboration came out of having core design contributors and hackers working together to ensure that our upcoming 3.6 release would be great. The group worked on several core pieces of the GNOME experience, including the lock screen, the new setup assistant, and the design updates for Nautilus, Documents and Contacts. Additionally, a set of design guidelines for search within GNOME applications was developed, drawing inspiration from a variety of previous search implementations in our project. The search pattern will be one of the pieces building up to new version of our Human Interface Guidelines. An impressive amount of progress was made during the event which helped make sure that our 3.6 release was a success!"/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread" ALIGN="3"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="GNOME.Asia Conference"/>
-            <para PARENT="subheader"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="GNOME.Asia had in 2012 a quite varied type of attendees ranging from contributors and enthusiasts to students and other people who might want to participate in GNOME in the future. With help from hard working volunteers, the conference ran smoothly. There were over 175 registrants who attended across the two days of the conference. The conference was held in Hong Kong and there was strong local sponsorship of the event."/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="On the day before the event, the local team organized a Design Workshop and invited key GNOME designers to run it. Allan Day, Jakub Steiner and William Jon McCann explained the process they undertake to design for GNOME. The event was well attended by professionals and students alike."/>
-            <para PARENT="regular body text"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="GNOME Boston Summit 2012"/>
-            <para PARENT="subheader"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="This year, the Boston Summit convened curious newcomers and experienced developers together to learn about GNOME and discuss the project's future. For the first time, organizers held a special event for newcomers and on Friday new faces were spotted everywhere while key contributors of GNOME provided lessons on how essential tools such as JHBuild, Bugzilla and Git can be used to participate in the GNOME Project. The new focus on introducing newcomers to GNOME at this year's Boston Summit was a big success and many aspiring contributors managed to fix their first bug in the &quot;Fix-your-first-bug&quot; mini-hackfest, which was held on Sunday. Meanwhile, developers gathered for useful discussions regarding future goals of GNOME and its many subsidiaries. Topics varied from being about methods in which you can maintain large amounts of code to how multi-monitor support could be implemented in an efficient way. Long lists of bugs and feature suggestions were created for libraries such as GTK+ and Glib and ideas for better communication were put on the table in a big marketing brainstorm. The Boston Summit lasted three days but the event left attendees with new insights, making new as well as experienced contributors ready to shape forthcoming GNOME releases."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="FOSDEM"/>
-            <para PARENT="subheader"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="The GNOME Project had a strong showing at FOSDEM 2012. The booth was well-staffed throughout the weekend, allowing everyone a chance to see at least some of the talks they wanted to. The GNOME devroom was well received with a variety of talks on GNOME and related technologies. Highlights included Allan Day's talk on &quot;Every Detail Matters&quot;, the status update and roadmap for WebKitGTK+ given by Mario Sanchez Prada and David King's &quot;Getting into GNOME: Impressions of a new Maintainer&quot;. A few other GNOME-related talks and round tables were held in various other devrooms as well, including a round table on legal issues co-chaired by Karen Sandler."/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Saturday night saw the annual GNOME Beer event held at La Bécasse, which was a success and allowed GNOME developers, contributors and users alike to interact in a relaxed environment."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Ohio Linux Fest"/>
-            <para PARENT="subheader"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="The 9th annual Ohio Linux Fest took place in Columbus OH, September 28-30th, 2012, and for the first time in several years GNOME had a presence there. Emily Gonyer ran a booth for the GNOME Project on Saturday, where she demo'd GNOME 3.2 and the just-released GNOME 3.6. On Sunday she also participated in the Diversity in Open Source Workshop, sharing her experiences with free and open source software. Ohio Linux Fest has a long standing policy of openness and diversity which was readily apparent in the diversity of the attendees. "/>
-            <trail PARENT="regular body text"/>
+            <trail PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="8" PTYPE="4" XPOS="739.15412371" YPOS="3592.67" WIDTH="391.6258763" HEIGHT="20.89" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" TXTFILLSH="100" TXTBASE="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 391.626 0 391.626 0 391.626 0 391.626 0 391.626 20.89 391.626 20.89 391.626 20.89 391.626 20.89 0 20.89 0 20.89 0 20.89 0 20.89 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 391.626 0 391.626 0 391.626 0 391.626 0 391.626 20.89 391.626 20.89 391.626 20.89 391.626 20.89 0 20.89 0 20.89 0 20.89 0 20.89 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -615,7 +616,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="8" PTYPE="4" XPOS="735.28" YPOS="3649.33" WIDTH="515" HEIGHT="659" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="1" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 659 515 659 515 659 515 659 0 659 0 659 0 659 0 659 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 659 515 659 515 659 515 659 0 659 0 659 0 659 0 659 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="29">
+        <PAGEOBJECT OwnPage="8" PTYPE="4" XPOS="735.28" YPOS="3649.33" WIDTH="515" HEIGHT="659" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="1" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 659 515 659 515 659 515 659 0 659 0 659 0 659 0 659 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 659 515 659 515 659 515 659 0 659 0 659 0 659 0 659 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="29">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="20" PTYPE="4" XPOS="734.78" YPOS="8883.01000000001" WIDTH="375" HEIGHT="20.89" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" TXTFILLSH="100" TXTBASE="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 375 0 375 0 375 0 375 0 375 20.89 375 20.89 375 20.89 375 20.89 0 20.89 0 20.89 0 20.89 0 20.89 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 375 0 375 0 375 0 375 0 375 20.89 375 20.89 375 20.89 375 20.89 0 20.89 0 20.89 0 20.89 0 20.89 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -1535,7 +1536,7 @@
             <trail ALIGN="0"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="140" YPOS="6300.95" WIDTH="515" HEIGHT="140.320000000003" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="1" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 140.32 515 140.32 515 140.32 515 140.32 0 140.32 0 140.32 0 140.32 0 140.32 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 140.32 515 140.32 515 140.32 515 140.32 0 140.32 0 140.32 0 140.32 0 140.32 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="140" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="141" YPOS="6300.95" WIDTH="515" HEIGHT="140.320000000003" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="1" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 140.32 515 140.32 515 140.32 515 140.32 0 140.32 0 140.32 0 140.32 0 140.32 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 140.32 515 140.32 515 140.32 515 140.32 0 140.32 0 140.32 0 140.32 0 140.32 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="140" BACKITEM="-1">
             <ITEXT CH="The GNOME community gives the Thank You Pants as the annual award for outstanding service, to recognize a truly extraordinary contribution."/>
             <tab/>
             <tab/>
@@ -1543,73 +1544,73 @@
             <tab/>
             <tab/>
             <tab/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="The tradition of the pants award is said to have originated with Jeff Waugh. Legend has it that when Jeff was the GNOME release manager he got a mysterious package in the mail. In it was a pair of pants and a letter that said &quot;Hi Jeff and thank you for your amazing work on GNOME, here is a pair of pants.&quot; The Pants Award has since become an elite GNOME institution."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="This year, the Pants were awarded to an extremely worth recipient: Marina Zhurakhinskaya."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Marina is an essential member of the GNOME community. While a developer on the shell team at Red Hat, Marina has also made time to volunteer and develop GNOME's outreach programs. In particular, Marina picked up the work that was done from the 2006 Outreach Program for Women and made it into a groundbreaking program for free software. As you can read in another section of the report, the OPW gives women a chance to participate in our community who might not have otherwise been able to. In the course of the program thus far, the representation of talented women in the GNOME community has vastly improved. Marina has worked hard to understand the obstacles that might prevent women from participating and set up mechanisms to remove them. Always looking to improve how things are, Marina took many of those lessons from the OPW and helped improve our other outreach programs too, like GNOME's participation in Google's Summer of Code. For example, through Marina's work we learned that all new contributors can benefit from improved mentorship structures and support infrastructure."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Marina is the most exceptional type of contributor - the kind that inspires others to want to contribute. Because of Marina's talent, drive, advocacy and consideration for other points of view, the GNOME community is bigger, stronger and more diverse. Thank you, Marina! "/>
-            <trail PARENT="regular body text"/>
+            <trail PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="17" PTYPE="4" XPOS="140" YPOS="8074.73" WIDTH="517" HEIGHT="570.650000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="1" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 517 0 517 0 517 0 517 0 517 570.65 517 570.65 517 570.65 517 570.65 0 570.65 0 570.65 0 570.65 0 570.65 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 517 0 517 0 517 0 517 0 517 570.65 517 570.65 517 570.65 517 570.65 0 570.65 0 570.65 0 570.65 0 570.65 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="17" PTYPE="4" XPOS="140" YPOS="8074.73" WIDTH="517" HEIGHT="570.650000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="1" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 517 0 517 0 517 0 517 0 517 570.65 517 570.65 517 570.65 517 570.65 0 570.65 0 570.65 0 570.65 0 570.65 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 517 0 517 0 517 0 517 0 517 570.65 517 570.65 517 570.65 517 570.65 0 570.65 0 570.65 0 570.65 0 570.65 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Source Sans Pro Semibold" KERN="-4" CH="Dave Neary: Hi Daniel, I would like to do a biography of the traveling GNOME for the annual report this year. I hear you know him better than anyone! I wonder if you could help me with some background information?"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT KERN="-2" CH="Daniel Siegel: Well, around the time of gnome 2.22, while preparing release notes for Cheese, I felt the gnome community had seen my handsome face on Cheese screenshots often enough. So, I asked around and, while getting some more or less useful hints, I had an unexpected guest visiting me in my apartment..."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT FONT="Source Sans Pro Semibold" CH="Dave: Where was the Traveling GNOME born?"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT CH="Daniel: Unfortunately, little is known about that."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT FONT="Source Sans Pro Semibold" CH="Dave: When did you discover his love of traveling?"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT CH="Daniel: He always seemed to be very adventurous and, ultimately, isn't &quot;traveling&quot; in his name?"/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT FONT="Source Sans Pro Semibold" CH="Dave: Which side is the front, and which is the back?"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT CH="Daniel: As you can tell from the many photos, he seems to be fine showing both sides. But, to be honest, he tells more jokes and is funnier on his green side."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT FONT="Source Sans Pro Semibold" CH="Dave: The GNOME disappeared for several months (years?) at one point. Has he ever told you what happened in that time? Was he kidnapped, or did he just need some space?"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT CH="Daniel: All I got was a short note with the following:"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT FONT="Source Sans Pro Italic" CH="we got him, give us lots of ice cream or you will regret it."/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT FONT="Source Sans Pro Italic" CH="- love, the swedish conspiracy"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT CH="Fortunately, Eric discovered his hideout and they spent some lovely days in San Francisco."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT FONT="Source Sans Pro Semibold" CH="Dave: What's the most interesting place he's been so far?"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT KERN="-1" CH="Daniel: Well, he has been to several continents so far, but why don't you have a look for yourself? https://live.gnome.org/TravellingGnome. But, if you ask me, he met a very special girl in Florence, Italy..."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT FONT="Source Sans Pro Semibold" CH="Dave: How does the GNOME decide the next place he wants to go?"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT CH="Daniel: He seems to prefer the company of awesome gnome hackers and he usually does not visit the same hacker twice. Then, there is a ruleset he brings along on how to take care of the traveling gnome:"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT CH="    * add a photo of the traveling gnome and yourself to https://live.gnome.org/TravellingGnome"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT CH="    * get a present and put it into a box along with the traveling gnome and the instructions"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT CH="    * send it to your favorite gnome hacker "/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT FONT="Source Sans Pro Semibold" CH="Dave: Thanks Daniel! I have tried travelinggnome gnome org but it bounced - I don't think he ever asked for his foundation membership (we should change that!)"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="regular body text" ALIGN="3"/>
             <ITEXT CH="Daniel: I don't think this is a valid mail address, so far we only have that wiki page ;) But, yeah, he is definitely a good candidate for foundation membership. I even would vouch for him!"/>
-            <trail PARENT="regular body text"/>
+            <trail PARENT="regular body text" ALIGN="3"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="166" YPOS="1173.7" WIDTH="8" HEIGHT="8" RADRECT="0" FRTYPE="1" CLIPEDIT="0" PWIDTH="1" PCOLOR="Red" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.2" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="8 4 8 6.20922 4 8 6.20922 8 4 8 1.79086 8 0 4 0 6.20922 0 4 0 1.79086 4 0 1.79086 0 4 0 6.20922 0 8 4 8 1.79086 " NUMCO="16" COCOOR="8 4 8 6.20922 4 8 6.20922 8 4 8 1.79086 8 0 4 0 6.20922 0 4 0 1.79086 4 0 1.79086 0 4 0 6.20922 0 8 4 8 1.79086 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -2003,29 +2004,29 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="139.25" YPOS="5413.94" WIDTH="515.75" HEIGHT="216.000000000002" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.75 0 515.75 0 515.75 0 515.75 0 515.75 216 515.75 216 515.75 216 515.75 216 0 216 0 216 0 216 0 216 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.75 0 515.75 0 515.75 0 515.75 0 515.75 216 515.75 216 515.75 216 515.75 216 0 216 0 216 0 216 0 216 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="299" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="139.25" YPOS="5413.94" WIDTH="515.75" HEIGHT="216.000000000002" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.75 0 515.75 0 515.75 0 515.75 0 515.75 216 515.75 216 515.75 216 515.75 216 0 216 0 216 0 216 0 216 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.75 0 515.75 0 515.75 0 515.75 0 515.75 216 515.75 216 515.75 216 515.75 216 0 216 0 216 0 216 0 216 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="299" BACKITEM="-1">
             <ITEXT CH="GNOME has held accessibility amongst its core values from the project's inception. With the advent of GNOME 3, we have started down an exciting new path in terms of usability, which includes users of all ages and abilities. This drive is not only necessary for those with disabilities but is also increasingly needed for our devices to work for any user."/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="The GNOME accessibility team is working hard, but its resources are more limited than in the past. For this reason, the GNOME Foundation started a Friend of GNOME campaign to get funds for supporting development in this important area."/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="A Friends of GNOME campaign is a fundraising campaign for a particular cause through the GNOME donation page. Money collected from this page when the campaign is running is targeted to the specified cause."/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="The goal for the campaign was set to US $20,000 when the campaign was launched on the December 16. With the help of many Friends of GNOME, the goal was reached on June 7. The campaign was helped by two GNOME users who generously shared their experiences about how the accessibility features of GNOME 3 impacted them:"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Following our fundraising campaign through Friends of GNOME, the always supportive Mozilla Corporation joined the cause to improve accessibility and assigned US $10,000 extra to this endeavor. So finally the money available for the project is US $30,000."/>
-            <para/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="The GNOME Board of Directors, with the advice of the GNOME Accessibility Team, decided to spend the money in several tasks to enhance the accessibility of documents within GNOME, such as PDFs, word processing documents and HTML content."/>
-            <para/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="The non-exhaustive list of modules and software projects that could be involved in enhancing accessibility for GNOME is:"/>
-            <para/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Poppler (PDF rendering library) libxps (XPS rendering library) evince (PDF and XPS reader for GNOME) WebKitGTK (HTML rendering library used in Web, Yelp, and Evolution amongst others) GNOME Documents (document viewer for local and remote documents in GNOME) "/>
-            <para/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="The bid selection will be made by a group including professional consultants with GNOME-related experience and GNOME Foundation Board members and will be accomplished in 2013. "/>
-            <trail/>
+            <trail PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="140" YPOS="5633.34" WIDTH="515" HEIGHT="49.8500000000022" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 49.85 515 49.85 515 49.85 515 49.85 0 49.85 0 49.85 0 49.85 0 49.85 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 49.85 515 49.85 515 49.85 515 49.85 0 49.85 0 49.85 0 49.85 0 49.85 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -2035,35 +2036,35 @@
             <trail PARENT="regular body text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="139" YPOS="6682.02" WIDTH="516" HEIGHT="253.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 516 0 516 0 516 0 516 0 516 253.5 516 253.5 516 253.5 516 253.5 0 253.5 0 253.5 0 253.5 0 253.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 516 0 516 0 516 0 516 0 516 253.5 516 253.5 516 253.5 516 253.5 0 253.5 0 253.5 0 253.5 0 253.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="44">
+        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="139" YPOS="6682.02" WIDTH="516" HEIGHT="253.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 516 0 516 0 516 0 516 0 516 253.5 516 253.5 516 253.5 516 253.5 0 253.5 0 253.5 0 253.5 0 253.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 516 0 516 0 516 0 516 0 516 253.5 516 253.5 516 253.5 516 253.5 0 253.5 0 253.5 0 253.5 0 253.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="44">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="10" PTYPE="4" XPOS="735.28" YPOS="4728.88" WIDTH="515" HEIGHT="464.810000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 464.81 515 464.81 515 464.81 515 464.81 0 464.81 0 464.81 0 464.81 0 464.81 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 464.81 515 464.81 515 464.81 515 464.81 0 464.81 0 464.81 0 464.81 0 464.81 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="10" PTYPE="4" XPOS="735.28" YPOS="4728.88" WIDTH="515" HEIGHT="464.810000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 464.81 515 464.81 515 464.81 515 464.81 0 464.81 0 464.81 0 464.81 0 464.81 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 464.81 515 464.81 515 464.81 515 464.81 0 464.81 0 464.81 0 464.81 0 464.81 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Two thousand and twelve brought many significant changes to GNOME."/>
-            <para PARENT="regular body text"/>
-            <ITEXT KERN="-2" CH="Building on the solid foundation of GNOME 3.2, the community worked together to unleash GNOME 3.4 in March and GNOME 3.6 in September, maintaining the six-month cadence previously set by earlier releases."/>
-            <para PARENT="regular body text"/>
+            <breakline/>
+            <ITEXT CH="Building on the solid foundation of GNOME 3.2, the community worked together to unleash GNOME 3.4 in March and GNOME 3.6 in September, maintaining the six-month cadence previously set by earlier releases."/>
+            <breakline/>
             <ITEXT CH="Matthias Clasen oversaw the completion of GNOME 3.4 and described it as &quot;a great leap forward for GNOME 3 ... we hope that our users enjoy it.&quot;"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread" ALIGN="0"/>
             <ITEXT CH="GNOME 3.4 introduced a wealth of new features and improvements, including but not limited to beautiful new designs and interfaces for GNOME applications such as Web, Documents, Epiphany, and Contacts. The Activities overview was enhanced to allow users to search for documents and quickly access content stored locally and online. New application menus located on the top bar were introduced as a means to access options and actions for various applications."/>
-            <para PARENT="regular body text"/>
+            <breakline/>
             <ITEXT CH="Other enhancements to GNOME 3.4 included refreshed interface components, such as a new color picker, redesigned scrollbars, spin buttons and title bars, and smooth scrolling support. New animated backgrounds brought a nice touch of style."/>
-            <para PARENT="regular body text"/>
+            <breakline/>
             <ITEXT CH="Better hardware support, topic-oriented documentation, better accessibility and many other improvments made for a very solid release."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
-            <ITEXT KERN="-1" CH="GNOME 3.6 focused on improving the experience that was developed in 3.4, refining the overall user interface and adding polish. Andreas Nilsson, President of the GNOME Foundation, described GNOME 3.6 as &quot;an important milestone in our mission to bring a free and open computing environment to everyone.&quot;"/>
-            <para PARENT="regular body text"/>
-            <ITEXT KERN="-1" CH="New features and enhancements to the interface included a new applications button and improved layout in the Activities Overview, a new login and lock screen, a redesigned Message Tray, smarter Notifications, improved System Settings and much more."/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
+            <ITEXT CH="GNOME 3.6 focused on improving the experience that was developed in 3.4, refining the overall user interface and adding polish. Andreas Nilsson, President of the GNOME Foundation, described GNOME 3.6 as &quot;an important milestone in our mission to bring a free and open computing environment to everyone.&quot;"/>
+            <breakline/>
+            <ITEXT CH="New features and enhancements to the interface included a new applications button and improved layout in the Activities Overview, a new login and lock screen, a redesigned Message Tray, smarter Notifications, improved System Settings and much more."/>
+            <breakline/>
             <ITEXT CH="Accessibility became an always on feature in GNOME 3.6, enabling universal access to assistive technologies and settings such as brightness, contrast, inversion and greyscale, improved web navigation, and the Orca screen reader. Braille support was also improved in Orca."/>
-            <para PARENT="regular body text"/>
+            <breakline/>
             <ITEXT CH="Two new applications were included in the release. Boxes allows access and management of remote systems and virtual machines, and a preview of the new Clocks application was showcased."/>
-            <para PARENT="regular body text"/>
+            <breakline/>
             <ITEXT CH="Many other smaller enhancements rounded out the release to help make GNOME 3.6 the best one yet."/>
-            <para PARENT="regular body text"/>
+            <breakline/>
             <ITEXT CH="Looking ahead to the future, GNOME will continue to deliver an effective and efficient workflow while keeping an eye on security. Planned features, refinements and usability enhancements will provide an even better user experience going forward."/>
-            <trail PARENT="regular body text"/>
+            <trail PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="14" PTYPE="7" XPOS="1090.0500546" YPOS="6439.0812491" WIDTH="0" HEIGHT="96.62833151" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.4040044256" PCOLOR="None" PCOLOR2="FromSVG#000000" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of  path9811-8-0" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0.28502419" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="2" DASHS="2.84777 2.84777 " DASHOFF="0" NUMPO="4" POCOOR="0 96.6283 0 96.6283 0 0 0 0 " NUMCO="4" COCOOR="0 96.6283 0 96.6283 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -2425,24 +2426,18 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="736.28" YPOS="7172.12" WIDTH="515" HEIGHT="332.999999999998" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 333 515 333 515 333 515 333 0 333 0 333 0 333 0 333 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 333 515 333 515 333 515 333 0 333 0 333 0 333 0 333 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="In the 2012 fiscal year, the GNOME Foundation raised approximately $418,600 and spent approximately $409,000. The previous year saw a substantial deficit. Our small surplus in 2012 reflects an increase in"/>
-            <para PARENT="regular body text"/>
-            <ITEXT CH="corporate sponsorship and personal donations, despite some increased expenses."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="736.28" YPOS="7172.12" WIDTH="515" HEIGHT="332.999999999998" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 333 515 333 515 333 515 333 0 333 0 333 0 333 0 333 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 333 515 333 515 333 515 333 0 333 0 333 0 333 0 333 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="In the 2012 fiscal year, the GNOME Foundation raised approximately $418,600 and spent approximately $409,000. The previous year saw a substantial deficit. Our small surplus in 2012 reflects an increase in corporate sponsorship and personal donations, despite some increased expenses."/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Corporate sponsorship accounted for $121,600 of our income, up 41.6% from the previous year. This includes sponsorship money for outreach programs and for events excluding GUADEC. Personal donations through programs like Friends of GNOME rose by 45.4% to over $53,600. Income from the annual advisory board fees, however, dropped by 21.1% to $150,000."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="The GNOME Foundation spent over $201,900 on employees, a 55% increase from the previous year. We also increased spending on the Outreach Program for Women, although those expenses were balanced by sponsorship income. We have a year-after-year decreasing trend in hackfest expenses. Although we need to be conscious of our expenses, we encourage members to organize more hackfests."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="The GNOME Foundation currently has approximately $274,000 in cash."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
-            <ITEXT CPARENT="Default Character Style" KERN="-4" CH="The 2013 budget closely reflects the 2012 income and expenses. Our expenses all help further our free software mission. Our corporate sponsors are critical to our success as an organization. If your company benefits from the work we do, please consider joining our advisory board and sponsoring our many great programs and events."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
+            <ITEXT CPARENT="Default Character Style" FONTSIZE="10" CH="The 2013 budget closely reflects the 2012 income and expenses. Our expenses all help further our free software mission. Our corporate sponsors are critical to our success as an organization. If your company benefits from the work we do, please consider joining our advisory board and sponsoring our many great programs and events."/>
+            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="16" PTYPE="5" XPOS="735.8425" YPOS="7505.1825" WIDTH="420.75" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="50" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="420.75" gHeight="103.999999999998" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -2912,7 +2907,7 @@
             <trail PARENT="regular body text" ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="140.0625" YPOS="5793.44" WIDTH="514.25" HEIGHT="321.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514.25 0 514.25 0 514.25 0 514.25 0 514.25 321.25 514.25 321.25 514.25 321.25 514.25 321.25 0 321.25 0 321.25 0 321.25 0 321.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514.25 0 514.25 0 514.25 0 514.25 0 514.25 321.25 514.25 321.25 514.25 321.25 514.25 321.25 0 321.25 0 321.25 0 321.25 0 321.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="138">
+        <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="140.0625" YPOS="5793.44" WIDTH="514.25" HEIGHT="321.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514.25 0 514.25 0 514.25 0 514.25 0 514.25 321.25 514.25 321.25 514.25 321.25 514.25 321.25 0 321.25 0 321.25 0 321.25 0 321.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514.25 0 514.25 0 514.25 0 514.25 0 514.25 321.25 514.25 321.25 514.25 321.25 514.25 321.25 0 321.25 0 321.25 0 321.25 0 321.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="138">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="140.0625" YPOS="5700.44" WIDTH="515.9375" HEIGHT="66.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.937 0 515.937 0 515.937 0 515.937 0 515.937 66.75 515.937 66.75 515.937 66.75 515.937 66.75 0 66.75 0 66.75 0 66.75 0 66.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.937 0 515.937 0 515.937 0 515.937 0 515.937 66.75 515.937 66.75 515.937 66.75 515.937 66.75 0 66.75 0 66.75 0 66.75 0 66.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -3958,10 +3953,10 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="21" PTYPE="4" XPOS="139.69870079" YPOS="9831.86212604" WIDTH="514.80129921" HEIGHT="68.17606294" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514.801 0 514.801 0 514.801 0 514.801 0 514.801 68.1761 514.801 68.1761 514.801 68.1761 514.801 68.1761 0 68.1761 0 68.1761 0 68.1761 0 68.1761 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514.801 0 514.801 0 514.801 0 514.801 0 514.801 68.1761 514.801 68.1761 514.801 68.1761 514.801 68.1761 0 68.1761 0 68.1761 0 68.1761 0 68.1761 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="21" PTYPE="4" XPOS="139.69870079" YPOS="9831.86212604" WIDTH="514.80129921" HEIGHT="68.17606294" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514.801 0 514.801 0 514.801 0 514.801 0 514.801 68.1761 514.801 68.1761 514.801 68.1761 514.801 68.1761 0 68.1761 0 68.1761 0 68.1761 0 68.1761 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514.801 0 514.801 0 514.801 0 514.801 0 514.801 68.1761 514.801 68.1761 514.801 68.1761 514.801 68.1761 0 68.1761 0 68.1761 0 68.1761 0 68.1761 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="The Advisory Board is made up of organizations and companies that support GNOME. The Advisory Board has no decision-making authority but provides a vehicle for its members to communicate with the Board of Directors and help the Directors guide the overall direction of GNOME and the GNOME Foundation."/>
             <para PARENT="GNOME Bread"/>
-            <ITEXT KERN="-3" CH="The Advisory Board consists of representatives from the following GNOME Foundation member corporations and projects:"/>
+            <ITEXT CH="The Advisory Board consists of representatives from the following GNOME Foundation member corporations and projects:"/>
             <trail PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -4131,27 +4126,21 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="139.625" YPOS="7169.12" WIDTH="514.875" HEIGHT="451.817499999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514.875 0 514.875 0 514.875 0 514.875 0 514.875 451.817 514.875 451.817 514.875 451.817 514.875 451.817 0 451.817 0 451.817 0 451.817 0 451.817 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514.875 0 514.875 0 514.875 0 514.875 0 514.875 451.817 514.875 451.817 514.875 451.817 514.875 451.817 0 451.817 0 451.817 0 451.817 0 451.817 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT KERN="-2" CH="The Sysadmin team worked hard on several fronts making sure several services were properly installed and configured for GNOME users. During this year the extensions.gnome.org website was launched, the sysadmins took care of it preparing a virtual machine which is currently hosted at the Phoenix's Red Hat datacenter."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+        <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="139.625" YPOS="7169.12" WIDTH="514.875" HEIGHT="346.000000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514.875 0 514.875 0 514.875 0 514.875 0 514.875 346 514.875 346 514.875 346 514.875 346 0 346 0 346 0 346 0 346 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514.875 0 514.875 0 514.875 0 514.875 0 514.875 346 514.875 346 514.875 346 514.875 346 0 346 0 346 0 346 0 346 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="The Sysadmin team worked hard on several fronts making sure several services were properly installed and configured for GNOME users. During this year the extensions.gnome.org website was launched, the sysadmins took care of it preparing a virtual machine which is currently hosted at the Phoenix's Red Hat datacenter."/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="The GNOME Infrastructure discussed and lately agreed on installing what will be the substitute of JHBuild, OSTree. The original proposal came from Colin Walters, who was given access to a virtual machine for starting his build tests."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="A Piwik istance has been installed to track the statistics of multiple GNOME websites including www.gnome.org, planet.gnome.org, news.gnome.org and projects.gnome.org. Also the GNOME Sysadmin team received the Class 2 level SSL certificates from StartSSL, several GNOME services and websites were covered by SSL and the expired certificates were removed and replaced."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="In regard to our Wiki, the machine that was hosting our MoinMoin istance became too old and many existing problems were found (including Out of Memory issues taking down the Wiki for several hours), live.gnome.org was then moved to its own virtual machine and assigned a good amount of CPU and RAM covering the present and future loads."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Two more virtual machines were created during this period: one (bugzilla-new) to start testing the latest Bugzilla 4.4 release and the other (restaurant) to replace our main Postfix host that was standing on a very old machine ready to be retired."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="In addition to that the GNOME machines hosted by Canonical were moved to another datacenter and upgraded to the latest available Ubuntu's LTS release."/>
-            <para PARENT="regular body text"/>
-            <para PARENT="regular body text"/>
-            <ITEXT KERN="-3" CH="Lastly our main database host (drawable) had a RAID failure back in June 2012, the failed drive was replaced successfully and the databases were migrated back from the host where they were temporary hosted. "/>
-            <trail PARENT="regular body text"/>
+            <para PARENT="GNOME Bread"/>
+            <ITEXT CH="Lastly our main database host (drawable) had a RAID failure back in June 2012, the failed drive was replaced successfully and the databases were migrated back from the host where they were temporary hosted. "/>
+            <trail PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="166" YPOS="1443" WIDTH="8" HEIGHT="8" RADRECT="0" FRTYPE="1" CLIPEDIT="0" PWIDTH="1" PCOLOR="tango_purple" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="8 4 8 6.20922 4 8 6.20922 8 4 8 1.79086 8 0 4 0 6.20922 0 4 0 1.79086 4 0 1.79086 0 4 0 6.20922 0 8 4 8 1.79086 " NUMCO="16" COCOOR="8 4 8 6.20922 4 8 6.20922 8 4 8 1.79086 8 0 4 0 6.20922 0 4 0 1.79086 4 0 1.79086 0 4 0 6.20922 0 8 4 8 1.79086 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -4698,127 +4687,127 @@
             <para/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="735.78" YPOS="2033.31" WIDTH="126.47" HEIGHT="446.940000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 126.47 0 126.47 0 126.47 0 126.47 0 126.47 446.94 126.47 446.94 126.47 446.94 126.47 446.94 0 446.94 0 446.94 0 446.94 0 446.94 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 126.47 0 126.47 0 126.47 0 126.47 0 126.47 446.94 126.47 446.94 126.47 446.94 126.47 446.94 0 446.94 0 446.94 0 446.94 0 446.94 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Source Sans Pro Semibold" CH="Student"/>
-            <para/>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="735.78" YPOS="2033.31" WIDTH="126.47" HEIGHT="446.940000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 126.47 0 126.47 0 126.47 0 126.47 0 126.47 446.94 126.47 446.94 126.47 446.94 126.47 446.94 0 446.94 0 446.94 0 446.94 0 446.94 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 126.47 0 126.47 0 126.47 0 126.47 0 126.47 446.94 126.47 446.94 126.47 446.94 126.47 446.94 0 446.94 0 446.94 0 446.94 0 446.94 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Student"/>
+            <breakline/>
             <ITEXT CH="Pioneer Axon"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Baptiste Saleil"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Beth Hadley"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Chris Baines"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Emily Gonyer"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Fabien Parent"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Felipe Borges"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Fabiano Fidêncio"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Giovanni Campagna"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Gopal Krishnan"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Izidor Matušov"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Joost Verdoorn"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Jovanka Gulicoska"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Laurent Contzen"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Matilda Bernard"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Meg Ford"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Moritz Lüdecke"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Ngewi Fet"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Richard Schwarting"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Rūdolfs Mazurs"/>
-            <para/>
-            <ITEXT CH="sscheel"/>
-            <para/>
+            <breakline/>
+            <ITEXT CH="Steve Sscheel"/>
+            <breakline/>
             <ITEXT CH="Stefano Candori"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Tanner Doshier"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Timo Dörr"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Udesh Liyanaarachchi"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Valentín Barros Puertas"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Yann Soubeyrand"/>
-            <para/>
+            <breakline/>
             <ITEXT CH="Žan Doberšek"/>
-            <trail/>
+            <trail PARENT="GNOME Bread" ALIGN="0"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="889.78" YPOS="2033.31" WIDTH="361.72" HEIGHT="462.690000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 361.72 0 361.72 0 361.72 0 361.72 0 361.72 462.69 361.72 462.69 361.72 462.69 361.72 462.69 0 462.69 0 462.69 0 462.69 0 462.69 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 361.72 0 361.72 0 361.72 0 361.72 0 361.72 462.69 361.72 462.69 361.72 462.69 361.72 462.69 0 462.69 0 462.69 0 462.69 0 462.69 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Source Sans Pro Semibold" CH="Project"/>
-            <para/>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="889.78" YPOS="2033.31" WIDTH="361.72" HEIGHT="462.690000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 361.72 0 361.72 0 361.72 0 361.72 0 361.72 462.69 361.72 462.69 361.72 462.69 361.72 462.69 0 462.69 0 462.69 0 462.69 0 462.69 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 361.72 0 361.72 0 361.72 0 361.72 0 361.72 462.69 361.72 462.69 361.72 462.69 361.72 462.69 0 462.69 0 462.69 0 462.69 0 462.69 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Project"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Replace lex-bison based parser with handwritten parser in gcalctool"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Integrate GTG to Gnome-Shell"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Activity Development for GCompris, especially Music Education"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Completion of the Gnome Sudoku Vala Port"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="GNOME Clocks implementation"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Development of a graphical profiler for GNOME"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Documents: Removable devices support"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="libosinfo-based express installation for major OSes in GNOME Boxes"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="GNOME Shell Lock Screen implementation"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Proposal to upgrade the UI of Gcalctool"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Collaborative Getting Things GNOME!"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Overhaul the Applications View in GNOME Shell"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Ability to save and load virtual machines in GNOME Boxes"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Library providing models and widgets to display and choose contacts"/>
             <tab/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Integration of multiple theme based activities in the GCompris"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="GNOME Documents UIs for Viewing and Editing of File Metadata"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Helping on anjuta mades everybody happy"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="GNUcash Android Application"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="GXml and GObject Serialisation"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Lockdown editor for GNOME"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Refactor and Rework the Task Editor of Getting Things Gnome"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Revamp of the Activity Journal"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Smarter Searching in GNOME Shell"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Improve overall Mac OS X port of Banshee"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Voice Control For Banshee"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Get an useful state to Shotwell Faces tool"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Anti malware and phishing daemon for the GNOME desktop"/>
-            <para/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Support for Gamepad API in WebKitGTK+ and general gamepad configuration options in System Settings"/>
-            <trail/>
+            <trail PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="735.78" YPOS="2011.31" WIDTH="169.97" HEIGHT="20.4400000000005" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 169.97 0 169.97 0 169.97 0 169.97 0 169.97 20.44 169.97 20.44 169.97 20.44 169.97 20.44 0 20.44 0 20.44 0 20.44 0 20.44 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 169.97 0 169.97 0 169.97 0 169.97 0 169.97 20.44 169.97 20.44 169.97 20.44 169.97 20.44 0 20.44 0 20.44 0 20.44 0 20.44 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -5180,16 +5169,16 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="140" YPOS="4625" WIDTH="515.25" HEIGHT="501.000000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.25 0 515.25 0 515.25 0 515.25 0 515.25 501 515.25 501 515.25 501 515.25 501 0 501 0 501 0 501 0 501 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.25 0 515.25 0 515.25 0 515.25 0 515.25 501 515.25 501 515.25 501 515.25 501 0 501 0 501 0 501 0 501 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="140" YPOS="4625" WIDTH="515.25" HEIGHT="534.45" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.25 0 515.25 0 515.25 0 515.25 0 515.25 534.45 515.25 534.45 515.25 534.45 515.25 534.45 0 534.45 0 534.45 0 534.45 0 534.45 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.25 0 515.25 0 515.25 0 515.25 0 515.25 534.45 515.25 534.45 515.25 534.45 515.25 534.45 0 534.45 0 534.45 0 534.45 0 534.45 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="GUADEC"/>
-            <para PARENT="GNOME Header 4"/>
+            <para PARENT="GNOME Bread"/>
             <ITEXT CH="GUADEC is the largest annual conference for GNOME developers and users which is held annually in cities around Europe. In 2012, GUADEC was held in the city of A Coruña (Galicia, Spain) from July 26 to 1st August."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="This conference had a very enthusiastic atmosphere and was very successful. There were close to 300 attendees from all around the world and a blend of old and new contributors. The project has been gaining a creative momentum, not only because what we have accomplished thus far with GNOME 3, but also for what we must still do to deliver the best free and open desktop. A complete program with more than forty presentations took part in the first core days. GSoC and OPW students participated actively in the conference, including a scavenger hunt type of contest designed to help the participants get to know the GNOME Community better, along with a series of lightning talks where they could present their work. The conference also included fun leisure activities that help the attendees get together and discover A Coruña and try culinary specialities from the region."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="The keynotes were given by an interesting group of personalities that enriched the conference with several topics. Jacob Appelbaum, developer of the Tor Project, talked about privacy issues in computers. This talk was the seed of a new track of development in GNOME to protect users rights and subsequently a Friends of GNOME campaign was started in order to fundraise the development in this direction. Adam Dingle and Jim Nelson from Yorba gave a detailed analysis about how free and open applications can use crowdfunding. Alex &quot;Skud&quot; Bayley talked about ways of making contributing to free and open source projects more inclusive. Finally, because this year GNOME turned 15 years old, an special keynote about the early days of GNOME was given by three pioneers of the project, Federico Mena Quintero, Jonathan Blandford and Dave Mason."/>
             <para PARENT="GNOME Bread"/>
-            <ITEXT KERN="0" CH="A highlight of the conference was a congratulations from the Galician government on the 15th year anniversary of GNOME. The regional government is using GNOME in the Abalar Project, set to reach 44,000 students and in the CEMIT Network, the galician Network for the Modernization and Inclusion Technology, which has over 14,000 users. Adrian Lence, director of the Infrastructure and Telecommunications Amtega &quot;is a superb example of the virtues of free software&quot;."/>
+            <ITEXT CH="A highlight of the conference was a congratulations from the Galician government on the 15th year anniversary of GNOME. The regional government is using GNOME in the Abalar Project, set to reach 44,000 students and in the CEMIT Network, the galician Network for the Modernization and Inclusion Technology, which has over 14,000 users. Adrian Lence, director of the Infrastructure and Telecommunications Amtega &quot;is a superb example of the virtues of free software&quot;."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="The final days of the conference were very productive with several BoFs and Hackfests. GNOME Hispano also offered a Spanish speaking track in order to lower the language barrier for local people interested in GNOME."/>
             <para PARENT="GNOME Bread"/>
