@@ -130,7 +130,7 @@
         <COLOR NAME="tango_purple" RGB="#75507b" Spot="0" Register="0"/>
         <COLOR NAME="undef" RGB="#966432" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="timeline body" LINESP="12" FONTSIZE="9" LANGUAGE="Spanish"/>
         <STYLE NAME="timeline header" LINESP="12" FONT="Source Sans Pro Bold" FONTSIZE="9" LANGUAGE="Spanish"/>
         <STYLE NAME="regular body text" LINESP="15" LANGUAGE="Spanish"/>
@@ -143,7 +143,7 @@
         <STYLE NAME="GNOME Header 3" FONT="Cantarell Bold" FONTSIZE="14" LANGUAGE="English"/>
         <STYLE NAME="GNOME Header 4" FONT="Cantarell Bold" FONTSIZE="10" LANGUAGE="English"/>
         <STYLE NAME="GNOME Quote" FONT="DejaVu Serif Italic" FSHADE="80" LANGUAGE="English"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Source Sans Pro Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Spanish"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Source Sans Pro Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Spanish"/>
         <CHARSTYLE CNAME="Copy of Default Character Style (1)" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Copy of Default Character Style (2)" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Copy of Default Character Style (3)" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
@@ -2405,7 +2405,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="736.28" YPOS="7175.12" WIDTH="515" HEIGHT="332.999999999998" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 333 515 333 515 333 515 333 0 333 0 333 0 333 0 333 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515 0 515 0 515 0 515 0 515 333 515 333 515 333 515 333 0 333 0 333 0 333 0 333 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="735.6032467" YPOS="7175.12" WIDTH="515.6767533" HEIGHT="224.380000000002" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.677 0 515.677 0 515.677 0 515.677 0 515.677 224.38 515.677 224.38 515.677 224.38 515.677 224.38 0 224.38 0 224.38 0 224.38 0 224.38 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.677 0 515.677 0 515.677 0 515.677 0 515.677 224.38 515.677 224.38 515.677 224.38 515.677 224.38 0 224.38 0 224.38 0 224.38 0 224.38 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="In the 2012 fiscal year, the GNOME Foundation raised approximately $418,600 and spent approximately $409,000. The previous year saw a substantial deficit. Our small surplus in 2012 reflects an increase in corporate sponsorship and personal donations, despite some increased expenses."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT KERN="-1" CH="Corporate sponsorship accounted for $121,600 of our income, up 41.6% from the previous year. This includes sponsorship money for outreach programs and for events excluding GUADEC. Personal donations through programs like Friends of GNOME rose by 45.4% to over $53,600. Income from the annual advisory board fees, however, dropped by 21.1% to $150,000."/>
@@ -2415,31 +2415,30 @@
             <ITEXT CH="The GNOME Foundation currently has approximately $274,000 in cash."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CPARENT="Default Character Style" FONTSIZE="10" CH="The 2013 budget closely reflects the 2012 income and expenses. Our expenses all help further our free software mission. Our corporate sponsors are critical to our success as an organization. If your company benefits from the work we do, please consider joining our advisory board and sponsoring our many great programs and events."/>
-            <para PARENT="GNOME Bread"/>
-            <para PARENT="GNOME Bread"/>
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="16" PTYPE="5" XPOS="735.8425" YPOS="7456.1825" WIDTH="420.75" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="50" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="420.75" gHeight="103.999999999998" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="736.3425" YPOS="7458.645" WIDTH="84.5000000000001" HEIGHT="141.375" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 84.5 0 84.5 0 84.5 0 84.5 0 84.5 141.375 84.5 141.375 84.5 141.375 84.5 141.375 0 141.375 0 141.375 0 141.375 0 141.375 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 84.5 0 84.5 0 84.5 0 84.5 0 84.5 141.375 84.5 141.375 84.5 141.375 84.5 141.375 0 141.375 0 141.375 0 141.375 0 141.375 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Advisory Board"/>
-            <para/>
-            <ITEXT CH="Sponsorship"/>
-            <para/>
-            <ITEXT CH="Donations"/>
-            <para/>
-            <ITEXT CH="GUADEC"/>
-            <para/>
-            <ITEXT CH="Royalties"/>
-            <para/>
-            <ITEXT CH="Training"/>
-            <para/>
-            <ITEXT CH="Other"/>
-            <para/>
-            <ITEXT CH="TOTAL"/>
-            <trail/>
+        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="736.3425" YPOS="7460.645" WIDTH="84.5000000000001" HEIGHT="141.375" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 84.5 0 84.5 0 84.5 0 84.5 0 84.5 141.375 84.5 141.375 84.5 141.375 84.5 141.375 0 141.375 0 141.375 0 141.375 0 141.375 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 84.5 0 84.5 0 84.5 0 84.5 0 84.5 141.375 84.5 141.375 84.5 141.375 84.5 141.375 0 141.375 0 141.375 0 141.375 0 141.375 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="10" CH="Advisory Board"/>
+            <para LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="Sponsorship"/>
+            <para LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="Donations"/>
+            <para LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="GUADEC"/>
+            <para LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="Royalties"/>
+            <para LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="Training"/>
+            <para LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="Other"/>
+            <para LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="TOTAL"/>
+            <trail LINESP="15.2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="840.3425" YPOS="7458.645" WIDTH="62.4375000000001" HEIGHT="127.474999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 62.4375 0 62.4375 0 62.4375 0 62.4375 0 62.4375 127.475 62.4375 127.475 62.4375 127.475 62.4375 127.475 0 127.475 0 127.475 0 127.475 0 127.475 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 62.4375 0 62.4375 0 62.4375 0 62.4375 0 62.4375 127.475 62.4375 127.475 62.4375 127.475 62.4375 127.475 0 127.475 0 127.475 0 127.475 0 127.475 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -2535,25 +2534,25 @@
             <trail ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="735.5925" YPOS="7632.42" WIDTH="125.25" HEIGHT="150.900000000005" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 125.25 0 125.25 0 125.25 0 125.25 0 125.25 150.9 125.25 150.9 125.25 150.9 125.25 150.9 0 150.9 0 150.9 0 150.9 0 150.9 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 125.25 0 125.25 0 125.25 0 125.25 0 125.25 150.9 125.25 150.9 125.25 150.9 125.25 150.9 0 150.9 0 150.9 0 150.9 0 150.9 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Administration"/>
-            <para PARENT="regular body text"/>
-            <ITEXT CH="Employees"/>
-            <para PARENT="regular body text"/>
-            <ITEXT CH="GUADEC"/>
-            <para PARENT="regular body text"/>
-            <ITEXT CH="Hackfests"/>
-            <para PARENT="regular body text"/>
-            <ITEXT CH="Other Events"/>
-            <para PARENT="regular body text"/>
-            <ITEXT CH="Marketing"/>
-            <para PARENT="regular body text"/>
-            <ITEXT CH="Contracts"/>
-            <para PARENT="regular body text"/>
-            <ITEXT CH="Women's Outreach"/>
-            <para PARENT="regular body text"/>
-            <ITEXT CH="TOTAL"/>
-            <trail PARENT="regular body text"/>
+        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="735.5925" YPOS="7633.42" WIDTH="125.25" HEIGHT="150.900000000005" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 125.25 0 125.25 0 125.25 0 125.25 0 125.25 150.9 125.25 150.9 125.25 150.9 125.25 150.9 0 150.9 0 150.9 0 150.9 0 150.9 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 125.25 0 125.25 0 125.25 0 125.25 0 125.25 150.9 125.25 150.9 125.25 150.9 125.25 150.9 0 150.9 0 150.9 0 150.9 0 150.9 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="10" CH="Administration"/>
+            <para PARENT="regular body text" LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="Employees"/>
+            <para PARENT="regular body text" LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="GUADEC"/>
+            <para PARENT="regular body text" LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="Hackfests"/>
+            <para PARENT="regular body text" LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="Other Events"/>
+            <para PARENT="regular body text" LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="Marketing"/>
+            <para PARENT="regular body text" LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="Contracts"/>
+            <para PARENT="regular body text" LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="Women's Outreach"/>
+            <para PARENT="regular body text" LINESP="15.2"/>
+            <ITEXT FONTSIZE="10" CH="TOTAL"/>
+            <trail PARENT="regular body text" LINESP="15.2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="840.5925" YPOS="7632.42" WIDTH="62.6875" HEIGHT="150.9" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 62.6875 0 62.6875 0 62.6875 0 62.6875 0 62.6875 150.9 62.6875 150.9 62.6875 150.9 62.6875 150.9 0 150.9 0 150.9 0 150.9 0 150.9 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 62.6875 0 62.6875 0 62.6875 0 62.6875 0 62.6875 150.9 62.6875 150.9 62.6875 150.9 62.6875 150.9 0 150.9 0 150.9 0 150.9 0 150.9 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -5165,6 +5164,16 @@
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="The regional government of Galicia, Xunta de Galicia, supported this event in order to promote free software in the region. Thanks also to Canonical, Collabora, Google, Igalia, Red Hat, openshine, Open Invention Network, Mozilla, The Linux Foundation and Codethink for sponsoring this great event. "/>
             <trail PARENT="GNOME Bread"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="735.6032467" YPOS="7414.12" WIDTH="160.5" HEIGHT="11.630000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 160.5 0 160.5 0 160.5 0 160.5 0 160.5 11.63 160.5 11.63 160.5 11.63 160.5 11.63 0 11.63 0 11.63 0 11.63 0 11.63 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 160.5 0 160.5 0 160.5 0 160.5 0 160.5 11.63 160.5 11.63 160.5 11.63 160.5 11.63 0 11.63 0 11.63 0 11.63 0 11.63 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Source Sans Pro Bold" CH="Incomes, 2010 to 2012"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="735.6032467" YPOS="7598.12" WIDTH="160.5" HEIGHT="11.63" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 160.5 0 160.5 0 160.5 0 160.5 0 160.5 11.63 160.5 11.63 160.5 11.63 160.5 11.63 0 11.63 0 11.63 0 11.63 0 11.63 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 160.5 0 160.5 0 160.5 0 160.5 0 160.5 11.63 160.5 11.63 160.5 11.63 160.5 11.63 0 11.63 0 11.63 0 11.63 0 11.63 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="GNOME Bread" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Source Sans Pro Bold" CH="Exoenses, 2010 to 2012"/>
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
