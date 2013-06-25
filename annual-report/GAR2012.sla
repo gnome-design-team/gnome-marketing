@@ -3054,7 +3054,7 @@
             <ITEXT CH="Andreas Nilsson"/>
             <para PARENT="regular body text"/>
             <para/>
-            <ITEXT CH="Photos by:"/>
+            <ITEXT FONT="Source Sans Pro Bold" CH="Photos by:"/>
             <para/>
             <ITEXT CH="Fill-me-in"/>
             <trail/>
