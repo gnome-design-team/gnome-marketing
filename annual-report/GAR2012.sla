@@ -492,13 +492,13 @@
             <ITEXT CH="A conversation about The travelling GNOME"/>
             <para PARENT="regular body text"/>
             <para PARENT="regular body text"/>
-            <ITEXT CH="Friends of GNOME Contributors"/>
+            <ITEXT CH="Friends of GNOME contributors"/>
             <para PARENT="regular body text"/>
             <para PARENT="regular body text"/>
-            <ITEXT CH="Advisory Board and Hackfest Sponsors"/>
+            <ITEXT CH="Advisory Board and hackfest sponsors"/>
             <breakline/>
             <para PARENT="regular body text"/>
-            <ITEXT CH="Annual  Reprort credits"/>
+            <ITEXT CH="Annual  reprort credits"/>
             <trail PARENT="regular body text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
