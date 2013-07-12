@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 4">
+   sodipodi:docname="guadec2013.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -74,9 +74,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="755.13682"
-     inkscape:cy="565.65459"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="600.45862"
+     inkscape:cy="571.09263"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -583,5 +583,18 @@
          x="98.267853"
          y="341.80927"
          style="letter-spacing:4.39057159px;fill:#6b8e9f;fill-opacity:1">BRNO  CZECH REPUBLIC AUGUST 1-8</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6862-0"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6b8e9f;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-1.1715744,220.38477)"><flowRegion
+         id="flowRegion6864-2"><rect
+           id="rect6866-1"
+           width="532.82843"
+           height="118.46594"
+           x="104"
+           y="441.36218"
+           style="fill:#6b8e9f;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6868-6"
+         style="font-size:24px;text-align:center;text-anchor:middle;fill:#6b8e9f;fill-opacity:1">www.guadec.org</flowPara></flowRoot>  </g>
 </svg>
