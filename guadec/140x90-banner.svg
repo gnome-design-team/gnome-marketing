@@ -148,22 +148,31 @@
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect8771"
-       width="9954.2861"
-       height="6377.1431"
-       x="-868.57147"
-       y="-3781.9248" />
+       width="4816.8799"
+       height="3085.7146"
+       x="54.417431"
+       y="-2090.4961"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6553"
-       width="4969.9502"
-       height="3216.3257"
-       x="-3024.6145"
-       y="-4109.3003"
-       transform="matrix(0,1,-1,0,0,0)" />
+       width="2404.8147"
+       height="1556.3802"
+       x="-1724.0558"
+       y="-2463.21"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
-       transform="matrix(4.5659955,0,0,-4.5812678,1548.7106,-631.13282)"
+       transform="matrix(2.2094855,0,0,-2.2167426,1224.1404,-565.91941)"
        inkscape:label="ink_ext_XXXXXX"
-       id="g7307">
+       id="g7307"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="scale(0.1,0.1)"
          id="g7309">
@@ -240,9 +249,12 @@
       </g>
     </g>
     <g
-       transform="matrix(16.827272,0,0,-16.883555,1584.5749,116.15557)"
+       transform="matrix(8.142718,0,0,-8.1694624,1241.4951,-204.32824)"
        inkscape:label="ink_ext_XXXXXX"
-       id="g10388-3">
+       id="g10388-3"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="scale(0.1,0.1)"
          id="g10390-5">
@@ -297,7 +309,10 @@
     </g>
     <g
        id="g13031"
-       transform="matrix(10.169669,0,0,10.213584,386.89507,-9840.4165)">
+       transform="matrix(4.9211035,0,0,4.942057,661.93782,-5022.0246)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="matrix(0.77701177,0,0,0.77625867,-46.644109,591.03862)"
          style="font-size:79.21905518px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6b8e9f;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
@@ -459,8 +474,11 @@
     </g>
     <g
        style="fill:#6b8e9f;fill-opacity:1"
-       transform="matrix(4.9316237,0,0,4.9481192,443.37099,-3211.3015)"
-       id="g7332-8-6-2">
+       transform="matrix(2.386413,0,0,2.3942513,689.26652,-1814.3882)"
+       id="g7332-8-6-2"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="fill:#6b8e9f;fill-opacity:1;stroke:none"
          d="m 462.9377,929.82559 0,-31.51998 5.2544,-6.19774 16.9759,0 11.3172,-13.2809 4.4461,0 2.8293,-26.20762 2.8294,26.20762 5.2544,0 6.2649,-7.4373 0,-20.71819 3.0314,-5.48943 2.223,-32.22829 2.223,32.22829 2.8294,5.48943 0,18.94741 1.9403,2.74471 1.6168,0 1.4952,-2.74471 0,-18.94741 3.6773,-5.48943 2.3856,-32.58245 2.3854,32.58245 3.8795,5.48943 0,21.69212 4.0418,0 5.6587,-12.30696 6.467,26.91594 30.3141,0.35415 21.0177,-8.49976 5.4565,-13.10381 0,-8.14562 5.4565,-6.72898 6.0629,0.35416 0,-7.4373 2.4252,-6.37484 2.8292,5.66652 -0.4041,7.08315 42.0355,0 4.0419,17.70785 21.2198,12.74965 0,14.8746 11.9236,12.3955 0,23.37434 -251.4048,-1.4166"
@@ -739,20 +757,29 @@
     <path
        inkscape:connector-curvature="0"
        id="rect3008-2-7-1-2-1"
-       d="m 874.80464,1270.4524 3223.70136,0 0,678.6267 -3223.70136,0 z"
-       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       d="m 898.03732,354.20251 1559.94928,0 0,328.36776 -1559.94928,0 z"
+       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6553-0"
-       width="4969.9502"
-       height="3216.3257"
-       x="-3024.6145"
-       y="-7992.1572"
-       transform="matrix(0,1,-1,0,0,0)" />
+       width="2404.8147"
+       height="1556.3802"
+       x="-1724.0558"
+       y="-4342.1245"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        style="fill:#6b8e9f;fill-opacity:1"
-       transform="matrix(4.9316237,0,0,4.9481192,4329.0853,-3211.3015)"
-       id="g7332-8-6-2-5">
+       transform="matrix(2.386413,0,0,2.3942513,2569.5639,-1814.3882)"
+       id="g7332-8-6-2-5"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="fill:#6b8e9f;fill-opacity:1;stroke:none"
          d="m 462.9377,929.82559 0,-31.51998 5.2544,-6.19774 16.9759,0 11.3172,-13.2809 4.4461,0 2.8293,-26.20762 2.8294,26.20762 5.2544,0 6.2649,-7.4373 0,-20.71819 3.0314,-5.48943 2.223,-32.22829 2.223,32.22829 2.8294,5.48943 0,18.94741 1.9403,2.74471 1.6168,0 1.4952,-2.74471 0,-18.94741 3.6773,-5.48943 2.3856,-32.58245 2.3854,32.58245 3.8795,5.48943 0,21.69212 4.0418,0 5.6587,-12.30696 6.467,26.91594 30.3141,0.35415 21.0177,-8.49976 5.4565,-13.10381 0,-8.14562 5.4565,-6.72898 6.0629,0.35416 0,-7.4373 2.4252,-6.37484 2.8292,5.66652 -0.4041,7.08315 42.0355,0 4.0419,17.70785 21.2198,12.74965 0,14.8746 11.9236,12.3955 0,23.37434 -251.4048,-1.4166"
@@ -1031,11 +1058,17 @@
     <path
        inkscape:connector-curvature="0"
        id="rect3008-2-7-1-2-1-0"
-       d="m 4760.5189,1270.4524 3223.7014,0 0,678.6267 -3223.7014,0 z"
-       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       d="m 2778.3346,354.20251 1559.9494,0 0,328.36776 -1559.9494,0 z"
+       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g13031-0"
-       transform="matrix(10.169669,0,0,10.213584,4292.8951,-9840.4165)">
+       transform="matrix(4.9211035,0,0,4.942057,2552.0515,-5022.0246)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="matrix(0.77701177,0,0,0.77625867,-46.644109,591.03862)"
          style="font-size:79.21905518px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6b8e9f;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
@@ -1196,9 +1229,12 @@
       </g>
     </g>
     <g
-       transform="matrix(1.0632406,0,0,-1.0667969,5979.6433,-434.06519)"
+       transform="matrix(0.5145022,0,0,-0.51619207,3368.269,-470.5641)"
        inkscape:label="ink_ext_XXXXXX"
-       id="g6942-8">
+       id="g6942-8"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="scale(0.1,0.1)"
          id="g6944-8">
@@ -1290,9 +1326,12 @@
       </g>
     </g>
     <g
-       transform="matrix(1.436783,0,0,-1.4415888,5059.9288,-387.61806)"
+       transform="matrix(0.69525939,0,0,-0.69754299,2923.2191,-448.08968)"
        inkscape:label="ink_ext_XXXXXX"
-       id="g10-1">
+       id="g10-1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 232.311,59.4539 c 0,-9.975 4.808,-15.218 4.808,-15.218 0,0 -6.383,-5.0371 -11.303,-5.0371 -6.463,0 -9.214,11.6141 -9.214,16.416 0,21.6832 0,50.1822 0,50.1822 l 15.709,0 c 0,0 0,-36.3779 0,-46.3431 z m 1.27,65.4701 c 0,-7.476 -2.158,-8.743 -8.992,-8.743 -6.972,0 -9.123,1.267 -9.123,8.743 0,6.714 2.151,7.723 9.123,7.723 6.834,0 8.992,-1.009 8.992,-7.723"
          style="fill:#3a393a;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1333,8 +1372,11 @@
          y="-172.77368" />
     </g>
     <g
-       transform="matrix(1.1093962,0,0,1.113107,6590.8063,-986.3604)"
-       id="g3-9-4-0">
+       transform="matrix(0.53683689,0,0,0.53860018,3664.0108,-737.80373)"
+       id="g3-9-4-0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g5-2-1-1">
         <path
@@ -1500,7 +1542,10 @@
     </g>
     <g
        id="g13096-0-4-2-4"
-       transform="matrix(1.5521163,0,0,1.5588187,6885.1713,-135.50613)">
+       transform="matrix(0.75106918,0,0,0.75426714,3806.4541,-326.10003)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          style="fill:#127cc1;fill-opacity:1"
@@ -1552,9 +1597,12 @@
            sodipodi:role="line">®</tspan></text>
     </g>
     <g
-       transform="matrix(1.1273846,0,0,-1.1322529,5462.4699,22.118852)"
+       transform="matrix(0.54554148,0,0,-0.54786433,3118.0088,-249.82988)"
        inkscape:label="ink_ext_XXXXXX"
-       id="g13958-5-8-3">
+       id="g13958-5-8-3"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="scale(0.1,0.1)"
          id="g13960-9-8-6">
@@ -1588,8 +1636,11 @@
       </g>
     </g>
     <g
-       transform="matrix(1.1597953,0,0,1.1648036,5733.352,-611.28802)"
-       id="g3796-2-0-6">
+       transform="matrix(0.56122502,0,0,0.56361467,3249.0886,-556.31709)"
+       id="g3796-2-0-6"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          transform="matrix(0.06147204,0,0,0.06147204,183.93485,-14.571796)"
@@ -1633,9 +1684,12 @@
          transform="translate(0,205.05391)" />
     </g>
     <g
-       transform="matrix(1.1043211,0,0,-1.1090899,5438.007,514.60234)"
+       transform="matrix(0.53438105,0,0,-0.53665642,3106.1712,-11.531412)"
        id="g14-3-0-5"
-       clip-path="url(#clipPath16-4-1-7)">
+       clip-path="url(#clipPath16-4-1-7)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          d="m 454.05,242.235 -7.773,0 0,1.297 7.773,0 0,-1.297 z m 1.297,3.887 -10.373,0 0,-1.292 -1.292,0 0,-7.784 1.292,0 0,-1.287 10.373,0 0,2.585 -9.071,0 0,1.302 10.364,0 0,5.184 -1.293,0 0,1.292 z m -25.401,0 0,-1.292 -1.297,0 0,-7.784 1.297,0 0,-1.287 11.66,0 0,2.585 -10.368,0 0,5.188 10.368,0 0,2.59 -11.66,0 z m -15.033,0 0,-1.292 -1.297,0 0,-9.071 2.595,0 0,7.773 10.357,0 0,2.59 -11.655,0 z m -5.968,0 0,-7.778 -7.772,0 0,7.778 -2.595,0 0,-9.076 1.297,0 0,-1.287 10.368,0 0,1.287 1.297,0 0,9.076 -2.595,0 z m -15.032,-7.778 -7.778,0 0,5.188 7.778,0 0,-5.188 z m 1.297,7.778 -10.373,0 0,-1.292 -1.287,0 0,-7.784 1.287,0 0,-1.287 10.373,0 0,1.287 1.292,0 0,7.784 -1.292,0 0,1.292 z m -25.4,0 0,-1.292 -1.298,0 0,-3.887 1.298,0 0,-1.297 9.07,0 0,-1.302 -10.368,0 0,-2.585 11.665,0 0,1.287 1.298,0 0,3.897 -1.298,0 0,1.292 -9.071,0 0,1.297 10.369,0 0,2.59 -11.665,0 z m -11.665,0 -11.666,0 0,-10.363 2.599,0 0,7.773 7.774,0 0,-7.773 2.589,0 0,9.071 -1.296,0 0,1.292 z m -16.326,-3.887 -7.779,0 0,1.297 7.779,0 0,-1.297 z m 1.297,3.887 -10.373,0 0,-1.292 -1.292,0 0,-7.784 1.292,0 0,-1.287 10.373,0 0,2.585 -9.076,0 0,1.302 10.368,0 0,5.184 -1.292,0 0,1.292 z m -16.335,-5.179 -7.779,0 0,2.589 7.779,0 0,-2.589 z m 1.297,5.179 -11.66,0 0,-10.363 2.584,0 0,2.585 9.076,0 0,1.302 1.297,0 0,5.184 -1.297,0 0,1.292 z m -16.33,-7.778 -7.778,0 0,5.188 7.778,0 0,-5.188 z m 1.297,7.778 -10.362,0 0,-1.292 -1.298,0 0,-7.784 1.298,0 0,-1.287 10.362,0 0,1.287 1.298,0 0,7.784 -1.298,0 0,1.292 z m -25.92,-7.778 -5.188,0 0,1.302 5.188,0 0,-1.302 z m -5.188,5.188 5.188,0 0,-1.297 -5.188,0 0,1.297 z m 7.783,-2.589 -1.308,0 0,1.292 1.308,0 0,-1.292 z m 0,1.292 0,2.595 -1.308,0 0,1.292 -7.763,0 0,-1.292 -1.297,0 0,-2.595 1.297,0 0,-2.589 -1.297,0 0,-2.6 1.297,0 0,-1.287 7.763,0 0,1.287 1.308,0 0,-1.287 2.584,0 0,2.585 -1.286,0 0,1.302 1.286,0 0,2.589 -2.584,0 z m -22.033,0 -7.773,0 0,1.297 7.773,0 0,-1.297 z m 1.297,3.887 -10.373,0 0,-1.292 -1.292,0 0,-7.784 1.292,0 0,-1.287 10.373,0 0,2.585 -9.07,0 0,1.302 10.367,0 0,5.184 -1.297,0 0,1.292 z m -16.336,-3.887 -7.773,0 0,1.297 7.773,0 0,-1.297 z m 1.303,3.887 -10.373,0 0,-1.292 -1.292,0 0,-7.784 1.292,0 0,-1.287 10.373,0 0,2.585 -9.076,0 0,1.302 10.368,0 0,5.184 -1.292,0 0,1.292 z m -25.401,0 0,-1.292 -1.297,0 0,-9.071 2.595,0 0,7.773 10.367,0 0,2.59 -11.665,0 z m -11.151,-3.887 0,1.297 6.481,0 0,2.59 -7.774,0 0,-1.292 -1.296,0 0,-2.595 -2.595,0 0,-2.589 2.595,0 0,-3.887 2.589,0 0,3.887 7.778,0 0,2.589 -7.778,0 z"
@@ -1654,7 +1708,10 @@
     </g>
     <g
        id="g14102-0-2-0"
-       transform="matrix(12.369894,0,0,12.423311,2933.0504,-4851.0679)">
+       transform="matrix(5.9857925,0,0,6.0112797,1894.0225,-2607.8235)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          id="rect2641-1-7-8-9-2"
@@ -1705,7 +1762,10 @@
     </g>
     <g
        id="g14126-4-3-7"
-       transform="matrix(7.6808613,0,0,7.7140291,5005.8181,-2878.9077)">
+       transform="matrix(3.7167693,0,0,3.7325949,2897.0349,-1653.5524)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
          y="323.13745"
@@ -1738,8 +1798,11 @@
          style="fill:#000000;fill-opacity:1;stroke:none" />
     </g>
     <g
-       transform="matrix(1.1831673,0,0,1.1882765,6321.2524,-466.58249)"
-       id="g6210-3-0-4">
+       transform="matrix(0.57253473,0,0,0.57497252,3533.5737,-486.29828)"
+       id="g6210-3-0-4"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-51.724145,37.073081)"
          id="g6102-6-4-9">
@@ -1937,9 +2000,12 @@
            style="font-size:13.88339329px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:107.00000525%;letter-spacing:-0.35839522px;writing-mode:lr-tb;text-anchor:start;fill:#05a1e6;fill-opacity:1;font-family:Futura LT;-inkscape-font-specification:'Futura LT, Normal'">TECHNOLOGY</tspan></text>
     </g>
     <g
-       transform="matrix(3.2082251,0,0,-3.2189559,5087.2362,-803.79378)"
+       transform="matrix(1.5524603,0,0,-1.5575594,2936.4332,-649.46504)"
        inkscape:label="ink_ext_XXXXXX"
-       id="g7307-3-0">
+       id="g7307-3-0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="scale(0.1,0.1)"
          id="g7309-1-7">
@@ -2016,9 +2082,12 @@
       </g>
     </g>
     <g
-       transform="matrix(11.823418,0,0,-11.862965,6501.8753,-785.46005)"
+       transform="matrix(5.7213527,0,0,-5.7401446,3620.9771,-640.59388)"
        inkscape:label="ink_ext_XXXXXX"
-       id="g10388-3-9-8">
+       id="g10388-3-9-8"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="scale(0.1,0.1)"
          id="g10390-5-4-6">
