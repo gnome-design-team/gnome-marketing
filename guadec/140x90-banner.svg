@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="140x90-banner.svg"
+   inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/140x90-banner.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <clipPath
@@ -113,7 +116,21 @@
      id="layer1"
      transform="translate(0,2136.6154)">
     <rect
-       style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;stroke:#babdb6;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1"
+       id="rect6553-5"
+       width="4969.9502"
+       height="3216.3257"
+       x="5543.7173"
+       y="-2147.8022" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7942"
+       width="12480"
+       height="5360"
+       x="-982.85712"
+       y="-3347.6392" />
+    <rect
+       style="color:#000000;fill:#ffffff;stroke:#babdb6;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1"
        id="rect6553"
        width="4969.9502"
        height="3216.3257"
@@ -1157,13 +1174,6 @@
            id="tspan6894-7-6-8"
            style="font-size:13.88339329px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:107.00000525%;letter-spacing:-0.35839522px;writing-mode:lr-tb;text-anchor:start;fill:#05a1e6;fill-opacity:1;font-family:Futura LT;-inkscape-font-specification:'Futura LT, Normal'">TECHNOLOGY</tspan></text>
     </g>
-    <rect
-       style="color:#000000;fill:none;stroke:#babdb6;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6553-5"
-       width="4969.9502"
-       height="3216.3257"
-       x="5543.7173"
-       y="-2147.8022" />
     <g
        transform="matrix(2.611993,0,0,-2.6207295,6947.9402,-432.89348)"
        inkscape:label="ink_ext_XXXXXX"
