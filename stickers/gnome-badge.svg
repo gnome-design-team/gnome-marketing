@@ -14,7 +14,7 @@
    id="svg3020"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 2">
+   sodipodi:docname="gnome-badge.svg">
   <defs
      id="defs3022" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="50.708367"
+     inkscape:cx="4.083367"
      inkscape:cy="35.743811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,13 +63,13 @@
      transform="translate(0,-962.35975)">
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:0.50279331;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.5027933;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.5027933,1.5083799;stroke-dashoffset:0"
        id="path3119"
        sodipodi:cx="45"
        sodipodi:cy="45"
        sodipodi:rx="45"
        sodipodi:ry="45"
-       d="M 90,45 A 45,45 0 1 1 0,45 45,45 0 1 1 90,45 z"
+       d="M 90,45 C 90,69.852814 69.852814,90 45,90 20.147186,90 0,69.852814 0,45 0,20.147186 20.147186,0 45,0 69.852814,0 90,20.147186 90,45 z"
        transform="matrix(0.99444444,0,0,0.99444444,0.2500002,962.60975)" />
     <g
        id="g3102"

@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="212.50771"
-   height="212.59842"
+   width="212.50999"
+   height="212.60001"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gnomelove-logo.svg">
+   sodipodi:docname="gnome-love.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -43,18 +43,18 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="133.97512"
-     inkscape:cy="220.28209"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="57.450595"
+     inkscape:cy="172.85409"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="840"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     units="cm"
+     units="px"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      fit-margin-top="0"
@@ -87,11 +87,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-0.89073616,-840.15268)">
+     transform="translate(-0.89073616,-840.1511)">
     <path
        inkscape:connector-curvature="0"
        id="path9405"
        d="m 67.637051,871.50614 c -25.693187,0.29963 -45.705623,22.30324 -45.931084,48.80423 -0.331693,37.66595 22.13331,49.77946 85.892173,102.31013 60.91425,-56.46721 85.16251,-71.67063 85.46574,-103.41695 0.33171,-34.72678 -50.09734,-68.47853 -86.79241,-31.86134 C 93.118521,876.03984 79.745336,871.36493 67.637051,871.50614 z M 129.0617,904.9946 c 14.69405,0 -0.91773,20.88772 -9.18242,20.88772 -8.26589,0 -5.51103,-20.88772 9.18242,-20.88772 z m -22.69547,2.55421 c 7.23297,0.0249 2.56734,16.00138 -1.69624,15.74147 -4.4029,-0.2683 -7.311777,-14.62275 0.9571,-15.69417 0.25849,-0.0335 0.50582,-0.0481 0.73914,-0.0473 z m -14.327994,5.68547 c 5.157963,-0.11409 4.714393,12.90436 1.279285,13.60351 -3.723232,0.75959 -9.365822,-10.544 -2.719666,-13.28187 0.519138,-0.21385 1.003266,-0.31197 1.440381,-0.32164 z m -10.812331,8.85458 c 4.20005,-0.24301 6.057092,10.56213 3.269285,11.78718 -3.130165,1.3749 -10.238413,-7.48358 -4.918142,-11.15336 0.582166,-0.40132 1.133061,-0.60398 1.648857,-0.63382 z m 29.736275,6.78283 c 7.23616,-0.0641 13.2144,2.17236 13.98686,6.75445 2.38241,14.13178 -33.765305,19.2943 -20.15586,29.63824 4.27509,3.24944 8.64011,0.75512 7.97896,-4.28539 -0.55186,-4.20519 14.81066,-6.74304 13.6078,-0.38786 -1.57493,8.33407 -9.99569,14.90899 -17.29404,14.90899 -14.835598,0 -29.05646,-17.22419 -26.277472,-29.63824 2.501772,-11.18462 16.865356,-16.89022 28.153752,-16.99019 z"
        style="fill:#c71807;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1,3;stroke-dashoffset:0"
+       id="rect3001"
+       width="213.50999"
+       height="213.60001"
+       x="0.39073616"
+       y="839.65112" />
   </g>
 </svg>
