@@ -158,127 +158,140 @@
             <trail PARENT="bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="157.00062992126" YPOS="3759.07181102094" WIDTH="481.4993701" HEIGHT="80.9990551207879" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 481.499 0 481.499 0 481.499 0 481.499 0 481.499 80.9991 481.499 80.9991 481.499 80.9991 481.499 80.9991 0 80.9991 0 80.9991 0 80.9991 0 80.9991 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 481.499 0 481.499 0 481.499 0 481.499 0 481.499 80.9991 481.499 80.9991 481.499 80.9991 481.499 80.9991 0 80.9991 0 80.9991 0 80.9991 0 80.9991 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="157.00062992126" YPOS="3863.95370078471" WIDTH="481.4993701" HEIGHT="65.9281889790659" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 481.499 0 481.499 0 481.499 0 481.499 0 481.499 65.9282 481.499 65.9282 481.499 65.9282 481.499 65.9282 0 65.9282 0 65.9282 0 65.9282 0 65.9282 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 481.499 0 481.499 0 481.499 0 481.499 0 481.499 65.9282 481.499 65.9282 481.499 65.9282 481.499 65.9282 0 65.9282 0 65.9282 0 65.9282 0 65.9282 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="14" CH="Help us make this happen by becoming a sponsor"/>
-            <para/>
             <para/>
             <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="GUADEC sponsorship offers a wide variety of benefits, and encourages sponsors to become more deeply involved in the community. The opportunity also exists to combine sponsorship of both GUADEC and GNOME.Asia events at a reduced price. Please see the Sponsor Package section and Terms and Conditions for more details."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="405.407480314961" YPOS="3848.55212602047" WIDTH="235.275590551181" HEIGHT="321.447873979536" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 321.448 235.276 321.448 235.276 321.448 235.276 321.448 0 321.448 0 321.448 0 321.448 0 321.448 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 321.448 235.276 321.448 235.276 321.448 235.276 321.448 0 321.448 0 321.448 0 321.448 0 321.448 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" CH="Access technical talent"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="8" CH="Experienced and capable software developers from around the globe attend GUADEC. Sponsorship allows you to meet individuals, consultancies, and potential business partners who can help you achieve your technical goals.    "/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" CH="Network with technology decision-makers"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="8" CH="GUADEC attendees typically include individuals who are responsible for government purchasing, setting technical agendas at major corporations, determining academic work and research."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" CH="Encourage technology adoption"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="8" CH="GUADEC has been a site for product launches, and can be a great place to encourage software developers to use new technologies."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="403.57283464567" YPOS="4010.42614176849" WIDTH="235.275590551181" HEIGHT="58.7057479952832" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 58.7057 235.276 58.7057 235.276 58.7057 235.276 58.7057 0 58.7057 0 58.7057 0 58.7057 0 58.7057 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 58.7057 235.276 58.7057 235.276 58.7057 235.276 58.7057 0 58.7057 0 58.7057 0 58.7057 0 58.7057 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Open Sans Bold" FONTSIZE="8" KERN="-2" CH="Give back to free and open source software"/>
             <para PARENT="bread"/>
             <ITEXT FONTSIZE="8" CH="You will be recognized not only as a sponsor of GUADEC, but also a supporter of free software, the GNOME project, and the ideals on which these are founded."/>
             <trail PARENT="bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="155.958661438584" YPOS="3848.55212602047" WIDTH="235.275590551181" HEIGHT="301.197873979536" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 301.198 235.276 301.198 235.276 301.198 235.276 301.198 0 301.198 0 301.198 0 301.198 0 301.198 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 301.198 235.276 301.198 235.276 301.198 235.276 301.198 0 301.198 0 301.198 0 301.198 0 301.198 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" CH="Meet key contributors"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="8" CH="It's a unique opportunity to meet contributors, maintainers and users of one of the world's leading Free and Open Source technology platforms."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" CH="Influence future product direction"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="8" CH="Sponsoring and attending GUADEC not only gives you advance information on the GNOME's plans for the coming year, but provides you a voice in shaping those plans.    "/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" CH="Promote your company"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="8" KERN="0" CH="Sponsorship provides you with promotion through visible advertising, technical presentations, and international press coverage"/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" KERN="0" CH="Contribute to the development of GNOME technologies"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="8" CH="Supporting GUADEC helps support the development of new features and components, as the event hosts planning and coding sessions, as well as technology and interoperability meetings."/>
-            <trail PARENT="bread"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="157.00062992126" YPOS="4188.62299212221" WIDTH="481.4993701" HEIGHT="13.9990551218907" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 481.499 0 481.499 0 481.499 0 481.499 0 481.499 13.9991 481.499 13.9991 481.499 13.9991 481.499 13.9991 0 13.9991 0 13.9991 0 13.9991 0 13.9991 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 481.499 0 481.499 0 481.499 0 481.499 0 481.499 13.9991 481.499 13.9991 481.499 13.9991 481.499 13.9991 0 13.9991 0 13.9991 0 13.9991 0 13.9991 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="157.00062992126" YPOS="4222.63874015371" WIDTH="481.4993701" HEIGHT="13.9990551218907" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 481.499 0 481.499 0 481.499 0 481.499 0 481.499 13.9991 481.499 13.9991 481.499 13.9991 481.499 13.9991 0 13.9991 0 13.9991 0 13.9991 0 13.9991 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 481.499 0 481.499 0 481.499 0 481.499 0 481.499 13.9991 481.499 13.9991 481.499 13.9991 481.499 13.9991 0 13.9991 0 13.9991 0 13.9991 0 13.9991 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="Past sponsors who help make GUADEC and continuing GNOME work possible include: "/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="157.00062992126" YPOS="4205.63086610079" WIDTH="157.334015748032" HEIGHT="141.014803190555" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 157.334 0 157.334 0 157.334 0 157.334 0 157.334 141.015 157.334 141.015 157.334 141.015 157.334 141.015 0 141.015 0 141.015 0 141.015 0 141.015 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 157.334 0 157.334 0 157.334 0 157.334 0 157.334 141.015 157.334 141.015 157.334 141.015 157.334 141.015 0 141.015 0 141.015 0 141.015 0 141.015 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="ACCESS"/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="Igalia "/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="Novell"/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="SUSE "/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="ARM"/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="Intel"/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="O'Reilly "/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="Canonical/Ubuntu"/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="Lanedo "/>
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="315.740787401575" YPOS="4205.63086612284" WIDTH="157.3340157" HEIGHT="141.0148032" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 157.334 0 157.334 0 157.334 0 157.334 0 157.334 141.015 157.334 141.015 157.334 141.015 157.334 141.015 0 141.015 0 141.015 0 141.015 0 141.015 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 157.334 0 157.334 0 157.334 0 157.334 0 157.334 141.015 157.334 141.015 157.334 141.015 157.334 141.015 0 141.015 0 141.015 0 141.015 0 141.015 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="10" CH="Openismus "/>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="157.00062992126" YPOS="4239.64661413229" WIDTH="116.220472440945" HEIGHT="100.869133899208" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 116.22 0 116.22 0 116.22 0 116.22 0 116.22 100.869 116.22 100.869 116.22 100.869 116.22 100.869 0 100.869 0 100.869 0 100.869 0 100.869 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 116.22 0 116.22 0 116.22 0 116.22 0 116.22 100.869 116.22 100.869 116.22 100.869 116.22 100.869 0 100.869 0 100.869 0 100.869 0 100.869 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="10" BACKITEM="-1">
+            <ITEXT CH="ACCESS"/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Collabora "/>
+            <ITEXT CH="Igalia "/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Linux Magazine "/>
+            <ITEXT CH="Novell"/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="OpenShine"/>
+            <ITEXT CH="SUSE "/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Fluendo "/>
+            <ITEXT CH="ARM"/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Mandriva "/>
+            <ITEXT CH="Intel"/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Red Hat "/>
+            <ITEXT CH="O'Reilly "/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Google"/>
+            <ITEXT CH="Canonical/Ubuntu"/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Codethink "/>
+            <ITEXT CH="Lanedo"/>
             <para PARENT="bread"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="474.480944901574" YPOS="4205.63086612284" WIDTH="157.3340157" HEIGHT="155.188031514961" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 157.334 0 157.334 0 157.334 0 157.334 0 157.334 155.188 157.334 155.188 157.334 155.188 157.334 155.188 0 155.188 0 155.188 0 155.188 0 155.188 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 157.334 0 157.334 0 157.334 0 157.334 0 157.334 155.188 157.334 155.188 157.334 155.188 157.334 155.188 0 155.188 0 155.188 0 155.188 0 155.188 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Openismus "/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Meego"/>
+            <ITEXT CH="Collabora "/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Mozilla "/>
+            <ITEXT CH="Linux Magazine "/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Sun Microsystems "/>
+            <ITEXT CH="OpenShine"/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Hewlett-Packard "/>
+            <ITEXT CH="Fluendo "/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Mozilla "/>
+            <ITEXT CH="Mandriva "/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="The Linux Foundation "/>
+            <ITEXT CH="Red Hat "/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Open Invention Network"/>
+            <ITEXT CH="Google"/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="IBM "/>
+            <ITEXT CH="Codethink "/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Nokia "/>
+            <ITEXT CH="Meego"/>
             <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="Ubuntu User"/>
+            <ITEXT CH="Mozilla "/>
+            <para PARENT="bread"/>
+            <ITEXT CH="Sun Microsystems "/>
+            <para PARENT="bread"/>
+            <ITEXT CH="Hewlett-Packard "/>
+            <para PARENT="bread"/>
+            <ITEXT CH="Mozilla "/>
+            <para PARENT="bread"/>
+            <ITEXT CH="The Linux Foundation "/>
+            <para PARENT="bread"/>
+            <ITEXT CH="Open Invention Network"/>
+            <para PARENT="bread"/>
+            <ITEXT CH="IBM "/>
+            <para PARENT="bread"/>
+            <ITEXT CH="Nokia "/>
+            <para PARENT="bread"/>
+            <ITEXT CH="Ubuntu User"/>
             <trail PARENT="bread"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="280.740787401575" YPOS="4239.64661415434" WIDTH="116.220472440945" HEIGHT="107.282519703927" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 116.22 0 116.22 0 116.22 0 116.22 0 116.22 107.283 116.22 107.283 116.22 107.283 116.22 107.283 0 107.283 0 107.283 0 107.283 0 107.283 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 116.22 0 116.22 0 116.22 0 116.22 0 116.22 107.283 116.22 107.283 116.22 107.283 116.22 107.283 0 107.283 0 107.283 0 107.283 0 107.283 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="11" BACKITEM="9">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="403.480944901574" YPOS="4239.64661415434" WIDTH="116.220472440945" HEIGHT="106.119133877157" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 116.22 0 116.22 0 116.22 0 116.22 0 116.22 106.119 116.22 106.119 116.22 106.119 116.22 106.119 0 106.119 0 106.119 0 106.119 0 106.119 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 116.22 0 116.22 0 116.22 0 116.22 0 116.22 106.119 116.22 106.119 116.22 106.119 116.22 106.119 0 106.119 0 106.119 0 106.119 0 106.119 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="19" BACKITEM="10">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="156.675196874331" YPOS="3941.72535441102" WIDTH="235.2755906" HEIGHT="56.9065353527517" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 56.9065 235.276 56.9065 235.276 56.9065 235.276 56.9065 0 56.9065 0 56.9065 0 56.9065 0 56.9065 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 56.9065 235.276 56.9065 235.276 56.9065 235.276 56.9065 0 56.9065 0 56.9065 0 56.9065 0 56.9065 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" CH="Meet key contributors"/>
+            <para PARENT="bread"/>
+            <ITEXT FONTSIZE="8" CH="It's a unique opportunity to meet contributors, maintainers and users of one of the world's leading Free and Open Source technology platforms."/>
+            <trail PARENT="bread"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="401.95866144126" YPOS="3941.93007882047" WIDTH="235.2755906" HEIGHT="56.9518109433084" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 56.9518 235.276 56.9518 235.276 56.9518 235.276 56.9518 0 56.9518 0 56.9518 0 56.9518 0 56.9518 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 56.9518 235.276 56.9518 235.276 56.9518 235.276 56.9518 0 56.9518 0 56.9518 0 56.9518 0 56.9518 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" BASEO="0" CH="Influence future product direction"/>
+            <para PARENT="bread"/>
+            <ITEXT FONTSIZE="8" CH="Sponsoring and attending GUADEC not only gives you advance information on the GNOME's plans for the coming year, but provides you a voice in shaping those plans.    "/>
+            <trail PARENT="bread"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="155.95866144126" YPOS="4079.74897645826" WIDTH="235.2755906" HEIGHT="46.0777951952764" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 46.0778 235.276 46.0778 235.276 46.0778 235.276 46.0778 0 46.0778 0 46.0778 0 46.0778 0 46.0778 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 46.0778 235.276 46.0778 235.276 46.0778 235.276 46.0778 0 46.0778 0 46.0778 0 46.0778 0 46.0778 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" CH="Promote your company"/>
+            <para PARENT="bread"/>
+            <ITEXT FONTSIZE="8" KERN="-4" CH="Sponsorship provides you with promotion through visible ad-vertising, technical presentations, and international press coverage."/>
+            <trail PARENT="bread"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="156.793307110551" YPOS="4010.58362212755" WIDTH="235.2755906" HEIGHT="59.7018109433084" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 59.7018 235.276 59.7018 235.276 59.7018 235.276 59.7018 0 59.7018 0 59.7018 0 59.7018 0 59.7018 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 59.7018 235.276 59.7018 235.276 59.7018 235.276 59.7018 0 59.7018 0 59.7018 0 59.7018 0 59.7018 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" KERN="0" CH="Contribute to the development of GNOME technologies"/>
+            <para PARENT="bread"/>
+            <ITEXT FONTSIZE="8" KERN="-3" CH="Supporting GUADEC helps support the development of new features and components, as the event hosts planning and coding sessions, as well as technology and interoperability meetings."/>
+            <trail PARENT="bread"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="156.620078746457" YPOS="4135.74897645827" WIDTH="235.2755906" HEIGHT="71.6211022818907" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 71.6211 235.276 71.6211 235.276 71.6211 235.276 71.6211 0 71.6211 0 71.6211 0 71.6211 0 71.6211 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 71.6211 235.276 71.6211 235.276 71.6211 235.276 71.6211 0 71.6211 0 71.6211 0 71.6211 0 71.6211 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" CH="Access technical talent"/>
+            <para PARENT="bread"/>
+            <ITEXT FONTSIZE="8" CH="Experienced and capable software developers from around the globe attend GUADEC. Sponsorship allows you to meet individuals, consultancies, and potential business partners who can help you achieve your technical goals."/>
+            <trail PARENT="bread"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="402.580708667716" YPOS="4135.74110244252" WIDTH="235.2755906" HEIGHT="59.3022046440933" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 59.3022 235.276 59.3022 235.276 59.3022 235.276 59.3022 0 59.3022 0 59.3022 0 59.3022 0 59.3022 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 59.3022 235.276 59.3022 235.276 59.3022 235.276 59.3022 0 59.3022 0 59.3022 0 59.3022 0 59.3022 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" CH="Network with technology decision-makers"/>
+            <para PARENT="bread"/>
+            <ITEXT FONTSIZE="8" KERN="-3" CH="GUADEC attendees typically include individuals who are responsible for government purchasing, setting technical agendas at major corporations, determining academic work and research."/>
+            <trail PARENT="bread"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="402.746062998425" YPOS="4079.89858275748" WIDTH="235.2755906" HEIGHT="45.7175589748022" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 45.7176 235.276 45.7176 235.276 45.7176 235.276 45.7176 0 45.7176 0 45.7176 0 45.7176 0 45.7176 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 235.276 0 235.276 0 235.276 0 235.276 0 235.276 45.7176 235.276 45.7176 235.276 45.7176 235.276 45.7176 0 45.7176 0 45.7176 0 45.7176 0 45.7176 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Open Sans Bold" FONTSIZE="8" CH="Encourage technology adoption"/>
+            <para PARENT="bread"/>
+            <ITEXT FONTSIZE="8" KERN="-2" CH="GUADEC has been a site for product launches, and can be a great place to encourage software developers to use new technologies."/>
+            <trail PARENT="bread"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="523.48094492126" YPOS="4240.64661414961" WIDTH="116.2204724" HEIGHT="120.869133881891" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 116.22 0 116.22 0 116.22 0 116.22 0 116.22 120.869 116.22 120.869 116.22 120.869 116.22 120.869 0 120.869 0 120.869 0 120.869 0 120.869 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 116.22 0 116.22 0 116.22 0 116.22 0 116.22 120.869 116.22 120.869 116.22 120.869 116.22 120.869 0 120.869 0 120.869 0 120.869 0 120.869 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="11">
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
