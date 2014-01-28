@@ -29,7 +29,7 @@
         <STYLE NAME="bread" FONT="Open Sans Regular" FONTSIZE="10" LANGUAGE="Swedish"/>
         <STYLE NAME="header" FONT="Open Sans Bold" FONTSIZE="14" FCOLOR="guadec-blue" LANGUAGE="Swedish"/>
         <STYLE NAME="list" PARENT="bread" INDENT="8.50393700787402" FIRST="-8.50393700787402" DROP="0" CPARENT="Default Character Style" FONT="Open Sans Regular" FONTSIZE="10"/>
-        <STYLE NAME="caption" PARENT="bread" FONTSIZE="8" FSHADE="70"/>
+        <STYLE NAME="caption" PARENT="bread" FONTSIZE="8" FSHADE="60"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Swedish"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-1" PDLanguage="-1" markOffset="-8.31100650043528e+306" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
