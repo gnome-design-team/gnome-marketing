@@ -20,8 +20,8 @@
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
         <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
-        <STYLE NAME="bread" FONT="Source Sans Pro Regular" FONTSIZE="10" LANGUAGE="Swedish"/>
-        <STYLE NAME="header" FONT="Source Sans Pro Regular" FONTSIZE="14" LANGUAGE="Swedish"/>
+        <STYLE NAME="bread" FONT="Open Sans Regular" FONTSIZE="10" LANGUAGE="Swedish"/>
+        <STYLE NAME="header" FONT="Open Sans Bold" FONTSIZE="14" LANGUAGE="Swedish"/>
         <CHARSTYLE CNAME="Default Character Style" FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Swedish"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="255" useAltPrintCommand="255" outputSeparations="255" useSpotColors="255" useColor="255" mirrorH="255" mirrorV="255" useICC="255" doGCR="255" doClip="255" setDevParam="255" useDocBleeds="255" cropMarks="255" bleedMarks="255" registrationMarks="255" colorMarks="255" includePDFMarks="255" PSLevel="-1" PDLanguage="-1" markOffset="-8.31100650043528e+306" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
@@ -62,7 +62,7 @@
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3547.55905511811" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="56.6929133858268" BORDERRIGHT="56.6929133858268" BORDERTOP="56.6929133858268" BORDERBOTTOM="28.3464566929134" NUM="4" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="156.00062992126" YPOS="958.00094488189" WIDTH="481.49937007874" HEIGHT="377.590551181102" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 481.499 0 481.499 0 481.499 0 481.499 0 481.499 377.591 481.499 377.591 481.499 377.591 481.499 377.591 0 377.591 0 377.591 0 377.591 0 377.591 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 481.499 0 481.499 0 481.499 0 481.499 0 481.499 377.591 481.499 377.591 481.499 377.591 481.499 377.591 0 377.591 0 377.591 0 377.591 0 377.591 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="GNOME: Practical and ethical software"/>
-            <para PARENT="bread"/>
+            <para PARENT="header"/>
             <para PARENT="bread"/>
             <ITEXT CH="The GNOME Foundation is a US public charity focused on making software that improves access to technology for all, no matter where you are, what your background is or how much money you have."/>
             <para PARENT="bread"/>
@@ -167,36 +167,35 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="425.25" YPOS="3738.00094491811" WIDTH="213.333307073936" HEIGHT="347.2490551" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 213.333 0 213.333 0 213.333 0 213.333 0 213.333 347.249 213.333 347.249 213.333 347.249 213.333 347.249 0 347.249 0 347.249 0 347.249 0 347.249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 213.333 0 213.333 0 213.333 0 213.333 0 213.333 347.249 213.333 347.249 213.333 347.249 213.333 347.249 0 347.249 0 347.249 0 347.249 0 347.249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="Access technical talent"/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="Experienced and capable software developers from around the globe attend GUADEC. Sponsorship allows you to meet individuals, consultancies, and potential business partners who can help you achieve your technical goals.    "/>
-            <para/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="Network with technology decision-makers"/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="GUADEC attendees typically include individuals who are responsible for government purchasing, setting technical agendas at major corporations, determining academic work and research."/>
-            <para/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="Encourage technology adoption"/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Regular" FONTSIZE="10" CH="GUADEC has been a site for product launches, and can be a great place to encourage software developers to use new technologies."/>
-            <trail/>
+            <ITEXT CH="Access technical talent"/>
+            <para PARENT="bread"/>
+            <ITEXT CH="Experienced and capable software developers from around the globe attend GUADEC. Sponsorship allows you to meet individuals, consultancies, and potential business partners who can help you achieve your technical goals.    "/>
+            <para PARENT="bread"/>
+            <para PARENT="bread"/>
+            <ITEXT CH="Network with technology decision-makers"/>
+            <para PARENT="bread"/>
+            <ITEXT CH="GUADEC attendees typically include individuals who are responsible for government purchasing, setting technical agendas at major corporations, determining academic work and research."/>
+            <para PARENT="bread"/>
+            <para PARENT="bread"/>
+            <ITEXT CH="Encourage technology adoption"/>
+            <para PARENT="bread"/>
+            <ITEXT CH="GUADEC has been a site for product launches, and can be a great place to encourage software developers to use new technologies."/>
+            <trail PARENT="bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="155.958661438584" YPOS="3738.00094491811" WIDTH="213.3333071" HEIGHT="347.2490551" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 213.333 0 213.333 0 213.333 0 213.333 0 213.333 347.249 213.333 347.249 213.333 347.249 213.333 347.249 0 347.249 0 347.249 0 347.249 0 347.249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 213.333 0 213.333 0 213.333 0 213.333 0 213.333 347.249 213.333 347.249 213.333 347.249 213.333 347.249 0 347.249 0 347.249 0 347.249 0 347.249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Source Sans Pro Light" FONTSIZE="10" CH="Meet key contributors"/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Light" FONTSIZE="10" CH="It's a unique opportunity to meet contributors, maintainers and users of one of the world's leading Free and Open Source technology platforms."/>
-            <para/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Light" FONTSIZE="10" CH="Influence future product direction. Sponsoring and attending GUADEC not only gives you advance information on the GNOME's plans for the coming year, but provides you a voice in shaping those plans.    "/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Light" FONTSIZE="10" CH="  "/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Light" FONTSIZE="10" CH="Promote your company"/>
-            <para/>
-            <ITEXT FONT="Source Sans Pro Light" FONTSIZE="10" CH="Sponsorship provides you with promotion through visible advertising, technical presentations, and international press coverage.    Contribute to the development of GNOME."/>
-            <trail/>
+            <ITEXT FONT="Open Sans Bold" CH="Meet key contributors"/>
+            <para PARENT="bread"/>
+            <ITEXT CH="It's a unique opportunity to meet contributors, maintainers and users of one of the world's leading Free and Open Source technology platforms."/>
+            <para PARENT="bread"/>
+            <para PARENT="bread"/>
+            <ITEXT FONT="Open Sans Bold" CH="Influence future product direction"/>
+            <ITEXT CH=" Sponsoring and attending GUADEC not only gives you advance information on the GNOME's plans for the coming year, but provides you a voice in shaping those plans.    "/>
+            <para PARENT="bread"/>
+            <ITEXT FONT="Open Sans Bold" CH="Promote your company"/>
+            <para PARENT="bread"/>
+            <ITEXT CH="Sponsorship provides you with promotion through visible advertising, technical presentations, and international press coverage.    Contribute to the development of GNOME."/>
+            <trail PARENT="bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
