@@ -19,12 +19,13 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="bread" FONT="Open Sans Regular" FONTSIZE="10" LANGUAGE="Swedish"/>
         <STYLE NAME="header" FONT="Open Sans Bold" FONTSIZE="14" LANGUAGE="Swedish"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Swedish"/>
+        <STYLE NAME="list" PARENT="bread" INDENT="22.6771653543307" FIRST="-8.50393700787402" DROP="0" CPARENT="Default Character Style" FONT="Open Sans Light" FONTSIZE="10"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Swedish"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
-        <Printer firstUse="1" toFile="255" useAltPrintCommand="255" outputSeparations="255" useSpotColors="255" useColor="255" mirrorH="255" mirrorV="255" useICC="255" doGCR="255" doClip="255" setDevParam="255" useDocBleeds="255" cropMarks="255" bleedMarks="255" registrationMarks="255" colorMarks="255" includePDFMarks="255" PSLevel="-1" PDLanguage="-1" markOffset="-8.31100650043528e+306" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-1" PDLanguage="-1" markOffset="-8.31100650043528e+306" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="Blue" ImageP="Blue" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
@@ -56,7 +57,7 @@
         </Sections>
         <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="56.6929133858268" BORDERRIGHT="56.6929133858268" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="901.890708661417" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="56.6929133858268" BORDERRIGHT="56.6929133858268" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="1" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="901.890708661418" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="56.6929133858268" BORDERRIGHT="56.6929133858268" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="1" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1783.78015748032" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="56.6929133858268" BORDERRIGHT="56.6929133858268" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="2" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2665.66960629921" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="56.6929133858268" BORDERRIGHT="56.6929133858268" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="3" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3547.55905511811" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="56.6929133858268" BORDERRIGHT="56.6929133858268" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="4" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
@@ -326,65 +327,49 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="140.00062992126" YPOS="5383.30015741811" WIDTH="513.454448818898" HEIGHT="719.824842581889" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513.454 0 513.454 0 513.454 0 513.454 0 513.454 719.825 513.454 719.825 513.454 719.825 513.454 719.825 0 719.825 0 719.825 0 719.825 0 719.825 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513.454 0 513.454 0 513.454 0 513.454 0 513.454 719.825 513.454 719.825 513.454 719.825 513.454 719.825 0 719.825 0 719.825 0 719.825 0 719.825 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="10" CH="1."/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="By submitting a completed sponsor application form, all sponsoring entities (&quot;the sponsor&quot;) agree to these Terms and Conditions for GUADEC (&quot;the conference&quot;). "/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="2."/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Sponsorship applications are handled on a “first come-first served” basis. Sponsors should be committed to Free Software deployment and improvement, and supportive of the conference organizers' mission. The conference retains the right to reject sponsors that it deems inappropriate."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="3."/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Sponsorship pledges cannot be processed without payment. All pledges must be in Euros (€) or US Dollars ($), or with respect to GNOME.Asia South Korea Won (₩), or other currency as agreed, and made payable to the organization designated by the GNOME Foundation. The sponsor will be contacted regarding details of the money transfer."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="4."/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="GNOME.Asia packages are subject to separate Terms and Conditions. For more details see: http://2013.gnome.asia/sponsorship"/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="5."/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="After written acceptance of the sponsor's application form by the conference, the sponsor must provide any further signed agreements and the sponsorship funds to the conference organizers within 30 days of receiving the conference sponsorship invoice."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="6."/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Once the sponsor's application has been secured, the sponsor must provide logos, digital graphics and/or any other details as required (e.g., the sponsor's brand name, trademarks, etc) within 14 days. The sponsor grants to the conference the right and permission to use its name and/or logo for promotion of the event. Likewise the sponsor is granted the right and permission to use the conference name and/or logo for communications about the event."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="7."/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Requested materials should reach the conference organizers by requested deadlines, or they may not be properly processed. Physical materials (banners, handouts, etc) should be provided by the sponsor at least 30 days in advance of the event."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="8."/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="For sponsorship packages that include the use of signage, please note that space may be limited. The conference will inform each sponsor of the maximum size or number of signs allowed. The conference will not be liable for damage or loss of sponsors’ properties by fire, theft, accident or any other cause, by negligence or otherwise or in case of force majeure."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="9. The sponsor may not sublet, assign or apportion any part of the item(s) sponsored nor represent, advertise or distribute literature or materials for the products or services of any other firm or organization except as approved in writing by the conference."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="10. To limit conference production costs, the conference organizers may limit the number of colors used to print sponsor logos and materials."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="11. To minimize detritus, the conference may use electronic versions of inserts and advertisements. The sponsors will be notified in advance to be able to provide material that might be better suited to the medium used."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="12. Repeat sponsor status and discount level will be determined by the the conference organizers. Eligible sponsors may claim only one discount. Repeat sponsors' discounts: a) 6% package discount is available to those organizations sponsoring at any level who have also sponsored the conference within the past 2 years, i.e., 2011 or 2012. b) A 10% discount is available for organizations who qualify for 6%, but who will this year increase their sponsorship package level, e.g., Silver in 2012 to Gold in 2013."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="13. Any remaining funds from sponsorship money will be donated to the GNOME Foundation upon completion of the conference for the GNOME Foundation's general use."/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <ITEXT FONTSIZE="10" CH="14. Sponsorship is not limited to financial support but can also be in the form of material provisions, e.g., hardware, software, services, etc. Should your organization be interested in sponsoring in an arrangement not listed in this brochure, please feel free to contact the conference organizers to discuss your preferences: sponsors@guadec.org "/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
-            <para PARENT="bread"/>
+            <ITEXT CH="1.By submitting a completed sponsor application form, all sponsoring entities (&quot;the sponsor&quot;) agree to these Terms and Conditions for GUADEC (&quot;the conference&quot;)."/>
+            <breakline/>
+            <para PARENT="list"/>
+            <ITEXT CH="2.Sponsorship applications are handled on a “first come-first served” basis. Sponsors should be committed to Free Software deployment and improvement, and supportive of the conference organizers' mission. The conference retains the right to reject sponsors that it deems inappropriate."/>
+            <breakline/>
+            <para PARENT="list"/>
+            <ITEXT CH="3.Sponsorship pledges cannot be processed without payment. All pledges must be in Euros (€) or US Dollars ($), or with respect to GNOME.Asia South Korea Won (₩), or other currency as agreed, and made payable to the organization designated by the GNOME Foundation. The sponsor will be contacted regarding details of the money transfer."/>
+            <breakline/>
+            <para PARENT="list"/>
+            <ITEXT CH="4.GNOME.Asia packages are subject to separate Terms and Conditions. For more details see: http://2013.gnome.asia/sponsorship"/>
+            <breakline/>
+            <para PARENT="list"/>
+            <ITEXT CH="5.After written acceptance of the sponsor's application form by the conference, the sponsor must provide any further signed agreements and the sponsorship funds to the conference organizers within 30 days of receiving the conference sponsorship invoice."/>
+            <breakline/>
+            <para PARENT="list"/>
+            <ITEXT CH="6.Once the sponsor's application has been secured, the sponsor must provide logos, digital graphics and/or any other details as required (e.g., the sponsor's brand name, trademarks, etc) within 14 days. The sponsor grants to the conference the right and permission to use its name and/or logo for promotion of the event. Likewise the sponsor is granted the right and permission to use the conference name and/or logo for communications about the event."/>
+            <para PARENT="list"/>
+            <para PARENT="list"/>
+            <ITEXT CH="7.Requested materials should reach the conference organizers by requested deadlines, or they may not be properly processed. Physical materials (banners, handouts, etc) should be provided by the sponsor at least 30 days in advance of the event."/>
+            <para PARENT="list"/>
+            <para PARENT="list"/>
+            <ITEXT CH="8.For sponsorship packages that include the use of signage, please note that space may be limited. The conference will inform each sponsor of the maximum size or number of signs allowed. The conference will not be liable for damage or loss of sponsors’ properties by fire, theft, accident or any other cause, by negligence or otherwise or in case of force majeure."/>
+            <para PARENT="list"/>
+            <para PARENT="list"/>
+            <ITEXT CH="9.The sponsor may not sublet, assign or apportion any part of the item(s) sponsored nor represent, advertise or distribute literature or materials for the products or services of any other firm or organization except as approved in writing by the conference."/>
+            <para PARENT="list"/>
+            <para PARENT="list"/>
+            <ITEXT CH="10.To limit conference production costs, the conference organizers may limit the number of colors used to print sponsor logos and materials."/>
+            <para PARENT="list"/>
+            <para PARENT="list"/>
+            <ITEXT CH="11.To minimize detritus, the conference may use electronic versions of inserts and advertisements. The sponsors will be notified in advance to be able to provide material that might be better suited to the medium used."/>
+            <para PARENT="list"/>
+            <para PARENT="list"/>
+            <ITEXT CH="12. Repeat sponsor status and discount level will be determined by the the conference organizers. Eligible sponsors may claim only one discount. Repeat sponsors' discounts: a) 6% package discount is available to those organizations sponsoring at any level who have also sponsored the conference within the past 2 years, i.e., 2011 or 2012. b) A 10% discount is available for organizations who qualify for 6%, but who will this year increase their sponsorship package level, e.g., Silver in 2012 to Gold in 2013."/>
+            <para PARENT="list"/>
+            <para PARENT="list"/>
+            <ITEXT CH="13. Any remaining funds from sponsorship money will be donated to the GNOME Foundation upon completion of the conference for the GNOME Foundation's general use."/>
+            <para PARENT="list"/>
+            <para PARENT="list"/>
+            <ITEXT CH="14. Sponsorship is not limited to financial support but can also be in the form of material provisions, e.g., hardware, software, services, etc. Should your organization be interested in sponsoring in an arrangement not listed in this brochure, please feel free to contact the conference organizers to discuss your preferences: sponsors@guadec.org "/>
+            <para PARENT="list"/>
+            <para PARENT="list"/>
+            <para PARENT="list"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
