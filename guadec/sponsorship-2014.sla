@@ -396,7 +396,7 @@
             <para PARENT="bread" LINESP="12"/>
             <para PARENT="bread" LINESP="12"/>
             <ITEXT FONTSIZE="10" CH="Sponsorship is not limited to financial support but can also be in the form of material provisions, e.g., hardware, software, services, etc. Should your organization be interested in sponsoring in an arrangement not listed in this brochure, please feel free to contact the conference organizers to discuss your preferences: "/>
-            <ITEXT FONTSIZE="10" FCOLOR="guadec-blue" CH="sponsors@guadec.org "/>
+            <ITEXT FONTSIZE="10" FCOLOR="guadec-bluer" CH="sponsors@guadec.org "/>
             <para PARENT="bread" LINESP="12"/>
             <para PARENT="bread" LINESP="12"/>
             <para PARENT="bread" LINESP="12"/>
@@ -662,7 +662,7 @@
             <ITEXT FONT="Open Sans Bold" CH="GNOME Asia"/>
             <para PARENT="bread"/>
             <ITEXT CH="Also consider sponsoring the 2014 .Asia Summit. See details at "/>
-            <ITEXT FCOLOR="guadec-blue" CH="http://2014.gnome.asia/sponsorship"/>
+            <ITEXT FCOLOR="guadec-bluer" CH="http://2014.gnome.asia/sponsorship"/>
             <trail PARENT="bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1096,8 +1096,7 @@
             <para PARENT="bread"/>
             <ITEXT FONT="Open Sans Bold" CH="Custom Packages:"/>
             <ITEXT CH=" If you find that none of the listed sponsorship packages fits your organization's needs or budget it is always possible to put together a customized package. If you would like more information or to  discuss sponsorship opportunities, please contact: "/>
-            <ITEXT FCOLOR="guadec-blue" CH="sponsors@guadec.org"/>
-            <ITEXT CH=" "/>
+            <ITEXT FCOLOR="guadec-bluer" CH="sponsors@guadec.org "/>
             <para PARENT="bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
