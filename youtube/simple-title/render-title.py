@@ -1,6 +1,7 @@
 import bpy,os,re,sys
 
 TITLE=sys.argv[1]
+print(sys.argv[1])
  
 def render():
  
