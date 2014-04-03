@@ -1,9 +1,6 @@
 import bpy,os,re,sys
 
-if sys.argv[0]:
-  TITLE=sys.argv[0]
-else:
-  TITLE="Read the docs, doofus!"
+TITLE=sys.argv[1]
  
 def render():
  
