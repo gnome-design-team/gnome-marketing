@@ -1,8 +1,7 @@
 import bpy,os,re,sys
 
-TITLE=sys.argv[1]
-print("DEBUGGGGGGGG", sys.argv)
- 
+TITLE=sys.argv[5]
+
 def render():
  
   #bpy.context.scene.render.resolution_percentage =
