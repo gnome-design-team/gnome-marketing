@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="mockup.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1011.9144"
-     inkscape:cy="-910.02327"
+     inkscape:zoom="0.25"
+     inkscape:cx="2554.3019"
+     inkscape:cy="-284.31435"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -224,13 +224,6 @@
        id="rect6019-1"
        style="color:#000000;fill:#018094;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
-       y="-0.048517384"
-       x="1559.9108"
-       height="1052.4108"
-       width="745.80353"
-       id="rect6019-5"
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
        y="-0.048502542"
        x="2305.625"
        height="1052.4108"
@@ -265,9 +258,16 @@
        width="745.80353"
        id="rect6019-1-6-0"
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7858-9"
+       width="742"
+       height="1051.4286"
+       x="2303"
+       y="1140.6479" />
     <flowRoot
        transform="matrix(1.4636409,0,0,1.4636409,-3452.2561,1056.2972)"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#204a87;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#017689;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6894-4-2"
        xml:space="preserve"><flowRegion
          id="flowRegion6896-0-44"><rect
@@ -276,9 +276,9 @@
            height="58.451237"
            width="162.27853"
            id="rect6898-9-9"
-           style="font-size:24px;fill:#204a87" /></flowRegion><flowPara
+           style="font-size:24px;fill:#017689;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara6936-3-76"
-         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#204a87;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Bold">Hackfests</flowPara></flowRoot>    <flowRoot
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#017689;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Bold;fill-opacity:1">Hackfests</flowPara></flowRoot>    <flowRoot
        transform="translate(-2001.8139,1206.5082)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6894-4-4"
@@ -428,7 +428,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489795999999998"
        d="m 993.61428,837.35538 0,71.23434 -71.23414,0 z"
        id="rect10004-8-8-9-4"
        inkscape:connector-curvature="0"
@@ -566,8 +566,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
-       d="m 1065.1096,552.84283 0,71.23436 -71.23434,0 z"
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1065.1096,624.07719 0,-71.23436 -71.23434,0 z"
        id="rect10004-3-8-4-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -980,7 +980,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489795999999998"
        d="m 1347.5454,-16.150406 0,71.234379 -71.2342,0 z"
        id="rect10004-3-8-4-4-6-9"
        inkscape:connector-curvature="0"
@@ -1148,7 +1148,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489795999999998"
        d="m 921.5326,409.87963 0,71.23434 -71.23436,0 z"
        id="rect10004-3-4-4-6"
        inkscape:connector-curvature="0"
@@ -1160,7 +1160,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489795999999998"
        d="m 780.01505,338.9062 0,71.23434 -71.23435,0 z"
        id="rect10004-0-0-3-2"
        inkscape:connector-curvature="0"
@@ -1208,7 +1208,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489795999999998"
        d="m 921.5326,54.393632 0,71.234358 -71.23436,0 z"
        id="rect10004-4-6-7-0"
        inkscape:connector-curvature="0"
@@ -1400,7 +1400,7 @@
            width="20.680176"
            id="rect6898-9-99-0" /></flowRegion><flowPara
          id="flowPara6936-3-2-5"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL">12</flowPara></flowRoot>    <path
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro">12</flowPara></flowRoot>    <path
        style="opacity:0.44489794;color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 2304.9063,2193.8944 0,-71.2343 71.2343,0 z"
        id="rect10004-8-1-81-8-2-7"
@@ -1418,5 +1418,145 @@
        id="rect10004-0-0-7-7-2-2-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
-  </g>
+    <flowRoot
+       transform="matrix(2.5750995,0,0,2.5750995,-5366.2993,1818.4991)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6894-4-7-9-0"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6896-0-0-4-2"><rect
+           y="100.79848"
+           x="2402.1428"
+           height="23.67485"
+           width="20.680176"
+           id="rect6898-9-99-0-7" /></flowRegion><flowPara
+         id="flowPara6936-3-2-5-3"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro">13</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.4636409,0,0,1.4636409,-1892.2561,1056.2972)"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#018094;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6894-4-2-0"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6896-0-44-1"><rect
+           y="100.79848"
+           x="2402.1428"
+           height="57.084778"
+           width="264.76273"
+           id="rect6898-9-9-3"
+           style="font-size:24px;fill:#018094;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6936-3-76-0"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#018094;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Bold">Conferences</flowPara></flowRoot>    <flowRoot
+       transform="translate(-441.8139,1206.5082)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6894-4-4-32"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6896-0-4-1"><rect
+           y="100.79848"
+           x="2402.1428"
+           height="751.33801"
+           width="273.9519"
+           id="rect6898-9-1-4" /></flowRegion><flowPara
+         id="flowPara6934-5-0-7"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum.</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara6966-0-7-9" /><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara6968-9-2-6">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. </flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara6970-1-9-7">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. </flowPara><flowPara
+         id="flowPara6936-3-3-3"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL" /></flowRoot>    <flowRoot
+       transform="translate(-773.1845,1206.5082)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6894-4-6"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6896-0-9"><rect
+           y="100.79848"
+           x="2402.1428"
+           height="751.75635"
+           width="288.09448"
+           id="rect6898-9-5" /></flowRegion><flowPara
+         id="flowPara6934-5-5"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum.</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara6966-0-5" /><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara6968-9-8">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. </flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara6970-1-7">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer mollis dolor. Aliquam metus. Curabitur accumsan felis in erat. Suspendisse venenatis. Nam a nunc. Phasellus lacinia iaculis mi. Aliquam vel nibh. Integer porta. Donec rutrum venenatis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Etiam fermentum. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. Proin dolor sapien, adipiscing id, sagittis eu, molestie viverra, mauris. Maecenas convallis dui. Etiam fermentum. </flowPara><flowPara
+         id="flowPara6936-3-6"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL" /></flowRoot>    <rect
+       y="-0.048576355"
+       x="1559.9108"
+       height="1052.4108"
+       width="745.80353"
+       id="rect6019-5-4-8"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(-848.9978,66.5082)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6894-4-6-3"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6896-0-9-8"><rect
+           y="100.79848"
+           x="2402.1428"
+           height="747.75635"
+           width="584.09448"
+           id="rect6898-9-5-0" /></flowRegion><flowPara
+         id="flowPara6936-3-6-9"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:250%;text-anchor:end;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL">GNOME Annual Report 2013</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:250%;text-anchor:end;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara13050">Letter from Karen Sandler</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:250%;text-anchor:end;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12929">Hackfests</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:250%;text-anchor:end;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12931">Conferences</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:250%;text-anchor:end;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12933">GNOME 3.8, 3.10 and 3.12</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:250%;text-anchor:end;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12935">Google Summer of Code</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:250%;text-anchor:end;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12937">Womens Outreach Program</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:250%;text-anchor:end;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12939">Finances</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:250%;text-anchor:end;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12941">Privacy Campaign</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:250%;text-anchor:end;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12943">Accessability Campaign</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:250%;text-anchor:end;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12945">Sponsors</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:250%;text-anchor:end;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12949">Friends of GNOME Donations</flowPara></flowRoot>    <flowRoot
+       transform="translate(-218.25847,66.508201)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6894-4-6-3-8"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6896-0-9-8-9"><rect
+           y="100.79848"
+           x="2402.1428"
+           height="747.75635"
+           width="584.09448"
+           id="rect6898-9-5-0-7" /></flowRegion><flowPara
+         id="flowPara6936-3-6-9-0"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:250%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"></flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:250%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara13052">2</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:250%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12929-6">4</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:250%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12931-2">7-8</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:250%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12933-5">9</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:250%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12935-4">10</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:250%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12939-4">12</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:250%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara13018">13</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:250%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara13020">15</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:250%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara13022">16</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:250%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara13024">18</flowPara><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:250%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+         id="flowPara12949-1">20</flowPara></flowRoot>  </g>
 </svg>
