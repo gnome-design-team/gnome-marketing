@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="1572.1737"
-     inkscape:cy="-137.17823"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="2785.5232"
+     inkscape:cy="-374.7839"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-nodes="false"
@@ -37,7 +37,9 @@
      inkscape:window-height="1014"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid16423" />
@@ -1654,7 +1656,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m -150,2.4884686 0,74.8738214 -75.08655,0 z"
        id="rect10004-8-8-3-5-4-7-3-4-6-2-9-93-4"
        inkscape:connector-curvature="0"
@@ -1808,7 +1810,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -375,377.48844 0,74.87381 -75.08655,0 z"
+       d="m -450.08655,452.36225 0,-74.87381 75.08655,0 z"
        id="rect10004-8-8-3-5-4-7-3-4-6-6-7-4-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -1889,7 +1891,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -300.08655,527.48843 0,74.87382 -75.08655,0 z"
+       d="m -300.08655,602.36225 0,-74.87382 -75.08655,0 z"
        id="rect10004-8-8-3-5-4-7-3-4-6-2-3-2-5-8-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -1898,7 +1900,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -225.08655,527.48843 0,74.87382 -75.08655,0 z"
+       d="m -300.1731,602.36225 0,-74.87382 75.08655,0 z"
        id="rect10004-8-8-3-5-4-7-3-4-6-1-5-2-2-1-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -2150,7 +2152,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -225,602.48847 0,74.87382 -75.08655,0 z"
+       d="m -225,677.36229 0,-74.87382 -75.08655,0 z"
        id="rect10004-8-8-3-5-4-7-3-4-6-1-0-6-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
