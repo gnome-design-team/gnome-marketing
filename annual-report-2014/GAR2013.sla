@@ -144,7 +144,7 @@
         <STYLE NAME="quote" FONT="Source Sans Pro Bold" FONTSIZE="14" FSHADE="50" LANGUAGE="Spanish"/>
         <STYLE NAME="Page title" FONT="Source Sans Pro Bold" FONTSIZE="52" FCOLOR="Registration" LANGUAGE="Spanish"/>
         <STYLE NAME="subheader" FONT="Source Sans Pro Bold" LANGUAGE="Spanish"/>
-        <STYLE NAME="GNOME Bread" ALIGN="3" LINESPMode="0" LINESP="13" VOR="0" NACH="10" FONT="Abyssinica SIL Regular" FONTSIZE="10" LANGUAGE="English"/>
+        <STYLE NAME="GNOME Bread" ALIGN="3" LINESPMode="0" LINESP="13" VOR="0" NACH="10" FONT="Abyssinica SIL Regular" FONTSIZE="9" LANGUAGE="English"/>
         <STYLE NAME="GNOME Header 1" LINESP="28" FONT="Cantarell Bold" FONTSIZE="28" FCOLOR="Cyan" LANGUAGE="English"/>
         <STYLE NAME="GNOME Header 2" LINESP="20" VOR="0" NACH="0" OpticalMargins="0" FONT="Cantarell Bold" FONTSIZE="20" FCOLOR="Cyan" BASEO="-20" LANGUAGE="English"/>
         <STYLE NAME="GNOME Header 3" FONT="Cantarell Bold" FONTSIZE="14" LANGUAGE="English"/>
@@ -1216,7 +1216,7 @@
             <trail PARENT="timeline body"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="156.28062992126" YPOS="1902.9572977312" WIDTH="224.72" HEIGHT="636.788003020678" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 224.72 0 224.72 0 224.72 0 224.72 0 224.72 636.788 224.72 636.788 224.72 636.788 224.72 636.788 0 636.788 0 636.788 0 636.788 0 636.788 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 224.72 0 224.72 0 224.72 0 224.72 0 224.72 636.788 224.72 636.788 224.72 636.788 224.72 636.788 0 636.788 0 636.788 0 636.788 0 636.788 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="1.80598190994192" gWidth="480.72" gHeight="638.59398493062" LAYER="0" BOOKMARK="0" NEXTITEM="667" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="156.28062992126" YPOS="1902.9572977312" WIDTH="224.72" HEIGHT="637.673725890845" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 224.72 0 224.72 0 224.72 0 224.72 0 224.72 637.674 224.72 637.674 224.72 637.674 224.72 637.674 0 637.674 0 637.674 0 637.674 0 637.674 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 224.72 0 224.72 0 224.72 0 224.72 0 224.72 637.674 224.72 637.674 224.72 637.674 224.72 637.674 0 637.674 0 637.674 0 637.674 0 637.674 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="1.80598190994192" gWidth="480.72" gHeight="638.59398493062" LAYER="0" BOOKMARK="0" NEXTITEM="667" BACKITEM="-1">
             <ITEXT CH="Although much of the development of GNOME takes place in a worldwide distributed manner over the Internet, some GNOME contributors attend hackfests in order to collborate with each other face-to-face, have fun, get to know each other, and get work done. The following is a chronological list of the hackfests which took place last year and a summary of the events which occurred at each."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="January: Developer Experience - Brussels, Belgium"/>
@@ -1243,11 +1243,9 @@
             <breakline/>
             <ITEXT CH="The GNOME Marketing team (now rebranded as the GNOME Engagement team) used the hackfest to build a foundation for the team, and their aspirations for the presentation of GNOME as a whole going forwards. At the start of the hackfest, attendees focused on answering fundamental questions like: Who is GNOME? What is GNOME? Why does GNOME matter? In the later part of the hackfest, work was done to better develop visual identity and brand presentation for GNOME. "/>
             <para PARENT="GNOME Bread"/>
-            <para PARENT="GNOME Bread"/>
             <ITEXT CH="Open Help Docs - Cincinnati, OH, USA"/>
             <breakline/>
             <ITEXT CH="Following the ?OpenHelp conference, members of the GNOME documentation team convened to brainstorm ideas to improving GNOME developer documentation. Work was done to revamp the Platform Overview developer documentation, create a guide to preparing applications for translation, and improving the Vala examples in platform demos. Additionally, the new HowDoI developer documentation initiative was started, which encourages GNOME developers to write specific tutorial-style guides to common tasks. "/>
-            <para PARENT="GNOME Bread"/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="October:"/>
             <breakline/>
@@ -1255,11 +1253,9 @@
             <breakline/>
             <ITEXT CH="In the .NET + GNOME hackfest, there was sizeable effort toward modernization of various C# GNOME apps and technologies. In particular, significant work was done to port Banshee, Pinta, ?SparkleShare, and Tomboy to GTK+3. Some work was also done creating versions of Tomboy for Android and OS X. The GTK+3 bindings were updated to support GTK+ 3.10 as well."/>
             <para PARENT="GNOME Bread"/>
-            <para/>
             <ITEXT CH="Maps - Gothenburg, Sweden"/>
             <breakline/>
             <ITEXT CH="The GNOME Maps hackfest was relatively small, but it afforded two GSoC students to meet their mentor and collaborate with designers in person. Various map-related GNOME technologies and designs were discussed, plans were made for GNOME Maps, and some development was done on Geoclue2."/>
-            <para PARENT="GNOME Bread"/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="GNOME Summit - Montréal, Canada"/>
             <breakline/>
