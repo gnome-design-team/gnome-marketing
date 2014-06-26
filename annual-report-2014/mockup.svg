@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="1306.264"
-     inkscape:cy="-933.78501"
+     inkscape:zoom="0.25"
+     inkscape:cx="982.97552"
+     inkscape:cy="-545.38257"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,6 +47,10 @@
        empspacing="5"
        id="grid6061"
        type="xygrid" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="68,-236"
+       id="guide14455" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -335,18 +339,9 @@
            x="74.285713"
            y="1275.2194" /></flowRegion><flowPara
          id="flowPara7490"></flowPara></flowRoot>    <path
-       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489795999999998"
+       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        d="m 1135.1318,907.89942 0,71.2343 -71.2343,0 z"
        id="rect10004-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
-       d="m 1135.1318,978.87295 0,71.23415 -71.2343,0 z"
-       id="rect10004-8-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
@@ -371,7 +366,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        d="m 1065.1096,978.87295 0,71.23415 -71.23434,0 z"
        id="rect10004-3-8"
        inkscape:connector-curvature="0"
@@ -443,27 +438,9 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489795999999998"
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        d="m 993.61428,837.35538 0,71.23434 -71.23414,0 z"
        id="rect10004-8-8-9-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#02869b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489795999999998"
-       d="m 1489.0629,906.74806 0,143.35904 -143.3589,0 z"
-       id="rect10004-3-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
-       d="m 1347.5454,838.86581 0,211.24129 -211.2414,0 z"
-       id="rect10004-3-8-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
@@ -497,8 +474,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
-       d="m 1417.5676,837.35538 0,71.23434 -71.2342,0 z"
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1346.3334,908.58972 0,-71.23434 71.2342,0 z"
        id="rect10004-8-8-3-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -506,8 +483,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
-       d="m 1347.5454,766.38196 0,71.23435 -71.2342,0 z"
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1347.5454,837.61631 0,-71.23435 -71.2342,0 z"
        id="rect10004-0-8-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -542,8 +519,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
-       d="m 1206.6272,694.36027 0,71.23434 -71.2346,0 z"
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1135.3926,765.59461 0,-71.23434 71.2346,0 z"
        id="rect10004-3-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -578,8 +555,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
-       d="m 1065.1096,694.36027 0,71.23434 -71.23434,0 z"
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1065.1096,694.36027 -71.23434,0 0,71.23434 z"
        id="rect10004-3-8-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -659,8 +636,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
-       d="m 993.61428,552.84283 0,71.23436 -71.23414,0 z"
+       style="opacity:0.44489793999999999;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 922.38014,624.07719 0,-71.23436 71.23414,0 z"
        id="rect10004-8-8-9-4-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -911,8 +888,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
-       d="m 993.61428,197.38874 0,71.23436 -71.23414,0 z"
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 922.38014,268.6231 0,-71.23436 71.23414,0 z"
        id="rect10004-8-4-4-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -1010,8 +987,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
-       d="m 1417.5676,197.38874 0,71.23436 -71.2342,0 z"
+       style="opacity:0.44489793999999999;color:#000000;fill:#02869b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1346.3334,268.6231 0,-71.23436 71.2342,0 z"
        id="rect10004-8-9-8-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -1208,7 +1185,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44081633"
        d="m 1417.5676,125.36706 0,71.23433 -71.2342,0 z"
        id="rect10004-8-8-7-5-0"
        inkscape:connector-curvature="0"
@@ -1289,7 +1266,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        d="m 921.5326,907.89942 0,71.2343 -71.23436,0 z"
        id="rect10004-4-04"
        inkscape:connector-curvature="0"
@@ -1298,7 +1275,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        d="m 850.03727,907.89942 0,71.2343 -71.23436,0 z"
        id="rect10004-8-1-81"
        inkscape:connector-curvature="0"
@@ -1317,15 +1294,6 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
-       d="m 850.03727,978.87295 0,71.23415 -71.23436,0 z"
-       id="rect10004-8-8-7-50"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
        d="m 780.01505,907.89942 0,71.2343 -71.23435,0 z"
        id="rect10004-0-0-7"
        inkscape:connector-curvature="0"
@@ -1334,7 +1302,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        d="m 780.01505,978.87295 0,71.23415 -71.23435,0 z"
        id="rect10004-3-8-1-11"
        inkscape:connector-curvature="0"
@@ -1622,7 +1590,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        d="m 850.03727,54.393632 0,71.234358 -71.23436,0 z"
        id="rect10004-8-1-8-2-6"
        inkscape:connector-curvature="0"
@@ -1658,7 +1626,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        d="m 780.01505,125.36706 0,71.23433 -71.23435,0 z"
        id="rect10004-3-8-1-7-3-0"
        inkscape:connector-curvature="0"
@@ -1667,7 +1635,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.44489796"
+       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        d="m 921.5326,-16.150406 0,71.234379 -71.23436,0 z"
        id="rect10004-3-5-1-0-4-1"
        inkscape:connector-curvature="0"
@@ -1791,48 +1759,13 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <path
-       style="opacity:0.44489794;color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 747.40836,1281.8355 0,-71.2343 71.2343,0 z"
-       id="rect10004-8-1-81-8-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="opacity:0.44489794;color:#000000;fill:#e0e2df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 818.64266,1210.8619 0,-71.2341 -71.2343,0 z"
-       id="rect10004-8-8-7-50-1-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="opacity:0.44489794;color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 817.43056,1281.8355 0,-71.2343 71.2344,0 z"
-       id="rect10004-0-0-7-7-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="opacity:0.44489794;color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 888.66496,1139.6278 0,71.2341 -71.2344,0 z"
-       id="rect10004-3-8-1-11-0-9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="opacity:0.44489794;color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 888.43056,1138.6012 0,71.2343 71.2344,0 z"
-       id="rect10004-0-0-7-7-4-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc"
+    <rect
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13773"
+       width="1491.9952"
+       height="389.84479"
+       x="-2.8284755"
+       y="1140.0435"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2470,17 +2403,7 @@
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
          id="flowPara13673">.NET + GNOME - Vienna, Austria</flowPara><flowPara
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
-         id="flowPara13675">In the .NET + GNOME hackfest, there was sizeable effort toward modernization of various C# GNOME apps and technologies. In particular, significant work was done to port Banshee, Pinta, ?SparkleShare, and Tomboy to GTK+3. Some work was also done creating versions of Tomboy for Android and OS X. The GTK+3 bindings were updated to support GTK+ 3.10 as well. </flowPara></flowRoot>    <rect
-       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect13773"
-       width="742.4621"
-       height="475.84479"
-       x="746.70471"
-       y="1140.0435"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <flowRoot
+         id="flowPara13675">In the .NET + GNOME hackfest, there was sizeable effort toward modernization of various C# GNOME apps and technologies. In particular, significant work was done to port Banshee, Pinta, ?SparkleShare, and Tomboy to GTK+3. Some work was also done creating versions of Tomboy for Android and OS X. The GTK+3 bindings were updated to support GTK+ 3.10 as well. </flowPara></flowRoot>    <flowRoot
        transform="translate(-443.67278,1206.5082)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6894-4-6-8"
@@ -2845,6 +2768,843 @@
        height="311.79602"
        x="2698.3193"
        y="1688.4237"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1349.1318,907.89942 0,71.2343 -71.2343,0 z"
+       id="rect10004-8-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1349.1318,978.87295 0,71.23415 -71.2343,0 z"
+       id="rect10004-8-8-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1279.1096,907.89942 0,71.2343 -71.2343,0 z"
+       id="rect10004-0-42"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1207.6143,1049.8444 0,-71.2343 -71.2342,0 z"
+       id="rect10004-8-4-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1279.1096,978.87295 0,71.23415 -71.2343,0 z"
+       id="rect10004-3-8-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1349.1318,837.35538 0,71.23434 -71.2343,0 z"
+       id="rect10004-8-8-3-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1279.1096,837.35538 0,71.23434 -71.2343,0 z"
+       id="rect10004-3-8-4-87"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1207.6143,837.35538 0,71.23434 -71.2342,0 z"
+       id="rect10004-8-8-9-4-26"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1489.1318,907.89942 0,71.2343 -71.2343,0 z"
+       id="rect10004-8-5-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1489.1318,978.87295 0,71.23415 -71.2343,0 z"
+       id="rect10004-8-8-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1419.1096,907.89942 0,71.2343 -71.2343,0 z"
+       id="rect10004-0-42-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1419.1096,978.87295 0,71.23415 -71.2343,0 z"
+       id="rect10004-3-8-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 778.80291,1049.1337 0,-71.23428 71.23436,0 z"
+       id="rect10004-8-1-81-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 922.38014,979.3004 0,-71.23434 71.23414,0 z"
+       id="rect10004-8-8-9-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 850.29824,122.96621 0,-71.234376 71.23436,0 z"
+       id="rect10004-3-5-1-0-4-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#027689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1063.8975,1049.8444 0,-71.2343 71.2343,0 z"
+       id="rect10004-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#03a0bb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 994.45399,551.46874 0,71.23436 -71.2344,0 z"
+       id="rect10004-0-8-5-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.0629,54.393621 0,71.234359 -71.2341,0 z"
+       id="rect10004-4-6-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.5676,54.393621 0,71.234359 -71.2342,0 z"
+       id="rect10004-8-1-8-2-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.0629,125.36705 0,71.23433 -71.2341,0 z"
+       id="rect10004-3-4-5-0-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44081636;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.5676,125.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-8-8-7-5-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 567.5454,54.393621 0,71.234359 -71.2342,0 z"
+       id="rect10004-0-0-0-1-06"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 567.5454,125.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-3-8-1-7-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.0629,-16.150417 0,71.234379 -71.2341,0 z"
+       id="rect10004-3-5-1-0-4-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.5676,-16.150417 0,71.234379 -71.2342,0 z"
+       id="rect10004-8-8-3-5-4-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 567.5454,-16.150417 0,71.234379 -71.2342,0 z"
+       id="rect10004-3-8-4-4-6-9-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.0629,268.39362 0,71.23436 -71.2341,0 z"
+       id="rect10004-4-6-7-8-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.5676,268.39362 0,71.23436 -71.2342,0 z"
+       id="rect10004-8-1-8-2-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.0629,339.36705 0,71.23433 -71.2341,0 z"
+       id="rect10004-3-4-5-0-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44081636;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.5676,339.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-8-8-7-5-0-1-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 567.5454,268.39362 0,71.23436 -71.2342,0 z"
+       id="rect10004-0-0-0-1-06-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 567.5454,339.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-3-8-1-7-3-2-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.0629,197.84958 0,71.23438 -71.2341,0 z"
+       id="rect10004-3-5-1-0-4-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.5676,197.84958 0,71.23438 -71.2342,0 z"
+       id="rect10004-8-8-3-5-4-7-3-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 567.5454,197.84958 0,71.23438 -71.2342,0 z"
+       id="rect10004-3-8-4-4-6-9-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.0629,480.39362 0,71.23436 -71.2341,0 z"
+       id="rect10004-4-6-7-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.5676,480.39362 0,71.23436 -71.2342,0 z"
+       id="rect10004-8-1-8-2-8-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.0629,551.36705 0,71.23433 -71.2341,0 z"
+       id="rect10004-3-4-5-0-0-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44081636;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.5676,551.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-8-8-7-5-0-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 567.5454,480.39362 0,71.23436 -71.2342,0 z"
+       id="rect10004-0-0-0-1-06-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 567.5454,551.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-3-8-1-7-3-2-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.0629,409.84958 0,71.23438 -71.2341,0 z"
+       id="rect10004-3-5-1-0-4-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.5676,409.84958 0,71.23438 -71.2342,0 z"
+       id="rect10004-8-8-3-5-4-7-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 567.5454,409.84958 0,71.23438 -71.2342,0 z"
+       id="rect10004-3-8-4-4-6-9-2-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.0629,694.39362 0,71.23436 -71.2341,0 z"
+       id="rect10004-4-6-7-8-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.5676,694.39362 0,71.23436 -71.2342,0 z"
+       id="rect10004-8-1-8-2-8-8-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.0629,765.36705 0,71.23433 -71.2341,0 z"
+       id="rect10004-3-4-5-0-0-6-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44081636;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.5676,765.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-8-8-7-5-0-1-9-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 567.5454,694.39362 0,71.23436 -71.2342,0 z"
+       id="rect10004-0-0-0-1-06-3-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 567.5454,765.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-3-8-1-7-3-2-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.0629,623.84958 0,71.23438 -71.2341,0 z"
+       id="rect10004-3-5-1-0-4-0-9-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.5676,623.84958 0,71.23438 -71.2342,0 z"
+       id="rect10004-8-8-3-5-4-7-3-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 567.5454,623.84958 0,71.23438 -71.2342,0 z"
+       id="rect10004-3-8-4-4-6-9-2-1-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 499.0629,54.393621 0,71.234359 -71.2341,0 z"
+       id="rect10004-4-6-7-8-74"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 427.5676,54.393621 0,71.234359 -71.2342,0 z"
+       id="rect10004-8-1-8-2-8-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 499.0629,125.36705 0,71.23433 -71.2341,0 z"
+       id="rect10004-3-4-5-0-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44081636;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 427.5676,125.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-8-8-7-5-0-1-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 357.5454,54.393621 0,71.234359 -71.2342,0 z"
+       id="rect10004-0-0-0-1-06-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 357.5454,125.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-3-8-1-7-3-2-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 499.0629,-16.150417 0,71.234379 -71.2341,0 z"
+       id="rect10004-3-5-1-0-4-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 427.5676,-16.150417 0,71.234379 -71.2342,0 z"
+       id="rect10004-8-8-3-5-4-7-3-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 357.5454,-16.150417 0,71.234379 -71.2342,0 z"
+       id="rect10004-3-8-4-4-6-9-2-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 499.0629,268.39362 0,71.23436 -71.2341,0 z"
+       id="rect10004-4-6-7-8-7-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 427.5676,268.39362 0,71.23436 -71.2342,0 z"
+       id="rect10004-8-1-8-2-8-8-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 499.0629,339.36705 0,71.23433 -71.2341,0 z"
+       id="rect10004-3-4-5-0-0-6-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44081636;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 427.5676,339.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-8-8-7-5-0-1-9-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 357.5454,268.39362 0,71.23436 -71.2342,0 z"
+       id="rect10004-0-0-0-1-06-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 357.5454,339.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-3-8-1-7-3-2-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 499.0629,197.84958 0,71.23438 -71.2341,0 z"
+       id="rect10004-3-5-1-0-4-0-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 427.5676,197.84958 0,71.23438 -71.2342,0 z"
+       id="rect10004-8-8-3-5-4-7-3-3-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 357.5454,197.84958 0,71.23438 -71.2342,0 z"
+       id="rect10004-3-8-4-4-6-9-2-1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 499.0629,480.39362 0,71.23436 -71.2341,0 z"
+       id="rect10004-4-6-7-8-6-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 427.5676,480.39362 0,71.23436 -71.2342,0 z"
+       id="rect10004-8-1-8-2-8-7-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 499.0629,551.36705 0,71.23433 -71.2341,0 z"
+       id="rect10004-3-4-5-0-0-7-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44081636;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 427.5676,551.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-8-8-7-5-0-1-4-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 357.5454,480.39362 0,71.23436 -71.2342,0 z"
+       id="rect10004-0-0-0-1-06-6-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 357.5454,551.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-3-8-1-7-3-2-5-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 499.0629,409.84958 0,71.23438 -71.2341,0 z"
+       id="rect10004-3-5-1-0-4-0-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 427.5676,409.84958 0,71.23438 -71.2342,0 z"
+       id="rect10004-8-8-3-5-4-7-3-2-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 357.5454,409.84958 0,71.23438 -71.2342,0 z"
+       id="rect10004-3-8-4-4-6-9-2-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 499.0629,694.39362 0,71.23436 -71.2341,0 z"
+       id="rect10004-4-6-7-8-7-3-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 427.5676,694.39362 0,71.23436 -71.2342,0 z"
+       id="rect10004-8-1-8-2-8-8-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 499.0629,765.36705 0,71.23433 -71.2341,0 z"
+       id="rect10004-3-4-5-0-0-6-6-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44081636;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 427.5676,765.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-8-8-7-5-0-1-9-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 357.5454,694.39362 0,71.23436 -71.2342,0 z"
+       id="rect10004-0-0-0-1-06-3-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 357.5454,765.36705 0,71.23433 -71.2342,0 z"
+       id="rect10004-3-8-1-7-3-2-0-9-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 499.0629,623.84958 0,71.23438 -71.2341,0 z"
+       id="rect10004-3-5-1-0-4-0-9-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 427.5676,623.84958 0,71.23438 -71.2342,0 z"
+       id="rect10004-8-8-3-5-4-7-3-3-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 357.5454,623.84958 0,71.23438 -71.2342,0 z"
+       id="rect10004-3-8-4-4-6-9-2-1-5-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 171.51373,1138.3674 0,385.1894 -385.18978,0 z"
+       id="rect10004-0-0-7-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 170.99004,1523.5568 0,-385.1894 385.18978,0 z"
+       id="rect10004-0-0-7-0-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 937.5137,1138.3674 0,385.1894 -385.18975,0 z"
+       id="rect10004-0-0-7-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.44489794;color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 936.99,1523.5568 0,-385.1894 385.1898,0 z"
+       id="rect10004-0-0-7-0-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
