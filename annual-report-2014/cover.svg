@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="1075.1207"
-     inkscape:cy="1011.6487"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="932.62112"
+     inkscape:cy="915.35435"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-nodes="false"
@@ -735,7 +735,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 225,752.48838 0,74.87382 -75.08655,0 z"
        id="rect10004-8-8-3-5-4-7-3-4-6-1-2-9"
        inkscape:connector-curvature="0"
@@ -762,7 +762,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 150,827.48838 0,74.87382 -75.08655,0 z"
        id="rect10004-8-8-3-5-4-7-3-4-6-2-3-2-50"
        inkscape:connector-curvature="0"
@@ -888,7 +888,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 600.08655,602.48844 0,74.87382 -75.08655,0 z"
        id="rect10004-8-8-3-5-4-7-3-4-6-2-9-93-5"
        inkscape:connector-curvature="0"
@@ -1239,7 +1239,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#028ba1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 675.08655,677.48838 0,74.87382 -75.08655,0 z"
        id="rect10004-8-8-3-5-4-7-3-4-6-2-3-34-4-5"
        inkscape:connector-curvature="0"
@@ -4316,5 +4316,14 @@
         </g>
       </g>
     </g>
+    <path
+       style="color:#000000;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 450,677.36224 0,-74.87382 75.08655,0 z"
+       id="rect10004-8-8-3-5-4-7-3-4-6-1-0-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
