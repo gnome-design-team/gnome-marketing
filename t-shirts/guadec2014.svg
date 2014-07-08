@@ -896,10 +896,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="415.69936"
-     inkscape:cy="525.09026"
+     inkscape:cx="869.92879"
+     inkscape:cy="529.36221"
      inkscape:document-units="px"
-     inkscape:current-layer="g8303"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1374"
@@ -1712,7 +1712,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#2e3436;stroke-width:0.71537894px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 822,203.50749 72.77052,0"
+       d="m 820.4375,203.50749 75.83302,0"
        id="path6146-2"
        inkscape:export-filename="/home/andreas/project/gtk-tshirt-preview.png"
        inkscape:export-xdpi="45"
@@ -1811,7 +1811,7 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#2e3436;stroke-width:0.71537894px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 814.36636,189.35659 c 0,0 12.96838,36.9671 43.44417,37.6156 29.82735,0.6486 44.74103,-37.6156 44.74103,-37.6156"
+       d="m 814.36636,192.10659 c 0,0 12.96838,34.2171 43.44417,34.8656 29.82735,0.6486 44.74103,-34.8656 44.74103,-34.8656"
        id="path6132-3-3"
        sodipodi:nodetypes="czc"
        inkscape:export-filename="/home/andreas/project/gtk-tshirt-preview.png"
@@ -1820,7 +1820,7 @@
     <path
        inkscape:connector-curvature="0"
        style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none"
-       d="m 814.36636,189.35659 c 0,0 12.96838,36.9671 43.44417,37.6156 29.82735,0.6486 44.74103,-37.6156 44.74103,-37.6156"
+       d="m 814.36636,191.85659 c 0,0 12.96838,34.4671 43.44417,35.1156 29.82735,0.6486 44.74103,-35.1156 44.74103,-35.1156"
        id="path6132-3-1-8"
        sodipodi:nodetypes="czc"
        inkscape:export-filename="/home/andreas/project/gtk-tshirt-preview.png"
@@ -1830,9 +1830,9 @@
        style="color:#000000;fill:#018094;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect10135-1-3"
        width="548.71484"
-       height="748.11896"
+       height="755.11896"
        x="0.17365418"
-       y="3.0465946" />
+       y="-3.9534054" />
     <g
        transform="matrix(3.9549322,0,0,3.9549322,-3038.4709,-2626.3791)"
        style="font-size:0.02601692px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#018094;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
