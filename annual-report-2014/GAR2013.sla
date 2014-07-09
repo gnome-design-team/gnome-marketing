@@ -1213,9 +1213,7 @@
             <breakline/>
             <ITEXT CH="Following the ?OpenHelp conference, members of the GNOME documentation team convened to brainstorm ideas to improving GNOME developer documentation. Work was done to revamp the Platform Overview developer documentation, create a guide to preparing applications for translation, and improving the Vala examples in platform demos. Additionally, the new HowDoI developer documentation initiative was started, which encourages GNOME developers to write specific tutorial-style guides to common tasks. "/>
             <para PARENT="GNOME Bread"/>
-            <ITEXT CH="October:"/>
-            <breakline/>
-            <ITEXT CH=".NET + GNOME - Vienna, Austria"/>
+            <ITEXT CH="October: .NET + GNOME - Vienna, Austria"/>
             <breakline/>
             <ITEXT CH="In the .NET + GNOME hackfest, there was sizeable effort toward modernization of various C# GNOME apps and technologies. In particular, significant work was done to port Banshee, Pinta, ?SparkleShare, and Tomboy to GTK+3. Some work was also done creating versions of Tomboy for Android and OS X. The GTK+3 bindings were updated to support GTK+ 3.10 as well."/>
             <para PARENT="GNOME Bread"/>
