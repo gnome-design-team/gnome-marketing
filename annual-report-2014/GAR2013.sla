@@ -3966,11 +3966,9 @@
             <breakline/>
             <ITEXT FONTSIZE="9" CH="$0"/>
             <para ALIGN="2" LINESP="12"/>
-            <ITEXT FONTSIZE="9" CH="$"/>
-            <ITEXT CH="275 000"/>
+            <ITEXT FONTSIZE="9" CH="$275 000"/>
             <breakline/>
-            <ITEXT FONTSIZE="9" CH="$"/>
-            <ITEXT CH="600 193"/>
+            <ITEXT FONTSIZE="9" CH="$600 193"/>
             <para ALIGN="2" LINESP="12"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
