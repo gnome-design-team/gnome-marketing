@@ -1185,6 +1185,7 @@
             <ITEXT CH="Although much of the development of GNOME takes place in a worldwide distributed manner over the Internet, some GNOME contributors attend hackfests in order to collborate with each other face-to-face, have fun, get to know each other, and get work done. The following is a chronological list of the hackfests which took place last year and a summary of the events which occurred at each."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="Developer Experience - Brussels, Belgium"/>
+            <para PARENT="GNOME Header 4"/>
             <breakline/>
             <ITEXT CH="The goal of the Developer Experience Hackfest was to improve the overall application developer experience. Attendees split into four groups, which each addressed and analyzed different areas: Application distribution &amp; Sandboxing, Documentation, Toolkit, and Development Tools. Attendees in the Documentation group worked on creating tutorials to facilitate the process of creating a GNOME application, and updating the design of the developer documentation website. Those in the Development Tools group worked on improving the UI for Devhelp, and also made progress on generating documentation for Javascript and GObject Introspection. The Toolkit group worked on important new GTK+ developments including GtkFlowBox, GNotifications, custom title bars (such as the popular GtkHeaderBars combined with window controls), GtkPopovers, and a11y integration with Clutter. "/>
             <para PARENT="GNOME Bread"/>
@@ -1193,16 +1194,19 @@
             <ITEXT CH="At Devconf, a yearly conference organized by Red Hat in the Czech Republic, and the Fedora and JBoss communities, the Documentation team convened to focus on updating help pages in time for the GNOME 3.8 release. Additionally, the new help documentation for gnome-system-monitor and gnome-terminal were finalized, and work began writing help pages for gnome-boxes. Some updates were also made to developer documentation, in "/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="Freedesktop Summit"/>
+            <para PARENT="GNOME Header 4"/>
             <breakline/>
             <ITEXT CH="The Freedesktop Summit is a joint technical meeting for those involved in the &quot;desktop infrastructure&quot; layer of the major free software desktops. Developers from KDE, GNOME, Unity and Razor-qt projects met at SUSE's offices to improve collaboration between the projects by discussing improvements to freedesktop specifications. Presentations and discussions occurred regarding D-Bus specifications for app launching, kdbus, a replacement for X11-based startup notifications, application intents and “portals”, exporting action groups on D-Bus and adding actions to context menus in the file browser. "/>
             <para PARENT="GNOME Bread" ALIGN="0"/>
             <ITEXT CH="GNOME Fest Peru"/>
             <breakline/>
+            <para PARENT="GNOME Header 4"/>
             <ITEXT CH="Peruvian GNOME contributors organized a conference to teach about GNOME. Over 100 students attended, and there were a variety of activities and talks on the GNOME community, programs, coding tutorials, how to use GNOME with arduino and more. "/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="GTK+"/>
+            <para PARENT="GNOME Header 4"/>
             <breakline/>
-            <ITEXT CH="Apart from an interruption due to a city-wide lockdown in Boston, this hackfest was very productive. A range of elements in GTK+ were finalized and important plans for the future were discussed. Preliminary plans were made for using Wayland in gnome-shell, and the roadmap for HiDPI support in GTK+ was established. Additionally significant work was done implementing important components of GNOME 3 apps such as ?GtkListBox, ?GtkFlowBox, and ?GtkHeaderBar."/>
+            <ITEXT CH="Apart from an interruption due to a city-wide lockdown in Boston, this hackfest was very productive. A range of elements in GTK+ were finalized and important plans for the future were discussed. Preliminary plans were made for using Wayland in gnome-shell, and the roadmap for HiDPI support in GTK+ was established. Additionally significant work was done implementing important components of GNOME 3 apps such as GtkListBox, GtkFlowBox, and GtkHeaderBar."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="Marketing"/>
             <para PARENT="GNOME Header 4"/>
@@ -1211,8 +1215,9 @@
             <para PARENT="GNOME Bread"/>
             <para PARENT="GNOME Header 4"/>
             <ITEXT CH="Open Help Docs - Cincinnati, OH, USA"/>
+            <para PARENT="GNOME Header 4"/>
             <breakline/>
-            <ITEXT CH="Following the ?OpenHelp conference, members of the GNOME documentation team convened to brainstorm ideas to improving GNOME developer documentation. Work was done to revamp the Platform Overview developer documentation, create a guide to preparing applications for translation, and improving the Vala examples in platform demos. Additionally, the new HowDoI developer documentation initiative was started, which encourages GNOME developers to write specific tutorial-style guides to common tasks. "/>
+            <ITEXT CH="Following the OpenHelp conference, members of the GNOME documentation team convened to brainstorm ideas to improving GNOME developer documentation. Work was done to revamp the Platform Overview developer documentation, create a guide to preparing applications for translation, and improving the Vala examples in platform demos. Additionally, the new HowDoI developer documentation initiative was started, which encourages GNOME developers to write specific tutorial-style guides to common tasks. "/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH=".NET + GNOME - Vienna, Austria"/>
             <para PARENT="GNOME Header 4"/>
