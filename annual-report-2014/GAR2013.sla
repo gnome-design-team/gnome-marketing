@@ -3989,11 +3989,13 @@
             <breakline/>
             <ITEXT FONTSIZE="8" CH="4.Some GUADEC/DS conference income and expenses are handled by the organizing teams, so this is not a good indication of turnover."/>
             <breakline/>
-            <ITEXT FONTSIZE="8" CH="5. Royalties: merchandise sale royalties and Amazon referral fees"/>
+            <ITEXT FONTSIZE="8" CH="5. "/>
+            <ITEXT FONTSIZE="8" KERN="-4" CH="Royalties: merchandise sale royalties and Amazon referral fees"/>
             <breakline/>
             <ITEXT FONTSIZE="8" CH="6. Outreach Program for Women: in the 2010-2012 financial years, the income from OPW was under &quot;Sponsorship&quot;7."/>
             <breakline/>
-            <ITEXT FONTSIZE="8" CH="7. The GNOME Foundation employed an executive director and an administrative assistant, and contracted a system administrator in 2013."/>
+            <ITEXT FONTSIZE="8" CH="7. "/>
+            <ITEXT FONTSIZE="8" KERN="0" CH="The GNOME Foundation employed an executive director and an administrative assistant, and contracted a system administrator in 2013."/>
             <breakline/>
             <ITEXT FONTSIZE="8" CH="8.Some GUADEC/Desktop Summit conference income and expenses were handled by the organizing teams, so this is not a good indication of turnover."/>
             <para ALIGN="0"/>
