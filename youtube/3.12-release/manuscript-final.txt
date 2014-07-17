@@ -1,0 +1,58 @@
+Outline:
+* Intro
+* GNOME Shell
+* Applications
+        * Software Center
+        * Gedit
+        * Videos
+        * Web
+        * New Apps: Sound Recorder & Logs
+        * Other Applications
+* Under the Hood
+        * Wayland Update
+        * New/Updated APIs this release
+        * New GTK3 Components
+        * Documentation Overhaul
+        * Other mentions
+* Summary
+
+
+Manus:
+GNOME 3.12 is due to be released on March 36. We'll be looking at an overview of some of the exciting things you'll see in the new release.
+
+The release comes with a lot of polish to GNOME shell and a number of new features to GNOME applications. And there' also good news for developers out there.
+
+** GNOME Shell
+3.12 brings speed. For starters, GNOME Shell loads faster and uses fewer resources, which is great because this allows your computer to focus what is most important: applications.
+
+This release also brings improvements to many applications, as well as a new way to organize your apps with custom application folders which can be created easily with GNOME Software.
+
+** Applications
+Software itself has also received a major overhaul with many new exciting features. Many applications are now shipping screenshots and star ratings which give you a good overview of the variety in your search results. It's now also possible to change software sources, update maually and search with increased performance along with many other improvements.
+
+GNOME 3.12 also brings a new gedit with an overhauled user interface. The new minimalistic user interface helps you focus on the task at hand, while preserving all the features you need in a text editor.
+
+Videos has similarly gained a new face along with new features.
+Through Videos it is now possible to browse your local library and watch videos in the new playback view. Also, browsing through streaming videos from a number of web services is now possible directly from the new slick user interface.
+
+With Web, browsing content on the internet is now also possible much more elegantly through the new interface. Finding a website you visited before, or downloading content to your computer has aethetically improved to enhance your experience without getting in the way of your work.
+
+In this release, there are also a few totally new applications. Sound Recorder is now here to meet your audio recording needs, while Logs helps you monitor the state of your computer via the systemd journal.
+
+All this and many more updates have happened to applications all part of the GNOME 3.12 release.
+[Logos displayed of Initial Setup, Settings, Music, Disks, Games, Terminal, Photos, Notes, Boxes, Tracker] [Maybe everything ie: Software, gedit, Web]
+
+
+**** UNDER THE HOOD / DEV ****
+The under the hood effort on making GNOME Shell run natively on Wayland continues: At the present, primary functionality, display configuration, and color management are implemented and included in the Wayland preview shipped with GNOME. For future releases, work is currently being done to better support different types of input [Show wacom tablet logo, joystick etc.], clipboard support, and startup notifications.
+
+For developers, we quite a lot of news as well. GNOME 3.12 includes many improvements that will make it easier to integrate your app with GNOME and other desktop environments. Improvements has been made to various APIs, primarily the GSubprocess API which has become a lot more powerful and GNotification which has received a whole new API for desktop notification support.
+
+GTK3 has also received new components such as the GtkFlowBox, GtkActionBar and GtkPopover. These will give you new possibilities for creating a great user experience and make your app that much more awesome.
+
+Alongside the new internal changes, the documentation that you rely on has also received an overhaul in look as well as in content. These changes aims at increasing your productivity just like the new search provider for your favorite Terminal commands.
+
+**** Summary
+Over all, GNOME 3.12 brings a lot of exciting new features to the table, once again improving our favorite desktop environment and everything that comes with it. If you want to be a part our efforts towards GNOME, join us here [Show link]! We look forward to helping you get started.
+
+[End line] My name is Karen Sandler, thank your for your time.

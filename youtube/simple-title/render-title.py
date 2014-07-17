@@ -1,7 +1,7 @@
 import bpy,os,re,sys
 
-TITLE="Layers of GNOME 3"
- 
+TITLE=sys.argv[5]
+
 def render():
  
   #bpy.context.scene.render.resolution_percentage =
