@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="731.44866"
-     inkscape:cy="558.50168"
+     inkscape:zoom="0.5"
+     inkscape:cx="532.50943"
+     inkscape:cy="255.86404"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -51,6 +51,20 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      id="layer1">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7002"
+       width="1028"
+       height="1048"
+       x="-2.8421709e-14"
+       y="-3.3451738e-13" />
+    <rect
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6898-8"
+       width="1041.9839"
+       height="482.5513"
+       x="-7.6324692"
+       y="564.04456" />
     <g
        style="fill:#2e3436;fill-opacity:1"
        transform="matrix(2.0751239,0,0,2.0751239,-300.15304,-694.25706)"
@@ -126,32 +140,28 @@
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6836"
        xml:space="preserve"
-       transform="translate(-22.627417,-2.8284271)"><flowRegion
+       transform="translate(-15.556349,-2.8284271)"><flowRegion
          id="flowRegion6838"><rect
            y="198.07193"
            x="94.752312"
-           height="309.71277"
-           width="434.16357"
+           height="159.71277"
+           width="914.16357"
            id="rect6840" /></flowRegion><flowPara
          id="flowPara6842"
-         style="font-size:20px">What we do is important.</flowPara><flowPara
-         id="flowPara6844"
-         style="font-size:16px" /><flowPara
-         id="flowPara6870"
-         style="font-size:16px">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In consectetuer, lorem eu lobortis egestas, velit odio imperdiet eros, sit amet sagittis nunc mi ac neque. Etiam sodales orci nec ligula. Maecenas convallis dui. Nulla blandit justo a metus. Nam laoreet dui sed magna. In commodo, dolor quis fermentum ullamcorper, urna massa volutpat massa, vitae mattis purus arcu nec nulla. Donec at diam a tellus dignissim vestibulum.</flowPara><flowPara
+         style="font-size:40px">What we do is important.</flowPara><flowPara
          id="flowPara6872"
-         style="font-size:16px" /></flowRoot>    <rect
+         style="font-size:16px">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In consectetuer, lorem eu lobortis egestas, velit odio imperdiet eros, sit amet sagittis nunc mi ac neque. Etiam sodales orci nec ligula. Maecenas convallis dui. Nulla blandit justo a metus.</flowPara></flowRoot>    <rect
        style="color:#000000;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6898"
-       width="920.65302"
-       height="114.5513"
-       x="76.367531"
-       y="452.63037" />
+       width="1041.9839"
+       height="204.5513"
+       x="-7.6324692"
+       y="364.04459" />
     <flowRoot
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6836-9"
        xml:space="preserve"
-       transform="translate(31.938747,293.12348)"><flowRegion
+       transform="translate(15.938747,251.12348)"><flowRegion
          id="flowRegion6838-4"><rect
            y="198.07193"
            x="94.752312"
@@ -165,18 +175,18 @@
        id="rect6942"
        width="431.33514"
        height="268.70056"
-       x="90.509666"
+       x="82.509666"
        y="601.1228" />
     <flowRoot
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6836-0"
        xml:space="preserve"
-       transform="translate(456.20282,400.6037)"><flowRegion
+       transform="translate(444.88911,402.01791)"><flowRegion
          id="flowRegion6838-8"><rect
            y="198.07193"
            x="94.752312"
-           height="309.71277"
-           width="434.16357"
+           height="311.12698"
+           width="398.80823"
            id="rect6840-8" /></flowRegion><flowPara
          id="flowPara6842-0"
          style="font-size:20px">GNOME 3</flowPara><flowPara
@@ -185,14 +195,7 @@
          id="flowPara6870-0"
          style="font-size:16px">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In consectetuer, lorem eu lobortis egestas, velit odio imperdiet eros, sit amet sagittis nunc mi ac neque. Etiam sodales orci nec ligula. Maecenas convallis dui. Nulla blandit justo a metus. Nam laoreet dui sed magna. In commodo, dolor quis fermentum ullamcorper, urna massa volutpat massa, vitae mattis purus arcu nec nulla. Donec at diam a tellus dignissim vestibulum.</flowPara><flowPara
          id="flowPara6872-0"
-         style="font-size:16px" /></flowRoot>    <rect
-       style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6942-8"
-       width="386.38779"
-       height="240.70056"
-       x="560.3324"
-       y="185.64972" />
-    <flowRoot
+         style="font-size:16px" /></flowRoot>    <flowRoot
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6836-8"
        xml:space="preserve"
@@ -285,5 +288,17 @@
        d="m 910,107.5 8.625,8.625"
        id="path6232"
        inkscape:connector-curvature="0" />
-  </g>
+    <flowRoot
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6836-81"
+       xml:space="preserve"
+       transform="translate(-15.556349,121.17157)"><flowRegion
+         id="flowRegion6838-98"><rect
+           y="198.07193"
+           x="94.752312"
+           height="43.712769"
+           width="194.16357"
+           id="rect6840-2" /></flowRegion><flowPara
+         id="flowPara6872-15"
+         style="font-size:16px">Tell me more.</flowPara></flowRoot>  </g>
 </svg>
