@@ -279,10 +279,10 @@
        sodipodi:rx="11.25"
        sodipodi:ry="11.25"
        d="m 903,106 a 11.25,11.25 0 1 1 -22.5,0 11.25,11.25 0 1 1 22.5,0 z"
-       transform="matrix(0.65555556,0,0,0.65555556,303.28333,32.636111)" />
+       transform="matrix(0.65555556,0,0,0.65555556,321.28333,32.636111)" />
     <path
        style="fill:none;stroke:#eeeeec;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 892,107.5 8.625,8.625"
+       d="m 910,107.5 8.625,8.625"
        id="path6232"
        inkscape:connector-curvature="0" />
   </g>
