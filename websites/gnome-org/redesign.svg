@@ -14,7 +14,7 @@
    id="svg6019"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 2">
+   sodipodi:docname="redesign.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="590.36529"
-     inkscape:cy="505.60461"
+     inkscape:zoom="1"
+     inkscape:cx="731.44866"
+     inkscape:cy="558.50168"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -192,5 +192,98 @@
        height="240.70056"
        x="560.3324"
        y="185.64972" />
+    <flowRoot
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6836-8"
+       xml:space="preserve"
+       transform="translate(332.11328,-103.07039)"><flowRegion
+         id="flowRegion6838-9"><rect
+           y="198.07193"
+           x="94.752312"
+           height="27.712769"
+           width="43.163582"
+           id="rect6840-6"
+           style="fill:#eeeeec" /></flowRegion><flowPara
+         id="flowPara6872-4"
+         style="font-size:16px;fill:#eeeeec">Blog</flowPara></flowRoot>    <flowRoot
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6836-8-1"
+       xml:space="preserve"
+       transform="translate(385.24322,-103.07039)"><flowRegion
+         id="flowRegion6838-9-3"><rect
+           y="198.07193"
+           x="94.752312"
+           height="30.541203"
+           width="83.468658"
+           id="rect6840-6-4"
+           style="fill:#eeeeec" /></flowRegion><flowPara
+         id="flowPara6872-4-6"
+         style="font-size:16px;fill:#eeeeec">GNOME 3</flowPara></flowRoot>    <flowRoot
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6836-8-1-7"
+       xml:space="preserve"
+       transform="translate(481.20159,-103.07039)"><flowRegion
+         id="flowRegion6838-9-3-4"><rect
+           y="198.07193"
+           x="94.752312"
+           height="30.541204"
+           width="101.85343"
+           id="rect6840-6-4-9"
+           style="fill:#eeeeec" /></flowRegion><flowPara
+         id="flowPara6872-4-6-0"
+         style="font-size:16px;fill:#eeeeec">Contribute</flowPara></flowRoot>    <flowRoot
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6836-8-1-7-4"
+       xml:space="preserve"
+       transform="translate(583.52392,-103.07039)"><flowRegion
+         id="flowRegion6838-9-3-4-8"><rect
+           y="198.07193"
+           x="94.752312"
+           height="24.177238"
+           width="61.548344"
+           id="rect6840-6-4-9-2"
+           style="fill:#eeeeec" /></flowRegion><flowPara
+         id="flowPara6872-4-6-0-0"
+         style="font-size:16px;fill:#eeeeec">About</flowPara></flowRoot>    <flowRoot
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6836-8-1-7-4-3"
+       xml:space="preserve"
+       transform="translate(650.796,-103.07039)"><flowRegion
+         id="flowRegion6838-9-3-4-8-3"><rect
+           y="198.07193"
+           x="94.752312"
+           height="24.17725"
+           width="107.51028"
+           id="rect6840-6-4-9-2-0"
+           style="fill:#eeeeec" /></flowRegion><flowPara
+         id="flowPara6872-4-6-0-0-8"
+         style="font-size:16px;fill:#eeeeec">Technologies</flowPara></flowRoot>    <flowRoot
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6836-8-1-7-4-3-0"
+       xml:space="preserve"
+       transform="translate(830.79601,-103.07039)"><flowRegion
+         id="flowRegion6838-9-3-4-8-3-0"><rect
+           y="198.07193"
+           x="94.752312"
+           height="22.055925"
+           width="73.569153"
+           id="rect6840-6-4-9-2-0-3"
+           style="fill:#eeeeec" /></flowRegion><flowPara
+         id="flowPara6872-4-6-0-0-8-4"
+         style="font-size:16px;fill:#eeeeec">Search</flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:3.05084753;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path6230"
+       sodipodi:cx="891.75"
+       sodipodi:cy="106"
+       sodipodi:rx="11.25"
+       sodipodi:ry="11.25"
+       d="m 903,106 a 11.25,11.25 0 1 1 -22.5,0 11.25,11.25 0 1 1 22.5,0 z"
+       transform="matrix(0.65555556,0,0,0.65555556,303.28333,32.636111)" />
+    <path
+       style="fill:none;stroke:#eeeeec;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 892,107.5 8.625,8.625"
+       id="path6232"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
