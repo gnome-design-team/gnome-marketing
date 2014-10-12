@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="skyline.svg">
   <defs
      id="defs4">
@@ -33,6 +33,40 @@
          id="rect14462"
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask9491">
+      <rect
+         y="-739.24902"
+         x="1709.7345"
+         height="322.51053"
+         width="754.28571"
+         id="rect9493"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask9553">
+      <rect
+         y="814.13336"
+         x="1773.1313"
+         height="177.74179"
+         width="613.71777"
+         id="rect9555"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         mask="none" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask13275">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect13277"
+         width="731.8219"
+         height="343.25394"
+         x="1609.8729"
+         y="966.18671" />
+    </mask>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -41,9 +75,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="1837.5029"
-     inkscape:cy="795.70926"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1552.004"
+     inkscape:cy="469.67562"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -73,7 +107,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -423,7 +457,7 @@
        xml:space="preserve"
        id="flowRoot7597"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-53.08424,376.76736)"
+       transform="translate(-53.08424,56.76736)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -433,121 +467,20 @@
            height="638.55426"
            x="932.85712"
            y="63.790752" /></flowRegion><flowPara
-         style="font-size:12px"
-         id="flowPara8276">The GNOME Foundation is a US public charity focused on making software that improves access to technology for all, no matter where you are, what your background is or how much money you have.</flowPara><flowPara
-         style="font-size:12px"
-         id="flowPara7663" /><flowPara
-         id="flowPara7607"
-         style="font-size:12px">GNOME is an international project that works to create a free, open, easy-to-use computer environment with first-class internationalization and accessibility. Built entirely from software as approved by the Free Software Foundation, GNOME provides all of the common tools users expect from a modern computing environment: web browsers, file managers, multimedia players, e-mail applications, group-ware and games. GNOME components form the basic desktop environments on many operating systems, e.g., Oracle's Solaris, Canonical's Ubuntu, Debian, Fedora, Linux Mint and openSUSE.</flowPara><flowPara
-         style="font-size:12px"
-         id="flowPara7665" /><flowPara
-         id="flowPara7627"
-         style="font-size:12px">GNOME also provides a flexible and powerful platform for desktop and mobile developers, and provides an umbrella for an entire ecosystem of related technologies and applications: User-facing toolkits, such as GTK+ (widgets and app development framework), Clutter (hardware-accelerated user interfaces), and WebKitGTK+ (browser engine);    End-user applications, including Shotwell (digital photo manager), Rhythmbox (music management), Ardour (professional audio recording/editing workstation) and Inkscape (vector graphics editor); and    Support components, including GStreamer (sound, video, and multimedia delivery), D-Bus (interprocess communications), Pango (text layout), GObject (cross-platform C-based object system), and libxml2/libxslt (XML parser and transformations).Commercial companies adopt the functionality-rich components of GNOME, as the free license allows use in commercial  products at no cost. While useful for companies, GNOME is the result of collaboration between those companies and volunteers from the public who focus on creating software that is great and easy to use by everyone</flowPara><flowPara
          id="flowPara7659"
-         style="font-size:12px" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot7597-4"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-55.54639,739.90372)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion7599-9"><rect
-           id="rect7601-1"
-           width="628.57153"
-           height="224.28584"
-           x="932.85712"
-           y="63.790752" /></flowRegion><flowPara
+         style="font-size:12px">Led by the non-profit GNOME Foundation, GNOME is an international project that creates a free, open, easy-to-use computer environment with first-class internationalization and accessibility. Built entirely from software as approved by the Free Software Foundation, GNOME provides all of the common tools users expect from a modern computing environment. GNOME components form the basic desktop environments on many operating systems, e.g., Oracle's Solaris, Red Hat Enterprise Linux, Canonical's Ubuntu, Debian, Fedora, Linux Mint and openSUSE.</flowPara><flowPara
          style="font-size:12px"
-         id="flowPara7671-5">GNOME technologies have been adopted for consumer and vertical market products, like:</flowPara><flowPara
+         id="flowPara6374" /><flowPara
          style="font-size:12px"
-         id="flowPara9536" /><flowPara
+         id="flowPara6376">GNOME also provides a flexible and powerful platform for desktop and mobile developers, and provides an umbrella for an entire ecosystem of related technologies. GNOME technologies have been adopted for consumer and vertical market by companies such as Endless Mobile, Amazon, TiVo, Nokia, TouchTunes, Garmin and TomTom.</flowPara><flowPara
          style="font-size:12px"
-         id="flowPara14453"><flowSpan
-   style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan14455">Endless Mobile   </flowSpan>desktop for emerging markets (full GNOME stack)</flowPara><flowPara
+         id="flowPara6378">The GNOME project have produced toolkits such as GTK+ and Clutter, The browser engine WebKitGTK+, Sound and media library GStreamer, D-Bus interprocess communication, Pango text layout and XML parser libxml2/libxslt.</flowPara><flowPara
          style="font-size:12px"
-         id="flowPara8270"><flowSpan
-   style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan8272">Amazon</flowSpan>                Kindle e-book readers (GTK+, WebKitGTK+, Pango)</flowPara><flowPara
-         style="font-size:12px"
-         id="flowPara7673-9"><flowSpan
-   style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan7850">TiVo</flowSpan>                       digital video recorders (libxml2, libxslt)</flowPara><flowPara
-         style="font-size:12px"
-         id="flowPara7675-7"><flowSpan
-   style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan7852">Nokia</flowSpan>                    Internet tablets (GTK+) and the N900 cell phone (Clutter)</flowPara><flowPara
-         style="font-size:12px"
-         id="flowPara7677-9"><flowSpan
-   style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan7854">TouchTunes</flowSpan>         digital jukeboxes (GTK+, Clutter)</flowPara><flowPara
-         style="font-size:12px"
-         id="flowPara7679-3"><flowSpan
-   style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan7856">Garmin</flowSpan>                 GPS navigation devices (GTK+, GStreamer, Pango)</flowPara><flowPara
-         style="font-size:12px"
-         id="flowPara7860"><flowSpan
-   style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan7858">TomTom</flowSpan>                GPS navigation devices (D-Bus, Glib, libxml2)</flowPara><flowPara
-         style="font-size:12px"
-         id="flowPara7866" /><flowPara
-         id="flowPara7609-9"
-         style="font-size:12px" /><flowPara
-         id="flowPara7611-2"
-         style="font-size:12px" /><flowPara
-         id="flowPara7613-2"
-         style="font-size:12px" /><flowPara
-         id="flowPara7615-8"
-         style="font-size:12px" /><flowPara
-         id="flowPara7617-4"
-         style="font-size:12px" /><flowPara
-         id="flowPara7619-4"
-         style="font-size:12px" /><flowPara
-         id="flowPara7621-5"
-         style="font-size:12px" /><flowPara
-         id="flowPara7623-0"
-         style="font-size:12px" /><flowPara
-         id="flowPara7625-0"
-         style="font-size:12px" /><flowPara
-         id="flowPara7627-3"
-         style="font-size:12px" /><flowPara
-         id="flowPara7629-3"
-         style="font-size:12px" /><flowPara
-         id="flowPara7631-0"
-         style="font-size:12px" /><flowPara
-         id="flowPara7633-7"
-         style="font-size:12px" /><flowPara
-         id="flowPara7635-0"
-         style="font-size:12px" /><flowPara
-         id="flowPara7637-8"
-         style="font-size:12px" /><flowPara
-         id="flowPara7639-4"
-         style="font-size:12px" /><flowPara
-         id="flowPara7641-9"
-         style="font-size:12px" /><flowPara
-         id="flowPara7643-0"
-         style="font-size:12px" /><flowPara
-         id="flowPara7645-1"
-         style="font-size:12px" /><flowPara
-         id="flowPara7647-8"
-         style="font-size:12px" /><flowPara
-         id="flowPara7649-3"
-         style="font-size:12px" /><flowPara
-         id="flowPara7651-1"
-         style="font-size:12px" /><flowPara
-         id="flowPara7653-8"
-         style="font-size:12px" /><flowPara
-         id="flowPara7655-3"
-         style="font-size:12px" /><flowPara
-         id="flowPara7657-4"
-         style="font-size:12px" /><flowPara
-         id="flowPara7659-4"
-         style="font-size:12px" /></flowRoot>    <flowRoot
+         id="flowPara6384">Developers from the GNOME community also pushes forward and take active part in the development of the Linux Kernel, Systemd and Wayland. Commercial companies adopt the functionality-rich components of GNOME, as the free license allows use in commercial  products at no cost. While useful for companies, GNOME is the result of collaboration between those companies and volunteers from the public who focus on creating software that is great and easy to use by everyone.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7597-4-4"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(765.8159,412.34064)"
+       transform="translate(765.8159,346.34064)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -558,11 +491,15 @@
            x="932.85712"
            y="63.790752" /></flowRegion><flowPara
          style="font-size:12px"
-         id="flowPara9524">Pronounced GWAH-DECK, GUADEC is the primary congress for GNOME users, developers, foundation leaders, individuals, governments and businesses worldwide. It is held annually in cities around Europe, and brings attendees together to share their experiences and ideas for developing, using and deploying GNOME technologies.</flowPara><flowPara
+         id="flowPara9524">GUADEC is the primary congress for GNOME users, developers, foundation leaders, individuals, governments and businesses worldwide. It is held annually in cities around Europe, and brings attendees together to share their experiences and ideas for developing, using and deploying GNOME technologies.</flowPara><flowPara
          style="font-size:12px"
          id="flowPara9495" /><flowPara
          style="font-size:12px"
          id="flowPara9090">GUADEC annualy attracts around 300 key software developers, press, users, businesses and government representatives each year. Presentations are given by leaders, spokespeople, volunteers and motivated developers on a range of topics including the future directions of the GNOME Project, Unix, GNU/Linux, Free and Open Source software, development techniques, cutting edge features and ideas on technology and culture.</flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara6390" /><flowPara
+         style="font-size:12px"
+         id="flowPara6392">GUADEC conferences are attended by professional software developers, engineering students and free and open source enthusiasts. Both men and women attend the conference and the average age is between 20-35.</flowPara><flowPara
          style="font-size:12px"
          id="flowPara14464" /><flowPara
          style="font-size:12px"
@@ -588,7 +525,7 @@
        xml:space="preserve"
        id="flowRoot7597-42"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6e91a1;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-51.65567,329.62447)"
+       transform="translate(-51.65567,9.62447)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -604,7 +541,7 @@
        xml:space="preserve"
        id="flowRoot7597-42-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6e91a1;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(765.9375,374.93962)"
+       transform="translate(765.9375,308.93962)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -748,9 +685,7 @@
          style="font-size:12px"
          id="flowPara10069-49">Meego</flowPara><flowPara
          style="font-size:12px"
-         id="flowPara14744">Mozilla </flowPara><flowPara
-         style="font-size:12px"
-         id="flowPara10071-8">Sun Microsystems </flowPara><flowPara
+         id="flowPara10071-8">Mozilla </flowPara><flowPara
          style="font-size:12px"
          id="flowPara10073-4">Hewlett-Packard </flowPara><flowPara
          style="font-size:12px"
@@ -1098,5 +1033,86 @@
          style="font-size:12px"
          id="flowPara7149" /><flowPara
          style="font-size:12px"
-         id="flowPara7151" /></flowRoot>  </g>
+         id="flowPara7151" /></flowRoot>    <image
+       y="-841.05261"
+       x="1593.3722"
+       id="image9450"
+       xlink:href="file:///home/andreasn/SparkleShare/gnome-marketing/guadec/9424350002_58da94cc5b_h.jpg"
+       height="580.23126"
+       width="866.82532"
+       mask="url(#mask9491)"
+       transform="translate(-98.78485,739.29916)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <image
+       style="fill:#eeeeec"
+       y="782.2262"
+       x="1771.1777"
+       id="image12601"
+       xlink:href="file:///home/andreasn/SparkleShare/gnome-marketing/guadec/sponsors.jpg"
+       height="213.42775"
+       width="647.16797"
+       mask="url(#mask9553)"
+       transform="translate(-77.76172,94.42211)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <image
+       style="fill:#3465a4"
+       y="857.29932"
+       x="1621.2472"
+       id="image13270"
+       xlink:href="file:///home/andreasn/SparkleShare/gnome-marketing/guadec/9445513292_030b6164ba_h.jpg"
+       height="478.50742"
+       width="714.85706"
+       mask="url(#mask13275)"
+       transform="matrix(0.88171311,0,0,0.88171311,-576.6243,-146.48299)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7597-4-2"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-78.9519,948.974)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion7599-9-5"><rect
+           id="rect7601-1-0"
+           width="635.00012"
+           height="42.14299"
+           x="932.85712"
+           y="63.790752"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara7659-4-1"
+         style="font-size:9px">Kathy Malmrose. CEO of computer manufacturer Zareason and GUADEC 2013 keynote speaker. Photo by Ana Rey licensed under CCBYSA</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6394"
+       width="233"
+       height="152"
+       x="891"
+       y="433.36218" />
+    <path
+       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 891,590.86218 233,0 40,48.5 -313,0 z"
+       id="rect6394-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6418"
+       width="221"
+       height="140.5"
+       x="897"
+       y="439.36218" />
+    <rect
+       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6420"
+       width="313.25"
+       height="6.5"
+       x="851"
+       y="640.61218" />
+  </g>
 </svg>
