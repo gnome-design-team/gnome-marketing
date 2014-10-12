@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   id="svg6586"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 4">
+  <defs
+     id="defs6588">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask6772">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect6774"
+         width="1027.5405"
+         height="303.20667"
+         x="-1.8249512"
+         y="30.205133" />
+    </mask>
+    <filter
+       inkscape:label="Desaturate"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB"
+       id="filter6884"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         id="feColorMatrix6886" />
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="5"
+         id="feGaussianBlur6888" />
+      <feComposite
+         in2="result7"
+         operator="atop"
+         in="result6"
+         result="result91"
+         id="feComposite6890" />
+      <feComposite
+         operator="in"
+         in2="result91"
+         id="feComposite6892"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix7901" />
+      <feColorMatrix
+         id="feColorMatrix7903"
+         type="saturate"
+         values="0"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter7891"
+       x="-0.094485561"
+       width="1.1889711"
+       y="-0.20891033"
+       height="1.4178207">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="13.119471"
+         id="feGaussianBlur7893" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="3.4855227"
+     inkscape:cy="598.56182"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7899" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6591">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <image
+       y="-51.153465"
+       x="-1.6942887"
+       id="image6769"
+       xlink:href="file:///home/andreasn/SparkleShare/gnome-marketing/guadec/9445646908_257de85d87_h.jpg"
+       height="426.8916"
+       width="1027.2792"
+       mask="url(#mask6772)"
+       transform="translate(1.4142136,-29.698485)"
+       style="filter:url(#filter6884)" />
+    <rect
+       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7213"
+       width="743.87634"
+       height="1021.0622"
+       x="-1101.3989"
+       y="-173.56052" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M -920.03125 618.5 L -920.03125 622.53125 L -927.125 623.46875 L -927.125 631.375 L -920.03125 631.375 L -920.03125 634.9375 L -932.15625 634.9375 L -941.46875 644.375 L -941.46875 670.75 L -878.875 670.75 L -878.875 659.40625 L -897.5 634.9375 L -910.15625 634.9375 L -910.15625 631.375 L -903.09375 631.375 L -903.09375 623.46875 L -910.15625 622.53125 L -910.15625 618.5 L -920.03125 618.5 z M -907.03125 640.1875 L -903.9375 640.1875 L -903.9375 643.28125 L -907.03125 643.28125 L -907.03125 640.1875 z M -903.03125 640.1875 L -899.8125 640.1875 L -899.8125 643.28125 L -903.03125 643.28125 L -903.03125 640.1875 z M -919.5625 641.71875 C -917.0818 641.71875 -915.0625 643.738 -915.0625 646.21875 C -915.0625 648.6995 -917.0818 650.71875 -919.5625 650.71875 C -922.0433 650.71875 -924.0625 648.6995 -924.0625 646.21875 C -924.0625 643.738 -922.0433 641.71875 -919.5625 641.71875 z M -907.03125 644.1875 L -903.9375 644.1875 L -903.9375 647.53125 L -907.03125 647.53125 L -907.03125 644.1875 z M -903.03125 644.1875 L -899.8125 644.1875 L -899.8125 647.53125 L -903.03125 647.53125 L -903.03125 644.1875 z M -941.46875 673.125 L -941.46875 680.40625 L -878.875 680.40625 L -878.875 673.125 L -941.46875 673.125 z M -941.46875 682.4375 L -941.46875 689.75 L -878.875 689.75 L -878.875 682.4375 L -941.46875 682.4375 z M -941.46875 691.75 L -941.46875 699.0625 L -878.875 699.0625 L -878.875 691.75 L -941.46875 691.75 z M -941.46875 701.0625 L -941.40625 768.5625 L -870.96875 768.5625 L -870.96875 719.71875 L -878.8125 710.375 L -878.875 710.375 L -878.875 701.0625 L -941.46875 701.0625 z "
+       id="rect6019" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -548.0866,712.72962 -16.5437,6.54539 0,23.07011 c -15.6156,4.88851 -26.5881,16.16545 -33.9601,29.10325 l 100.742,0 c -7.5416,-12.92346 -17.0648,-24.43674 -32.4044,-29.274 l 0,-22.89936 -17.8338,-6.54539 z"
+       id="path6933"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M -636.15625 687.03125 L -638.625 691.03125 L -647.21875 691.625 L -654.375 711.78125 L -662.0625 718.5625 L -661.375 719.5625 L -654.1875 715.71875 L -641.375 697.375 L -619.0625 743.71875 L -618.3125 743.0625 L -615 743.0625 L -621.15625 753.625 L -621.21875 753.78125 L -621.21875 758.40625 L -641.0625 758.40625 L -641.0625 779.28125 L -539.21875 779.28125 L -539.21875 758.40625 L -600.375 758.40625 L -600.375 752.25 L -605.65625 743.0625 L -601.625 743.0625 L -601.625 745.0625 L -598.96875 745.0625 L -598.96875 737.6875 L -612.21875 737.6875 L -607.03125 733.125 L -596.6875 733.65625 L -597.125 729.53125 L -607.5 726.46875 L -637.375 691.34375 L -635.09375 687.65625 L -636.15625 687.03125 z M -639.40625 692.3125 L -653.15625 712.09375 L -646.34375 692.8125 L -639.40625 692.3125 z M -638.03125 692.4375 L -609.96875 725.53125 L -621.625 735.46875 L -640.46875 696.375 L -638.03125 692.4375 z M -653.6875 712.875 L -655.0625 714.78125 L -657.21875 715.96875 L -653.6875 712.875 z M -609.1875 726.46875 L -608.25 727.5625 L -598.25 730.46875 L -598.0625 732.3125 L -607.46875 731.875 L -618.625 741.6875 L -621.0625 736.625 L -609.1875 726.46875 z M -613.8125 743.4375 L -610.5625 743.4375 L -610.5625 746.625 L -615.65625 746.625 L -613.8125 743.4375 z M -609.3125 743.4375 L -606.875 743.4375 L -605.03125 746.625 L -609.3125 746.625 L -609.3125 743.4375 z M -616.375 747.875 L -610.5625 747.875 L -610.5625 754.3125 L -619.96875 754.3125 L -616.375 747.875 z M -609.3125 747.875 L -604.34375 747.875 L -601.625 752.53125 L -601.625 754.3125 L -609.3125 754.3125 L -609.3125 747.875 z M -619.96875 756.8125 L -610.5625 756.8125 L -610.5625 758.40625 L -619.96875 758.40625 L -619.96875 756.8125 z M -609.3125 756.8125 L -601.625 756.8125 L -601.625 758.40625 L -609.3125 758.40625 L -609.3125 756.8125 z "
+       id="path7042" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m -805.80973,702.57551 -33.70983,21.20578 -4.07654,-0.35272 -0.11753,1.21506 3.84135,0.35284 7.29073,13.44468 -5.64443,0 0,3.76295 4.46851,0 0,16.46307 3.76296,0 0,-19.44208 28.88848,-29.35884 16.73732,10.26973 0.66636,-1.05833 -17.40368,-10.62251 z m -0.27438,1.6463 3.95894,4.89968 -28.88854,29.31966 -7.56511,-13.67986 0,-0.11791 z"
+       id="path7058"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m -716.86852,695.86875 -9.83856,5.37005 0.23518,21.67621 -4.93888,3.95895 1.09753,1.4111 5.64444,-4.39011 5.95801,-19.28516 10.19135,42.80358 0,4.07654 4.23333,0 -5.48765,9.52505 0,5.80121 1.25432,0 0,-3.7629 19.12837,0 0,5.0172 1.25432,0 0,-7.36909 -4.50771,-9.21147 4.6645,0 0,-7.68271 -15.32622,0 7.8395,-6.03641 6.50678,4.46851 0.70556,-1.01913 -9.76018,-6.66357 z m -0.58796,1.72469 18.46202,37.8255 2.43024,1.60716 -8.19227,6.31073 -13.64073,-41.39247 -7.21233,18.6972 0.15679,-18.6972 z m 14.58147,53.89647 8.78023,0 4.7037,9.56418 0,0.74478 -19.12837,0 0,-0.5095 z"
+       id="path7066"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7157"
+       width="743.54053"
+       height="115.37616"
+       x="-1102.4773"
+       y="766.18433" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7176"
+       width="70.397713"
+       height="33"
+       x="-878.09241"
+       y="751.56055" />
+    <path
+       d="m -847.04629,175.48901 0,-23.27793 -25.8099,0 0,8.82111 15.927,0 0,10.86303 c -2.45031,1.96025 -6.0441,3.34876 -10.78136,3.34876 -12.25153,0 -21.07265,-8.41274 -21.07265,-20.1742 0,-12.08818 9.63789,-19.19408 19.76582,-19.19408 5.71738,0 11.18974,2.04192 14.29346,3.67546 l 1.47019,0.81677 4.16552,-7.92266 -1.38851,-0.81677 c -4.81893,-2.69534 -11.3531,-4.98229 -18.94904,-4.98229 -19.03071,0 -29.48537,13.96677 -29.48537,28.83195 0,13.96674 9.31119,29.07699 29.64872,29.07699 13.64003,0 20.09253,-6.77919 22.21612,-9.06614"
+       id="path8946"
+       inkscape:connector-curvature="0"
+       style="font-size:81.67692566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m -811.52831,184.55515 c 22.2161,0 23.19625,-14.37515 23.19625,-21.236 0,-3.67546 -0.0817,-4e-5 -0.0817,-36.26456 l -9.96458,0 0,35.93785 c 0,1.71521 -0.16336,3.34875 -0.57174,4.81894 -1.22515,4.90061 -5.88075,7.59595 -12.57825,7.59595 -6.53415,0 -9.63788,-2.61366 -10.618,-3.67546 -2.28695,-2.45031 -2.53198,-5.309 -2.53198,-8.73943 l 0,-35.93785 -10.04627,0 0,36.83629 0,0.49007 c 0,6.28911 0.32674,20.1742 23.19625,20.1742"
+       id="path8948"
+       inkscape:connector-curvature="0"
+       style="font-size:81.67692566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m -758.9679,127.05459 -21.15435,56.68379 9.80123,0 5.63571,-14.8652 20.82761,0 5.7174,14.8652 10.373,0 -21.236,-56.68379 -9.9646,0 m 11.9248,32.67077 -14.4568,0 7.2692,-21.07265 7.1876,21.07265"
+       id="path8950"
+       inkscape:connector-curvature="0"
+       style="font-size:81.67692566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m -700.2716,136.28408 c 1.7152,0 3.3488,0.0817 4.9006,0.32671 6.7792,1.0618 14.7836,6.37081 14.7836,18.45899 0,5.30899 -1.4702,8.73943 -2.4503,10.618 -4.6556,8.57607 -13.7218,8.82111 -19.9292,8.82111 l -6.5342,0 0,-38.22481 9.2295,0 m -0.245,-9.22949 -19.0307,0 0,56.68379 14.1301,0 c 4.7372,0 9.7195,0 14.5385,-1.22516 15.7636,-3.75713 20.3375,-17.23384 20.3375,-28.75027 0,-12.49656 -6.5342,-26.70836 -29.9754,-26.70836"
+       id="path8952"
+       inkscape:connector-curvature="0"
+       style="font-size:81.67692566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m -659.8849,183.73838 37.6531,0 0,-9.22949 -27.6068,0 0,-15.35527 25.4832,0 0,-9.22949 -25.4832,0 0,-13.64005 27.6068,0 0,-9.22949 -37.6531,0 0,56.68379"
+       id="path8954"
+       inkscape:connector-curvature="0"
+       style="font-size:81.67692566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m -584.8991,126.64621 c -18.3773,0 -30.0571,12.49658 -30.0571,28.83195 0,16.09034 11.1897,29.07699 29.567,29.07699 5.2274,0 11.3531,-1.22516 17.3155,-3.75714 l 1.4702,-0.57174 -3.267,-8.00434 -1.4702,0.49006 c -4.4106,1.55186 -8.6578,2.36863 -12.2516,2.36863 -13.2316,0 -21.236,-9.14782 -21.236,-19.68414 0,-10.2096 7.4326,-19.4391 19.7658,-19.4391 2.532,0 6.6976,0.32671 12.9867,2.53198 l 1.5518,0.57174 3.1038,-8.65775 -1.4702,-0.57174 c -5.9624,-2.36863 -11.5982,-3.1854 -16.0087,-3.1854"
+       id="path8956"
+       inkscape:connector-curvature="0"
+       style="font-size:81.67692566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9020"
+       d="m -886.69461,99.57557 c 0.99254,0 2.01425,-0.17515 3.09435,-0.52546 l 0,-1.7807 c -0.75899,0.20434 -1.54717,0.32111 -2.39374,0.32111 -1.80989,0 -2.27696,-0.93416 -2.27696,-2.83162 l 0,-7.56073 4.67071,0 0,-1.98506 -4.67071,0 0,-3.61981 -2.36455,0.11674 0,3.50304 -2.36455,0 0,1.98506 2.36455,0 0,7.73586 c 0,2.97759 0.99252,4.64154 3.94092,4.64154"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9022"
+       d="m -871.37702,90.26332 0,9.04953 2.36457,0 0,-9.60417 c 0,-2.97758 -1.60556,-4.87508 -4.55395,-4.87508 -1.4596,0 -3.00678,0.4379 -4.69992,1.28448 l 0,-6.36387 -2.42293,0 0,19.55864 2.42293,0 0,-11.41408 c 1.4304,-0.7006 2.68566,-1.0509 3.79494,-1.0509 2.27698,0 3.09436,1.08009 3.09436,3.41545"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9024"
+       d="m -859.15927,85.00877 c -2.04342,0 -3.61979,0.7298 -4.75829,2.1894 -1.08009,1.45959 -1.63475,3.21111 -1.63475,5.31293 0,4.55397 2.48135,7.06447 7.09366,7.06447 1.57637,0 3.09436,-0.26272 4.52477,-0.759 l 0,-1.89746 c -1.37203,0.43787 -2.65648,0.64222 -3.88255,0.64222 -1.7807,0 -3.09434,-0.40869 -3.91173,-1.28444 -0.81737,-0.87577 -1.28445,-1.98507 -1.37203,-3.32789 l 9.57498,0 0.14596,-0.23356 0,-1.28443 c 0,-4.0285 -2.07265,-6.42224 -5.78004,-6.42224 m 3.38628,6.10111 -7.26881,0 c 0.26274,-2.24776 1.4596,-4.20363 4.08689,-4.20363 2.18938,0 3.18192,1.92668 3.18192,4.20363"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9027"
+       d="m -682.2328,83.74388 0.605,-1.81507 c -1.7361,-0.63133 -3.104,-0.94699 -5.4978,-0.94699 -2.6568,0 -5.0243,1.18374 -6.4185,2.63053 -1.4468,1.4994 -2.5254,3.86689 -2.5254,6.70786 0,2.78836 0.8419,5.02432 2.4728,6.78677 1.4994,1.52571 3.788,2.60423 6.7078,2.60423 2.0519,0 3.8669,-0.36827 5.4978,-1.10483 l -0.5524,-1.73614 c -1.4467,0.57871 -2.8672,0.86807 -4.3141,0.86807 -1.4204,0 -2.7094,-0.28936 -3.8142,-0.92068 -2.0781,-1.18374 -3.5249,-3.4197 -3.5249,-6.52373 0,-2.13073 0.6576,-3.84058 1.9202,-5.23475 1.0522,-1.13113 2.8937,-2.10443 4.9454,-2.10443 2.0782,0 2.8411,0.21044 4.4983,0.78916"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9029"
+       d="m -673.0144,88.24209 c 2.5779,0 3.9195,2.20965 3.9195,4.89279 0,2.73575 -1.3416,4.86648 -3.9195,4.86648 -2.5779,0 -3.9196,-2.18334 -3.9196,-4.86648 0,-2.65683 1.3417,-4.89279 3.9196,-4.89279 m -0.053,11.46912 c 3.8669,0 6.1555,-2.63054 6.1555,-6.60263 0,-3.9458 -2.1834,-6.55003 -6.0766,-6.55003 -3.8932,0 -6.1292,2.63053 -6.1292,6.57633 0,3.9721 2.157,6.57633 6.0503,6.57633"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9031"
+       d="m -658.1425,88.321 c 0.9996,0 1.6836,0.23675 2.1045,0.71024 0.4209,0.4735 0.6313,1.26266 0.6313,2.34118 l 0,8.07574 2.1307,0 0,-8.60185 c 0,-1.36787 -0.342,-2.42009 -1.0522,-3.18294 -0.7102,-0.76286 -1.7098,-1.15743 -3.0514,-1.15743 -1.3416,0 -2.8936,0.42088 -4.4982,1.26265 l -0.4209,-0.94699 -1.4994,0 0,12.62656 2.1571,0 0,-10.20647 c 1.2889,-0.60502 2.4989,-0.92069 3.4985,-0.92069"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9033"
+       d="m -644.3445,82.84949 c 0.5787,0 1.2627,0.10523 2.0781,0.31567 l 0.342,-1.57832 c -0.8944,-0.26306 -1.9992,-0.4735 -3.0777,-0.4735 -1.7888,0 -3.0777,0.65763 -3.8143,1.9729 -0.263,0.4735 -0.3945,1.28896 -0.3945,2.39379 l 0,1.28896 -1.8415,0 0,1.65723 1.8415,0 0.026,11.02194 2.1307,0 -0.026,-11.02194 4.2351,0 0,-1.65723 -4.2351,0 0,-1.21004 c 0,-0.34198 0.026,-0.63134 0.053,-0.81547 0.1578,-1.05221 1.21,-1.89399 2.6831,-1.89399"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9035"
+       d="m -634.6354,86.55855 c -1.8413,0 -3.2618,0.65763 -4.2878,1.9729 -0.9732,1.31526 -1.473,2.89358 -1.473,4.78757 0,4.10363 2.236,6.36588 6.3921,6.36588 1.4206,0 2.7884,-0.23674 4.0774,-0.68393 l 0,-1.70985 c -1.2363,0.39458 -2.3938,0.57872 -3.4986,0.57872 -1.6047,0 -2.7884,-0.36828 -3.5249,-1.15743 -0.7365,-0.78917 -1.1574,-1.78877 -1.2363,-2.99881 l 8.6281,0 0.1315,-0.21045 0,-1.15743 c 0,-3.63014 -1.8677,-5.78717 -5.2085,-5.78717 m 3.0515,5.49781 -6.55,0 c 0.2367,-2.02551 1.3152,-3.78797 3.6827,-3.78797 1.9729,0 2.8673,1.73616 2.8673,3.78797"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9037"
+       d="m -620.3401,86.55855 c -1.2363,0 -2.3937,0.42089 -3.5249,1.28896 l -0.4209,-1.05222 -1.5783,0 0,12.65287 2.1833,0 0,-10.07495 c 0.9208,-0.60502 1.8678,-0.92068 2.8937,-0.92068 0.6313,0 1.2626,0.15783 1.9202,0.42088 l 0.2631,0 0,-2.07812 c -0.5524,-0.15783 -1.1312,-0.23674 -1.7362,-0.23674"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9039"
+       d="m -610.5907,86.55855 c -1.8413,0 -3.2618,0.65763 -4.2877,1.9729 -0.9733,1.31526 -1.4731,2.89358 -1.4731,4.78757 0,4.10363 2.236,6.36588 6.3922,6.36588 1.4205,0 2.7883,-0.23674 4.0773,-0.68393 l 0,-1.70985 c -1.2363,0.39458 -2.3938,0.57872 -3.4986,0.57872 -1.6047,0 -2.7884,-0.36828 -3.5249,-1.15743 -0.7365,-0.78917 -1.1574,-1.78877 -1.2363,-2.99881 l 8.628,0 0.1316,-0.21045 0,-1.15743 c 0,-3.63014 -1.8677,-5.78717 -5.2085,-5.78717 m 3.0515,5.49781 -6.55,0 c 0.2367,-2.02551 1.3152,-3.78797 3.6827,-3.78797 1.9729,0 2.8673,1.73616 2.8673,3.78797"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9041"
+       d="m -596.9004,88.321 c 0.9996,0 1.6836,0.23675 2.1045,0.71024 0.4209,0.4735 0.6313,1.26266 0.6313,2.34118 l 0,8.07574 2.1307,0 0,-8.60185 c 0,-1.36787 -0.342,-2.42009 -1.0522,-3.18294 -0.7102,-0.76286 -1.7098,-1.15743 -3.0514,-1.15743 -1.3416,0 -2.8936,0.42088 -4.4983,1.26265 l -0.4208,-0.94699 -1.4994,0 0,12.62656 2.157,0 0,-10.20647 c 1.289,-0.60502 2.499,-0.92069 3.4986,-0.92069"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9043"
+       d="m -582.9708,99.73752 c 0.027,0 0.079,0 0.1052,-0.0263 1.1048,0 2.2359,-0.23674 3.4459,-0.71024 l -0.4998,-1.44679 c -0.8154,0.28936 -1.5783,0.44719 -2.2885,0.44719 -0.2104,0 -0.4209,-0.0263 -0.605,-0.0526 -2.7884,-0.31567 -4.1037,-1.89398 -4.1037,-4.99801 0,-2.9725 1.4731,-4.62974 4.4983,-4.62974 0.7628,0 1.6572,0.15783 2.6305,0.4998 l 0.526,-1.52571 c -1.1574,-0.4998 -2.2359,-0.76285 -3.2618,-0.76285 -2.2097,0 -3.8406,0.63133 -4.9191,1.92029 -1.0258,1.23635 -1.5519,2.86728 -1.5519,4.89279 0,3.9984 2.1043,6.3922 6.0239,6.3922"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9045"
+       d="m -570.8758,86.55855 c -1.8413,0 -3.2618,0.65763 -4.2878,1.9729 -0.9732,1.31526 -1.473,2.89358 -1.473,4.78757 0,4.10363 2.236,6.36588 6.3921,6.36588 1.4206,0 2.7885,-0.23674 4.0774,-0.68393 l 0,-1.70985 c -1.2363,0.39458 -2.3938,0.57872 -3.4986,0.57872 -1.6046,0 -2.7884,-0.36828 -3.5249,-1.15743 -0.7365,-0.78917 -1.1575,-1.78877 -1.2364,-2.99881 l 8.6282,0 0.1315,-0.21045 0,-1.15743 c 0,-3.63014 -1.8677,-5.78717 -5.2085,-5.78717 m 3.0515,5.49781 -6.5501,0 c 0.2368,-2.02551 1.3153,-3.78797 3.6828,-3.78797 1.9729,0 2.8673,1.73616 2.8673,3.78797"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path15047-7"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -806.63814,64.63288 c -9.33223,0 -11.08283,13.29204 -5.83293,13.29204 5.24915,0 15.16554,-13.29204 5.83293,-13.29204 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path15049-2"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -822.13407,76.27787 c 2.79527,0.1707 5.86214,-10.66746 0.60845,-9.9858 -5.2518,0.68164 -3.40486,9.81511 -0.60845,9.9858 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path15051-0"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -834.94474,83.01246 c 1.98807,-0.8751 0.25605,-9.43464 -3.12452,-7.10026 -3.37905,2.33477 1.13647,7.975 3.12452,7.10026 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path15053-9"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -829.34319,78.53222 c 2.36663,-0.48251 2.49636,-10.19027 -1.72405,-8.44877 -4.22116,1.74188 -0.64069,8.93203 1.72405,8.44877 l 0,0 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path15055-1"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -816.98506,100.25672 c 0.41991,3.20684 -2.3526,4.79053 -5.06783,2.7232 -8.64375,-6.58097 14.31167,-9.86405 12.79853,-18.85488 -1.25596,-7.46291 -24.1541,-5.16531 -26.7616,6.51192 -1.76501,7.89798 7.26528,18.85526 16.68779,18.85526 4.63539,0 9.98201,-4.18551 10.9823,-9.48776 0.76397,-4.04325 -8.98969,-2.42314 -8.63919,0.25226 l 0,0 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -758.96752,80.34198 c -2.35005,0.0633 -4.20592,0.90792 -5.57073,2.52774 -1.41337,1.6857 -2.12426,4.01487 -2.12426,6.98528 0,2.96221 0.71093,5.285 2.12426,6.97068 1.42027,1.68571 3.37026,2.52772 5.85753,2.52772 2.49413,0 4.44901,-0.84201 5.86238,-2.52772 1.41333,-1.68568 2.11941,-4.00847 2.1194,-6.97068 -10e-6,-2.97041 -0.70607,-5.29958 -2.1194,-6.98528 -1.41337,-1.68567 -3.36828,-2.52771 -5.86238,-2.52774 -0.0971,0 -0.19127,-0.002 -0.2868,0 z m 0.175,3.42216 c 0.0375,-10e-4 0.0737,0 0.1118,0 1.22627,2e-5 2.17647,0.53065 2.84855,1.59441 0.67203,1.0638 1.01108,2.56527 1.01109,4.49645 0,1.92298 -0.33908,3.41324 -1.01109,4.47698 -0.67205,1.06382 -1.62231,1.59927 -2.84855,1.59927 -1.2194,0 -2.16191,-0.53545 -2.83396,-1.59927 -0.67205,-1.06374 -1.01108,-2.554 -1.0111,-4.47698 0,-1.93117 0.33908,-3.43265 1.0111,-4.49645 0.65101,-1.03051 1.55743,-1.56218 2.72216,-1.59441 z"
+       style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path15059-8"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -785.51518,97.63505 c -2.07004,1.73841 -5.14983,1.71842 -6.43287,1.71842 -2.58424,0 -4.63152,-0.85102 -6.14186,-2.55308 -1.51037,-1.71024 -2.26552,-4.026 -2.26552,-6.94732 0,-2.95404 0.76902,-5.27797 2.30709,-6.97185 1.53807,-1.69386 3.64423,-2.54079 6.31854,-2.5408 1.03229,1e-5 2.01956,0.11457 2.9618,0.34368 0.94917,0.22913 1.84292,0.56872 2.68123,1.01877 l -1.07657,3.18273 c -0.4713,-0.258 -1.01089,-0.51227 -1.51112,-0.69103 -0.85218,-0.28638 -1.7078,-0.42959 -2.56689,-0.4296 -1.59351,10e-6 -2.82328,0.52782 -3.68929,1.5834 -0.85911,1.04742 -1.28865,2.54899 -1.28865,4.5047 0,1.93937 0.41568,3.43686 1.24709,4.49245 0.83136,1.05559 2.08079,1.58338 3.54377,1.58338 1.48626,0 2.40683,-0.37463 2.89779,-0.76937 l 0,-3.17071 -3.21994,0 0,-3.16679 6.2354,0"
+       style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path15061-7"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -782.78034,80.67182 2.52429,0 7.97634,11.01345 0,-11.01345 3.40431,0 0,18.32568 -2.52429,0 -7.97632,-11.01345 0,11.01345 -3.40433,0 0,-18.32568"
+       style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path15063-3"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -748.07262,80.67182 5.09218,0 3.53347,11.44056 3.55416,-11.44056 4.30413,0 1.94441,18.32568 -3.78288,0 -1.1666,-11.45923 -3.57495,11.51419 -2.53575,0 -3.57495,-11.90308 -1.16671,11.84812 -3.79319,0 1.94438,-18.32568"
+       style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path15065-5"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -726.91379,80.67182 10.79757,0 0,3.57186 -6.79664,0 0,3.80115 5.22474,0 0,3.18297 -5.22474,0 0,4.19786 7.02525,0 0,3.57184 -11.02618,0 0,-18.32568"
+       style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path15067-8"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9048"
+       style="font-size:30.68958855px;font-style:normal;font-weight:normal;letter-spacing:0.2523815;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       d="m -712.57681,77.06451 2.94401,0 0,0.39627 -1.23536,0 0,3.08387 -0.47318,0 0,-3.08387 -1.23547,0 0,-0.39627"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9050"
+       style="font-size:30.68958855px;font-style:normal;font-weight:normal;letter-spacing:0.2523815;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       d="m -709.13663,77.06451 0.70157,0 0.88816,2.36827 0.89277,-2.36827 0.70157,0 0,3.48014 -0.4592,0 0,-3.05589 -0.8974,2.38691 -0.47318,0 -0.89739,-2.38691 0,3.05589 -0.4569,0 0,-3.48014"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6404"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.81045359,0,0,0.81045359,-1104.9552,-160.76816)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6406"><rect
+           id="rect6408"
+           width="457.09406"
+           height="84.347748"
+           x="258.59906"
+           y="486.67676"
+           style="fill:#eeeeec;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6410">Sponsor Guide 2015</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 338.35524,556.40833 0,4.03125 -7.09375,0.9375 0,7.90625 7.09375,0 0,3.5625 -12.125,0 -9.3125,9.4375 0,26.375 62.59375,0 0,-11.34375 -18.625,-24.46875 -12.65625,0 0,-3.5625 7.0625,0 0,-7.90625 -7.0625,-0.9375 0,-4.03125 -9.875,0 z m 13,21.6875 3.09375,0 0,3.09375 -3.09375,0 0,-3.09375 z m 4,0 3.21875,0 0,3.09375 -3.21875,0 0,-3.09375 z m -16.53125,1.53125 c 2.4807,0 4.5,2.01925 4.5,4.5 0,2.48075 -2.0193,4.5 -4.5,4.5 -2.4808,0 -4.5,-2.01925 -4.5,-4.5 0,-2.48075 2.0192,-4.5 4.5,-4.5 z m 12.53125,2.46875 3.09375,0 0,3.34375 -3.09375,0 0,-3.34375 z m 4,0 3.21875,0 0,3.34375 -3.21875,0 0,-3.34375 z m -38.4375,28.9375 0,7.28125 62.59375,0 0,-7.28125 -62.59375,0 z m 0,9.3125 0,7.3125 62.59375,0 0,-7.3125 -62.59375,0 z m 0,9.3125 0,7.3125 62.59375,0 0,-7.3125 -62.59375,0 z m 0,9.3125 0.0625,67.5 70.4375,0 0,-48.84375 -7.84375,-9.34375 -0.0625,0 0,-9.3125 -62.59375,0 z"
+       id="rect6019-5" />
+    <path
+       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 710.29989,650.63795 -16.5437,6.54539 0,23.07011 c -15.6156,4.88851 -26.5881,16.16545 -33.96009,29.10325 l 100.74199,0 c -7.5416,-12.92346 -17.0648,-24.43674 -32.4044,-29.274 l 0,-22.89936 -17.8338,-6.54539 z"
+       id="path6933-7"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#6b8e9f;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 622.23025,624.93958 -2.46875,4 -8.59375,0.59375 -7.15625,20.15625 -7.6875,6.78125 0.6875,1 7.1875,-3.84375 12.8125,-18.34375 22.3125,46.34375 0.75,-0.65625 3.3125,0 -6.15625,10.5625 -0.0625,0.15625 0,4.625 -19.84375,0 0,20.875 101.84374,0 0,-20.875 -61.15624,0 0,-6.15625 -5.28125,-9.1875 4.03125,0 0,2 2.65625,0 0,-7.375 -13.25,0 5.1875,-4.5625 10.34374,0.53125 -0.4375,-4.125 -10.37499,-3.0625 -29.875,-35.125 2.28125,-3.6875 -1.0625,-0.625 z m -3.25,5.28125 -13.75,19.78125 6.8125,-19.28125 6.9375,-0.5 z m 1.375,0.125 28.0625,33.09375 -11.65625,9.9375 -18.84375,-39.09375 2.4375,-3.9375 z m -15.65625,20.4375 -1.375,1.90625 -2.15625,1.1875 3.53125,-3.09375 z m 44.5,13.59375 0.9375,1.09375 10,2.90625 0.1875,1.84375 -9.40625,-0.4375 -11.15625,9.8125 -2.4375,-5.0625 11.875,-10.15625 z m -4.625,16.96875 3.25,0 0,3.1875 -5.09375,0 1.84375,-3.1875 z m 4.5,0 2.4375,0 1.84375,3.1875 -4.28125,0 0,-3.1875 z m -7.0625,4.4375 5.8125,0 0,6.4375 -9.40625,0 3.59375,-6.4375 z m 7.0625,0 4.96875,0 2.71875,4.65625 0,1.78125 -7.6875,0 0,-6.4375 z m -10.65625,8.9375 9.40625,0 0,1.59375 -9.40625,0 0,-1.59375 z m 10.65625,0 7.6875,0 0,1.59375 -7.6875,0 0,-1.59375 z"
+       id="path7042-5" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#6b8e9f;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 452.57676,640.48384 -33.70983,21.20578 -4.07654,-0.35272 -0.11753,1.21506 3.84135,0.35284 7.29073,13.44468 -5.64443,0 0,3.76295 4.46851,0 0,16.46307 3.76296,0 0,-19.44208 28.88848,-29.35884 16.73733,10.26973 0.66636,-1.05833 -17.40369,-10.62251 z m -0.27438,1.6463 3.95894,4.89968 -28.88854,29.31966 -7.56511,-13.67986 0,-0.11791 z"
+       id="path7058-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#6b8e9f;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 541.51798,633.77708 -9.83856,5.37005 0.23518,21.67621 -4.93888,3.95895 1.09753,1.4111 5.64444,-4.39011 5.95801,-19.28516 10.19135,42.80358 0,4.07654 4.23333,0 -5.48765,9.52505 0,5.80121 1.25432,0 0,-3.7629 19.12837,0 0,5.0172 1.25432,0 0,-7.36909 -4.50771,-9.21147 4.6645,0 0,-7.68271 -15.32622,0 7.8395,-6.03641 6.50678,4.46851 0.70556,-1.01913 -9.76018,-6.66357 z m -0.58796,1.72469 18.46202,37.8255 2.43024,1.60716 -8.19227,6.31073 -13.64073,-41.39247 -7.21233,18.6972 0.15679,-18.6972 z m 14.58147,53.89647 8.78023,0 4.7037,9.56418 0,0.74478 -19.12837,0 0,-0.5095 z"
+       id="path7066-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc" />
+    <rect
+       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7176-1"
+       width="70.397713"
+       height="33"
+       x="380.2941"
+       y="689.46887" />
+    <rect
+       style="color:#000000;fill:#6b8e9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7157-8"
+       width="1027.5405"
+       height="67.033012"
+       x="0.76083374"
+       y="704.65503" />
+    <g
+       id="g7070"
+       style="fill:#000000;filter:url(#filter7891)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:81.67692565999999488px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         inkscape:connector-curvature="0"
+         id="path8946-2-6"
+         d="m 408.50195,188.78316 0,-23.27793 -25.8099,0 0,8.82111 15.927,0 0,10.86303 c -2.45031,1.96025 -6.0441,3.34876 -10.78136,3.34876 -12.25153,0 -21.07265,-8.41274 -21.07265,-20.1742 0,-12.08818 9.63789,-19.19408 19.76582,-19.19408 5.71738,0 11.18974,2.04192 14.29346,3.67546 l 1.47019,0.81677 4.16552,-7.92266 -1.38851,-0.81677 c -4.81893,-2.69534 -11.3531,-4.98229 -18.94904,-4.98229 -19.03071,0 -29.48537,13.96677 -29.48537,28.83195 0,13.96674 9.31119,29.07699 29.64872,29.07699 13.64003,0 20.09253,-6.77919 22.21612,-9.06614" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:81.67692565999999488px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         inkscape:connector-curvature="0"
+         id="path8948-8-1"
+         d="m 444.01993,197.8493 c 22.2161,0 23.19625,-14.37515 23.19625,-21.236 0,-3.67546 -0.0817,-4e-5 -0.0817,-36.26456 l -9.96458,0 0,35.93785 c 0,1.71521 -0.16336,3.34875 -0.57174,4.81894 -1.22515,4.90061 -5.88075,7.59595 -12.57825,7.59595 -6.53415,0 -9.63788,-2.61366 -10.618,-3.67546 -2.28695,-2.45031 -2.53198,-5.309 -2.53198,-8.73943 l 0,-35.93785 -10.04627,0 0,36.83629 0,0.49007 c 0,6.28911 0.32674,20.1742 23.19625,20.1742" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:81.67692565999999488px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         inkscape:connector-curvature="0"
+         id="path8950-7-5"
+         d="m 496.58034,140.34874 -21.15435,56.68379 9.80123,0 5.63571,-14.8652 20.82761,0 5.7174,14.8652 10.373,0 -21.236,-56.68379 -9.9646,0 m 11.9248,32.67077 -14.4568,0 7.2692,-21.07265 7.1876,21.07265" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:81.67692565999999488px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         inkscape:connector-curvature="0"
+         id="path8952-5-0"
+         d="m 555.27664,149.57823 c 1.7152,0 3.3488,0.0817 4.9006,0.32671 6.7792,1.0618 14.7836,6.37081 14.7836,18.45899 0,5.30899 -1.4702,8.73943 -2.4503,10.618 -4.6556,8.57607 -13.7218,8.82111 -19.9292,8.82111 l -6.5342,0 0,-38.22481 9.2295,0 m -0.245,-9.22949 -19.0307,0 0,56.68379 14.1301,0 c 4.7372,0 9.7195,0 14.5385,-1.22516 15.7636,-3.75713 20.33749,-17.23384 20.33749,-28.75027 0,-12.49656 -6.53419,-26.70836 -29.97539,-26.70836" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:81.67692565999999488px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         inkscape:connector-curvature="0"
+         id="path8954-1-2"
+         d="m 595.66333,197.03253 37.6531,0 0,-9.22949 -27.6068,0 0,-15.35527 25.4832,0 0,-9.22949 -25.4832,0 0,-13.64005 27.6068,0 0,-9.22949 -37.6531,0 0,56.68379" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:81.67692565999999488px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         inkscape:connector-curvature="0"
+         id="path8956-4-4"
+         d="m 670.64913,139.94036 c -18.3773,0 -30.0571,12.49658 -30.0571,28.83195 0,16.09034 11.1897,29.07699 29.567,29.07699 5.2274,0 11.3531,-1.22516 17.3155,-3.75714 l 1.4702,-0.57174 -3.267,-8.00434 -1.4702,0.49006 c -4.4106,1.55186 -8.6578,2.36863 -12.2516,2.36863 -13.2316,0 -21.236,-9.14782 -21.236,-19.68414 0,-10.2096 7.4326,-19.4391 19.7658,-19.4391 2.532,0 6.6976,0.32671 12.9867,2.53198 l 1.5518,0.57174 3.1038,-8.65775 -1.4702,-0.57174 c -5.9624,-2.36863 -11.5982,-3.1854 -16.0087,-3.1854" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 368.85363,112.86972 c 0.99254,0 2.01425,-0.17515 3.09435,-0.52546 l 0,-1.7807 c -0.75899,0.20434 -1.54717,0.32111 -2.39374,0.32111 -1.80989,0 -2.27696,-0.93416 -2.27696,-2.83162 l 0,-7.56073 4.67071,0 0,-1.98506 -4.67071,0 0,-3.61981 -2.36455,0.11674 0,3.50304 -2.36455,0 0,1.98506 2.36455,0 0,7.73586 c 0,2.97759 0.99252,4.64154 3.94092,4.64154"
+         id="path9020-9-9"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 384.17122,103.55747 0,9.04953 2.36457,0 0,-9.60417 c 0,-2.97758 -1.60556,-4.87508 -4.55395,-4.87508 -1.4596,0 -3.00678,0.4379 -4.69992,1.28448 l 0,-6.36387 -2.42293,0 0,19.55864 2.42293,0 0,-11.41408 c 1.4304,-0.7006 2.68566,-1.0509 3.79494,-1.0509 2.27698,0 3.09436,1.08009 3.09436,3.41545"
+         id="path9022-0-8"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 396.38897,98.30292 c -2.04342,0 -3.61979,0.7298 -4.75829,2.1894 -1.08009,1.45959 -1.63475,3.21111 -1.63475,5.31293 0,4.55397 2.48135,7.06447 7.09366,7.06447 1.57637,0 3.09436,-0.26272 4.52477,-0.759 l 0,-1.89746 c -1.37203,0.43787 -2.65648,0.64222 -3.88255,0.64222 -1.7807,0 -3.09434,-0.40869 -3.91173,-1.28444 -0.81737,-0.87577 -1.28445,-1.98507 -1.37203,-3.32789 l 9.57498,0 0.14596,-0.23356 0,-1.28443 c 0,-4.0285 -2.07265,-6.42224 -5.78004,-6.42224 m 3.38628,6.10111 -7.26881,0 c 0.26274,-2.24776 1.4596,-4.20363 4.08689,-4.20363 2.18938,0 3.18192,1.92668 3.18192,4.20363"
+         id="path9024-8-7"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 573.31544,97.03803 0.605,-1.81507 c -1.7361,-0.63133 -3.104,-0.94699 -5.4978,-0.94699 -2.6568,0 -5.0243,1.18374 -6.4185,2.63053 -1.4468,1.4994 -2.5254,3.86689 -2.5254,6.70786 0,2.78836 0.8419,5.02432 2.4728,6.78677 1.4994,1.52571 3.788,2.60423 6.7078,2.60423 2.0519,0 3.8669,-0.36827 5.4978,-1.10483 l -0.5524,-1.73614 c -1.4467,0.57871 -2.8672,0.86807 -4.3141,0.86807 -1.4204,0 -2.7094,-0.28936 -3.8142,-0.92068 -2.0781,-1.18374 -3.5249,-3.4197 -3.5249,-6.52373 0,-2.13073 0.6576,-3.84058 1.9202,-5.23475 1.0522,-1.13113 2.8937,-2.10443 4.9454,-2.10443 2.0782,0 2.8411,0.21044 4.4983,0.78916"
+         id="path9027-1-8"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 582.53383,101.53624 c 2.5779,0 3.9195,2.20965 3.9195,4.89279 0,2.73575 -1.3416,4.86648 -3.9195,4.86648 -2.57789,0 -3.91959,-2.18334 -3.91959,-4.86648 0,-2.65683 1.3417,-4.89279 3.91959,-4.89279 m -0.053,11.46912 c 3.8669,0 6.1555,-2.63054 6.1555,-6.60263 0,-3.9458 -2.1834,-6.55003 -6.0766,-6.55003 -3.89319,0 -6.12919,2.63053 -6.12919,6.57633 0,3.9721 2.157,6.57633 6.05029,6.57633"
+         id="path9029-6-9"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 597.40573,101.61515 c 0.9996,0 1.6836,0.23675 2.1045,0.71024 0.4209,0.4735 0.6313,1.26266 0.6313,2.34118 l 0,8.07574 2.1307,0 0,-8.60185 c 0,-1.36787 -0.342,-2.42009 -1.0522,-3.18294 -0.7102,-0.76286 -1.7098,-1.15743 -3.0514,-1.15743 -1.3416,0 -2.8936,0.42088 -4.4982,1.26265 l -0.4209,-0.94699 -1.4994,0 0,12.62656 2.1571,0 0,-10.20647 c 1.2889,-0.60502 2.4989,-0.92069 3.4985,-0.92069"
+         id="path9031-2-3"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 611.20373,96.14364 c 0.5787,0 1.2627,0.10523 2.0781,0.31567 l 0.342,-1.57832 c -0.8944,-0.26306 -1.9992,-0.4735 -3.0777,-0.4735 -1.7888,0 -3.0777,0.65763 -3.8143,1.9729 -0.263,0.4735 -0.3945,1.28896 -0.3945,2.39379 l 0,1.28896 -1.8415,0 0,1.65723 1.8415,0 0.026,11.02194 2.1307,0 -0.026,-11.02194 4.2351,0 0,-1.65723 -4.2351,0 0,-1.21004 c 0,-0.34198 0.026,-0.63134 0.053,-0.81547 0.1578,-1.05221 1.21,-1.89399 2.6831,-1.89399"
+         id="path9033-9-7"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 620.91283,99.8527 c -1.8413,0 -3.2618,0.65763 -4.2878,1.9729 -0.9732,1.31526 -1.473,2.89358 -1.473,4.78757 0,4.10363 2.236,6.36588 6.3921,6.36588 1.4206,0 2.7884,-0.23674 4.0774,-0.68393 l 0,-1.70985 c -1.2363,0.39458 -2.3938,0.57872 -3.4986,0.57872 -1.6047,0 -2.7884,-0.36828 -3.5249,-1.15743 -0.7365,-0.78917 -1.1574,-1.78877 -1.2363,-2.99881 l 8.6281,0 0.1315,-0.21045 0,-1.15743 c 0,-3.63014 -1.8677,-5.78717 -5.2085,-5.78717 m 3.0515,5.49781 -6.55,0 c 0.2367,-2.02551 1.3152,-3.78797 3.6827,-3.78797 1.9729,0 2.8673,1.73616 2.8673,3.78797"
+         id="path9035-7-0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 635.20813,99.8527 c -1.2363,0 -2.3937,0.42089 -3.5249,1.28896 l -0.4209,-1.05222 -1.5783,0 0,12.65287 2.1833,0 0,-10.07495 c 0.9208,-0.60502 1.8678,-0.92068 2.8937,-0.92068 0.6313,0 1.2626,0.15783 1.9202,0.42088 l 0.2631,0 0,-2.07812 c -0.5524,-0.15783 -1.1312,-0.23674 -1.7362,-0.23674"
+         id="path9037-8-4"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 644.95753,99.8527 c -1.8413,0 -3.2618,0.65763 -4.2877,1.9729 -0.9733,1.31526 -1.4731,2.89358 -1.4731,4.78757 0,4.10363 2.236,6.36588 6.3922,6.36588 1.4205,0 2.7883,-0.23674 4.0773,-0.68393 l 0,-1.70985 c -1.2363,0.39458 -2.3938,0.57872 -3.4986,0.57872 -1.6047,0 -2.7884,-0.36828 -3.5249,-1.15743 -0.7365,-0.78917 -1.1574,-1.78877 -1.2363,-2.99881 l 8.628,0 0.1316,-0.21045 0,-1.15743 c 0,-3.63014 -1.8677,-5.78717 -5.2085,-5.78717 m 3.0515,5.49781 -6.55,0 c 0.2367,-2.02551 1.3152,-3.78797 3.6827,-3.78797 1.9729,0 2.8673,1.73616 2.8673,3.78797"
+         id="path9039-6-3"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 658.64783,101.61515 c 0.9996,0 1.6836,0.23675 2.1045,0.71024 0.4209,0.4735 0.6313,1.26266 0.6313,2.34118 l 0,8.07574 2.1307,0 0,-8.60185 c 0,-1.36787 -0.342,-2.42009 -1.0522,-3.18294 -0.7102,-0.76286 -1.7098,-1.15743 -3.0514,-1.15743 -1.3416,0 -2.8936,0.42088 -4.4983,1.26265 l -0.4208,-0.94699 -1.4994,0 0,12.62656 2.157,0 0,-10.20647 c 1.289,-0.60502 2.499,-0.92069 3.4986,-0.92069"
+         id="path9041-2-1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 672.57743,113.03167 c 0.027,0 0.079,0 0.1052,-0.0263 1.1048,0 2.2359,-0.23674 3.4459,-0.71024 l -0.4998,-1.44679 c -0.8154,0.28936 -1.5783,0.44719 -2.2885,0.44719 -0.2104,0 -0.4209,-0.0263 -0.605,-0.0526 -2.7884,-0.31567 -4.1037,-1.89398 -4.1037,-4.99801 0,-2.9725 1.4731,-4.62974 4.4983,-4.62974 0.7628,0 1.6572,0.15783 2.6305,0.4998 l 0.526,-1.52571 c -1.1574,-0.4998 -2.2359,-0.76285 -3.2618,-0.76285 -2.2097,0 -3.8406,0.63133 -4.9191,1.92029 -1.0258,1.23635 -1.5519,2.86728 -1.5519,4.89279 0,3.9984 2.1043,6.3922 6.0239,6.3922"
+         id="path9043-9-3"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         style="font-size:29.50051689000000010px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         d="m 684.67243,99.8527 c -1.8413,0 -3.2618,0.65763 -4.2878,1.9729 -0.9732,1.31526 -1.473,2.89358 -1.473,4.78757 0,4.10363 2.236,6.36588 6.3921,6.36588 1.4206,0 2.7885,-0.23674 4.0774,-0.68393 l 0,-1.70985 c -1.2363,0.39458 -2.3938,0.57872 -3.4986,0.57872 -1.6046,0 -2.7884,-0.36828 -3.5249,-1.15743 -0.7365,-0.78917 -1.1575,-1.78877 -1.2364,-2.99881 l 8.6282,0 0.1315,-0.21045 0,-1.15743 c 0,-3.63014 -1.8677,-5.78717 -5.2085,-5.78717 m 3.0515,5.49781 -6.5501,0 c 0.2368,-2.02551 1.3153,-3.78797 3.6828,-3.78797 1.9729,0 2.8673,1.73616 2.8673,3.78797"
+         id="path9045-0-8"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         inkscape:connector-curvature="0"
+         d="m 448.9101,77.92703 c -9.33223,0 -11.08283,13.29204 -5.83293,13.29204 5.24915,0 15.16554,-13.29204 5.83293,-13.29204 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path15047-7-6-5" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         inkscape:connector-curvature="0"
+         d="m 433.41417,89.57202 c 2.79527,0.1707 5.86214,-10.66746 0.60845,-9.9858 -5.2518,0.68164 -3.40486,9.81511 -0.60845,9.9858 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path15049-2-7-5" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         inkscape:connector-curvature="0"
+         d="m 420.6035,96.30661 c 1.98807,-0.8751 0.25605,-9.43464 -3.12452,-7.10026 -3.37905,2.33477 1.13647,7.975 3.12452,7.10026 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path15051-0-9-6" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         inkscape:connector-curvature="0"
+         d="m 426.20505,91.82637 c 2.36663,-0.48251 2.49636,-10.19027 -1.72405,-8.44877 -4.22116,1.74188 -0.64069,8.93203 1.72405,8.44877 l 0,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path15053-9-1-1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         inkscape:connector-curvature="0"
+         d="m 438.56318,113.55087 c 0.41991,3.20684 -2.3526,4.79053 -5.06783,2.7232 -8.64375,-6.58097 14.31167,-9.86405 12.79853,-18.85488 -1.25596,-7.46291 -24.1541,-5.16531 -26.7616,6.51192 -1.76501,7.89798 7.26528,18.85526 16.68779,18.85526 4.63539,0 9.98201,-4.18551 10.9823,-9.48776 0.76397,-4.04325 -8.98969,-2.42314 -8.63919,0.25226 l 0,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path15055-1-4-9" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         id="path15059-8-9-2"
+         style="font-size:148.69964600000000132px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         d="m 496.58072,93.63613 c -2.35005,0.0633 -4.20592,0.90792 -5.57073,2.52774 -1.41337,1.6857 -2.12426,4.01487 -2.12426,6.98528 0,2.96221 0.71093,5.285 2.12426,6.97068 1.42027,1.68571 3.37026,2.52772 5.85753,2.52772 2.49413,0 4.44901,-0.84201 5.86238,-2.52772 1.41333,-1.68568 2.11941,-4.00847 2.1194,-6.97068 -1e-5,-2.97041 -0.70607,-5.29958 -2.1194,-6.98528 -1.41337,-1.68567 -3.36828,-2.52771 -5.86238,-2.52774 -0.0971,0 -0.19127,-0.002 -0.2868,0 z m 0.175,3.42216 c 0.0375,-0.001 0.0737,0 0.1118,0 1.22627,2e-5 2.17647,0.53065 2.84855,1.59441 0.67203,1.0638 1.01108,2.56527 1.01109,4.49645 0,1.92298 -0.33908,3.41324 -1.01109,4.47698 -0.67205,1.06382 -1.62231,1.59927 -2.84855,1.59927 -1.2194,0 -2.16191,-0.53545 -2.83396,-1.59927 -0.67205,-1.06374 -1.01108,-2.554 -1.0111,-4.47698 0,-1.93117 0.33908,-3.43265 1.0111,-4.49645 0.65101,-1.03051 1.55743,-1.56218 2.72216,-1.59441 z"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         id="path15061-7-8-3"
+         style="font-size:148.69964600000000132px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         d="m 470.03306,110.9292 c -2.07004,1.73841 -5.14983,1.71842 -6.43287,1.71842 -2.58424,0 -4.63152,-0.85102 -6.14186,-2.55308 -1.51037,-1.71024 -2.26552,-4.026 -2.26552,-6.94732 0,-2.95404 0.76902,-5.27797 2.30709,-6.97185 1.53807,-1.69386 3.64423,-2.54079 6.31854,-2.5408 1.03229,1e-5 2.01956,0.11457 2.9618,0.34368 0.94917,0.22913 1.84292,0.56872 2.68123,1.01877 l -1.07657,3.18273 c -0.4713,-0.258 -1.01089,-0.51227 -1.51112,-0.69103 -0.85218,-0.28638 -1.7078,-0.42959 -2.56689,-0.4296 -1.59351,1e-5 -2.82328,0.52782 -3.68929,1.5834 -0.85911,1.04742 -1.28865,2.54899 -1.28865,4.5047 0,1.93937 0.41568,3.43686 1.24709,4.49245 0.83136,1.05559 2.08079,1.58338 3.54377,1.58338 1.48626,0 2.40683,-0.37463 2.89779,-0.76937 l 0,-3.17071 -3.21994,0 0,-3.16679 6.2354,0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         id="path15063-3-5-0"
+         style="font-size:148.69964600000000132px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         d="m 472.7679,93.96597 2.52429,0 7.97634,11.01345 0,-11.01345 3.40431,0 0,18.32568 -2.52429,0 -7.97632,-11.01345 0,11.01345 -3.40433,0 0,-18.32568"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         id="path15065-5-4-9"
+         style="font-size:148.69964600000000132px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         d="m 507.47562,93.96597 5.09218,0 3.53347,11.44056 3.55416,-11.44056 4.30413,0 1.94441,18.32568 -3.78288,0 -1.1666,-11.45923 -3.57495,11.51419 -2.53575,0 -3.57495,-11.90308 -1.16671,11.84812 -3.79319,0 1.94438,-18.32568"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         id="path15067-8-0-0"
+         style="font-size:148.69964600000000132px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         d="m 528.63445,93.96597 10.79757,0 0,3.57186 -6.79664,0 0,3.80115 5.22474,0 0,3.18297 -5.22474,0 0,4.19786 7.02525,0 0,3.57184 -11.02618,0 0,-18.32568"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         d="m 542.97143,90.35866 2.94401,0 0,0.39627 -1.23536,0 0,3.08387 -0.47318,0 0,-3.08387 -1.23547,0 0,-0.39627"
+         style="font-size:30.68958854999999986px;font-style:normal;font-weight:normal;letter-spacing:0.25238149999999998;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="path9048-5-1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         d="m 546.41161,90.35866 0.70157,0 0.88816,2.36827 0.89277,-2.36827 0.70157,0 0,3.48014 -0.4592,0 0,-3.05589 -0.8974,2.38691 -0.47318,0 -0.89739,-2.38691 0,3.05589 -0.4569,0 0,-3.48014"
+         style="font-size:30.68958854999999986px;font-style:normal;font-weight:normal;letter-spacing:0.25238149999999998;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="path9050-3-1"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+         transform="matrix(0.63670344,0,0,0.63670344,194.56394,-106.97568)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot6404-4-6"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6406-6-4"><rect
+             style="fill:#000000;fill-opacity:1"
+             y="486.67676"
+             x="258.59906"
+             height="109.5378"
+             width="579.75299"
+             id="rect6408-2-8" /></flowRegion><flowPara
+           style="letter-spacing:2.87866687999999993px;fill:#000000"
+           id="flowPara6410-9-7">GOTHENBURG SWEDEN</flowPara></flowRoot>    </g>
+    <path
+       d="m 408.50195,188.78316 0,-23.27793 -25.8099,0 0,8.82111 15.927,0 0,10.86303 c -2.45031,1.96025 -6.0441,3.34876 -10.78136,3.34876 -12.25153,0 -21.07265,-8.41274 -21.07265,-20.1742 0,-12.08818 9.63789,-19.19408 19.76582,-19.19408 5.71738,0 11.18974,2.04192 14.29346,3.67546 l 1.47019,0.81677 4.16552,-7.92266 -1.38851,-0.81677 c -4.81893,-2.69534 -11.3531,-4.98229 -18.94904,-4.98229 -19.03071,0 -29.48537,13.96677 -29.48537,28.83195 0,13.96674 9.31119,29.07699 29.64872,29.07699 13.64003,0 20.09253,-6.77919 22.21612,-9.06614"
+       id="path8946-2"
+       inkscape:connector-curvature="0"
+       style="font-size:81.67692566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 444.01993,197.8493 c 22.2161,0 23.19625,-14.37515 23.19625,-21.236 0,-3.67546 -0.0817,-4e-5 -0.0817,-36.26456 l -9.96458,0 0,35.93785 c 0,1.71521 -0.16336,3.34875 -0.57174,4.81894 -1.22515,4.90061 -5.88075,7.59595 -12.57825,7.59595 -6.53415,0 -9.63788,-2.61366 -10.618,-3.67546 -2.28695,-2.45031 -2.53198,-5.309 -2.53198,-8.73943 l 0,-35.93785 -10.04627,0 0,36.83629 0,0.49007 c 0,6.28911 0.32674,20.1742 23.19625,20.1742"
+       id="path8948-8"
+       inkscape:connector-curvature="0"
+       style="font-size:81.67692566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 496.58034,140.34874 -21.15435,56.68379 9.80123,0 5.63571,-14.8652 20.82761,0 5.7174,14.8652 10.373,0 -21.236,-56.68379 -9.9646,0 m 11.9248,32.67077 -14.4568,0 7.2692,-21.07265 7.1876,21.07265"
+       id="path8950-7"
+       inkscape:connector-curvature="0"
+       style="font-size:81.67692566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 555.27664,149.57823 c 1.7152,0 3.3488,0.0817 4.9006,0.32671 6.7792,1.0618 14.7836,6.37081 14.7836,18.45899 0,5.30899 -1.4702,8.73943 -2.4503,10.618 -4.6556,8.57607 -13.7218,8.82111 -19.9292,8.82111 l -6.5342,0 0,-38.22481 9.2295,0 m -0.245,-9.22949 -19.0307,0 0,56.68379 14.1301,0 c 4.7372,0 9.7195,0 14.5385,-1.22516 15.7636,-3.75713 20.33749,-17.23384 20.33749,-28.75027 0,-12.49656 -6.53419,-26.70836 -29.97539,-26.70836"
+       id="path8952-5"
+       inkscape:connector-curvature="0"
+       style="font-size:81.67692566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 595.66333,197.03253 37.6531,0 0,-9.22949 -27.6068,0 0,-15.35527 25.4832,0 0,-9.22949 -25.4832,0 0,-13.64005 27.6068,0 0,-9.22949 -37.6531,0 0,56.68379"
+       id="path8954-1"
+       inkscape:connector-curvature="0"
+       style="font-size:81.67692566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 670.64913,139.94036 c -18.3773,0 -30.0571,12.49658 -30.0571,28.83195 0,16.09034 11.1897,29.07699 29.567,29.07699 5.2274,0 11.3531,-1.22516 17.3155,-3.75714 l 1.4702,-0.57174 -3.267,-8.00434 -1.4702,0.49006 c -4.4106,1.55186 -8.6578,2.36863 -12.2516,2.36863 -13.2316,0 -21.236,-9.14782 -21.236,-19.68414 0,-10.2096 7.4326,-19.4391 19.7658,-19.4391 2.532,0 6.6976,0.32671 12.9867,2.53198 l 1.5518,0.57174 3.1038,-8.65775 -1.4702,-0.57174 c -5.9624,-2.36863 -11.5982,-3.1854 -16.0087,-3.1854"
+       id="path8956-4"
+       inkscape:connector-curvature="0"
+       style="font-size:81.67692566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9020-9"
+       d="m 368.85363,112.86972 c 0.99254,0 2.01425,-0.17515 3.09435,-0.52546 l 0,-1.7807 c -0.75899,0.20434 -1.54717,0.32111 -2.39374,0.32111 -1.80989,0 -2.27696,-0.93416 -2.27696,-2.83162 l 0,-7.56073 4.67071,0 0,-1.98506 -4.67071,0 0,-3.61981 -2.36455,0.11674 0,3.50304 -2.36455,0 0,1.98506 2.36455,0 0,7.73586 c 0,2.97759 0.99252,4.64154 3.94092,4.64154"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9022-0"
+       d="m 384.17122,103.55747 0,9.04953 2.36457,0 0,-9.60417 c 0,-2.97758 -1.60556,-4.87508 -4.55395,-4.87508 -1.4596,0 -3.00678,0.4379 -4.69992,1.28448 l 0,-6.36387 -2.42293,0 0,19.55864 2.42293,0 0,-11.41408 c 1.4304,-0.7006 2.68566,-1.0509 3.79494,-1.0509 2.27698,0 3.09436,1.08009 3.09436,3.41545"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9024-8"
+       d="m 396.38897,98.30292 c -2.04342,0 -3.61979,0.7298 -4.75829,2.1894 -1.08009,1.45959 -1.63475,3.21111 -1.63475,5.31293 0,4.55397 2.48135,7.06447 7.09366,7.06447 1.57637,0 3.09436,-0.26272 4.52477,-0.759 l 0,-1.89746 c -1.37203,0.43787 -2.65648,0.64222 -3.88255,0.64222 -1.7807,0 -3.09434,-0.40869 -3.91173,-1.28444 -0.81737,-0.87577 -1.28445,-1.98507 -1.37203,-3.32789 l 9.57498,0 0.14596,-0.23356 0,-1.28443 c 0,-4.0285 -2.07265,-6.42224 -5.78004,-6.42224 m 3.38628,6.10111 -7.26881,0 c 0.26274,-2.24776 1.4596,-4.20363 4.08689,-4.20363 2.18938,0 3.18192,1.92668 3.18192,4.20363"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9027-1"
+       d="m 573.31544,97.03803 0.605,-1.81507 c -1.7361,-0.63133 -3.104,-0.94699 -5.4978,-0.94699 -2.6568,0 -5.0243,1.18374 -6.4185,2.63053 -1.4468,1.4994 -2.5254,3.86689 -2.5254,6.70786 0,2.78836 0.8419,5.02432 2.4728,6.78677 1.4994,1.52571 3.788,2.60423 6.7078,2.60423 2.0519,0 3.8669,-0.36827 5.4978,-1.10483 l -0.5524,-1.73614 c -1.4467,0.57871 -2.8672,0.86807 -4.3141,0.86807 -1.4204,0 -2.7094,-0.28936 -3.8142,-0.92068 -2.0781,-1.18374 -3.5249,-3.4197 -3.5249,-6.52373 0,-2.13073 0.6576,-3.84058 1.9202,-5.23475 1.0522,-1.13113 2.8937,-2.10443 4.9454,-2.10443 2.0782,0 2.8411,0.21044 4.4983,0.78916"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9029-6"
+       d="m 582.53383,101.53624 c 2.5779,0 3.9195,2.20965 3.9195,4.89279 0,2.73575 -1.3416,4.86648 -3.9195,4.86648 -2.57789,0 -3.91959,-2.18334 -3.91959,-4.86648 0,-2.65683 1.3417,-4.89279 3.91959,-4.89279 m -0.053,11.46912 c 3.8669,0 6.1555,-2.63054 6.1555,-6.60263 0,-3.9458 -2.1834,-6.55003 -6.0766,-6.55003 -3.89319,0 -6.12919,2.63053 -6.12919,6.57633 0,3.9721 2.157,6.57633 6.05029,6.57633"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9031-2"
+       d="m 597.40573,101.61515 c 0.9996,0 1.6836,0.23675 2.1045,0.71024 0.4209,0.4735 0.6313,1.26266 0.6313,2.34118 l 0,8.07574 2.1307,0 0,-8.60185 c 0,-1.36787 -0.342,-2.42009 -1.0522,-3.18294 -0.7102,-0.76286 -1.7098,-1.15743 -3.0514,-1.15743 -1.3416,0 -2.8936,0.42088 -4.4982,1.26265 l -0.4209,-0.94699 -1.4994,0 0,12.62656 2.1571,0 0,-10.20647 c 1.2889,-0.60502 2.4989,-0.92069 3.4985,-0.92069"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9033-9"
+       d="m 611.20373,96.14364 c 0.5787,0 1.2627,0.10523 2.0781,0.31567 l 0.342,-1.57832 c -0.8944,-0.26306 -1.9992,-0.4735 -3.0777,-0.4735 -1.7888,0 -3.0777,0.65763 -3.8143,1.9729 -0.263,0.4735 -0.3945,1.28896 -0.3945,2.39379 l 0,1.28896 -1.8415,0 0,1.65723 1.8415,0 0.026,11.02194 2.1307,0 -0.026,-11.02194 4.2351,0 0,-1.65723 -4.2351,0 0,-1.21004 c 0,-0.34198 0.026,-0.63134 0.053,-0.81547 0.1578,-1.05221 1.21,-1.89399 2.6831,-1.89399"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9035-7"
+       d="m 620.91283,99.8527 c -1.8413,0 -3.2618,0.65763 -4.2878,1.9729 -0.9732,1.31526 -1.473,2.89358 -1.473,4.78757 0,4.10363 2.236,6.36588 6.3921,6.36588 1.4206,0 2.7884,-0.23674 4.0774,-0.68393 l 0,-1.70985 c -1.2363,0.39458 -2.3938,0.57872 -3.4986,0.57872 -1.6047,0 -2.7884,-0.36828 -3.5249,-1.15743 -0.7365,-0.78917 -1.1574,-1.78877 -1.2363,-2.99881 l 8.6281,0 0.1315,-0.21045 0,-1.15743 c 0,-3.63014 -1.8677,-5.78717 -5.2085,-5.78717 m 3.0515,5.49781 -6.55,0 c 0.2367,-2.02551 1.3152,-3.78797 3.6827,-3.78797 1.9729,0 2.8673,1.73616 2.8673,3.78797"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9037-8"
+       d="m 635.20813,99.8527 c -1.2363,0 -2.3937,0.42089 -3.5249,1.28896 l -0.4209,-1.05222 -1.5783,0 0,12.65287 2.1833,0 0,-10.07495 c 0.9208,-0.60502 1.8678,-0.92068 2.8937,-0.92068 0.6313,0 1.2626,0.15783 1.9202,0.42088 l 0.2631,0 0,-2.07812 c -0.5524,-0.15783 -1.1312,-0.23674 -1.7362,-0.23674"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9039-6"
+       d="m 644.95753,99.8527 c -1.8413,0 -3.2618,0.65763 -4.2877,1.9729 -0.9733,1.31526 -1.4731,2.89358 -1.4731,4.78757 0,4.10363 2.236,6.36588 6.3922,6.36588 1.4205,0 2.7883,-0.23674 4.0773,-0.68393 l 0,-1.70985 c -1.2363,0.39458 -2.3938,0.57872 -3.4986,0.57872 -1.6047,0 -2.7884,-0.36828 -3.5249,-1.15743 -0.7365,-0.78917 -1.1574,-1.78877 -1.2363,-2.99881 l 8.628,0 0.1316,-0.21045 0,-1.15743 c 0,-3.63014 -1.8677,-5.78717 -5.2085,-5.78717 m 3.0515,5.49781 -6.55,0 c 0.2367,-2.02551 1.3152,-3.78797 3.6827,-3.78797 1.9729,0 2.8673,1.73616 2.8673,3.78797"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9041-2"
+       d="m 658.64783,101.61515 c 0.9996,0 1.6836,0.23675 2.1045,0.71024 0.4209,0.4735 0.6313,1.26266 0.6313,2.34118 l 0,8.07574 2.1307,0 0,-8.60185 c 0,-1.36787 -0.342,-2.42009 -1.0522,-3.18294 -0.7102,-0.76286 -1.7098,-1.15743 -3.0514,-1.15743 -1.3416,0 -2.8936,0.42088 -4.4983,1.26265 l -0.4208,-0.94699 -1.4994,0 0,12.62656 2.157,0 0,-10.20647 c 1.289,-0.60502 2.499,-0.92069 3.4986,-0.92069"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9043-9"
+       d="m 672.57743,113.03167 c 0.027,0 0.079,0 0.1052,-0.0263 1.1048,0 2.2359,-0.23674 3.4459,-0.71024 l -0.4998,-1.44679 c -0.8154,0.28936 -1.5783,0.44719 -2.2885,0.44719 -0.2104,0 -0.4209,-0.0263 -0.605,-0.0526 -2.7884,-0.31567 -4.1037,-1.89398 -4.1037,-4.99801 0,-2.9725 1.4731,-4.62974 4.4983,-4.62974 0.7628,0 1.6572,0.15783 2.6305,0.4998 l 0.526,-1.52571 c -1.1574,-0.4998 -2.2359,-0.76285 -3.2618,-0.76285 -2.2097,0 -3.8406,0.63133 -4.9191,1.92029 -1.0258,1.23635 -1.5519,2.86728 -1.5519,4.89279 0,3.9984 2.1043,6.3922 6.0239,6.3922"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9045-0"
+       d="m 684.67243,99.8527 c -1.8413,0 -3.2618,0.65763 -4.2878,1.9729 -0.9732,1.31526 -1.473,2.89358 -1.473,4.78757 0,4.10363 2.236,6.36588 6.3921,6.36588 1.4206,0 2.7885,-0.23674 4.0774,-0.68393 l 0,-1.70985 c -1.2363,0.39458 -2.3938,0.57872 -3.4986,0.57872 -1.6046,0 -2.7884,-0.36828 -3.5249,-1.15743 -0.7365,-0.78917 -1.1575,-1.78877 -1.2364,-2.99881 l 8.6282,0 0.1315,-0.21045 0,-1.15743 c 0,-3.63014 -1.8677,-5.78717 -5.2085,-5.78717 m 3.0515,5.49781 -6.5501,0 c 0.2368,-2.02551 1.3153,-3.78797 3.6828,-3.78797 1.9729,0 2.8673,1.73616 2.8673,3.78797"
+       style="font-size:29.50051689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path15047-7-6"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 448.9101,77.92703 c -9.33223,0 -11.08283,13.29204 -5.83293,13.29204 5.24915,0 15.16554,-13.29204 5.83293,-13.29204 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path15049-2-7"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 433.41417,89.57202 c 2.79527,0.1707 5.86214,-10.66746 0.60845,-9.9858 -5.2518,0.68164 -3.40486,9.81511 -0.60845,9.9858 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path15051-0-9"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 420.6035,96.30661 c 1.98807,-0.8751 0.25605,-9.43464 -3.12452,-7.10026 -3.37905,2.33477 1.13647,7.975 3.12452,7.10026 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path15053-9-1"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 426.20505,91.82637 c 2.36663,-0.48251 2.49636,-10.19027 -1.72405,-8.44877 -4.22116,1.74188 -0.64069,8.93203 1.72405,8.44877 l 0,0 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path15055-1-4"
+       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 438.56318,113.55087 c 0.41991,3.20684 -2.3526,4.79053 -5.06783,2.7232 -8.64375,-6.58097 14.31167,-9.86405 12.79853,-18.85488 -1.25596,-7.46291 -24.1541,-5.16531 -26.7616,6.51192 -1.76501,7.89798 7.26528,18.85526 16.68779,18.85526 4.63539,0 9.98201,-4.18551 10.9823,-9.48776 0.76397,-4.04325 -8.98969,-2.42314 -8.63919,0.25226 l 0,0 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 496.58072,93.63613 c -2.35005,0.0633 -4.20592,0.90792 -5.57073,2.52774 -1.41337,1.6857 -2.12426,4.01487 -2.12426,6.98528 0,2.96221 0.71093,5.285 2.12426,6.97068 1.42027,1.68571 3.37026,2.52772 5.85753,2.52772 2.49413,0 4.44901,-0.84201 5.86238,-2.52772 1.41333,-1.68568 2.11941,-4.00847 2.1194,-6.97068 -1e-5,-2.97041 -0.70607,-5.29958 -2.1194,-6.98528 -1.41337,-1.68567 -3.36828,-2.52771 -5.86238,-2.52774 -0.0971,0 -0.19127,-0.002 -0.2868,0 z m 0.175,3.42216 c 0.0375,-0.001 0.0737,0 0.1118,0 1.22627,2e-5 2.17647,0.53065 2.84855,1.59441 0.67203,1.0638 1.01108,2.56527 1.01109,4.49645 0,1.92298 -0.33908,3.41324 -1.01109,4.47698 -0.67205,1.06382 -1.62231,1.59927 -2.84855,1.59927 -1.2194,0 -2.16191,-0.53545 -2.83396,-1.59927 -0.67205,-1.06374 -1.01108,-2.554 -1.0111,-4.47698 0,-1.93117 0.33908,-3.43265 1.0111,-4.49645 0.65101,-1.03051 1.55743,-1.56218 2.72216,-1.59441 z"
+       style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path15059-8-9"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 470.03306,110.9292 c -2.07004,1.73841 -5.14983,1.71842 -6.43287,1.71842 -2.58424,0 -4.63152,-0.85102 -6.14186,-2.55308 -1.51037,-1.71024 -2.26552,-4.026 -2.26552,-6.94732 0,-2.95404 0.76902,-5.27797 2.30709,-6.97185 1.53807,-1.69386 3.64423,-2.54079 6.31854,-2.5408 1.03229,1e-5 2.01956,0.11457 2.9618,0.34368 0.94917,0.22913 1.84292,0.56872 2.68123,1.01877 l -1.07657,3.18273 c -0.4713,-0.258 -1.01089,-0.51227 -1.51112,-0.69103 -0.85218,-0.28638 -1.7078,-0.42959 -2.56689,-0.4296 -1.59351,1e-5 -2.82328,0.52782 -3.68929,1.5834 -0.85911,1.04742 -1.28865,2.54899 -1.28865,4.5047 0,1.93937 0.41568,3.43686 1.24709,4.49245 0.83136,1.05559 2.08079,1.58338 3.54377,1.58338 1.48626,0 2.40683,-0.37463 2.89779,-0.76937 l 0,-3.17071 -3.21994,0 0,-3.16679 6.2354,0"
+       style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path15061-7-8"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 472.7679,93.96597 2.52429,0 7.97634,11.01345 0,-11.01345 3.40431,0 0,18.32568 -2.52429,0 -7.97632,-11.01345 0,11.01345 -3.40433,0 0,-18.32568"
+       style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path15063-3-5"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 507.47562,93.96597 5.09218,0 3.53347,11.44056 3.55416,-11.44056 4.30413,0 1.94441,18.32568 -3.78288,0 -1.1666,-11.45923 -3.57495,11.51419 -2.53575,0 -3.57495,-11.90308 -1.16671,11.84812 -3.79319,0 1.94438,-18.32568"
+       style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path15065-5-4"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 528.63445,93.96597 10.79757,0 0,3.57186 -6.79664,0 0,3.80115 5.22474,0 0,3.18297 -5.22474,0 0,4.19786 7.02525,0 0,3.57184 -11.02618,0 0,-18.32568"
+       style="font-size:148.699646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path15067-8-0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9048-5"
+       style="font-size:30.68958855px;font-style:normal;font-weight:normal;letter-spacing:0.2523815;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       d="m 542.97143,90.35866 2.94401,0 0,0.39627 -1.23536,0 0,3.08387 -0.47318,0 0,-3.08387 -1.23547,0 0,-0.39627"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9050-3"
+       style="font-size:30.68958855px;font-style:normal;font-weight:normal;letter-spacing:0.2523815;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       d="m 546.41161,90.35866 0.70157,0 0.88816,2.36827 0.89277,-2.36827 0.70157,0 0,3.48014 -0.4592,0 0,-3.05589 -0.8974,2.38691 -0.47318,0 -0.89739,-2.38691 0,3.05589 -0.4569,0 0,-3.48014"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6404-4"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.63670344,0,0,0.63670344,194.56394,-106.97568)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/sponsor-2014.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6406-6"><rect
+           id="rect6408-2"
+           width="579.75299"
+           height="109.5378"
+           x="258.59906"
+           y="486.67676"
+           style="fill:#eeeeec;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6410-9"
+         style="letter-spacing:2.87866688px">GOTHENBURG SWEDEN</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6921"
+       width="1024"
+       height="5.7157288"
+       x="0"
+       y="303" />
+  </g>
+</svg>
