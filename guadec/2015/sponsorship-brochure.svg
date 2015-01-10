@@ -111,9 +111,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="2769.6889"
-     inkscape:cy="549.17533"
+     inkscape:zoom="0.25"
+     inkscape:cx="1499.738"
+     inkscape:cy="121.89241"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
@@ -2784,5 +2784,16 @@
        y="447.36218"
        rx="0"
        ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1132.785"
+       y="198.17719"
+       id="text16965"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan16967"
+         x="1132.785"
+         y="198.17719">?</tspan></text>
   </g>
 </svg>
