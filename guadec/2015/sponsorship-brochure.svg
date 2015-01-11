@@ -112,8 +112,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
-     inkscape:cx="1921.5092"
-     inkscape:cy="252.80175"
+     inkscape:cx="2994.0323"
+     inkscape:cy="409.48107"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
@@ -137,7 +137,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1703,7 +1703,7 @@
          style="font-size:14px;font-weight:bold;-inkscape-font-specification:Sans Bold"
          id="flowPara9745">Sponsorship levels</flowPara><flowPara
          style="font-size:14px"
-         id="flowPara9747"></flowPara><flowPara
+         id="flowPara9747" /><flowPara
          style="font-size:14px"
          id="flowPara15813">For GUADEC 2015, we have the following sponsorship levels:</flowPara><flowPara
          style="font-size:14px"
@@ -1840,15 +1840,16 @@
        inkscape:connector-curvature="0" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path12733"
        sodipodi:cx="1617.1595"
        sodipodi:cy="607.04272"
        sodipodi:rx="2.0518723"
        sodipodi:ry="2.0518723"
-       d="m 1619.2114,607.04272 a 2.0518723,2.0518723 0 1 1 -4.1037,0 2.0518723,2.0518723 0 1 1 4.1037,0 z" />
+       d="m 1619.2114,607.04272 a 2.0518723,2.0518723 0 1 1 -4.1037,0 2.0518723,2.0518723 0 1 1 4.1037,0 z"
+       transform="translate(0,14)" />
     <path
-       transform="translate(2.635498e-5,16)"
+       transform="translate(2.635498e-5,32)"
        sodipodi:type="arc"
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path12733-1"
@@ -1858,7 +1859,7 @@
        sodipodi:ry="2.0518723"
        d="m 1619.2114,607.04272 a 2.0518723,2.0518723 0 1 1 -4.1037,0 2.0518723,2.0518723 0 1 1 4.1037,0 z" />
     <path
-       transform="translate(2.635498e-5,34)"
+       transform="translate(2.635498e-5,52)"
        sodipodi:type="arc"
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path12733-1-2"
@@ -1868,7 +1869,7 @@
        sodipodi:ry="2.0518723"
        d="m 1619.2114,607.04272 a 2.0518723,2.0518723 0 1 1 -4.1037,0 2.0518723,2.0518723 0 1 1 4.1037,0 z" />
     <path
-       transform="translate(2.635498e-5,52)"
+       transform="translate(2.635498e-5,74)"
        sodipodi:type="arc"
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path12733-1-2-0"
@@ -1878,7 +1879,7 @@
        sodipodi:ry="2.0518723"
        d="m 1619.2114,607.04272 a 2.0518723,2.0518723 0 1 1 -4.1037,0 2.0518723,2.0518723 0 1 1 4.1037,0 z" />
     <path
-       transform="translate(2.635498e-5,88)"
+       transform="translate(2.635498e-5,116)"
        sodipodi:type="arc"
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path12733-1-2-0-5"
