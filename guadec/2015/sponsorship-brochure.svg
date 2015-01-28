@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="1542.2984"
-     inkscape:cy="378.82207"
+     inkscape:zoom="0.25"
+     inkscape:cx="2713.2369"
+     inkscape:cy="207.87052"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
@@ -1701,15 +1701,15 @@
          style="font-size:14px;line-height:150%"
          id="flowPara15805">Day 1 to 3: Conference days</flowPara><flowPara
          style="font-size:14px;line-height:150%"
-         id="flowPara9767">* Two tracks of speakers from Sweden and across the world. Social events.</flowPara><flowPara
+         id="flowPara9767">   Two tracks of speakers from Sweden and across the world. Social events.</flowPara><flowPara
          style="font-size:14px;line-height:150%"
          id="flowPara9771" /><flowPara
          style="font-size:14px;line-height:150%"
          id="flowPara9773">Day 3 to 6: Work days</flowPara><flowPara
          style="font-size:14px;line-height:150%"
-         id="flowPara9775">* Get attendees working together on different areas of GNOME. </flowPara><flowPara
+         id="flowPara9775">   Get attendees working together on different areas of GNOME. </flowPara><flowPara
          style="font-size:14px;line-height:150%"
-         id="flowPara9779">* Welcomes new users and contributors.</flowPara><flowPara
+         id="flowPara9779">   Welcomes new users and contributors.</flowPara><flowPara
          style="font-size:14px;line-height:150%"
          id="flowPara9769" /></flowRoot>    <flowRoot
        transform="translate(1534.584,-50.507626)"
@@ -2674,5 +2674,35 @@
          style="font-size:12px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
          id="flowPara15960-4-1-7-8-1">Bronze</flowPara><flowPara
          style="font-size:12px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
-         id="flowPara16418-0">€3.500</flowPara></flowRoot>  </g>
+         id="flowPara16418-0">€3.500</flowPara></flowRoot>    <path
+       transform="translate(2.635498e-5,326)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path12733-1-2-0-5-2"
+       sodipodi:cx="1617.1595"
+       sodipodi:cy="607.04272"
+       sodipodi:rx="2.0518723"
+       sodipodi:ry="2.0518723"
+       d="m 1619.2114,607.04272 a 2.0518723,2.0518723 0 1 1 -4.1037,0 2.0518723,2.0518723 0 1 1 4.1037,0 z" />
+    <path
+       transform="translate(2.635498e-5,388)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path12733-1-2-0-5-2-1"
+       sodipodi:cx="1617.1595"
+       sodipodi:cy="607.04272"
+       sodipodi:rx="2.0518723"
+       sodipodi:ry="2.0518723"
+       d="m 1619.2114,607.04272 a 2.0518723,2.0518723 0 1 1 -4.1037,0 2.0518723,2.0518723 0 1 1 4.1037,0 z" />
+    <path
+       transform="translate(2.635498e-5,408)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path12733-1-2-0-5-2-1-0"
+       sodipodi:cx="1617.1595"
+       sodipodi:cy="607.04272"
+       sodipodi:rx="2.0518723"
+       sodipodi:ry="2.0518723"
+       d="m 1619.2114,607.04272 a 2.0518723,2.0518723 0 1 1 -4.1037,0 2.0518723,2.0518723 0 1 1 4.1037,0 z" />
+  </g>
 </svg>
