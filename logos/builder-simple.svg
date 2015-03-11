@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="-437.24477"
-     inkscape:cy="317.30327"
+     inkscape:cx="-283.45009"
+     inkscape:cy="272.3304"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -304,7 +304,7 @@
        transform="matrix(0.99257952,0.12159727,-0.12159727,0.99257952,0,0)" />
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 469.58827,763.5184 -47.56819,32.3996 22.60678,37.5993 7.0651,-4.6858 -4.90354,-28.8383 27.68847,-19.9516 27.74252,19.9898 -4.90354,28.8383 7.06508,4.6859 22.60678,-37.5995 -47.28646,-32.394 z"
+       d="m 468.41752,771.17807 -58.89744,40.11617 27.99101,46.55427 8.74778,-5.80181 -6.07141,-35.70668 34.283,-24.70344 34.34991,24.75074 -6.07141,35.70668 8.74776,5.80193 27.99101,-46.55452 -58.54861,-40.10923 z"
        id="path7303"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
@@ -328,5 +328,12 @@
        rx="0"
        ry="0"
        transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect7409"
+       width="55.154327"
+       height="28.814602"
+       x="447.77536"
+       y="773.9389" />
   </g>
 </svg>
