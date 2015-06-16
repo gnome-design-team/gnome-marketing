@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="350"
-   height="350"
+   width="256"
+   height="256"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="badge.svg"
-   viewBox="0 0 350 350"
+   viewBox="0 0 256 256"
    inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/2015/badge.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="423.07628"
-     inkscape:cy="298.39227"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="73.941343"
+     inkscape:cy="226.73371"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -92,17 +92,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-702.36218)">
+     transform="translate(0,-796.36218)">
     <circle
        r="149.23268"
        cy="877.50232"
        cx="171.8882"
        id="circle8706-0"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.55199998;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.02459764;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter8780);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.55199998;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.02459764;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter8780);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="matrix(0.79445965,0,0,0.79445965,-8.1045228,227.12332)" />
     <g
        id="g8652"
        mask="url(#mask8772)"
-       transform="translate(-97.31746,698.43733)">
+       transform="matrix(0.79445965,0,0,0.79445965,-85.419318,782.0036)">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
