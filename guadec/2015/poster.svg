@@ -203,9 +203,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="208.80815"
-     inkscape:cy="569.2364"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-264.00603"
+     inkscape:cy="277.81727"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -235,7 +235,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6029,7 +6029,7 @@
            y="-7.215436"
            style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara8932-8-3-2-1-8-4-2"
-         style="font-size:15.89553261px;line-height:150%;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">TALKS AND PRENSENTATIONS</flowPara></flowRoot>    <flowRoot
+         style="font-size:15.89553261px;line-height:150%;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">TALKS AND PRESENTATIONS</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8910-62-1-6-8"
        style="font-style:normal;font-weight:normal;font-size:39.75302887px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
