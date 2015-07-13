@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="149.32431"
-     inkscape:cy="213.49706"
+     inkscape:cx="444.90058"
+     inkscape:cy="76.005503"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -422,112 +422,6 @@
        y="1043.4952"
        rx="0"
        ry="0" />
-    <circle
-       r="2.6720161"
-       cy="1036.2859"
-       cx="598.66064"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="path13685" />
-    <circle
-       r="2.6720161"
-       cy="1036.2859"
-       cx="606.03174"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="path13685-4" />
-    <circle
-       r="2.6720161"
-       cy="1036.2859"
-       cx="613.40283"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="path13685-4-4" />
-    <circle
-       r="2.6720161"
-       cy="1036.2859"
-       cx="620.77393"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="path13685-4-4-7" />
-    <circle
-       r="2.6720161"
-       cy="1036.2859"
-       cx="628.14496"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="path13685-4-4-7-4" />
-    <circle
-       r="2.6720161"
-       cy="1036.2859"
-       cx="635.51605"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="path13685-4-4-7-4-0" />
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="rect13777"
-       width="1.0135233"
-       height="9.2443428"
-       x="598.01569"
-       y="1036.7782"
-       rx="0"
-       ry="0" />
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="rect13777-1"
-       width="1.0135233"
-       height="9.2443428"
-       x="605.38678"
-       y="1036.7782"
-       rx="0"
-       ry="0" />
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="rect13777-1-0"
-       width="1.0135233"
-       height="9.2443428"
-       x="612.75787"
-       y="1036.7782"
-       rx="0"
-       ry="0" />
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="rect13777-1-0-1"
-       width="1.0135233"
-       height="9.2443428"
-       x="620.12891"
-       y="1036.7782"
-       rx="0"
-       ry="0" />
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="rect13777-1-0-1-9"
-       width="1.0135233"
-       height="9.2443428"
-       x="627.5"
-       y="1036.7782"
-       rx="0"
-       ry="0" />
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="rect13777-1-0-1-9-0"
-       width="1.0135233"
-       height="9.2443428"
-       x="634.87103"
-       y="1036.7782"
-       rx="0"
-       ry="0" />
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 677.00142,1020.4952 -7.659,3.0291 0,10.6765 15.90538,-0.081 0,-10.5959 -8.24638,-3.029 z m -3.66252,5.4247 1.40511,0 0,1.3936 -1.40511,0 0,-1.3936 z m 3.12122,0 1.4166,0 0,1.3936 -1.4166,0 0,-1.3936 z m 3.30545,0 1.41665,0 0,1.3936 -1.41665,0 0,-1.3936 z m -6.42667,2.9829 1.40511,0 0,1.3936 -1.40511,0 0,-1.3936 z m 3.12122,0 1.4166,0 0,1.3936 -1.4166,0 0,-1.3936 z m 3.30545,0 1.41665,0 0,1.3936 -1.41665,0 0,-1.3936 z"
-       id="path6933-0-4-4" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 667.96341,1024.1902 18.88016,0 -9.58184,-5.6766 z"
-       id="path13201-94-7-8"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 649.79752,1045.6539 11.25479,-6.1509 6.81361,-6.7169 18.08342,0.7371 10.69732,7.1421 3.64275,4.9886 z"
-       id="path13908"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        d="m 228.13131,988.37345 0,-27.59504 -27.67346,0 z"
@@ -898,7 +792,7 @@
        transform="scale(1.0020838,0.99792054)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.38849258px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="132.52628"
+       x="34.730064"
        y="1033.0909"
        id="text3000-5-67-4-9"
        sodipodi:linespacing="125%"
@@ -907,12 +801,12 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3002-4-3-7-3"
-         x="132.52628"
+         x="34.730064"
          y="1033.0909">GUADEC</tspan></text>
     <g
        id="g5813-7-9-5-5"
        style="fill:#ffffff;fill-opacity:1"
-       transform="matrix(0.52616501,0,0,0.52397902,-272.20962,801.54893)"
+       transform="matrix(0.52616501,0,0,0.52397902,-370.20962,801.54893)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1033,7 +927,7 @@
        xml:space="preserve"
        id="flowRoot8910-62-1-5"
        style="font-style:normal;font-weight:normal;font-size:56.09658051px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.55284516,0,0,0.55284516,352.14609,981.0456)"><flowRegion
+       transform="matrix(0.60036505,0,0,0.60036505,254.18754,981.04562)"><flowRegion
          id="flowRegion8912-5-8-1"><rect
            id="rect8914-1-7-6"
            width="299.01077"
@@ -1046,7 +940,7 @@
        xml:space="preserve"
        id="flowRoot8910-62-1-2-9-1-0"
        style="font-style:normal;font-weight:normal;font-size:61.028862px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.55284516,0,0,0.55284516,353.58642,996.95338)"><flowRegion
+       transform="matrix(0.60036505,0,0,0.60036505,255.75167,998.32076)"><flowRegion
          id="flowRegion8912-5-8-8-1-4-4"><rect
            id="rect8914-1-7-2-9-6-0"
            width="218.90186"
@@ -1059,7 +953,7 @@
        xml:space="preserve"
        id="flowRoot8910-62-1-6-8"
        style="font-style:normal;font-weight:normal;font-size:43.65896988px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.55284516,0,0,0.55284516,332.31537,981.0456)"><flowRegion
+       transform="matrix(0.60036505,0,0,0.60036505,232.65227,981.04562)"><flowRegion
          id="flowRegion8912-5-8-9-1"><rect
            id="rect8914-1-7-0-8"
            width="232.71475"
@@ -1072,7 +966,7 @@
        xml:space="preserve"
        id="flowRoot8910-62-1-2-9-0"
        style="font-style:normal;font-weight:normal;font-size:65.95219421px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.55284516,0,0,0.55284516,332.31537,449.00838)"><flowRegion
+       transform="matrix(0.60036505,0,0,0.60036505,232.65227,403.27706)"><flowRegion
          id="flowRegion8912-5-8-8-1-8"><rect
            id="rect8914-1-7-2-9-1"
            width="204.90347"
@@ -1081,24 +975,9 @@
            y="972.68976"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara8932-8-3-2-1-6"
-         style="font-size:33.18096924px;line-height:150%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">HACKFESTS</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot8910-62-1-2-9-0-0"
-       style="font-style:normal;font-weight:normal;font-size:39.48102188px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.40575445,0,0,0.40575445,258.50022,1128.6237)"><flowRegion
-         id="flowRegion8912-5-8-8-1-8-2"><rect
-           id="rect8914-1-7-2-9-1-4"
-           width="548.43951"
-           height="92.827995"
-           x="-27.74395"
-           y="-8.6667957"
-           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara8932-8-3-2-1-6-6"
-         style="font-size:19.86315346px;line-height:150%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"><flowSpan
-   style="fill:#ffffff"
-   id="flowSpan14027">Full schedule and registration on</flowSpan> www.guadec.org</flowPara></flowRoot>    <g
+         style="font-size:33.18096924px;line-height:150%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">HACKFESTS</flowPara></flowRoot>    <g
        id="g6921"
-       transform="translate(-460,0)">
+       transform="translate(116,0)">
       <path
          id="path6933-0-4"
          d="m 545.30097,1024.3996 -4.66451,1.8428 0,6.4957 c -4.39618,1.3762 -7.48397,4.558 -9.55937,8.2003 l 28.36713,0 c -2.12313,-3.6382 -4.80317,-6.8845 -9.1217,-8.2464 l 0,-6.4496 -5.02155,-1.8428 z m -2.23436,3.3054 0.8638,0 0,0.8408 -0.8638,0 0,-0.8408 z m 1.91188,0 0.85228,0 0,0.8408 -0.85228,0 0,-0.8408 z m 2.004,0 0.86381,0 0,0.8408 -0.86381,0 0,-0.8408 z m -3.91588,1.8082 0.8638,0 0,0.8523 -0.8638,0 0,-0.8523 z m 1.91188,0 0.85228,0 0,0.8523 -0.85228,0 0,-0.8523 z m 2.004,0 0.86381,0 0,0.8523 -0.86381,0 0,-0.8523 z"
@@ -1130,7 +1009,7 @@
        xml:space="preserve"
        id="flowRoot8910-62-1-2-9-0-0-4"
        style="font-style:normal;font-weight:normal;font-size:39.48102188px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.50726415,0,0,0.50726415,351.66393,1018.5872)"><flowRegion
+       transform="matrix(0.55086612,0,0,0.55086612,256.49237,1021.8141)"><flowRegion
          id="flowRegion8912-5-8-8-1-8-2-9"><rect
            id="rect8914-1-7-2-9-1-4-3"
            width="548.43951"
@@ -1139,7 +1018,7 @@
            y="-8.6667957"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara8932-8-3-2-1-6-6-8"
-         style="font-size:19.86315346px;line-height:150%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"><flowSpan
-   style="fill:#ffffff"
-   id="flowSpan14027-1">Full schedule and registration on</flowSpan> www.guadec.org</flowPara></flowRoot>  </g>
+         style="font-size:19.86315346px;line-height:150%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Full schedule and registration on <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold'"
+   id="flowSpan6525">www.guadec.org</flowSpan></flowPara></flowRoot>  </g>
 </svg>
