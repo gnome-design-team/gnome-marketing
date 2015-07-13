@@ -16,7 +16,7 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="banner.svg"
    viewBox="0 0 728 90.000001"
-   inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/2015/banner.png"
+   inkscape:export-filename="/home/aday/checkout/gnome-marketing/guadec/2015/banner.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -29,22 +29,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="307.81716"
-     inkscape:cy="55.443342"
+     inkscape:cx="310.63056"
+     inkscape:cy="59.010493"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      showborder="true"
      inkscape:showpageshadow="false"
-     showguides="true"
+     borderlayer="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -53,6 +54,14 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       position="263.75083,21.124815"
+       orientation="0,1"
+       id="guide4269" />
+    <sodipodi:guide
+       position="222.03153,63.020893"
+       orientation="0,1"
+       id="guide4271" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -62,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -418,10 +427,10 @@
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="rect12930"
-       width="730.41406"
-       height="9.9025507"
+       width="730.70135"
+       height="5.6599102"
        x="-0.16777436"
-       y="1043.4952"
+       y="1047.7379"
        rx="0"
        ry="0" />
     <path
@@ -928,32 +937,58 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot8910-62-1-5"
-       style="font-style:normal;font-weight:normal;font-size:56.09658051px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.60036505,0,0,0.60036505,254.18754,981.04562)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:18.73859978px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.60036505,0,0,0.60036505,280.47343,982.95624)"><flowRegion
          id="flowRegion8912-5-8-1"><rect
            id="rect8914-1-7-6"
            width="299.01077"
            height="119.84915"
            x="-44.504345"
            y="-12.320882"
-           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:18.73859978px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara8932-8-3-7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.22254753px;line-height:150%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">AUGUST 7 - 9</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.73859978px;line-height:150%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">AUGUST 7 - 9</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8910-62-1-2-9-1-0"
-       style="font-style:normal;font-weight:normal;font-size:61.028862px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.60036505,0,0,0.60036505,255.75167,998.32076)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:33.31306511px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="matrix(0.60036505,0,0,0.60036505,257.37239,996.32076)"><flowRegion
          id="flowRegion8912-5-8-8-1-4-4"><rect
            id="rect8914-1-7-2-9-6-0"
-           width="218.90186"
+           width="244.71948"
            height="61.412403"
            x="-7.8041754"
            y="-13.93607"
-           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:33.31306511px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
          id="flowPara8932-8-3-2-1-1-2"
-         style="font-size:30.7040081px;line-height:150%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">CONFERENCE</flowPara></flowRoot>    <g
+         style="font-size:33.31306511px;line-height:150%;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;">CONFERENCE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8910-62-1-6-8"
+       style="font-style:normal;font-weight:normal;font-size:18.73859978px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.60036505,0,0,0.60036505,261.55372,981.54562)"><flowRegion
+         id="flowRegion8912-5-8-9-1"><rect
+           id="rect8914-1-7-0-8"
+           width="232.71475"
+           height="93.276466"
+           x="274.19595"
+           y="-9.9710522"
+           style="font-size:18.73859978px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8932-8-3-0-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.73859978px;line-height:150%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">AUGUST 10 - 12</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8910-62-1-2-9-0"
+       style="font-style:normal;font-weight:normal;font-size:33.31306458px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.60036505,0,0,0.60036505,252.40972,403.98559)"><flowRegion
+         id="flowRegion8912-5-8-8-1-8"><rect
+           id="rect8914-1-7-2-9-1"
+           width="204.90347"
+           height="68.004143"
+           x="286.24747"
+           y="972.68976"
+           style="font-size:33.31306458px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8932-8-3-2-1-6"
+         style="font-size:33.31306458px;line-height:150%;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">HACKFESTS</flowPara></flowRoot>    <g
        id="g6921"
-       transform="translate(116,0)">
+       transform="translate(116,4)">
       <path
          id="path6933-0-4"
          d="m 545.30097,1024.3996 -4.66451,1.8428 0,6.4957 c -4.39618,1.3762 -7.48397,4.558 -9.55937,8.2003 l 28.36713,0 c -2.12313,-3.6382 -4.80317,-6.8845 -9.1217,-8.2464 l 0,-6.4496 -5.02155,-1.8428 z m -2.23436,3.3054 0.8638,0 0,0.8408 -0.8638,0 0,-0.8408 z m 1.91188,0 0.85228,0 0,0.8408 -0.85228,0 0,-0.8408 z m 2.004,0 0.86381,0 0,0.8408 -0.86381,0 0,-0.8408 z m -3.91588,1.8082 0.8638,0 0,0.8523 -0.8638,0 0,-0.8523 z m 1.91188,0 0.85228,0 0,0.8523 -0.85228,0 0,-0.8523 z m 2.004,0 0.86381,0 0,0.8523 -0.86381,0 0,-0.8523 z"
@@ -984,43 +1019,17 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot8910-62-1-2-9-0-0-4"
-       style="font-style:normal;font-weight:normal;font-size:39.48102188px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.55086612,0,0,0.55086612,260.38146,1021.8141)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:39.48102188px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.55086612,0,0,0.55086612,270.49237,1022.8389)"><flowRegion
          id="flowRegion8912-5-8-8-1-8-2-9"><rect
            id="rect8914-1-7-2-9-1-4-3"
            width="548.43951"
            height="92.827995"
            x="-27.74395"
            y="-8.6667957"
-           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+           style="text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara8932-8-3-2-1-6-6-8"
-         style="font-size:19.86315346px;line-height:150%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Full schedule and registration on <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold'"
-   id="flowSpan6525">www.guadec.org</flowSpan></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot8910-62-1-5-3"
-       style="font-style:normal;font-weight:normal;font-size:33.67842484px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="translate(424.88969,981.34034)"><flowRegion
-         id="flowRegion8912-5-8-1-7"><rect
-           id="rect8914-1-7-6-4"
-           width="179.51562"
-           height="71.953239"
-           x="-26.814085"
-           y="-7.6913414"
-           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara8932-8-3-7-6"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.94383049px;line-height:150%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">AUGUST 10 - 12</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot8910-62-1-2-9-1-0-2"
-       style="font-style:normal;font-weight:normal;font-size:36.63959503px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="translate(425.95035,18.978162)"><flowRegion
-         id="flowRegion8912-5-8-8-1-4-4-6"><rect
-           id="rect8914-1-7-2-9-6-0-6"
-           width="131.42102"
-           height="36.869862"
-           x="-3.2164555"
-           y="970.97626"
-           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara8932-8-3-2-1-1-2-7"
-         style="font-size:18.43361282px;line-height:150%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">HACKFESTS</flowPara></flowRoot>  </g>
+         style="font-size:19.86315346px;line-height:150%;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">Full schedule and registration on <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;text-anchor:start"
+   id="flowSpan6525">www.guadec.org</flowSpan></flowPara></flowRoot>  </g>
 </svg>
