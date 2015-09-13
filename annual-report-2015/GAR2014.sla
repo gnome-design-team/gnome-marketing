@@ -541,10 +541,9 @@
             <trail PARENT="Page title"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="155.973543307087" YPOS="6490.31970298347" WIDTH="224.72" HEIGHT="460.980251077157" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 224.72 0 224.72 0 224.72 0 224.72 0 224.72 460.98 224.72 460.98 224.72 460.98 224.72 460.98 0 460.98 0 460.98 0 460.98 0 460.98 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 224.72 0 224.72 0 224.72 0 224.72 0 224.72 460.979 224.72 460.979 224.72 460.979 224.72 460.979 0 460.979 0 460.979 0 460.979 0 460.979 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="29.8197029834691" gWidth="482.720000004173" gHeight="491.5" LAYER="0" BOOKMARK="0" NEXTITEM="930" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="155.973543307087" YPOS="6540.75" WIDTH="224.72" HEIGHT="410.549954060627" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 224.72 0 224.72 0 224.72 0 224.72 0 224.72 410.55 224.72 410.55 224.72 410.55 224.72 410.55 0 410.55 0 410.55 0 410.55 0 410.55 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 224.72 0 224.72 0 224.72 0 224.72 0 224.72 410.549 224.72 410.549 224.72 410.549 224.72 410.549 0 410.549 0 410.549 0 410.549 0 410.549 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="29.8197029834691" gWidth="482.720000004173" gHeight="491.5" LAYER="0" BOOKMARK="0" NEXTITEM="930" BACKITEM="-1">
             <ITEXT CH="GNOME.Asia"/>
-            <para PARENT="GNOME Bread"/>
-            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Header 4"/>
             <ITEXT CH="GNOME.Asia Summit 2014 was hosted in Beijing, China from May 24-25. The conference attracted more than 350 passionate people from all around Asia and beyond."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="Tobias Mueller, Lennart Poettering, and Richard Stallman gave the keynotes at the Summit. Tobias talked about the latest advancements and features in GNOME. Lennart spoke about systemd — the now universal service manager for GNU/Linux. Richard's talk focused on the philosophy of the Free Software movement and why a free desktop is needed."/>
@@ -552,15 +551,15 @@
             <ITEXT CH="In addition to the Keynotes, there were talks on a wide range of topics covering subjects such as documentation, extension development, translations, bug reporting and enterprise integration. Ekaterina Gerasimova, David King, and André Klapper, all active members of the GNOME Foundation, ran two successful training sessions about how to start contributing to GNOME."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="West Coast Summit"/>
-            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Header 4"/>
             <ITEXT CH="Differing from our other conferences, the West Coast Summit's aim is to bring in participants from periphery projects aiming to get them more involved in the GNOME ecosystem. From April 9 through 11, participants from Intel, Red Hat, Yorba, Google, Endless, and Elementary OS met and discussed ways they can work together."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="GNOME Peru Fest"/>
-            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Header 4"/>
             <ITEXT CH="On June 28, 2014, GNOME Peru Fest was held in at the IBM campus in Lima, Peru. Spearheaded by Julita Inca, this free event invited everyone to come and learn more about GNOME with talks from both longtime engineers and students who had participated in Google Summer of Code internships with GNOME. Covered favorably in the local press, the GNOME Peru Fest introduced newcomers to GNOME and invited users to look under the hood."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="GUADEC"/>
-            <para PARENT="GNOME Bread"/>
+            <para PARENT="GNOME Header 4"/>
             <ITEXT CH="Our largest annual event, GUADEC is where many in the GNOME community meet every year to hear talks on what is up and coming, plan together on where to go next, and welcome new contributors into our lively community. The 2014 edition of GUADEC took place from July 26 through August 1. We were hosted by EPITECH, a software engineering school located centrally in Strasbourg, France."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="We were very fortunate to have three exciting keynotes this year from Jim Hall, Nathan Willis, and Matthew Garrett. All three keynotes were very given to packed rooms and rousing applause."/>
@@ -585,8 +584,8 @@
             <ITEXT CH="After such a wonderful GUADEC, the GNOME community was invigorated and went home ready to implement some of the ideas and plans they had developed."/>
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="Others Conferences"/>
-            <para PARENT="GNOME Bread"/>
-            <ITEXT CH="In addition to these GNOME-specific conferences, GNOME sent representatives and staffed a booth at Fosdem, JDLL, and FSCONS. We also sent representatives to SXSW, DebConf14, and FOSSASIA. We aim to increase exposure to GNOME and both hosting and attending more conferences is one way to reach that goal. "/>
+            <para PARENT="GNOME Header 4"/>
+            <ITEXT CH="In addition to these GNOME-specific conferences, GNOME sent representatives and staffed a booth at Fosdem, JDLL, and FSCONS. We also sent representatives to SXSW, DebConf14, and FOSSASIA. We aim to increase exposure to GNOME and both hosting and attending more conferences is one way to reach that goal."/>
             <trail PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
