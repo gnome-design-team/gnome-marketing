@@ -487,7 +487,8 @@
             <breakline/>
             <ITEXT KERN="-3" CH="Unfortunately, the timing of Groupon naming its product Gnome meant that expenditures were kept frozen until the end of the financial year as a defense against the trademark infringement would have been extremely likely. GUADEC expenses are also lower due to conscientious spending by the organisers. The drop in employee expenses was the result of the Foundation losing Karen, the Executive Director, who had been with GNOME since 2011."/>
             <breakline/>
-            <ITEXT CH="2014 also saw the completion of work on accessibility by Igalia which was the result of an earlier fundraiser. "/>
+            <ITEXT KERN="-3" CH="2014 also saw the completion of work on accessibility by Igalia which was the result of an earlier fundraiser."/>
+            <ITEXT CH=" "/>
             <trail PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
