@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="191.60001mm"
-   height="106.30344mm"
+   width="210mm"
+   height="250mm"
    id="svg2458"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
@@ -18,7 +18,7 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:modified="true"
    version="1.1"
-   inkscape:export-filename="/home/aday/Dropbox/Public/gnome-business-card.png"
+   inkscape:export-filename="/home/aday/checkout/gnome-marketing/gnome-business-card.png"
    inkscape:export-xdpi="90.079872"
    inkscape:export-ydpi="90.079872">
   <defs
@@ -42,9 +42,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="98.03381"
-     inkscape:cy="444.56797"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="371.14995"
+     inkscape:cy="651.23402"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:window-width="1920"
@@ -67,7 +67,7 @@
        type="xygrid"
        id="grid3597"
        originx="1020.8334"
-       originy="200" />
+       originy="632.00005" />
   </sodipodi:namedview>
   <metadata
      id="metadata2462">
@@ -85,20 +85,339 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1020.8334,-0.49958801)">
+     transform="translate(1020.8334,76.661419)">
+    <g
+       id="g5456"
+       transform="translate(12.598396,0)">
+      <rect
+         style="opacity:1;fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5001"
+         width="318.89764"
+         height="177.16536"
+         x="-1000.8334"
+         y="1080" />
+      <g
+         inkscape:export-ydpi="72.000000"
+         inkscape:export-xdpi="72.000000"
+         inkscape:export-filename="/home/duffy/Desktop/gnome_logo_horiz.png"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
+         transform="matrix(0.51519315,0,0,0.53155231,-866.16789,1137.152)"
+         id="g5003">
+        <g
+           id="g5005"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             id="path5007"
+             d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
+             style="fill:#ffffff;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path5009"
+             d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
+             style="fill:#ffffff;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path5011"
+             d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
+             style="fill:#ffffff;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path5013"
+             d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
+             style="fill:#ffffff;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z"
+             id="path5015"
+             style="fill:#ffffff;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <rect
+         y="1080"
+         x="-640.83337"
+         height="177.16536"
+         width="318.89764"
+         id="rect5017"
+         style="opacity:1;fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g5019"
+         transform="matrix(0.51519315,0,0,0.53155231,-506.16789,1137.152)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
+         inkscape:export-filename="/home/duffy/Desktop/gnome_logo_horiz.png"
+         inkscape:export-xdpi="72.000000"
+         inkscape:export-ydpi="72.000000">
+        <g
+           style="fill:#ffffff;fill-opacity:1"
+           id="g5021">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1"
+             d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
+             id="path5023" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1"
+             d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
+             id="path5025" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1"
+             d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
+             id="path5027" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1"
+             d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
+             id="path5029" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1"
+             id="path5031"
+             d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z" />
+        </g>
+      </g>
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5033"
+         width="318.89764"
+         height="177.16536"
+         x="-1000.8334"
+         y="880.49957" />
+      <g
+         id="g5035"
+         transform="matrix(0.22912449,0,0,0.23640014,-701.28114,1495.2784)"
+         style="fill:#888a85;fill-opacity:1">
+        <g
+           id="g5037"
+           transform="matrix(0.95129,0,0,0.95129,-319.7124,-2517.86)"
+           style="fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
+           inkscape:export-filename="/home/duffy/Desktop/gnome_logo_horiz.png"
+           inkscape:export-xdpi="72.000000"
+           inkscape:export-ydpi="72.000000">
+          <g
+             style="fill:#888a85;fill-opacity:1"
+             id="g5039">
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#888a85;fill-opacity:1"
+               d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
+               id="path5041" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#888a85;fill-opacity:1"
+               d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
+               id="path5043" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#888a85;fill-opacity:1"
+               d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
+               id="path5045" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#888a85;fill-opacity:1"
+               d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
+               id="path5047" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#888a85;fill-opacity:1"
+               id="path5049"
+               d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z" />
+          </g>
+        </g>
+        <g
+           transform="matrix(0.390099,0,0,0.390099,-1747.456,-2952.216)"
+           style="fill:#888a85;fill-opacity:1"
+           id="g5051">
+          <path
+             inkscape:connector-curvature="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 4176.2963,1214.4401 c -15.1078,0.4069 -27.0386,5.8367 -35.8126,16.25 -9.0861,10.8369 -13.6562,25.8104 -13.6562,44.9063 0,19.0432 4.5703,33.9757 13.6562,44.8124 9.1305,10.8369 21.6664,16.25 37.6563,16.25 16.034,0 28.6014,-5.4131 37.6875,-16.25 9.0859,-10.8367 13.6251,-25.7692 13.625,-44.8124 -1e-4,-19.0959 -4.5391,-34.0694 -13.625,-44.9063 -9.0861,-10.8366 -21.6536,-16.2499 -37.6875,-16.25 -0.6246,0 -1.2296,-0.016 -1.8437,0 z m 1.125,22 c 0.2415,-0.01 0.4737,0 0.7187,0 7.8833,10e-5 13.9919,3.4114 18.3125,10.25 4.3203,6.8388 6.4999,16.4913 6.5,28.9063 0,12.3623 -2.1799,21.9427 -6.5,28.7812 -4.3204,6.8389 -10.4293,10.2812 -18.3125,10.2812 -7.8391,0 -13.8983,-3.4423 -18.2187,-10.2812 -4.3204,-6.8385 -6.4999,-16.4189 -6.5,-28.7812 0,-12.4149 2.1798,-22.0675 6.5,-28.9063 4.1852,-6.6249 10.0123,-10.0428 17.5,-10.25 z"
+             id="path5053" />
+          <path
+             inkscape:connector-curvature="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 4005.6293,1325.612 c -13.3076,11.1757 -33.1067,11.0472 -41.3549,11.0472 -16.6133,0 -29.7747,-5.471 -39.4842,-16.413 -9.7097,-10.9946 -14.5644,-25.8819 -14.5644,-44.6622 0,-18.9906 4.9438,-33.9305 14.8316,-44.82 9.8878,-10.8892 23.4277,-16.3339 40.62,-16.334 6.6363,10e-5 12.9831,0.7366 19.0406,2.2094 6.1019,1.473 11.8475,3.6562 17.2368,6.5494 l -6.921,20.4608 c -3.0298,-1.6586 -6.4987,-3.2932 -9.7145,-4.4424 -5.4784,-1.8411 -10.979,-2.7617 -16.5018,-2.7618 -10.2442,10e-5 -18.15,3.3932 -23.7173,10.1792 -5.523,6.7336 -8.2844,16.3867 -8.2844,28.9594 0,12.4676 2.6723,22.0945 8.0172,28.8806 5.3446,6.7861 13.3768,10.1791 22.7818,10.1791 9.5548,0 15.4728,-2.4084 18.6291,-4.9461 l 0,-20.3835 -20.7001,0 0,-20.3584 40.0855,0"
+             id="path5055"
+             sodipodi:nodetypes="cscsssccccsssszccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 4023.2108,1216.5605 16.2279,0 51.2775,70.8022 0,-70.8022 21.8853,0 0,117.8103 -16.2279,0 -51.2774,-70.8022 0,70.8022 -21.8854,0 0,-117.8103"
+             id="path5057"
+             sodipodi:nodetypes="ccccccccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 4246.3361,1216.5605 32.7366,0 22.7151,73.5479 22.8487,-73.5479 27.6698,0 12.5,117.8103 -24.3186,0 -7.5,-73.668 -22.9823,74.0213 -16.3015,0 -22.9824,-76.5213 -7.5,76.168 -24.3854,0 12.5,-117.8103"
+             id="path5059"
+             sodipodi:nodetypes="cccccccccccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 4382.3597,1216.5605 69.4147,0 0,22.9624 -43.6933,0 0,24.4365 33.5877,0 0,20.4623 -33.5877,0 0,26.9868 45.1631,0 0,22.9623 -70.8845,0 0,-117.8103"
+             id="path5061"
+             sodipodi:nodetypes="ccccccccccccc" />
+        </g>
+      </g>
+      <text
+         id="text5063"
+         y="991.87842"
+         x="-978.36499"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#4a90d9;fill-opacity:1"
+           y="991.87842"
+           x="-978.36499"
+           id="tspan5065"
+           sodipodi:role="line">Engagement Team</tspan></text>
+      <text
+         sodipodi:linespacing="140%"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-978.36499"
+         y="1012.5854"
+         id="text5067"><tspan
+           sodipodi:role="line"
+           id="tspan5069"
+           x="-978.36499"
+           y="1012.5854"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#888a85;fill-opacity:1">www.wiki.gnome.org/Engagement/</tspan><tspan
+           id="tspan5071"
+           sodipodi:role="line"
+           x="-978.36499"
+           y="1024.8353"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#888a85;fill-opacity:1">engagement-list@gnome.org</tspan><tspan
+           id="tspan5073"
+           sodipodi:role="line"
+           x="-978.36499"
+           y="1037.0853"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#888a85;fill-opacity:1">#engagement on irc.gnome.org</tspan></text>
+      <rect
+         y="880.49957"
+         x="-640.83337"
+         height="177.16536"
+         width="318.89764"
+         id="rect5075"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(0.22912449,0,0,0.23640014,-341.67416,1495.2784)"
+         id="g5077"
+         style="fill:#888a85;fill-opacity:1">
+        <g
+           inkscape:export-ydpi="72.000000"
+           inkscape:export-xdpi="72.000000"
+           inkscape:export-filename="/home/duffy/Desktop/gnome_logo_horiz.png"
+           style="fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
+           transform="matrix(0.95129,0,0,0.95129,-319.7124,-2517.86)"
+           id="g5079">
+          <g
+             id="g5081"
+             style="fill:#888a85;fill-opacity:1">
+            <path
+               id="path5083"
+               d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
+               style="fill:#888a85;fill-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path5085"
+               d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
+               style="fill:#888a85;fill-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path5087"
+               d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
+               style="fill:#888a85;fill-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path5089"
+               d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
+               style="fill:#888a85;fill-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z"
+               id="path5091"
+               style="fill:#888a85;fill-opacity:1"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           id="g5093"
+           style="fill:#888a85;fill-opacity:1"
+           transform="matrix(0.390099,0,0,0.390099,-1747.456,-2952.216)">
+          <path
+             id="path5095"
+             d="m 4176.2963,1214.4401 c -15.1078,0.4069 -27.0386,5.8367 -35.8126,16.25 -9.0861,10.8369 -13.6562,25.8104 -13.6562,44.9063 0,19.0432 4.5703,33.9757 13.6562,44.8124 9.1305,10.8369 21.6664,16.25 37.6563,16.25 16.034,0 28.6014,-5.4131 37.6875,-16.25 9.0859,-10.8367 13.6251,-25.7692 13.625,-44.8124 -1e-4,-19.0959 -4.5391,-34.0694 -13.625,-44.9063 -9.0861,-10.8366 -21.6536,-16.2499 -37.6875,-16.25 -0.6246,0 -1.2296,-0.016 -1.8437,0 z m 1.125,22 c 0.2415,-0.01 0.4737,0 0.7187,0 7.8833,10e-5 13.9919,3.4114 18.3125,10.25 4.3203,6.8388 6.4999,16.4913 6.5,28.9063 0,12.3623 -2.1799,21.9427 -6.5,28.7812 -4.3204,6.8389 -10.4293,10.2812 -18.3125,10.2812 -7.8391,0 -13.8983,-3.4423 -18.2187,-10.2812 -4.3204,-6.8385 -6.4999,-16.4189 -6.5,-28.7812 0,-12.4149 2.1798,-22.0675 6.5,-28.9063 4.1852,-6.6249 10.0123,-10.0428 17.5,-10.25 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cscsssccccsssszccccc"
+             id="path5097"
+             d="m 4005.6293,1325.612 c -13.3076,11.1757 -33.1067,11.0472 -41.3549,11.0472 -16.6133,0 -29.7747,-5.471 -39.4842,-16.413 -9.7097,-10.9946 -14.5644,-25.8819 -14.5644,-44.6622 0,-18.9906 4.9438,-33.9305 14.8316,-44.82 9.8878,-10.8892 23.4277,-16.3339 40.62,-16.334 6.6363,10e-5 12.9831,0.7366 19.0406,2.2094 6.1019,1.473 11.8475,3.6562 17.2368,6.5494 l -6.921,20.4608 c -3.0298,-1.6586 -6.4987,-3.2932 -9.7145,-4.4424 -5.4784,-1.8411 -10.979,-2.7617 -16.5018,-2.7618 -10.2442,10e-5 -18.15,3.3932 -23.7173,10.1792 -5.523,6.7336 -8.2844,16.3867 -8.2844,28.9594 0,12.4676 2.6723,22.0945 8.0172,28.8806 5.3446,6.7861 13.3768,10.1791 22.7818,10.1791 9.5548,0 15.4728,-2.4084 18.6291,-4.9461 l 0,-20.3835 -20.7001,0 0,-20.3584 40.0855,0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="ccccccccccc"
+             id="path5099"
+             d="m 4023.2108,1216.5605 16.2279,0 51.2775,70.8022 0,-70.8022 21.8853,0 0,117.8103 -16.2279,0 -51.2774,-70.8022 0,70.8022 -21.8854,0 0,-117.8103"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cccccccccccccc"
+             id="path5101"
+             d="m 4246.3361,1216.5605 32.7366,0 22.7151,73.5479 22.8487,-73.5479 27.6698,0 12.5,117.8103 -24.3186,0 -7.5,-73.668 -22.9823,74.0213 -16.3015,0 -22.9824,-76.5213 -7.5,76.168 -24.3854,0 12.5,-117.8103"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="ccccccccccccc"
+             id="path5103"
+             d="m 4382.3597,1216.5605 69.4147,0 0,22.9624 -43.6933,0 0,24.4365 33.5877,0 0,20.4623 -33.5877,0 0,26.9868 45.1631,0 0,22.9623 -70.8845,0 0,-117.8103"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:bold;font-size:17.5px;font-family:'Bitstream Vera Sans';fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-618.36499"
+         y="1003.6646"
+         id="text5105"><tspan
+           sodipodi:role="line"
+           id="tspan5107"
+           x="-618.36499"
+           y="1003.6646"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#4a90d9;fill-opacity:1">GNOME Foundation</tspan></text>
+      <text
+         id="text5109"
+         y="1022.3717"
+         x="-618.36499"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         sodipodi:linespacing="140%"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#888a85;fill-opacity:1"
+           y="1022.3717"
+           x="-618.36499"
+           sodipodi:role="line"
+           id="tspan5111">www.gnome.org/foundation/</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#888a85;fill-opacity:1"
+           y="1034.6217"
+           x="-618.36499"
+           sodipodi:role="line"
+           id="tspan5113">board@gnome.org</tspan></text>
+    </g>
     <rect
        style="opacity:1;fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3382"
        width="318.89764"
        height="177.16536"
-       x="-1020.8334"
-       y="199.99998" />
+       x="-988.23499"
+       y="161.41948" />
     <g
        inkscape:export-ydpi="72.000000"
        inkscape:export-xdpi="72.000000"
        inkscape:export-filename="/home/duffy/Desktop/gnome_logo_horiz.png"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
-       transform="matrix(0.51519315,0,0,0.53155231,-886.16789,257.15198)"
+       transform="matrix(0.51519315,0,0,0.53155231,-853.56949,218.57147)"
        id="g3384">
       <g
          id="g3386"
@@ -131,15 +450,15 @@
       </g>
     </g>
     <rect
-       y="199.99998"
-       x="-660.83337"
+       y="161.41948"
+       x="-628.23499"
        height="177.16536"
        width="318.89764"
        id="rect4709"
        style="opacity:1;fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g4711"
-       transform="matrix(0.51519315,0,0,0.53155231,-526.16789,257.15198)"
+       transform="matrix(0.51519315,0,0,0.53155231,-493.56949,218.57147)"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
        inkscape:export-filename="/home/duffy/Desktop/gnome_logo_horiz.png"
        inkscape:export-xdpi="72.000000"
@@ -179,11 +498,11 @@
        id="rect4743"
        width="318.89764"
        height="177.16536"
-       x="-1020.8334"
-       y="0.49958801" />
+       x="-988.23499"
+       y="-38.080917" />
     <g
        id="g4745"
-       transform="matrix(0.22912449,0,0,0.23640014,-721.28114,615.27838)"
+       transform="matrix(0.22912449,0,0,0.23640014,-688.68274,576.69787)"
        style="fill:#888a85;fill-opacity:1">
       <g
          id="g4747"
@@ -259,46 +578,46 @@
     </g>
     <text
        id="text4779"
-       y="113.87834"
-       x="-998.36499"
+       y="75.590729"
+       x="-965.7666"
        style="font-style:normal;font-weight:bold;font-size:13.75px;font-family:'Bitstream Vera Sans';fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#4a90d9;fill-opacity:1"
-         y="113.87834"
-         x="-998.36499"
+         y="75.590729"
+         x="-965.7666"
          id="tspan4781"
          sodipodi:role="line">Engagement Team</tspan></text>
     <text
        sodipodi:linespacing="140%"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-998.36499"
-       y="132.58545"
+       x="-965.7666"
+       y="93.297836"
        id="text4783"><tspan
          sodipodi:role="line"
          id="tspan4785"
-         x="-998.36499"
-         y="132.58545"
+         x="-965.7666"
+         y="93.297836"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1">www.wiki.gnome.org/Engagement/</tspan><tspan
          id="tspan4787"
          sodipodi:role="line"
-         x="-998.36499"
-         y="144.83545"
+         x="-965.7666"
+         y="105.54784"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1">engagement-list@gnome.org</tspan><tspan
          id="tspan4789"
          sodipodi:role="line"
-         x="-998.36499"
-         y="157.08545"
+         x="-965.7666"
+         y="117.79784"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1">#engagement on irc.gnome.org</tspan></text>
     <rect
-       y="0.49958801"
-       x="-660.83337"
+       y="-38.080917"
+       x="-628.23499"
        height="177.16536"
        width="318.89764"
        id="rect4799"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="matrix(0.22912449,0,0,0.23640014,-361.67416,615.27838)"
+       transform="matrix(0.22912449,0,0,0.23640014,-329.07576,576.69787)"
        id="g4801"
        style="fill:#888a85;fill-opacity:1">
       <g
@@ -376,248 +695,88 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:bold;font-size:13.75px;font-family:'Bitstream Vera Sans';fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-638.36499"
-       y="127.66459"
+       x="-605.7666"
+       y="88.376976"
        id="text4835"><tspan
          sodipodi:role="line"
          id="tspan4837"
-         x="-638.36499"
-         y="127.66459"
+         x="-605.7666"
+         y="88.376976"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#4a90d9;fill-opacity:1">GNOME Foundation</tspan></text>
     <text
        id="text4839"
-       y="144.3717"
-       x="-638.36499"
+       y="105.08408"
+       x="-605.7666"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        sodipodi:linespacing="140%"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1"
-         y="144.3717"
-         x="-638.36499"
+         y="105.08408"
+         x="-605.7666"
          sodipodi:role="line"
          id="tspan4845">www.gnome.org/foundation/</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1"
-         y="156.6217"
-         x="-638.36499"
+         y="117.33408"
+         x="-605.7666"
          sodipodi:role="line"
          id="tspan4860">board@gnome.org</tspan></text>
     <rect
-       y="620"
-       x="-1020.8334"
-       height="177.16536"
-       width="318.89764"
-       id="rect5001"
-       style="opacity:1;fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       id="g5003"
-       transform="matrix(0.51519315,0,0,0.53155231,-886.16789,677.15198)"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
-       inkscape:export-filename="/home/duffy/Desktop/gnome_logo_horiz.png"
-       inkscape:export-xdpi="72.000000"
-       inkscape:export-ydpi="72.000000">
-      <g
-         style="fill:#ffffff;fill-opacity:1"
-         id="g5005">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1"
-           d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
-           id="path5007" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1"
-           d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
-           id="path5009" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1"
-           d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
-           id="path5011" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1"
-           d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
-           id="path5013" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1"
-           id="path5015"
-           d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z" />
-      </g>
-    </g>
-    <rect
        style="opacity:1;fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5017"
+       id="rect5134"
        width="318.89764"
        height="177.16536"
-       x="-660.83337"
-       y="620" />
+       x="-988.23499"
+       y="593.41949" />
     <g
        inkscape:export-ydpi="72.000000"
        inkscape:export-xdpi="72.000000"
        inkscape:export-filename="/home/duffy/Desktop/gnome_logo_horiz.png"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
-       transform="matrix(0.51519315,0,0,0.53155231,-526.16789,677.15198)"
-       id="g5019">
+       transform="matrix(0.51519315,0,0,0.53155231,-853.56949,650.57147)"
+       id="g5136">
       <g
-         id="g5021"
+         id="g5138"
          style="fill:#ffffff;fill-opacity:1">
         <path
-           id="path5023"
+           id="path5140"
            d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
            style="fill:#ffffff;fill-opacity:1"
            inkscape:connector-curvature="0" />
         <path
-           id="path5025"
+           id="path5142"
            d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
            style="fill:#ffffff;fill-opacity:1"
            inkscape:connector-curvature="0" />
         <path
-           id="path5027"
+           id="path5144"
            d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
            style="fill:#ffffff;fill-opacity:1"
            inkscape:connector-curvature="0" />
         <path
-           id="path5029"
+           id="path5146"
            d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
            style="fill:#ffffff;fill-opacity:1"
            inkscape:connector-curvature="0" />
         <path
            d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z"
-           id="path5031"
+           id="path5148"
            style="fill:#ffffff;fill-opacity:1"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <rect
-       y="420.49957"
-       x="-1020.8334"
-       height="177.16536"
-       width="318.89764"
-       id="rect5033"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       style="fill:#888a85;fill-opacity:1"
-       transform="matrix(0.22912449,0,0,0.23640014,-721.28114,1035.2784)"
-       id="g5035">
-      <g
-         inkscape:export-ydpi="72.000000"
-         inkscape:export-xdpi="72.000000"
-         inkscape:export-filename="/home/duffy/Desktop/gnome_logo_horiz.png"
-         style="fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
-         transform="matrix(0.95129,0,0,0.95129,-319.7124,-2517.86)"
-         id="g5037">
-        <g
-           id="g5039"
-           style="fill:#888a85;fill-opacity:1">
-          <path
-             id="path5041"
-             d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
-             style="fill:#888a85;fill-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path5043"
-             d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
-             style="fill:#888a85;fill-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path5045"
-             d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
-             style="fill:#888a85;fill-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path5047"
-             d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
-             style="fill:#888a85;fill-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z"
-             id="path5049"
-             style="fill:#888a85;fill-opacity:1"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-      <g
-         id="g5051"
-         style="fill:#888a85;fill-opacity:1"
-         transform="matrix(0.390099,0,0,0.390099,-1747.456,-2952.216)">
-        <path
-           id="path5053"
-           d="m 4176.2963,1214.4401 c -15.1078,0.4069 -27.0386,5.8367 -35.8126,16.25 -9.0861,10.8369 -13.6562,25.8104 -13.6562,44.9063 0,19.0432 4.5703,33.9757 13.6562,44.8124 9.1305,10.8369 21.6664,16.25 37.6563,16.25 16.034,0 28.6014,-5.4131 37.6875,-16.25 9.0859,-10.8367 13.6251,-25.7692 13.625,-44.8124 -1e-4,-19.0959 -4.5391,-34.0694 -13.625,-44.9063 -9.0861,-10.8366 -21.6536,-16.2499 -37.6875,-16.25 -0.6246,0 -1.2296,-0.016 -1.8437,0 z m 1.125,22 c 0.2415,-0.01 0.4737,0 0.7187,0 7.8833,10e-5 13.9919,3.4114 18.3125,10.25 4.3203,6.8388 6.4999,16.4913 6.5,28.9063 0,12.3623 -2.1799,21.9427 -6.5,28.7812 -4.3204,6.8389 -10.4293,10.2812 -18.3125,10.2812 -7.8391,0 -13.8983,-3.4423 -18.2187,-10.2812 -4.3204,-6.8385 -6.4999,-16.4189 -6.5,-28.7812 0,-12.4149 2.1798,-22.0675 6.5,-28.9063 4.1852,-6.6249 10.0123,-10.0428 17.5,-10.25 z"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="cscsssccccsssszccccc"
-           id="path5055"
-           d="m 4005.6293,1325.612 c -13.3076,11.1757 -33.1067,11.0472 -41.3549,11.0472 -16.6133,0 -29.7747,-5.471 -39.4842,-16.413 -9.7097,-10.9946 -14.5644,-25.8819 -14.5644,-44.6622 0,-18.9906 4.9438,-33.9305 14.8316,-44.82 9.8878,-10.8892 23.4277,-16.3339 40.62,-16.334 6.6363,10e-5 12.9831,0.7366 19.0406,2.2094 6.1019,1.473 11.8475,3.6562 17.2368,6.5494 l -6.921,20.4608 c -3.0298,-1.6586 -6.4987,-3.2932 -9.7145,-4.4424 -5.4784,-1.8411 -10.979,-2.7617 -16.5018,-2.7618 -10.2442,10e-5 -18.15,3.3932 -23.7173,10.1792 -5.523,6.7336 -8.2844,16.3867 -8.2844,28.9594 0,12.4676 2.6723,22.0945 8.0172,28.8806 5.3446,6.7861 13.3768,10.1791 22.7818,10.1791 9.5548,0 15.4728,-2.4084 18.6291,-4.9461 l 0,-20.3835 -20.7001,0 0,-20.3584 40.0855,0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="ccccccccccc"
-           id="path5057"
-           d="m 4023.2108,1216.5605 16.2279,0 51.2775,70.8022 0,-70.8022 21.8853,0 0,117.8103 -16.2279,0 -51.2774,-70.8022 0,70.8022 -21.8854,0 0,-117.8103"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="cccccccccccccc"
-           id="path5059"
-           d="m 4246.3361,1216.5605 32.7366,0 22.7151,73.5479 22.8487,-73.5479 27.6698,0 12.5,117.8103 -24.3186,0 -7.5,-73.668 -22.9823,74.0213 -16.3015,0 -22.9824,-76.5213 -7.5,76.168 -24.3854,0 12.5,-117.8103"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="ccccccccccccc"
-           id="path5061"
-           d="m 4382.3597,1216.5605 69.4147,0 0,22.9624 -43.6933,0 0,24.4365 33.5877,0 0,20.4623 -33.5877,0 0,26.9868 45.1631,0 0,22.9623 -70.8845,0 0,-117.8103"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-998.36499"
-       y="531.87836"
-       id="text5063"><tspan
-         sodipodi:role="line"
-         id="tspan5065"
-         x="-998.36499"
-         y="531.87836"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#4a90d9;fill-opacity:1">Engagement Team</tspan></text>
-    <text
-       id="text5067"
-       y="552.58545"
-       x="-998.36499"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       sodipodi:linespacing="140%"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#888a85;fill-opacity:1"
-         y="552.58545"
-         x="-998.36499"
-         id="tspan5069"
-         sodipodi:role="line">www.wiki.gnome.org/Engagement/</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#888a85;fill-opacity:1"
-         y="564.83545"
-         x="-998.36499"
-         sodipodi:role="line"
-         id="tspan5071">engagement-list@gnome.org</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#888a85;fill-opacity:1"
-         y="577.08545"
-         x="-998.36499"
-         sodipodi:role="line"
-         id="tspan5073">#engagement on irc.gnome.org</tspan></text>
-    <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5075"
+       id="rect5150"
        width="318.89764"
        height="177.16536"
-       x="-660.83337"
-       y="420.49957" />
+       x="-988.23499"
+       y="393.91907" />
     <g
        style="fill:#888a85;fill-opacity:1"
-       id="g5077"
-       transform="matrix(0.22912449,0,0,0.23640014,-361.67416,1035.2784)">
+       id="g5152"
+       transform="matrix(0.22912449,0,0,0.23640014,-689.07576,1008.6979)">
       <g
-         id="g5079"
+         id="g5154"
          transform="matrix(0.95129,0,0,0.95129,-319.7124,-2517.86)"
          style="fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
          inkscape:export-filename="/home/duffy/Desktop/gnome_logo_horiz.png"
@@ -625,96 +784,284 @@
          inkscape:export-ydpi="72.000000">
         <g
            style="fill:#888a85;fill-opacity:1"
-           id="g5081">
+           id="g5156">
           <path
              inkscape:connector-curvature="0"
              style="fill:#888a85;fill-opacity:1"
              d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
-             id="path5083" />
+             id="path5158" />
           <path
              inkscape:connector-curvature="0"
              style="fill:#888a85;fill-opacity:1"
              d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
-             id="path5085" />
+             id="path5160" />
           <path
              inkscape:connector-curvature="0"
              style="fill:#888a85;fill-opacity:1"
              d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
-             id="path5087" />
+             id="path5162" />
           <path
              inkscape:connector-curvature="0"
              style="fill:#888a85;fill-opacity:1"
              d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
-             id="path5089" />
+             id="path5164" />
           <path
              inkscape:connector-curvature="0"
              style="fill:#888a85;fill-opacity:1"
-             id="path5091"
+             id="path5166"
              d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z" />
         </g>
       </g>
       <g
          transform="matrix(0.390099,0,0,0.390099,-1747.456,-2952.216)"
          style="fill:#888a85;fill-opacity:1"
-         id="g5093">
+         id="g5168">
         <path
            inkscape:connector-curvature="0"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 4176.2963,1214.4401 c -15.1078,0.4069 -27.0386,5.8367 -35.8126,16.25 -9.0861,10.8369 -13.6562,25.8104 -13.6562,44.9063 0,19.0432 4.5703,33.9757 13.6562,44.8124 9.1305,10.8369 21.6664,16.25 37.6563,16.25 16.034,0 28.6014,-5.4131 37.6875,-16.25 9.0859,-10.8367 13.6251,-25.7692 13.625,-44.8124 -1e-4,-19.0959 -4.5391,-34.0694 -13.625,-44.9063 -9.0861,-10.8366 -21.6536,-16.2499 -37.6875,-16.25 -0.6246,0 -1.2296,-0.016 -1.8437,0 z m 1.125,22 c 0.2415,-0.01 0.4737,0 0.7187,0 7.8833,10e-5 13.9919,3.4114 18.3125,10.25 4.3203,6.8388 6.4999,16.4913 6.5,28.9063 0,12.3623 -2.1799,21.9427 -6.5,28.7812 -4.3204,6.8389 -10.4293,10.2812 -18.3125,10.2812 -7.8391,0 -13.8983,-3.4423 -18.2187,-10.2812 -4.3204,-6.8385 -6.4999,-16.4189 -6.5,-28.7812 0,-12.4149 2.1798,-22.0675 6.5,-28.9063 4.1852,-6.6249 10.0123,-10.0428 17.5,-10.25 z"
-           id="path5095" />
+           id="path5170" />
         <path
            inkscape:connector-curvature="0"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 4005.6293,1325.612 c -13.3076,11.1757 -33.1067,11.0472 -41.3549,11.0472 -16.6133,0 -29.7747,-5.471 -39.4842,-16.413 -9.7097,-10.9946 -14.5644,-25.8819 -14.5644,-44.6622 0,-18.9906 4.9438,-33.9305 14.8316,-44.82 9.8878,-10.8892 23.4277,-16.3339 40.62,-16.334 6.6363,10e-5 12.9831,0.7366 19.0406,2.2094 6.1019,1.473 11.8475,3.6562 17.2368,6.5494 l -6.921,20.4608 c -3.0298,-1.6586 -6.4987,-3.2932 -9.7145,-4.4424 -5.4784,-1.8411 -10.979,-2.7617 -16.5018,-2.7618 -10.2442,10e-5 -18.15,3.3932 -23.7173,10.1792 -5.523,6.7336 -8.2844,16.3867 -8.2844,28.9594 0,12.4676 2.6723,22.0945 8.0172,28.8806 5.3446,6.7861 13.3768,10.1791 22.7818,10.1791 9.5548,0 15.4728,-2.4084 18.6291,-4.9461 l 0,-20.3835 -20.7001,0 0,-20.3584 40.0855,0"
-           id="path5097"
+           id="path5172"
            sodipodi:nodetypes="cscsssccccsssszccccc" />
         <path
            inkscape:connector-curvature="0"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 4023.2108,1216.5605 16.2279,0 51.2775,70.8022 0,-70.8022 21.8853,0 0,117.8103 -16.2279,0 -51.2774,-70.8022 0,70.8022 -21.8854,0 0,-117.8103"
-           id="path5099"
+           id="path5174"
            sodipodi:nodetypes="ccccccccccc" />
         <path
            inkscape:connector-curvature="0"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 4246.3361,1216.5605 32.7366,0 22.7151,73.5479 22.8487,-73.5479 27.6698,0 12.5,117.8103 -24.3186,0 -7.5,-73.668 -22.9823,74.0213 -16.3015,0 -22.9824,-76.5213 -7.5,76.168 -24.3854,0 12.5,-117.8103"
-           id="path5101"
+           id="path5176"
            sodipodi:nodetypes="cccccccccccccc" />
         <path
            inkscape:connector-curvature="0"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 4382.3597,1216.5605 69.4147,0 0,22.9624 -43.6933,0 0,24.4365 33.5877,0 0,20.4623 -33.5877,0 0,26.9868 45.1631,0 0,22.9623 -70.8845,0 0,-117.8103"
-           id="path5103"
+           id="path5178"
            sodipodi:nodetypes="ccccccccccccc" />
       </g>
     </g>
     <text
-       id="text5105"
-       y="543.66455"
-       x="-638.36499"
-       style="font-style:normal;font-weight:bold;font-size:17.5px;font-family:'Bitstream Vera Sans';fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text5180"
+       y="481.08405"
+       x="-965.7666"
+       style="font-style:normal;font-weight:bold;font-size:13.75px;font-family:'Bitstream Vera Sans';fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#4a90d9;fill-opacity:1"
-         y="543.66455"
-         x="-638.36499"
-         id="tspan5107"
-         sodipodi:role="line">GNOME Foundation</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#4a90d9;fill-opacity:1"
+         y="481.08405"
+         x="-965.7666"
+         id="tspan5182"
+         sodipodi:role="line">Angela Avery</tspan></text>
     <text
        sodipodi:linespacing="140%"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-638.36499"
-       y="562.3717"
-       id="text5109"><tspan
-         id="tspan5111"
+       x="-965.7666"
+       y="493.7912"
+       id="text5184"><tspan
+         id="tspan5188"
          sodipodi:role="line"
-         x="-638.36499"
-         y="562.3717"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#888a85;fill-opacity:1">www.gnome.org/foundation/</tspan><tspan
-         id="tspan5113"
+         x="-965.7666"
+         y="493.7912"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1">angela@gnome.org</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:8.75px;font-family:'Bitstream Vera Sans';fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-965.7666"
+       y="513.29785"
+       id="text5190"><tspan
          sodipodi:role="line"
-         x="-638.36499"
-         y="574.6217"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#888a85;fill-opacity:1">board@gnome.org</tspan></text>
+         id="tspan5192"
+         x="-965.7666"
+         y="513.29785"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#888a85;fill-opacity:1">Engagement Team</tspan></text>
+    <text
+       id="text5194"
+       y="526.00494"
+       x="-965.7666"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       sodipodi:linespacing="140%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1"
+         y="526.00494"
+         x="-965.7666"
+         id="tspan5196"
+         sodipodi:role="line">www.wiki.gnome.org/Engagement/</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1"
+         y="538.25494"
+         x="-965.7666"
+         sodipodi:role="line"
+         id="tspan5198">engagement-list@gnome.org</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1"
+         y="550.50494"
+         x="-965.7666"
+         sodipodi:role="line"
+         id="tspan5200">#engagement on irc.gnome.org</tspan></text>
+    <rect
+       y="593.41949"
+       x="-628.23499"
+       height="177.16536"
+       width="318.89764"
+       id="rect5204"
+       style="opacity:1;fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g5206"
+       transform="matrix(0.51519315,0,0,0.53155231,-493.56949,650.57147)"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
+       inkscape:export-filename="/home/duffy/Desktop/gnome_logo_horiz.png"
+       inkscape:export-xdpi="72.000000"
+       inkscape:export-ydpi="72.000000">
+      <g
+         style="fill:#ffffff;fill-opacity:1"
+         id="g5208">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1"
+           d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
+           id="path5210" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1"
+           d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
+           id="path5212" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1"
+           d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
+           id="path5214" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1"
+           d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
+           id="path5216" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1"
+           id="path5218"
+           d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z" />
+      </g>
+    </g>
+    <rect
+       y="393.91907"
+       x="-628.23499"
+       height="177.16536"
+       width="318.89764"
+       id="rect5277"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="matrix(0.22912449,0,0,0.23640014,-329.07576,1008.6979)"
+       id="g5279"
+       style="fill:#888a85;fill-opacity:1">
+      <g
+         inkscape:export-ydpi="72.000000"
+         inkscape:export-xdpi="72.000000"
+         inkscape:export-filename="/home/duffy/Desktop/gnome_logo_horiz.png"
+         style="fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
+         transform="matrix(0.95129,0,0,0.95129,-319.7124,-2517.86)"
+         id="g5281">
+        <g
+           id="g5283"
+           style="fill:#888a85;fill-opacity:1">
+          <path
+             id="path5285"
+             d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
+             style="fill:#888a85;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path5287"
+             d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
+             style="fill:#888a85;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path5289"
+             d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
+             style="fill:#888a85;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path5291"
+             d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
+             style="fill:#888a85;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z"
+             id="path5293"
+             style="fill:#888a85;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g5295"
+         style="fill:#888a85;fill-opacity:1"
+         transform="matrix(0.390099,0,0,0.390099,-1747.456,-2952.216)">
+        <path
+           id="path5297"
+           d="m 4176.2963,1214.4401 c -15.1078,0.4069 -27.0386,5.8367 -35.8126,16.25 -9.0861,10.8369 -13.6562,25.8104 -13.6562,44.9063 0,19.0432 4.5703,33.9757 13.6562,44.8124 9.1305,10.8369 21.6664,16.25 37.6563,16.25 16.034,0 28.6014,-5.4131 37.6875,-16.25 9.0859,-10.8367 13.6251,-25.7692 13.625,-44.8124 -1e-4,-19.0959 -4.5391,-34.0694 -13.625,-44.9063 -9.0861,-10.8366 -21.6536,-16.2499 -37.6875,-16.25 -0.6246,0 -1.2296,-0.016 -1.8437,0 z m 1.125,22 c 0.2415,-0.01 0.4737,0 0.7187,0 7.8833,10e-5 13.9919,3.4114 18.3125,10.25 4.3203,6.8388 6.4999,16.4913 6.5,28.9063 0,12.3623 -2.1799,21.9427 -6.5,28.7812 -4.3204,6.8389 -10.4293,10.2812 -18.3125,10.2812 -7.8391,0 -13.8983,-3.4423 -18.2187,-10.2812 -4.3204,-6.8385 -6.4999,-16.4189 -6.5,-28.7812 0,-12.4149 2.1798,-22.0675 6.5,-28.9063 4.1852,-6.6249 10.0123,-10.0428 17.5,-10.25 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cscsssccccsssszccccc"
+           id="path5299"
+           d="m 4005.6293,1325.612 c -13.3076,11.1757 -33.1067,11.0472 -41.3549,11.0472 -16.6133,0 -29.7747,-5.471 -39.4842,-16.413 -9.7097,-10.9946 -14.5644,-25.8819 -14.5644,-44.6622 0,-18.9906 4.9438,-33.9305 14.8316,-44.82 9.8878,-10.8892 23.4277,-16.3339 40.62,-16.334 6.6363,10e-5 12.9831,0.7366 19.0406,2.2094 6.1019,1.473 11.8475,3.6562 17.2368,6.5494 l -6.921,20.4608 c -3.0298,-1.6586 -6.4987,-3.2932 -9.7145,-4.4424 -5.4784,-1.8411 -10.979,-2.7617 -16.5018,-2.7618 -10.2442,10e-5 -18.15,3.3932 -23.7173,10.1792 -5.523,6.7336 -8.2844,16.3867 -8.2844,28.9594 0,12.4676 2.6723,22.0945 8.0172,28.8806 5.3446,6.7861 13.3768,10.1791 22.7818,10.1791 9.5548,0 15.4728,-2.4084 18.6291,-4.9461 l 0,-20.3835 -20.7001,0 0,-20.3584 40.0855,0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccccccccccc"
+           id="path5301"
+           d="m 4023.2108,1216.5605 16.2279,0 51.2775,70.8022 0,-70.8022 21.8853,0 0,117.8103 -16.2279,0 -51.2774,-70.8022 0,70.8022 -21.8854,0 0,-117.8103"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cccccccccccccc"
+           id="path5303"
+           d="m 4246.3361,1216.5605 32.7366,0 22.7151,73.5479 22.8487,-73.5479 27.6698,0 12.5,117.8103 -24.3186,0 -7.5,-73.668 -22.9823,74.0213 -16.3015,0 -22.9824,-76.5213 -7.5,76.168 -24.3854,0 12.5,-117.8103"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccccccccccccc"
+           id="path5305"
+           d="m 4382.3597,1216.5605 69.4147,0 0,22.9624 -43.6933,0 0,24.4365 33.5877,0 0,20.4623 -33.5877,0 0,26.9868 45.1631,0 0,22.9623 -70.8845,0 0,-117.8103"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:13.75px;font-family:'Bitstream Vera Sans';fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-605.7666"
+       y="507.29785"
+       id="text5307"><tspan
+         sodipodi:role="line"
+         id="tspan5309"
+         x="-605.7666"
+         y="507.29785"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#4a90d9;fill-opacity:1">Angela Avery</tspan></text>
+    <text
+       id="text5311"
+       y="526.00494"
+       x="-605.7666"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       sodipodi:linespacing="140%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1"
+         y="526.00494"
+         x="-605.7666"
+         sodipodi:role="line"
+         id="tspan5327">GNOME Foundation Executive Director</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1"
+         y="538.25494"
+         x="-605.7666"
+         sodipodi:role="line"
+         id="tspan5331">www.gnome.org/foundation</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:139.99999762%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#888a85;fill-opacity:1"
+         y="550.50494"
+         x="-605.7666"
+         sodipodi:role="line"
+         id="tspan5333">angela@gnome.org</tspan></text>
   </g>
 </svg>
