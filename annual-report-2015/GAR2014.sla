@@ -151,7 +151,7 @@
         <COLOR NAME="tango_purple" RGB="#75507b" Spot="0" Register="0"/>
         <COLOR NAME="undef" RGB="#966432" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="timeline body" LINESP="12" FONTSIZE="9" LANGUAGE="Spanish"/>
         <STYLE NAME="timeline header" LINESP="12" FONT="Source Sans Pro Bold" FONTSIZE="9" LANGUAGE="Spanish"/>
         <STYLE NAME="regular body text" LINESP="15" LANGUAGE="Spanish"/>
@@ -167,7 +167,7 @@
         <STYLE NAME="GNOME Footer" ALIGN="0" LINESP="11" INDENT="16.34173228" FIRST="-16.33889764" NACH="1" FONT="Source Sans Pro Regular" FONTSIZE="8" LANGUAGE="English">
             <Tabs Type="0" Pos="16" Fill=""/>
         </STYLE>
-        <CHARSTYLE CNAME="Default Character Style" FONT="Source Sans Pro Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Spanish"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Source Sans Pro Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Spanish"/>
         <CHARSTYLE CNAME="Copy of Default Character Style (1)" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Copy of Default Character Style (2)" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Copy of Default Character Style (3)" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
@@ -4875,11 +4875,12 @@
             <breakline/>
             <ITEXT CH="Therefore, the GNOME Foundation's directors formulated a series of actions:"/>
             <breakline/>
-            <ITEXT CH="• Ran a successful media campaign to defend our trademark (more details on page $PAGE)."/>
+            <ITEXT CH="• Ran a successful media campaign to defend our trademark (more details on page 10)."/>
             <breakline/>
             <ITEXT CH="• Instigated a temporary spending freeze to stabilize our finances."/>
             <breakline/>
-            <ITEXT CH="• Collected every single outstanding invoice from companies participating in the Outreach Program for Women (OPW)."/>
+            <ITEXT CH="• "/>
+            <ITEXT KERN="-2" CH="Collected every single outstanding invoice from companies participating in the Outreach Program for Women (OPW)."/>
             <breakline/>
             <ITEXT CH="• Worked with the OPW team to transition the program to the Software Freedom Conservancy, under the new name, &quot;Outreachy&quot;. GNOME remains a strong partner of the new program, providing critical infrastructure."/>
             <para PARENT="GNOME Bread" ALIGN="0"/>
@@ -6024,7 +6025,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="9" PTYPE="2" XPOS="751.973543307087" YPOS="4484.5" WIDTH="481.889763779525" HEIGHT="702.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.523696096825787" LOCALSCY="0.523696096825787" LOCALX="-1037.33540736647" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="nohjr.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 481.89 0 481.89 0 481.89 0 481.89 0 481.89 702.5 481.89 702.5 481.89 702.5 481.89 702.5 0 702.5 0 702.5 0 702.5 0 702.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 481.89 0 481.89 0 481.89 0 481.89 0 481.89 702.5 481.89 702.5 481.89 702.5 481.89 702.5 0 702.5 0 702.5 0 702.5 0 702.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="10" PTYPE="2" XPOS="751.973543307087" YPOS="4484.5" WIDTH="481.889763779525" HEIGHT="702.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.523696096825787" LOCALSCY="0.523696096825787" LOCALX="-1037.33540736647" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="nohjr.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 481.89 0 481.89 0 481.89 0 481.89 0 481.89 702.5 481.89 702.5 481.89 702.5 481.89 702.5 0 702.5 0 702.5 0 702.5 0 702.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 481.89 0 481.89 0 481.89 0 481.89 0 481.89 702.5 481.89 702.5 481.89 702.5 481.89 702.5 0 702.5 0 702.5 0 702.5 0 702.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
