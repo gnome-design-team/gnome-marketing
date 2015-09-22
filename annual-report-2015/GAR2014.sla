@@ -570,7 +570,7 @@
             <para PARENT="GNOME Bread"/>
             <ITEXT CH="Others Conferences"/>
             <para PARENT="GNOME Header 4"/>
-            <ITEXT CH="In addition to these GNOME-specific conferences, GNOME sent representatives and staffed a booth at Fosdem, JDLL, and FSCONS. We also sent representatives to SXSW, DebConf14, and FOSSASIA. We aim to increase exposure to GNOME and both hosting and attending more conferences is one way to reach that goal."/>
+            <ITEXT CH="In addition to these GNOME-specific conferences, GNOME sent representatives and staffed a booth at FOSDEM, JDLL, and FSCONS. We also sent representatives to SXSW, DebConf14, and FOSSASIA. We aim to increase exposure to GNOME and both hosting and attending more conferences is one way to reach that goal."/>
             <trail PARENT="GNOME Bread"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
