@@ -1785,8 +1785,8 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="19" PTYPE="4" XPOS="156.697952755906" YPOS="8994.80338582677" WIDTH="480.802047244095" HEIGHT="600.944881889764" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="3" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="15" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Abyssinica SIL Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 480.802 0 480.802 0 480.802 0 480.802 0 480.802 600.945 480.802 600.945 480.802 600.945 480.802 600.945 0 600.945 0 600.945 0 600.945 0 600.945 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 480.802 0 480.802 0 480.802 0 480.802 0 480.802 600.945 480.802 600.945 480.802 600.945 480.802 600.945 0 600.945 0 600.945 0 600.945 0 600.945 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="322" BACKITEM="-1">
-            <ITEXT FONT="Abyssinica SIL Regular" FONTSIZE="9" CH="Adopt a Hacker - Annual"/>
-            <para LINESP="15"/>
+            <ITEXT CH="Adopt a Hacker - Annual"/>
+            <para PARENT="GNOME Header 4"/>
             <ITEXT CH="Albert Gasset Romo"/>
             <breakline/>
             <ITEXT CH="Bertrand Lorentz"/>
@@ -1809,7 +1809,7 @@
             <para/>
             <para/>
             <ITEXT CH="Adopt a Hacker - Monthly"/>
-            <para/>
+            <para PARENT="GNOME Header 4"/>
             <ITEXT CH="Aaron Honeycutt"/>
             <para/>
             <ITEXT CH="Alan Morgan"/>
@@ -2039,15 +2039,15 @@
             <ITEXT CH="Zwahlen Joël"/>
             <para/>
             <para/>
-            <ITEXT FONT="Abyssinica SIL Regular" CH="Philanthropist"/>
-            <para/>
+            <ITEXT CH="Philanthropist"/>
+            <para PARENT="GNOME Header 4"/>
             <ITEXT CH="Edward Swartz"/>
             <para/>
             <ITEXT CH="Neil Morris"/>
             <para/>
             <para/>
             <ITEXT CH="Sponsor"/>
-            <para/>
+            <para PARENT="GNOME Header 4"/>
             <ITEXT CH="Brad Geesaman"/>
             <para/>
             <ITEXT CH="Casey Harkins"/>
@@ -2074,7 +2074,7 @@
             <para/>
             <para/>
             <ITEXT CH="Associate"/>
-            <para/>
+            <para PARENT="GNOME Header 4"/>
             <ITEXT CH="Albert Kirsch"/>
             <para/>
             <ITEXT CH="Albert Vernon"/>
@@ -2337,7 +2337,9 @@
             <para/>
             <ITEXT CH="Matthew Herbert"/>
             <para/>
-            <ITEXT CH="Michał Bartoszkiewicz"/>
+            <ITEXT CH="Micha"/>
+            <ITEXT FONT="Liberation Serif Regular" CH="ł"/>
+            <ITEXT CH=" Bartoszkiewicz"/>
             <para/>
             <ITEXT CH="Michael Kers"/>
             <para/>
@@ -4412,7 +4414,7 @@
         <PAGEOBJECT OwnPage="17" PTYPE="4" XPOS="412.80818898126" YPOS="8377.02773722606" WIDTH="224.72" HEIGHT="350.972262810317" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 224.72 0 224.72 0 224.72 0 224.72 0 224.72 350.972 224.72 350.972 224.72 350.972 224.72 350.972 0 350.972 0 350.972 0 350.972 0 350.972 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 224.72 0 224.72 0 224.72 0 224.72 0 224.72 350.971 224.72 350.971 224.72 350.971 224.72 350.971 0 350.971 0 350.971 0 350.971 0 350.971 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="257.000000000709" gYpos="1.02773722606071" gWidth="481.720000000709" gHeight="352.000000036378" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="732">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="21" PTYPE="4" XPOS="156.69795275126" YPOS="9777.59078740575" WIDTH="479.3020472" HEIGHT="700.6592126" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="3" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="15" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Abyssinica SIL Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 479.302 0 479.302 0 479.302 0 479.302 0 479.302 700.659 479.302 700.659 479.302 700.659 479.302 700.659 0 700.659 0 700.659 0 700.659 0 700.659 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 479.302 0 479.302 0 479.302 0 479.302 0 479.302 700.659 479.302 700.659 479.302 700.659 479.302 700.659 0 700.659 0 700.659 0 700.659 0 700.659 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="322">
+        <PAGEOBJECT OwnPage="21" PTYPE="4" XPOS="156.69795275126" YPOS="9777.59078740575" WIDTH="481.885354335354" HEIGHT="700.6592126" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="3" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="15" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Abyssinica SIL Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 481.885 0 481.885 0 481.885 0 481.885 0 481.885 700.659 481.885 700.659 481.885 700.659 481.885 700.659 0 700.659 0 700.659 0 700.659 0 700.659 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 481.885 0 481.885 0 481.885 0 481.885 0 481.885 700.659 481.885 700.659 481.885 700.659 481.885 700.659 0 700.659 0 700.659 0 700.659 0 700.659 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="322">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="833.43897642126" YPOS="1187.80464561968" WIDTH="284.5895669" HEIGHT="24.1953543803202" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.076346752" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 284.59 0 284.59 0 284.59 0 284.59 0 284.59 24.1954 284.59 24.1954 284.59 24.1954 284.59 24.1954 0 24.1954 0 24.1954 0 24.1954 0 24.1954 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 284.59 0 284.59 0 284.59 0 284.59 0 284.59 24.1954 284.59 24.1954 284.59 24.1954 284.59 24.1954 0 24.1954 0 24.1954 0 24.1954 0 24.1954 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -4608,7 +4610,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="833.43897642126" YPOS="1508.40307082362" WIDTH="284.5895669" HEIGHT="47.0969291763763" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.076346752" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 284.59 0 284.59 0 284.59 0 284.59 0 284.59 47.0969 284.59 47.0969 284.59 47.0969 284.59 47.0969 0 47.0969 0 47.0969 0 47.0969 0 47.0969 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 284.59 0 284.59 0 284.59 0 284.59 0 284.59 47.097 284.59 47.097 284.59 47.097 284.59 47.097 0 47.097 0 47.097 0 47.097 0 47.097 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="7" CH="Photos by Jeff Fortin, Chris Kühl, Garrett Lesage, Juanjo Marin,"/>
+            <ITEXT FONTSIZE="7" CH="Photos by J-F Fortin Tam, Chris Kühl, Garrett Lesage, Juanjo Marin,"/>
             <breakline/>
             <ITEXT FONTSIZE="7" CH=" Oliver Propst, Jakub Steiner, Marina Zhurakhinskaya"/>
             <breakline/>
