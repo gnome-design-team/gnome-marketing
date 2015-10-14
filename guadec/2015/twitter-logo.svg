@@ -13,7 +13,7 @@
    height="256"
    id="svg6691"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="twitter-logo.svg"
    inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/guadec/2015/twitter-logo.png"
    inkscape:export-xdpi="90"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="6.1707626"
-     inkscape:cy="125.6292"
+     inkscape:cx="257.10596"
+     inkscape:cy="186.04106"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -37,7 +37,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1">
@@ -54,8 +54,25 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -1323,7 +1340,7 @@
        sodipodi:cy="866.86218"
        sodipodi:rx="7.25"
        sodipodi:ry="7.25"
-       d="m 387,866.86218 c 0,4.00407 -3.24594,7.25 -7.25,7.25 -4.00406,0 -7.25,-3.24593 -7.25,-7.25 0,-4.00406 3.24594,-7.25 7.25,-7.25 4.00406,0 7.25,3.24594 7.25,7.25 z"
+       d="m 387,866.86218 a 7.25,7.25 0 0 1 -7.25,7.25 7.25,7.25 0 0 1 -7.25,-7.25 7.25,7.25 0 0 1 7.25,-7.25 7.25,7.25 0 0 1 7.25,7.25 z"
        transform="matrix(0.36855394,0,0,0.36855394,3.8335,-334.86805)" />
     <path
        sodipodi:type="arc"
@@ -1333,7 +1350,7 @@
        sodipodi:cy="866.86218"
        sodipodi:rx="7.25"
        sodipodi:ry="7.25"
-       d="m 387,866.86218 c 0,4.00407 -3.24594,7.25 -7.25,7.25 -4.00406,0 -7.25,-3.24593 -7.25,-7.25 0,-4.00406 3.24594,-7.25 7.25,-7.25 4.00406,0 7.25,3.24594 7.25,7.25 z"
+       d="m 387,866.86218 a 7.25,7.25 0 0 1 -7.25,7.25 7.25,7.25 0 0 1 -7.25,-7.25 7.25,7.25 0 0 1 7.25,-7.25 7.25,7.25 0 0 1 7.25,7.25 z"
        transform="matrix(0.36855394,0,0,0.36855394,11.20458,-334.86805)" />
     <path
        sodipodi:type="arc"
@@ -1343,7 +1360,7 @@
        sodipodi:cy="866.86218"
        sodipodi:rx="7.25"
        sodipodi:ry="7.25"
-       d="m 387,866.86218 c 0,4.00407 -3.24594,7.25 -7.25,7.25 -4.00406,0 -7.25,-3.24593 -7.25,-7.25 0,-4.00406 3.24594,-7.25 7.25,-7.25 4.00406,0 7.25,3.24594 7.25,7.25 z"
+       d="m 387,866.86218 a 7.25,7.25 0 0 1 -7.25,7.25 7.25,7.25 0 0 1 -7.25,-7.25 7.25,7.25 0 0 1 7.25,-7.25 7.25,7.25 0 0 1 7.25,7.25 z"
        transform="matrix(0.36855394,0,0,0.36855394,18.57566,-334.86805)" />
     <path
        sodipodi:type="arc"
@@ -1353,7 +1370,7 @@
        sodipodi:cy="866.86218"
        sodipodi:rx="7.25"
        sodipodi:ry="7.25"
-       d="m 387,866.86218 c 0,4.00407 -3.24594,7.25 -7.25,7.25 -4.00406,0 -7.25,-3.24593 -7.25,-7.25 0,-4.00406 3.24594,-7.25 7.25,-7.25 4.00406,0 7.25,3.24594 7.25,7.25 z"
+       d="m 387,866.86218 a 7.25,7.25 0 0 1 -7.25,7.25 7.25,7.25 0 0 1 -7.25,-7.25 7.25,7.25 0 0 1 7.25,-7.25 7.25,7.25 0 0 1 7.25,7.25 z"
        transform="matrix(0.36855394,0,0,0.36855394,25.94674,-334.86805)" />
     <path
        sodipodi:type="arc"
@@ -1363,7 +1380,7 @@
        sodipodi:cy="866.86218"
        sodipodi:rx="7.25"
        sodipodi:ry="7.25"
-       d="m 387,866.86218 c 0,4.00407 -3.24594,7.25 -7.25,7.25 -4.00406,0 -7.25,-3.24593 -7.25,-7.25 0,-4.00406 3.24594,-7.25 7.25,-7.25 4.00406,0 7.25,3.24594 7.25,7.25 z"
+       d="m 387,866.86218 a 7.25,7.25 0 0 1 -7.25,7.25 7.25,7.25 0 0 1 -7.25,-7.25 7.25,7.25 0 0 1 7.25,-7.25 7.25,7.25 0 0 1 7.25,7.25 z"
        transform="matrix(0.36855394,0,0,0.36855394,33.31781,-334.86805)" />
     <path
        sodipodi:type="arc"
@@ -1373,7 +1390,7 @@
        sodipodi:cy="866.86218"
        sodipodi:rx="7.25"
        sodipodi:ry="7.25"
-       d="m 387,866.86218 c 0,4.00407 -3.24594,7.25 -7.25,7.25 -4.00406,0 -7.25,-3.24593 -7.25,-7.25 0,-4.00406 3.24594,-7.25 7.25,-7.25 4.00406,0 7.25,3.24594 7.25,7.25 z"
+       d="m 387,866.86218 a 7.25,7.25 0 0 1 -7.25,7.25 7.25,7.25 0 0 1 -7.25,-7.25 7.25,7.25 0 0 1 7.25,-7.25 7.25,7.25 0 0 1 7.25,7.25 z"
        transform="matrix(0.36855394,0,0,0.36855394,40.68889,-334.86805)" />
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
