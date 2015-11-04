@@ -66,8 +66,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="731.79656"
-     inkscape:cy="601.97676"
+     inkscape:cx="-153.5781"
+     inkscape:cy="550.09251"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -97,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,16 +106,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect6476"
-       width="2662.8572"
-       height="1308.5715"
-       x="-951.42859"
-       y="-136.20924"
-       rx="5.5599098"
-       ry="5.5599098"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6426-9-2"
+       width="745.49255"
+       height="1052.5791"
+       x="1.2540283"
+       y="-1.2270174"
+       rx="1.5691299"
+       ry="1.5691299" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6426"
@@ -124,14 +122,10 @@
        x="-816.34265"
        y="1.8035361"
        rx="1.5691299"
-       ry="1.5691299"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       ry="1.5691299" />
     <g
        id="g7232"
-       transform="matrix(1.672937,0,0,1.672937,-1063.9281,8.6088407)"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       transform="matrix(1.672937,0,0,1.672937,-1063.9281,8.6088407)">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -232,9 +226,7 @@
     <g
        id="g7312"
        transform="matrix(0.76175044,0,0,0.76175044,-197.87485,111.99647)"
-       style="fill:#87a4b1;fill-opacity:1"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       style="fill:#87a4b1;fill-opacity:1">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -286,23 +278,19 @@
     </g>
     <image
        sodipodi:absref="/home/andreasn/Pictures/Screenshot from 2015-11-04 14-23-23.png"
-       xlink:href="/home/andreasn/Pictures/Screenshot from 2015-11-04 14-23-23.png"
-       width="221.87851"
-       height="91.256485"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image7407"
-       x="434.57278"
        y="435.94763"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       x="434.57278"
+       id="image7407"
+       xlink:href="file:///home/andreasn/Pictures/Screenshot%20from%202015-11-04%2014-23-23.png"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="91.256485"
+       width="221.87851" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7410"
        style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-20.705644,47.672132)"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
+       transform="translate(-20.705644,47.672132)"><flowRegion
          id="flowRegion7412"><rect
            id="rect7414"
            width="267.69043"
@@ -313,9 +301,7 @@
        xml:space="preserve"
        id="flowRoot7410-6"
        style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(332.1516,50.529274)"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
+       transform="translate(332.1516,50.529274)"><flowRegion
          id="flowRegion7412-2"><rect
            id="rect7414-4"
            width="267.69043"
@@ -328,9 +314,7 @@
        x="-642.71094"
        y="519.8407"
        id="text7228-7"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7230-0"
          x="-642.71094"
@@ -559,16 +543,12 @@
        x="2.0203052"
        y="1.8035361"
        rx="1.5691299"
-       ry="1.5691299"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       ry="1.5691299" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7680"
        style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.89537111,0,0,0.89537111,15.224948,151.24958)"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
+       transform="matrix(0.89537111,0,0,0.89537111,15.224948,151.24958)"><flowRegion
          id="flowRegion7682"><rect
            id="rect7684"
            width="354.96762"
@@ -596,9 +576,7 @@
        transform="translate(370.62235,100)"
        xml:space="preserve"
        id="flowRoot7680-8"
-       style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion7682-4"><rect
            id="rect7684-9"
            width="315.42297"
@@ -624,9 +602,7 @@
        x="325.26913"
        y="203.83405"
        id="text9188"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9190"
          x="325.26913"
@@ -639,21 +615,17 @@
        x="821.25403"
        y="-1.226994"
        rx="1.5691299"
-       ry="1.5691299"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       ry="1.5691299" />
     <image
        sodipodi:absref="/home/andreasn/Pictures/Screenshot from 2015-11-04 14-50-31.png"
-       xlink:href="/home/andreasn/Pictures/Screenshot from 2015-11-04 14-50-31.png"
-       width="620"
-       height="318"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image9269"
-       x="886.02063"
        y="713.55499"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       x="886.02063"
+       id="image9269"
+       xlink:href="file:///home/andreasn/Pictures/Screenshot%20from%202015-11-04%2014-50-31.png"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="318"
+       width="620" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect7678-9"
@@ -662,18 +634,14 @@
        x="822.96802"
        y="-1.5153166"
        rx="1.5691299"
-       ry="1.5691299"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       ry="1.5691299" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1039.1406"
        y="220.71823"
        id="text9188-4"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9190-1"
          x="1039.1406"
@@ -686,9 +654,7 @@
        x="1313.9021"
        y="-1.5153174"
        rx="1.5691299"
-       ry="1.5691299"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       ry="1.5691299" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect7678-9-6-9"
@@ -697,9 +663,7 @@
        x="1313.9021"
        y="218.48468"
        rx="1.5691299"
-       ry="1.5691298"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       ry="1.5691298" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect7678-9-6-9-0"
@@ -708,9 +672,7 @@
        x="1110.6498"
        y="384.60208"
        rx="1.5691299"
-       ry="1.5691298"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       ry="1.5691298" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect7678-9-6-5"
@@ -719,18 +681,14 @@
        x="820.2439"
        y="385.61224"
        rx="1.5691299"
-       ry="1.5691299"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       ry="1.5691299" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1414.1851"
        y="111.82523"
        id="text9188-4-8"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9190-1-5"
          x="1414.1851"
@@ -741,9 +699,7 @@
        x="1412.3678"
        y="297.88614"
        id="text9188-4-8-1"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9190-1-5-6"
          x="1412.3678"
@@ -754,9 +710,7 @@
        x="1309.1293"
        y="530.02838"
        id="text9188-4-8-1-5"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9190-1-5-6-1"
          x="1309.1293"
@@ -767,9 +721,7 @@
        x="931.33209"
        y="538.10956"
        id="text9188-4-8-1-5-2"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9190-1-5-6-1-2"
          x="931.33209"
