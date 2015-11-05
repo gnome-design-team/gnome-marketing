@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210.25555mm"
-   height="271.78mm"
-   viewBox="0 0 745 962.99999"
+   width="338.66666mm"
+   height="437.76645mm"
+   viewBox="0 0 1200 1551.141"
    id="svg4414"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cover.svg">
+   sodipodi:docname="cover.svg"
+   inkscape:export-filename="/home/aday/checkout/gnome-marketing/conference-brochure-2016/cover.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4416" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-88.214277"
-     inkscape:cy="741.49996"
+     inkscape:zoom="0.5"
+     inkscape:cx="541.8264"
+     inkscape:cy="595.36009"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +42,8 @@
      inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata4419">
     <rdf:RDF>
@@ -56,14 +60,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-881.78571,-1359.4336)">
+     transform="translate(-881.78577,-771.29279)">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6426"
-       width="745"
-       height="963"
-       x="881.78571"
-       y="1359.4336"
+       width="1200"
+       height="1551.141"
+       x="881.78577"
+       y="771.29279"
        rx="1.5691299"
        ry="1.5691299"
        inkscape:export-xdpi="90"
@@ -71,7 +75,7 @@
        inkscape:export-filename="/home/aday/checkout/gnome-marketing/conference-brochure-2016/cover.png" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#ecedea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1308.1859,2178.4111 0,71.2343 -71.2343,0 z"
+       d="m 1568.6049,2090.4512 0,114.7398 -114.7398,0 z"
        id="rect10004-8-31"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -80,7 +84,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1166.9294,2178.4111 0,71.2343 71.2343,0 z"
+       d="m 1341.0776,2090.4512 0,114.7398 114.7398,0 z"
        id="rect10004-0-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -89,7 +93,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#ecedea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1166.6684,2178.4111 0,71.2343 -71.234,0 z"
+       d="m 1340.6572,2090.4512 0,114.7398 -114.7393,0 z"
        id="rect10004-8-4-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -98,7 +102,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#ecedea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1166.6684,2249.3846 0,71.2341 -71.234,0 z"
+       d="m 1340.6572,2204.7709 0,114.7395 -114.7393,0 z"
        id="rect10004-8-8-9-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -107,7 +111,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1379.6813,2108.128 0,-71.2344 -71.2346,0 z"
+       d="m 1683.7653,1977.2435 0,-114.74 -114.7403,0 z"
        id="rect10004-9-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -116,7 +120,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1236.9516,2179.1014 0,-71.2344 71.2343,0 z"
+       d="m 1453.8651,2091.5631 0,-114.74 114.7398,0 z"
        id="rect10004-8-8-3-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -125,7 +129,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1166.9294,2108.128 0,-71.2344 71.2343,0 z"
+       d="m 1341.0776,1977.2435 0,-114.74 114.7398,0 z"
        id="rect10004-0-8-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -134,7 +138,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#ecedea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1166.6684,2107.867 0,71.2344 -71.234,0 z"
+       d="m 1340.6572,1976.8231 0,114.74 -114.7393,0 z"
        id="rect10004-8-8-9-4-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -143,7 +147,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#ecedea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1094.5868,2178.4111 0,71.2343 -71.2343,0 z"
+       d="m 1224.5526,2090.4512 0,114.7398 -114.7398,0 z"
        id="rect10004-4-04-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -152,7 +156,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1094.5868,2320.6187 0,-71.2341 -71.2343,0 z"
+       d="m 1224.5526,2319.5104 0,-114.7395 -114.7398,0 z"
        id="rect10004-3-4-9-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -161,7 +165,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#ecedea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1023.0915,2249.3846 0,71.2341 -71.23452,0 z"
+       d="m 1109.3924,2204.7709 0,114.7395 -114.74016,0 z"
        id="rect10004-8-8-7-50-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -170,7 +174,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 881.83488,2249.6454 0,-71.2343 71.2343,0 z"
+       d="m 881.86497,2205.191 0,-114.7398 114.73981,0 z"
        id="rect10004-0-0-7-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -179,7 +183,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#ecedea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 953.06918,2249.3846 0,71.2341 -71.2343,0 z"
+       d="m 996.60478,2204.7709 0,114.7395 -114.73981,0 z"
        id="rect10004-3-8-1-11-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -188,7 +192,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1094.5868,2036.8936 0,71.2344 -71.2343,0 z"
+       d="m 1224.5526,1862.5035 0,114.74 -114.7398,0 z"
        id="rect10004-9-0-59-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -197,7 +201,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1094.5868,2107.867 0,71.2344 -71.2343,0 z"
+       d="m 1224.5526,1976.8231 0,114.74 -114.7398,0 z"
        id="rect10004-3-5-1-4-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -206,7 +210,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#ecedea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1023.0915,2107.867 0,71.2344 -71.23452,0 z"
+       d="m 1109.3924,1976.8231 0,114.74 -114.74016,0 z"
        id="rect10004-8-8-3-5-1-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -215,7 +219,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#ecedea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 881.83488,2107.867 0,71.2344 71.2343,0 z"
+       d="m 881.86497,1976.8231 0,114.74 114.73981,0 z"
        id="rect10004-3-8-4-4-7-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -224,7 +228,7 @@
        inkscape:export-ydpi="90" />
     <g
        id="g3494"
-       transform="translate(1698.1284,1358.7055)">
+       transform="matrix(1.6107383,0,0,1.6107383,2196.7002,770.11999)">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -273,7 +277,7 @@
     </g>
     <g
        id="g7232"
-       transform="matrix(1.672937,0,0,1.672937,634.20026,1340.6598)"
+       transform="matrix(2.6946637,0,0,2.6946637,482.9904,741.05309)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -375,20 +379,20 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:44.63339996px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1055.4175"
-       y="1851.8917"
+       style="font-style:normal;font-weight:normal;font-size:71.89272308px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1161.4611"
+       y="1564.5139"
        id="text7228-7"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7230-0"
-         x="1055.4175"
-         y="1851.8917">Conferences 2016</tspan></text>
+         x="1161.4611"
+         y="1564.5139">Conferences 2016</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1382.9516,2033.6454 0,-71.2343 71.2343,0 z"
+       d="m 1689.0329,1857.2715 0,-114.7398 114.7398,0 z"
        id="rect10004-8-31-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -397,7 +401,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.10800003;fill:#ecedea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 1454.1859,1891.867 0,71.2344 -71.2343,0 z"
+       d="m 1803.7727,1628.9036 0,114.74 -114.7398,0 z"
        id="rect10004-8-8-3-1-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
