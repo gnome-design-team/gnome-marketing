@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="23.731268"
-     inkscape:cy="83.178975"
+     inkscape:zoom="1"
+     inkscape:cx="-368.38058"
+     inkscape:cy="230.29107"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
@@ -1389,7 +1389,7 @@
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path9234-36"
-       cx="251.07034"
+       cx="249.07034"
        cy="-14.675426"
        rx="2.5103559"
        ry="2.5206294" />
@@ -1398,12 +1398,12 @@
        id="rect9236-98"
        width="1.0082521"
        height="5.4441648"
-       x="250.55798"
+       x="248.55798"
        y="-13.163045" />
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path9234-3-5"
-       cx="243.99405"
+       cx="241.99405"
        cy="-14.675426"
        rx="2.5103559"
        ry="2.5206294" />
@@ -1412,12 +1412,12 @@
        id="rect9236-9-5"
        width="1.0082521"
        height="5.4441648"
-       x="243.50018"
+       x="241.50018"
        y="-13.163045" />
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path9234-3-7-1"
-       cx="236.93628"
+       cx="234.93628"
        cy="-14.675426"
        rx="2.5103559"
        ry="2.5206294" />
@@ -1426,12 +1426,12 @@
        id="rect9236-9-2-3"
        width="1.0082521"
        height="5.4441648"
-       x="236.44241"
+       x="234.44241"
        y="-13.163045" />
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path9234-31-1"
-       cx="229.89702"
+       cx="227.89702"
        cy="-14.675426"
        rx="2.5103559"
        ry="2.5206294" />
@@ -1440,12 +1440,12 @@
        id="rect9236-94-9"
        width="1.0082521"
        height="5.4441648"
-       x="229.38463"
+       x="227.38463"
        y="-13.163045" />
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path9234-3-0-9"
-       cx="222.82071"
+       cx="220.82071"
        cy="-14.675426"
        rx="2.5103559"
        ry="2.5206294" />
@@ -1454,12 +1454,12 @@
        id="rect9236-9-6-4"
        width="1.0082521"
        height="5.4441648"
-       x="222.32687"
+       x="220.32687"
        y="-13.163045" />
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path9234-3-7-7-0"
-       cx="215.76294"
+       cx="213.76294"
        cy="-14.675426"
        rx="2.5103559"
        ry="2.5206294" />
@@ -1468,7 +1468,7 @@
        id="rect9236-9-2-6-9"
        width="1.0082521"
        height="5.4441648"
-       x="215.2691"
+       x="213.2691"
        y="-13.163045" />
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
