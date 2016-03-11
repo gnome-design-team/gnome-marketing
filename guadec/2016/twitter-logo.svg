@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-146.88298"
-     inkscape:cy="301.24616"
+     inkscape:zoom="2"
+     inkscape:cx="23.731268"
+     inkscape:cy="83.178975"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -52,6 +52,10 @@
        position="0.5,71"
        orientation="1,0"
        id="guide7944" />
+    <sodipodi:guide
+       position="257.38687,-18.384776"
+       orientation="1,0"
+       id="guide9068" />
   </sodipodi:namedview>
   <metadata
      id="metadata6696">
@@ -1149,7 +1153,7 @@
        transform="scale(1.0020838,0.99792054)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.38849258px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="34.460342"
+       x="28.472816"
        y="-102.9385"
        id="text3000-5-67-4-9"
        sodipodi:linespacing="125%"
@@ -1158,12 +1162,12 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3002-4-3-7-3"
-         x="34.460342"
+         x="28.472816"
          y="-102.9385">GUADEC</tspan></text>
     <g
        id="g5813-7-9-5-5"
        style="fill:#ffffff;fill-opacity:1"
-       transform="matrix(0.52616501,0,0,0.52397902,-370.4799,-332.1181)"
+       transform="matrix(0.52616501,0,0,0.52397902,-376.4799,-332.1181)"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1284,7 +1288,7 @@
        xml:space="preserve"
        id="flowRoot8910-62-0"
        style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(1.4423797,0,0,1.4423797,-1148.8025,-249.55123)"><flowRegion
+       transform="matrix(1.4423797,0,0,1.4423797,-1154.8025,-249.55123)"><flowRegion
          id="flowRegion8912-5-6"><rect
            id="rect8914-1-3"
            width="67.79615"
@@ -1295,7 +1299,7 @@
          id="flowPara8932-8-2"
          style="font-size:14px;line-height:150%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">2016</flowPara></flowRoot>    <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 134.52539,-53.43945 0,9.52539 -0.13086,0 -1.88476,0.76367 0,0.74805 0.5039,0 0,3.02539 -0.5039,0 0,1.38867 c -1.50481,1.13286 -2.52039,3.24161 -2.52149,5.66406 l -0.2793,0 0,1.01367 0.26368,0 0,4.03125 -19.64454,0 0,-0.5039 c 0,-0.83786 -0.44923,-1.51172 -1.00781,-1.51172 -0.55858,0 -1.00781,0.67386 -1.00781,1.51172 l 0.002,0.5039 -0.002,0 0,4.03321 19.06641,0 c 2.54571,-1.28748 5.13747,-2.5998 7.5625,-3.82032 2.44175,1.23337 5.02078,2.5362 7.5625,3.82032 l 19.24609,0 0,-3.5293 0,-0.50391 0,-0.49218 -0.002,0 c 2e-5,-0.0036 0.002,-0.008 0.002,-0.01172 0,-0.83786 -0.4512,-1.51172 -1.00977,-1.51172 -0.55857,0 -1.00781,0.67386 -1.00781,1.51172 0,0.02491 0.005,0.04765 0.006,0.07226 l 0,0.43164 -19.66601,0 0,-4.03125 0.25781,0 0,-1.00976 -0.25781,0 c 0,-2.42484 -1.01569,-4.53671 -2.52149,-5.66992 l 0,-1.38672 -0.5039,0 0,-3.02539 0.5039,0 0,-0.75196 -1.89648,-0.75976 -0.11914,0 0,-9.52539 -1.00977,0 z m -0.75586,11.54101 c 0.13964,0 0.25195,0.42713 0.25195,0.95703 l 0,1.06055 -0.5039,0 0,-1.06055 c 0,-0.5299 0.11231,-0.95703 0.25195,-0.95703 z m 1.26758,0 c 0.27528,0 0.49805,0.42713 0.49805,0.95703 l 0,1.06055 -0.99414,0 0,-1.06055 c 0,-0.5299 0.2208,-0.95703 0.49609,-0.95703 z m 1.25391,0 c 0.13964,0 0.25195,0.42713 0.25195,0.95703 l 0,1.06055 -0.50391,0 0,-1.06055 c 0,-0.5299 0.11233,-0.95703 0.25196,-0.95703 z m -64.277348,7.0586 0,2.06054 c -1.135764,0.22394 -2.015625,1.9073 -2.015625,3.98828 l 0,1.51172 -0.002,0 -2.519532,2.03321 0,18.9082 10.587891,0 0,-20.94141 -3.529297,0 0,-1.51172 c 0,-2.08098 -0.881583,-3.76434 -2.017578,-3.98828 l 0,-2.06054 -0.503906,0 z m 125.529298,0 0,2.06054 c -1.13588,0.22392 -2.01758,1.9073 -2.01758,3.98828 l 0,1.51172 -3.5293,0 0,20.94141 10.58789,0 0,-18.9082 -2.51953,-2.03321 -0.002,0 0,-1.51172 c 0,-2.08035 -0.88025,-3.76353 -2.01562,-3.98828 l 0,-2.06054 -0.50391,0 z m -65.5293,3.52734 c 0.27528,0 0.4961,0.41545 0.4961,0.92969 l 0,1.02734 -0.99415,0 0,-1.02734 c 0,-0.51424 0.22277,-0.92969 0.49805,-0.92969 z m 3.02344,0 c 0.27528,0 0.49805,0.41545 0.49805,0.92969 l 0,1.02734 -0.99414,0 0,-1.02734 c 0,-0.51424 0.2208,-0.92969 0.49609,-0.92969 z m 3.02539,0 c 0.27528,0 0.49609,0.41545 0.49609,0.92969 l 0,1.02734 -0.99218,0 0,-1.02734 c 0,-0.51424 0.22081,-0.92969 0.49609,-0.92969 z m -59.494141,4.0332 0,9.58008 29.240231,0 0,-9.58008 -29.240231,0 z m 83.683591,0 0,9.58008 29.24024,0 0,-9.58008 -29.24024,0 z m -27.31054,0.68946 c -2.44186,1.22899 -5.06187,2.55652 -7.61524,3.84765 l -19.01367,0 0,16.66211 53.4375,0 0,-16.66211 -19.19336,0 c -2.55167,-1.28912 -5.15645,-2.60561 -7.61523,-3.84765 z m -54.357426,5.36132 1.007813,0 0,2.51954 -1.007813,0 0,-2.51954 z m 3.025391,0 1.007813,0 0,2.51954 -1.007813,0 0,-2.51954 z m 3.023437,0 1.009766,0 0,2.51954 -1.009766,0 0,-2.51954 z m 3.025391,0 1.007813,0 0,2.51954 -1.007813,0 0,-2.51954 z m 3.025391,0 1.007812,0 0,2.51954 -1.007812,0 0,-2.51954 z m 3.023437,0 1.009766,0 0,2.51954 -1.009766,0 0,-2.51954 z m 3.025391,0 1.007812,0 0,2.51954 -1.007812,0 0,-2.51954 z m 3.025388,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 5.54492,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.0254,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02343,0 1.00977,0 0,2.51954 -1.00977,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 6.04883,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02344,0 1.00977,0 0,2.51954 -1.00977,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 6.04883,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02344,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 5.54492,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02344,0 1.00976,0 0,2.51954 -1.00976,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02344,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m -109.900391,4.03321 0,11.20117 29.238281,0 0,-11.20117 -29.238281,0 z m 83.685551,0 0,11.20117 29.23828,0 0,-11.20117 -29.23828,0 z m -81.669926,1.00781 1.007813,0 0,2.51953 -1.007813,0 0,-2.51953 z m 3.025391,0 1.007813,0 0,2.51953 -1.007813,0 0,-2.51953 z m 3.023437,0 1.009766,0 0,2.51953 -1.009766,0 0,-2.51953 z m 3.025391,0 1.007813,0 0,2.51953 -1.007813,0 0,-2.51953 z m 3.025391,0 1.007812,0 0,2.51953 -1.007812,0 0,-2.51953 z m 3.023437,0 1.009766,0 0,2.51953 -1.009766,0 0,-2.51953 z m 3.025391,0 1.007812,0 0,2.51953 -1.007812,0 0,-2.51953 z m 3.025388,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 5.54492,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.0254,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02343,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 6.04883,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02344,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 6.04883,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 5.54492,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00976,0 0,2.51953 -1.00976,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m -107.884766,4.53711 1.007813,0 0,2.51953 -1.007813,0 0,-2.51953 z m 3.025391,0 1.007813,0 0,2.51953 -1.007813,0 0,-2.51953 z m 3.023437,0 1.009766,0 0,2.51953 -1.009766,0 0,-2.51953 z m 3.025391,0 1.007813,0 0,2.51953 -1.007813,0 0,-2.51953 z m 3.025391,0 1.007812,0 0,2.51953 -1.007812,0 0,-2.51953 z m 3.023437,0 1.009766,0 0,2.51953 -1.009766,0 0,-2.51953 z m 3.025391,0 1.007812,0 0,2.51953 -1.007812,0 0,-2.51953 z m 3.025388,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 5.54492,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.0254,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02343,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 6.04883,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.78125,0 c 0.4189,0 0.75586,0.42406 0.75586,0.95117 l 0,2.57227 -1.51172,0 0,-2.57227 c 0,-0.52711 0.33691,-0.95117 0.75586,-0.95117 z m 2.77344,0 c 0.55852,0 1.00781,0.42406 1.00781,0.95117 l 0,3.42969 -2.01758,0 0,-3.42969 c 0,-0.52711 0.45117,-0.95117 1.00977,-0.95117 z m 2.77148,0 c 0.41889,0 0.75586,0.42406 0.75586,0.95117 l 0,2.57227 -1.51171,0 0,-2.57227 c 0,-0.52711 0.33691,-0.95117 0.75585,-0.95117 z m 2.77344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 6.04883,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 5.54492,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00976,0 0,2.51953 -1.00976,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z"
+       d="m 128.52539,-53.43945 0,9.52539 -0.13086,0 -1.88476,0.76367 0,0.74805 0.5039,0 0,3.02539 -0.5039,0 0,1.38867 c -1.50481,1.13286 -2.52039,3.24161 -2.52149,5.66406 l -0.2793,0 0,1.01367 0.26368,0 0,4.03125 -19.64454,0 0,-0.5039 c 0,-0.83786 -0.44923,-1.51172 -1.00781,-1.51172 -0.55858,0 -1.00781,0.67386 -1.00781,1.51172 l 0.002,0.5039 -0.002,0 0,4.03321 19.06641,0 c 2.54571,-1.28748 5.13747,-2.5998 7.5625,-3.82032 2.44175,1.23337 5.02078,2.5362 7.5625,3.82032 l 19.24609,0 0,-3.5293 0,-0.50391 0,-0.49218 -0.002,0 c 2e-5,-0.0036 0.002,-0.008 0.002,-0.01172 0,-0.83786 -0.4512,-1.51172 -1.00977,-1.51172 -0.55857,0 -1.00781,0.67386 -1.00781,1.51172 0,0.02491 0.005,0.04765 0.006,0.07226 l 0,0.43164 -19.66601,0 0,-4.03125 0.25781,0 0,-1.00976 -0.25781,0 c 0,-2.42484 -1.01569,-4.53671 -2.52149,-5.66992 l 0,-1.38672 -0.5039,0 0,-3.02539 0.5039,0 0,-0.75196 -1.89648,-0.75976 -0.11914,0 0,-9.52539 -1.00977,0 z m -0.75586,11.54101 c 0.13964,0 0.25195,0.42713 0.25195,0.95703 l 0,1.06055 -0.5039,0 0,-1.06055 c 0,-0.5299 0.11231,-0.95703 0.25195,-0.95703 z m 1.26758,0 c 0.27528,0 0.49805,0.42713 0.49805,0.95703 l 0,1.06055 -0.99414,0 0,-1.06055 c 0,-0.5299 0.2208,-0.95703 0.49609,-0.95703 z m 1.25391,0 c 0.13964,0 0.25195,0.42713 0.25195,0.95703 l 0,1.06055 -0.50391,0 0,-1.06055 c 0,-0.5299 0.11233,-0.95703 0.25196,-0.95703 z m -64.277348,7.0586 0,2.06054 c -1.135764,0.22394 -2.015625,1.9073 -2.015625,3.98828 l 0,1.51172 -0.002,0 -2.519532,2.03321 0,18.9082 10.587891,0 0,-20.94141 -3.529297,0 0,-1.51172 c 0,-2.08098 -0.881583,-3.76434 -2.017578,-3.98828 l 0,-2.06054 -0.503906,0 z m 125.529298,0 0,2.06054 c -1.13588,0.22392 -2.01758,1.9073 -2.01758,3.98828 l 0,1.51172 -3.5293,0 0,20.94141 10.58789,0 0,-18.9082 -2.51953,-2.03321 -0.002,0 0,-1.51172 c 0,-2.08035 -0.88025,-3.76353 -2.01562,-3.98828 l 0,-2.06054 -0.50391,0 z m -65.5293,3.52734 c 0.27528,0 0.4961,0.41545 0.4961,0.92969 l 0,1.02734 -0.99415,0 0,-1.02734 c 0,-0.51424 0.22277,-0.92969 0.49805,-0.92969 z m 3.02344,0 c 0.27528,0 0.49805,0.41545 0.49805,0.92969 l 0,1.02734 -0.99414,0 0,-1.02734 c 0,-0.51424 0.2208,-0.92969 0.49609,-0.92969 z m 3.02539,0 c 0.27528,0 0.49609,0.41545 0.49609,0.92969 l 0,1.02734 -0.99218,0 0,-1.02734 c 0,-0.51424 0.22081,-0.92969 0.49609,-0.92969 z m -59.494141,4.0332 0,9.58008 29.240231,0 0,-9.58008 -29.240231,0 z m 83.683591,0 0,9.58008 29.24024,0 0,-9.58008 -29.24024,0 z m -27.31054,0.68946 c -2.44186,1.22899 -5.06187,2.55652 -7.61524,3.84765 l -19.01367,0 0,16.66211 53.4375,0 0,-16.66211 -19.19336,0 c -2.55167,-1.28912 -5.15645,-2.60561 -7.61523,-3.84765 z m -54.357426,5.36132 1.007813,0 0,2.51954 -1.007813,0 0,-2.51954 z m 3.025391,0 1.007813,0 0,2.51954 -1.007813,0 0,-2.51954 z m 3.023437,0 1.009766,0 0,2.51954 -1.009766,0 0,-2.51954 z m 3.025391,0 1.007813,0 0,2.51954 -1.007813,0 0,-2.51954 z m 3.025391,0 1.007812,0 0,2.51954 -1.007812,0 0,-2.51954 z m 3.023437,0 1.009766,0 0,2.51954 -1.009766,0 0,-2.51954 z m 3.025391,0 1.007812,0 0,2.51954 -1.007812,0 0,-2.51954 z m 3.025388,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 5.54492,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.0254,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02343,0 1.00977,0 0,2.51954 -1.00977,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 6.04883,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02344,0 1.00977,0 0,2.51954 -1.00977,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 6.04883,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02344,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 5.54492,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02344,0 1.00976,0 0,2.51954 -1.00976,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02344,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m -109.900391,4.03321 0,11.20117 29.238281,0 0,-11.20117 -29.238281,0 z m 83.685551,0 0,11.20117 29.23828,0 0,-11.20117 -29.23828,0 z m -81.669926,1.00781 1.007813,0 0,2.51953 -1.007813,0 0,-2.51953 z m 3.025391,0 1.007813,0 0,2.51953 -1.007813,0 0,-2.51953 z m 3.023437,0 1.009766,0 0,2.51953 -1.009766,0 0,-2.51953 z m 3.025391,0 1.007813,0 0,2.51953 -1.007813,0 0,-2.51953 z m 3.025391,0 1.007812,0 0,2.51953 -1.007812,0 0,-2.51953 z m 3.023437,0 1.009766,0 0,2.51953 -1.009766,0 0,-2.51953 z m 3.025391,0 1.007812,0 0,2.51953 -1.007812,0 0,-2.51953 z m 3.025388,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 5.54492,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.0254,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02343,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 6.04883,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02344,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 6.04883,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 5.54492,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00976,0 0,2.51953 -1.00976,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m -107.884766,4.53711 1.007813,0 0,2.51953 -1.007813,0 0,-2.51953 z m 3.025391,0 1.007813,0 0,2.51953 -1.007813,0 0,-2.51953 z m 3.023437,0 1.009766,0 0,2.51953 -1.009766,0 0,-2.51953 z m 3.025391,0 1.007813,0 0,2.51953 -1.007813,0 0,-2.51953 z m 3.025391,0 1.007812,0 0,2.51953 -1.007812,0 0,-2.51953 z m 3.023437,0 1.009766,0 0,2.51953 -1.009766,0 0,-2.51953 z m 3.025391,0 1.007812,0 0,2.51953 -1.007812,0 0,-2.51953 z m 3.025388,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 5.54492,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.0254,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02343,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 6.04883,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.78125,0 c 0.4189,0 0.75586,0.42406 0.75586,0.95117 l 0,2.57227 -1.51172,0 0,-2.57227 c 0,-0.52711 0.33691,-0.95117 0.75586,-0.95117 z m 2.77344,0 c 0.55852,0 1.00781,0.42406 1.00781,0.95117 l 0,3.42969 -2.01758,0 0,-3.42969 c 0,-0.52711 0.45117,-0.95117 1.00977,-0.95117 z m 2.77148,0 c 0.41889,0 0.75586,0.42406 0.75586,0.95117 l 0,2.57227 -1.51171,0 0,-2.57227 c 0,-0.52711 0.33691,-0.95117 0.75585,-0.95117 z m 2.77344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 6.04883,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 5.54492,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00976,0 0,2.51953 -1.00976,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z"
        id="rect8464"
        inkscape:connector-curvature="0" />
     <ellipse
@@ -1385,7 +1389,7 @@
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path9234-36"
-       cx="261.07034"
+       cx="251.07034"
        cy="-14.675426"
        rx="2.5103559"
        ry="2.5206294" />
@@ -1394,12 +1398,12 @@
        id="rect9236-98"
        width="1.0082521"
        height="5.4441648"
-       x="260.55798"
+       x="250.55798"
        y="-13.163045" />
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path9234-3-5"
-       cx="253.99405"
+       cx="243.99405"
        cy="-14.675426"
        rx="2.5103559"
        ry="2.5206294" />
@@ -1408,12 +1412,12 @@
        id="rect9236-9-5"
        width="1.0082521"
        height="5.4441648"
-       x="253.50018"
+       x="243.50018"
        y="-13.163045" />
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path9234-3-7-1"
-       cx="246.93628"
+       cx="236.93628"
        cy="-14.675426"
        rx="2.5103559"
        ry="2.5206294" />
@@ -1422,12 +1426,12 @@
        id="rect9236-9-2-3"
        width="1.0082521"
        height="5.4441648"
-       x="246.44241"
+       x="236.44241"
        y="-13.163045" />
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path9234-31-1"
-       cx="239.89702"
+       cx="229.89702"
        cy="-14.675426"
        rx="2.5103559"
        ry="2.5206294" />
@@ -1436,12 +1440,12 @@
        id="rect9236-94-9"
        width="1.0082521"
        height="5.4441648"
-       x="239.38463"
+       x="229.38463"
        y="-13.163045" />
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path9234-3-0-9"
-       cx="232.82071"
+       cx="222.82071"
        cy="-14.675426"
        rx="2.5103559"
        ry="2.5206294" />
@@ -1450,12 +1454,12 @@
        id="rect9236-9-6-4"
        width="1.0082521"
        height="5.4441648"
-       x="232.32687"
+       x="222.32687"
        y="-13.163045" />
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path9234-3-7-7-0"
-       cx="225.76294"
+       cx="215.76294"
        cy="-14.675426"
        rx="2.5103559"
        ry="2.5206294" />
@@ -1464,7 +1468,7 @@
        id="rect9236-9-2-6-9"
        width="1.0082521"
        height="5.4441648"
-       x="225.2691"
+       x="215.2691"
        y="-13.163045" />
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -1488,5 +1492,1239 @@
            y="104.8391"
            style="fill:#018094;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara8932-8"
-         style="font-size:14px;line-height:150%;text-align:center;text-anchor:middle;fill:#018094;fill-opacity:1">KARLSRUHE   GERMANY</flowPara></flowRoot>  </g>
+         style="font-size:14px;line-height:150%;text-align:center;text-anchor:middle;fill:#018094;fill-opacity:1">KARLSRUHE   GERMANY</flowPara></flowRoot>    <rect
+       y="-338.70996"
+       x="513.46021"
+       height="386.93951"
+       width="274.24252"
+       id="rect6019-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#018094;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99921262;marker:none;enable-background:accumulate"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g7265-1"
+       transform="translate(520,0)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-5"
+         d="m 21.27958,-338.70495 0,27.59505 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-31"
+         d="m 48.92112,-338.70495 0,27.59505 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-6"
+         d="m 48.88922,-311.1099 0,-27.59505 27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-90"
+         d="m 104.20421,-338.70493 0,27.59504 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-6-12"
+         d="m 21.27958,-283.46836 0,-27.59505 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-1"
+         d="m 48.92112,-311.06339 0,27.59503 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-9"
+         d="m 48.88922,-283.46836 0,-27.59503 27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-9-39"
+         d="m 104.20421,-311.06339 0,27.59504 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-9-88"
+         d="m 21.24768,-283.42186 0,27.59505 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-37-6"
+         d="m 48.88922,-283.42186 0,27.59505 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-2-5"
+         d="m 76.53077,-283.42186 0,27.59505 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-8-2"
+         d="m 104.1723,-283.42186 0,27.59505 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-6-4-2"
+         d="m 21.24768,-228.18526 0,-27.59504 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-2-8"
+         d="m 48.88922,-255.7803 0,27.59504 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-2-99"
+         d="m 48.85731,-228.18526 0,-27.59504 27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-9-8-97"
+         d="m 104.1723,-255.7803 0,27.59504 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-94-59"
+         d="m 21.27958,-228.13876 0,27.59505 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-5-9"
+         d="m 48.92112,-228.13876 0,27.59505 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-1-5"
+         d="m 76.56265,-228.13876 0,27.59505 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-97-5"
+         d="m 76.53077,-228.13874 0,27.59504 27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-6-7-6"
+         d="m -6.39387,-172.90217 0,-27.59505 27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-3-6"
+         d="m 48.92112,-200.4972 0,27.59505 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-4-92"
+         d="m 76.56265,-200.4972 0,27.59505 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-9-3-9"
+         d="m 104.20421,-200.4972 0,27.59505 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-9-1-0"
+         d="m 21.24768,-172.85566 0,27.59503 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-37-8-8"
+         d="m 48.88922,-172.85566 0,27.59503 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-2-0-80"
+         d="m 76.53077,-172.85566 0,27.59503 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-8-1-2"
+         d="m 104.1723,-172.85566 0,27.59503 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-6-4-1-2"
+         d="m 21.24768,-145.21413 0,27.59504 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-2-5-3"
+         d="m 48.88922,-145.21413 0,27.59504 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-2-2-3"
+         d="m 76.53077,-145.21413 0,27.59504 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-9-8-2-7"
+         d="m 104.1723,-145.21413 0,27.59504 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-17-51"
+         d="m 131.84572,-338.70495 0,27.59505 -27.67342,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-8-5"
+         d="m 159.48728,-338.70493 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-0-1"
+         d="m 187.12882,-338.70493 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-93-7"
+         d="m 214.77037,-338.70493 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-6-71-0"
+         d="m 131.84572,-311.06339 0,27.59503 -27.67342,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-34-5"
+         d="m 159.48728,-283.46835 0,-27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-5-7"
+         d="m 187.12882,-311.06339 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-9-6-9"
+         d="m 214.77037,-311.06339 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-9-4-7"
+         d="m 131.81385,-283.42185 0,27.59505 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-37-5-6"
+         d="m 159.45539,-283.42185 0,27.59505 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-2-2-8"
+         d="m 187.09694,-283.42185 0,27.59505 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-8-9-2"
+         d="m 214.73849,-283.42185 0,27.59505 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-6-4-8-5"
+         d="m 131.81385,-255.7803 0,27.59504 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-2-1-9"
+         d="m 131.78193,-255.7803 0,27.59504 27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-2-9-9"
+         d="m 187.09694,-255.7803 0,27.59504 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-9-8-7-2"
+         d="m 214.73849,-255.7803 0,27.59504 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-94-5-6"
+         d="m 131.84572,-228.13876 0,27.59505 -27.67342,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-5-3-5"
+         d="m 159.48728,-228.13874 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-1-0-3"
+         d="m 187.12882,-228.13874 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-97-8-0"
+         d="m 214.77037,-228.13874 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-6-7-4-4"
+         d="m 131.84572,-172.90215 0,-27.59505 -27.67342,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-3-3-3"
+         d="m 159.45539,-172.90215 0,-27.59505 27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-4-9-0"
+         d="m 187.12882,-200.4972 0,27.59505 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-9-3-5-4"
+         d="m 214.77037,-200.49719 0,27.59505 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-9-1-8-5"
+         d="m 131.81385,-172.85566 0,27.59503 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-37-8-4-2"
+         d="m 159.45539,-172.85566 0,27.59503 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-2-0-8-9"
+         d="m 187.09694,-172.85566 0,27.59503 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-8-1-9-9"
+         d="m 214.73849,-145.26063 0,-27.59503 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-6-4-1-3-6"
+         d="m 131.81385,-145.21412 0,27.59505 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-2-5-8-6"
+         d="m 131.78193,-145.21412 0,27.59505 27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-2-2-1-6"
+         d="m 187.09694,-145.21412 0,27.59505 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ba1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-9-8-2-2-9"
+         d="m 187.06503,-145.21412 0,27.59505 27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-3-4"
+         d="m 21.27958,-117.57258 0,27.59504 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-96-9"
+         d="m 48.92112,-117.57256 0,27.59504 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-7-6"
+         d="m 76.56265,-117.57256 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-5-4"
+         d="m 104.20421,-117.57256 0,27.59504 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-6-1-4"
+         d="m 21.27958,-89.93103 0,27.59504 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-39-5"
+         d="m 48.92112,-89.93103 0,27.59504 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028da4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-8-5"
+         d="m 76.56265,-89.93103 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-9-5-1"
+         d="m 104.20421,-89.93101 0,27.59504 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-9-8-1"
+         d="m 21.24768,-62.28948 0,27.595045 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028da4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-37-88-4"
+         d="m 48.88922,-34.694435 0,-27.595045 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-2-9-5"
+         d="m 76.53077,-62.28948 0,27.595045 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-8-8-8"
+         d="m 104.1723,-62.28948 0,27.595045 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028da4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-6-4-5-3"
+         d="m 21.24768,-34.647945 0,27.595048 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-2-50-5"
+         d="m 48.88922,-34.647945 0,27.595048 -27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-2-4-3"
+         d="m 76.53077,-34.647945 0,27.595048 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028da4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-9-8-9-1"
+         d="m 76.49886,-7.052897 0,-27.595048 27.67344,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028da4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-17-5-0"
+         d="m 131.84572,-89.97752 0,-27.59504 -27.67342,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-8-1-6"
+         d="m 159.48728,-117.57256 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-0-6-1"
+         d="m 159.45539,-89.97752 0,-27.59504 27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-93-5-7"
+         d="m 214.77037,-117.57254 0,27.59503 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-6-71-3-2"
+         d="m 131.84572,-89.93103 0,27.59504 -27.67342,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-34-4-4"
+         d="m 159.48728,-89.93101 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-5-1-3"
+         d="m 187.12882,-89.93101 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-9-6-8-7"
+         d="m 214.77037,-89.93101 0,27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-9-4-4-8"
+         d="m 131.81385,-62.28948 0,27.595045 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-37-5-5-2"
+         d="m 159.45539,-62.28948 0,27.595045 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-2-2-7-8"
+         d="m 187.09694,-62.28948 0,27.595045 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-8-9-0-4"
+         d="m 214.73849,-34.694435 0,-27.595045 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-6-4-8-0-9"
+         d="m 131.81385,-34.647926 0,27.595044 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-2-1-3-4"
+         d="m 131.78193,-7.052882 0,-27.595044 27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-2-9-3-6"
+         d="m 187.09694,-34.647926 0,27.595044 -27.67345,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-9-9-8-7-0-5"
+         d="m 214.73849,-34.647926 0,27.595044 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-8-18-3"
+         d="m 242.41191,-338.70495 0,27.59505 -27.67342,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-0-0-4"
+         d="m 267.80138,-336.45579 -25.41869,25.3496 25.41869,0 0,-25.3496 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-34-43-9"
+         d="m 242.41191,-311.06339 0,27.59503 -27.67342,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-5-2-0"
+         d="m 242.38269,-311.06013 0,27.59549 25.41869,-25.3496 0,-2.24589 -25.41869,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-37-5-8-0"
+         d="m 242.38003,-283.42186 0,27.59505 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-2-2-1-4"
+         d="m 267.80138,-281.20725 -25.45327,25.38415 25.45327,0 0,-25.38415 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-2-1-0-1"
+         d="m 242.38003,-255.7803 0,27.59504 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-2-9-7-1"
+         d="m 242.34811,-255.77703 25.45327,25.38416 0,-25.38416 -25.45327,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-5-3-2-0"
+         d="m 242.41191,-228.13876 0,27.59505 -27.67342,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-1-0-7-9"
+         d="m 267.80138,-225.8896 -25.41869,25.3496 25.41869,0 0,-25.3496 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#02697b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-3-3-7-2"
+         d="m 242.41191,-200.4972 0,27.59505 -27.67342,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-4-9-1-4"
+         d="m 267.80138,-198.24807 -25.41869,25.3496 25.41869,0 0,-25.3496 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-37-8-4-0-4"
+         d="m 242.38003,-172.85566 0,27.59503 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-2-0-8-6-5"
+         d="m 267.80138,-170.64106 -25.45327,25.38415 25.45327,0 0,-25.38415 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-2-5-8-8-5"
+         d="m 242.38003,-145.21413 0,27.59504 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-2-2-1-3-6"
+         d="m 267.80138,-142.99953 -25.45327,25.38416 25.45327,0 0,-25.38416 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-8-1-3-1"
+         d="m 242.41191,-117.57256 0,27.59504 -27.67342,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-0-6-3-9"
+         d="m 267.80138,-115.32343 -25.41869,25.3496 25.41869,0 0,-25.3496 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-34-4-5-3"
+         d="m 242.41191,-89.93103 0,27.59504 -27.67342,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ba1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-37-5-5-4-3"
+         d="m 242.38003,-62.28948 0,27.595045 -27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-2-2-7-1-3"
+         d="m 267.80138,-60.074888 -25.45327,25.38416 25.45327,0 0,-25.38416 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-3-2-1-3-8-9"
+         d="m 214.70657,-7.052897 0,-27.595048 27.67346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-5-2-9-3-4-3"
+         d="m 267.80138,-32.433338 -25.45327,25.384152 25.45327,0 0,-25.384152 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-2-5-3-9-1"
+         d="m 159.48728,-173.17996 0,-27.59504 -27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#017689;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect10004-8-8-3-5-4-7-3-4-6-1-0-6-2-3"
+         d="m 159.45539,-89.97752 0,-27.59504 27.67343,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#028ea5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    </g>
+    <text
+       transform="scale(1.0020838,0.99792054)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.38849258px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="553.37897"
+       y="-102.9385"
+       id="text3000-5-67-4-9-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3002-4-3-7-3-8"
+         x="553.37897"
+         y="-102.9385">GUADEC</tspan></text>
+    <g
+       id="g5813-7-9-5-5-2"
+       style="fill:#ffffff;fill-opacity:1"
+       transform="matrix(0.52616501,0,0,0.52397902,149.5201,-332.1181)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-web/guadec/2013/Brno/website-full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5815-4-9-5-2-0"
+         y="357.88382"
+         x="792.4502"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.50051689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="357.88382"
+           x="792.4502"
+           id="tspan5817-2-1-6-0-4"
+           sodipodi:role="line">The</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.50051689px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="973.19745"
+         y="357.88382"
+         id="text5819-6-8-4-8-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5821-3-7-7-4-5"
+           x="973.19745"
+           y="357.88382">Conference</tspan></text>
+      <g
+         id="g5823-9-0-4-5-8"
+         transform="matrix(0.92337906,0,0,0.92337906,65.460957,27.451834)"
+         style="fill:#ffffff;fill-opacity:1">
+        <g
+           id="g5825-0-72-0-1-8"
+           transform="matrix(0.11840388,0,0,0.11840388,865.19335,299.21794)"
+           style="fill:#ffffff;fill-opacity:1">
+          <g
+             id="g5827-6-1-4-8-5"
+             transform="matrix(1.293235,0,0,1.293235,-4878.321,-1224.915)"
+             style="fill:#ffffff;fill-opacity:1">
+            <g
+               id="g5829-3-5-5-2-0"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="matrix(2.438586,0,0,2.438586,3659.952,1113.451)">
+              <g
+                 id="g5831-9-9-9-9-5"
+                 style="fill:#ffffff;fill-opacity:1">
+                <path
+                   id="path5833-6-0-5-6-9"
+                   style="fill:#ffffff;fill-opacity:1"
+                   d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path5835-8-9-6-0-2"
+                   style="fill:#ffffff;fill-opacity:1"
+                   d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path5837-7-5-9-4-5"
+                   style="fill:#ffffff;fill-opacity:1"
+                   d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path5839-9-1-5-5-8"
+                   style="fill:#ffffff;fill-opacity:1"
+                   d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 l 0,0 z"
+                   inkscape:connector-curvature="0" />
+                <path
+                   id="path5841-6-3-1-9-6"
+                   style="fill:#ffffff;fill-opacity:1"
+                   d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 l 0,0 z"
+                   inkscape:connector-curvature="0" />
+              </g>
+            </g>
+            <g
+               id="g5843-8-4-8-7-9"
+               style="fill:#ffffff;fill-opacity:1">
+              <path
+                 id="path5845-0-0-5-9-2"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+                 d="m 4176.2963,1214.4401 c -15.1078,0.4069 -27.0386,5.8367 -35.8126,16.25 -9.0861,10.8369 -13.6562,25.8104 -13.6562,44.9063 0,19.0432 4.5703,33.9757 13.6562,44.8124 9.1305,10.8369 21.6664,16.25 37.6563,16.25 16.034,0 28.6014,-5.4131 37.6875,-16.25 9.0859,-10.8367 13.6251,-25.7692 13.625,-44.8124 -1e-4,-19.0959 -4.5391,-34.0694 -13.625,-44.9063 -9.0861,-10.8366 -21.6536,-16.2499 -37.6875,-16.25 -0.6246,0 -1.2296,-0.016 -1.8437,0 z m 1.125,22 c 0.2415,-0.01 0.4737,0 0.7187,0 7.8833,10e-5 13.9919,3.4114 18.3125,10.25 4.3203,6.8388 6.4999,16.4913 6.5,28.9063 0,12.3623 -2.1799,21.9427 -6.5,28.7812 -4.3204,6.8389 -10.4293,10.2812 -18.3125,10.2812 -7.8391,0 -13.8983,-3.4423 -18.2187,-10.2812 -4.3204,-6.8385 -6.4999,-16.4189 -6.5,-28.7812 0,-12.4149 2.1798,-22.0675 6.5,-28.9063 4.1852,-6.6249 10.0123,-10.0428 17.5,-10.25 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path5847-4-6-1-8-1"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+                 d="m 4005.6293,1325.612 c -13.3076,11.1757 -33.1067,11.0472 -41.3549,11.0472 -16.6133,0 -29.7747,-5.471 -39.4842,-16.413 -9.7097,-10.9946 -14.5644,-25.8819 -14.5644,-44.6622 0,-18.9906 4.9438,-33.9305 14.8316,-44.82 9.8878,-10.8892 23.4277,-16.3339 40.62,-16.334 6.6363,10e-5 12.9831,0.7366 19.0406,2.2094 6.1019,1.473 11.8475,3.6562 17.2368,6.5494 l -6.921,20.4608 c -3.0298,-1.6586 -6.4987,-3.2932 -9.7145,-4.4424 -5.4784,-1.8411 -10.979,-2.7617 -16.5018,-2.7618 -10.2442,10e-5 -18.15,3.3932 -23.7173,10.1792 -5.523,6.7336 -8.2844,16.3867 -8.2844,28.9594 0,12.4676 2.6723,22.0945 8.0172,28.8806 5.3446,6.7861 13.3768,10.1791 22.7818,10.1791 9.5548,0 15.4728,-2.4084 18.6291,-4.9461 l 0,-20.3835 -20.7001,0 0,-20.3584 40.0855,0"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path5849-2-6-6-0-7"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+                 d="m 4023.2108,1216.5605 16.2279,0 51.2775,70.8022 0,-70.8022 21.8853,0 0,117.8103 -16.2279,0 -51.2774,-70.8022 0,70.8022 -21.8854,0 0,-117.8103"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path5851-0-2-0-7-0"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+                 d="m 4246.3361,1216.5605 32.7366,0 22.7151,73.5479 22.8487,-73.5479 27.6698,0 12.5,117.8103 -24.3186,0 -7.5,-73.668 -22.9823,74.0213 -16.3015,0 -22.9824,-76.5213 -7.5,76.168 -24.3854,0 12.5,-117.8103"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path5853-8-1-9-1-4"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+                 d="m 4382.3597,1216.5605 69.4147,0 0,22.9624 -43.6933,0 0,24.4365 33.5877,0 0,20.4623 -33.5877,0 0,26.9868 45.1631,0 0,22.9623 -70.8845,0 0,-117.8103"
+                 inkscape:connector-curvature="0" />
+              <text
+                 xml:space="preserve"
+                 id="text5855-1-9-0-9-6"
+                 style="font-style:normal;font-weight:normal;font-size:30.68958855px;font-family:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1;stroke:none"
+                 y="1215.743"
+                 x="4474.6182"><tspan
+                   id="tspan5857-8-2-5-1-6"
+                   style="letter-spacing:11.06259632;fill:#ffffff;fill-opacity:1"
+                   y="1215.743"
+                   x="4474.6182"><tspan
+                     id="tspan5859-5-2-3-6-0"
+                     style="letter-spacing:0.2523815;fill:#ffffff;fill-opacity:1">TM</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8910-62-0-1"
+       style="font-style:normal;font-weight:normal;font-size:25.96283531px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(512.461,-338.70996)"><flowRegion
+         id="flowRegion8912-5-6-5"><rect
+           id="rect8914-1-3-5"
+           width="97.787788"
+           height="41.263046"
+           x="91.378403"
+           y="240.37653"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8932-8-2-2"
+         style="font-size:20.19331551px;line-height:150%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">2016</flowPara></flowRoot>    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 654.52539,-53.43945 0,9.52539 -0.13086,0 -1.88476,0.76367 0,0.74805 0.5039,0 0,3.02539 -0.5039,0 0,1.38867 c -1.50481,1.13286 -2.52039,3.24161 -2.52149,5.66406 l -0.2793,0 0,1.01367 0.26368,0 0,4.03125 -19.64454,0 0,-0.5039 c 0,-0.83786 -0.44923,-1.51172 -1.00781,-1.51172 -0.55858,0 -1.00781,0.67386 -1.00781,1.51172 l 0.002,0.5039 -0.002,0 0,4.03321 19.06641,0 c 2.54571,-1.28748 5.13747,-2.5998 7.5625,-3.82032 2.44175,1.23337 5.02078,2.5362 7.5625,3.82032 l 19.24609,0 0,-3.5293 0,-0.50391 0,-0.49218 -0.002,0 c 2e-5,-0.004 0.002,-0.008 0.002,-0.0117 0,-0.83786 -0.4512,-1.51172 -1.00977,-1.51172 -0.55857,0 -1.00781,0.67386 -1.00781,1.51172 0,0.0249 0.005,0.0476 0.006,0.0723 l 0,0.43164 -19.66601,0 0,-4.03125 0.25781,0 0,-1.00976 -0.25781,0 c 0,-2.42484 -1.01569,-4.53671 -2.52149,-5.66992 l 0,-1.38672 -0.5039,0 0,-3.02539 0.5039,0 0,-0.75196 -1.89648,-0.75976 -0.11914,0 0,-9.52539 -1.00977,0 z m -0.75586,11.54101 c 0.13964,0 0.25195,0.42713 0.25195,0.95703 l 0,1.06055 -0.5039,0 0,-1.06055 c 0,-0.5299 0.11231,-0.95703 0.25195,-0.95703 z m 1.26758,0 c 0.27528,0 0.49805,0.42713 0.49805,0.95703 l 0,1.06055 -0.99414,0 0,-1.06055 c 0,-0.5299 0.2208,-0.95703 0.49609,-0.95703 z m 1.25391,0 c 0.13964,0 0.25195,0.42713 0.25195,0.95703 l 0,1.06055 -0.50391,0 0,-1.06055 c 0,-0.5299 0.11233,-0.95703 0.25196,-0.95703 z m -64.27735,7.0586 0,2.06054 c -1.13576,0.22394 -2.01562,1.9073 -2.01562,3.98828 l 0,1.51172 -0.002,0 -2.51954,2.03321 0,18.9082 10.58789,0 0,-20.94141 -3.52929,0 0,-1.51172 c 0,-2.08098 -0.88159,-3.76434 -2.01758,-3.98828 l 0,-2.06054 -0.50391,0 z m 125.5293,0 0,2.06054 c -1.13588,0.22392 -2.01758,1.9073 -2.01758,3.98828 l 0,1.51172 -3.5293,0 0,20.94141 10.58789,0 0,-18.9082 -2.51953,-2.03321 -0.002,0 0,-1.51172 c 0,-2.08035 -0.88025,-3.76353 -2.01562,-3.98828 l 0,-2.06054 -0.50391,0 z m -65.5293,3.52734 c 0.27528,0 0.4961,0.41545 0.4961,0.92969 l 0,1.02734 -0.99415,0 0,-1.02734 c 0,-0.51424 0.22277,-0.92969 0.49805,-0.92969 z m 3.02344,0 c 0.27528,0 0.49805,0.41545 0.49805,0.92969 l 0,1.02734 -0.99414,0 0,-1.02734 c 0,-0.51424 0.2208,-0.92969 0.49609,-0.92969 z m 3.02539,0 c 0.27528,0 0.49609,0.41545 0.49609,0.92969 l 0,1.02734 -0.99218,0 0,-1.02734 c 0,-0.51424 0.22081,-0.92969 0.49609,-0.92969 z m -59.49414,4.0332 0,9.58008 29.24023,0 0,-9.58008 -29.24023,0 z m 83.68359,0 0,9.58008 29.24024,0 0,-9.58008 -29.24024,0 z m -27.31054,0.68946 c -2.44186,1.22899 -5.06187,2.55652 -7.61524,3.84765 l -19.01367,0 0,16.66211 53.4375,0 0,-16.66211 -19.19336,0 c -2.55167,-1.28912 -5.15645,-2.60561 -7.61523,-3.84765 z m -54.35743,5.36132 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02344,0 1.00977,0 0,2.51954 -1.00977,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.0254,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02343,0 1.00977,0 0,2.51954 -1.00977,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 5.54492,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.0254,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02343,0 1.00977,0 0,2.51954 -1.00977,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 6.04883,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02539,0 1.00782,0 0,2.51954 -1.00782,0 0,-2.51954 z m 3.02344,0 1.00977,0 0,2.51954 -1.00977,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 6.04883,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02344,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 5.54492,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02344,0 1.00976,0 0,2.51954 -1.00976,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02344,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m 3.02539,0 1.00781,0 0,2.51954 -1.00781,0 0,-2.51954 z m -109.90039,4.03321 0,11.20117 29.23828,0 0,-11.20117 -29.23828,0 z m 83.68555,0 0,11.20117 29.23828,0 0,-11.20117 -29.23828,0 z m -81.66993,1.00781 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02344,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.0254,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02343,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 5.54492,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.0254,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02343,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 6.04883,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02344,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 6.04883,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 5.54492,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00976,0 0,2.51953 -1.00976,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m -107.88477,4.53711 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02344,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.0254,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02343,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 5.54492,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.0254,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02343,0 1.00977,0 0,2.51953 -1.00977,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.02539,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 6.04883,0 1.00782,0 0,2.51953 -1.00782,0 0,-2.51953 z m 3.78125,0 c 0.4189,0 0.75586,0.42406 0.75586,0.95117 l 0,2.57227 -1.51172,0 0,-2.57227 c 0,-0.52711 0.33691,-0.95117 0.75586,-0.95117 z m 2.77344,0 c 0.55852,0 1.00781,0.42406 1.00781,0.95117 l 0,3.42969 -2.01758,0 0,-3.42969 c 0,-0.52711 0.45117,-0.95117 1.00977,-0.95117 z m 2.77148,0 c 0.41889,0 0.75586,0.42406 0.75586,0.95117 l 0,2.57227 -1.51171,0 0,-2.57227 c 0,-0.52711 0.33691,-0.95117 0.75585,-0.95117 z m 2.77344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 6.04883,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 5.54492,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00976,0 0,2.51953 -1.00976,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02344,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z m 3.02539,0 1.00781,0 0,2.51953 -1.00781,0 0,-2.51953 z"
+       id="rect8464-8"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       id="rect12930-9"
+       width="275.34036"
+       height="57.278706"
+       x="512.461"
+       y="-8.1731329"
+       rx="0"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8910-62-1"
+       style="font-style:normal;font-weight:normal;font-size:21.01223373px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#018094;fill-opacity:1;stroke:none"
+       transform="translate(512.461,-338.70996)"><flowRegion
+         id="flowRegion8912-5-64"><rect
+           id="rect8914-1-5"
+           width="276.09888"
+           height="33.593204"
+           x="0.57426733"
+           y="346.27396"
+           style="fill:#018094;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8932-8-6"
+         style="font-size:16.34284782px;line-height:150%;text-align:center;text-anchor:middle;fill:#018094;fill-opacity:1">KARLSRUHE   GERMANY</flowPara></flowRoot>  </g>
 </svg>
