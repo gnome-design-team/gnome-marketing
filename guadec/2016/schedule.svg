@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="914.9411"
-     inkscape:cy="305.80438"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="593.83391"
+     inkscape:cy="666.92705"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -832,31 +832,31 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.67320919px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="184.48846"
+       x="224.48846"
        y="143.04552"
        id="text4283-62-7-5"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="184.48846"
+         x="224.48846"
          y="143.04552"
          id="tspan5004-1"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Room one</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Ada</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.67320919px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="502.95837"
+       x="522.95837"
        y="143.04552"
        id="text4283-62-7-5-6"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="502.95837"
+         x="522.95837"
          y="143.04552"
          id="tspan5004-1-8"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Room two</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Grace</tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5974-3"
@@ -2174,58 +2174,58 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.67320919px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1024.4885"
+       x="1064.4885"
        y="143.04552"
        id="text4283-62-7-5-2"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="1024.4885"
+         x="1064.4885"
          y="143.04552"
          id="tspan5004-1-6"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Room one</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Ada</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.67320919px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1342.9584"
+       x="1362.9584"
        y="143.04552"
        id="text4283-62-7-5-6-6"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="1342.9584"
+         x="1362.9584"
          y="143.04552"
          id="tspan5004-1-8-2"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Room two</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Grace</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.67320919px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1882.4885"
+       x="1922.4885"
        y="143.04552"
        id="text4283-62-7-5-2-9"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="1882.4885"
+         x="1922.4885"
          y="143.04552"
          id="tspan5004-1-6-7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Room one</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Ada</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.67320919px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2200.9585"
+       x="2220.9585"
        y="143.04552"
        id="text4283-62-7-5-6-6-0"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="2200.9585"
+         x="2220.9585"
          y="143.04552"
          id="tspan5004-1-8-2-3"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Room two</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Grace</tspan></text>
   </g>
 </svg>
