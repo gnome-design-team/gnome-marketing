@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
-     inkscape:cx="3304.606"
-     inkscape:cy="-233.66653"
+     inkscape:cx="3280.5644"
+     inkscape:cy="232.23013"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -387,5 +387,25 @@
          y="594.22357"
          id="tspan4144-7-1-8-0-4-5-6"
          style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light';text-align:center;text-anchor:middle">Terrace</tspan></text>
-  </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7899-2-3-3-6-0"
+       width="1053.5891"
+       height="750.94739"
+       x="5992.8281"
+       y="1305.6575" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8581"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6b8e9f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.73601732,0,0,0.73601732,1078.6137,478.78381)"><flowRegion
+         id="flowRegion8583"><rect
+           id="rect8585"
+           width="1182.2825"
+           height="743.87628"
+           x="6805.1958"
+           y="1397.4612"
+           style="fill:#6b8e9f;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8587"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:120px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light';text-align:center;text-anchor:middle;fill:#6b8e9f;fill-opacity:1">Please return mugs here when not needed anymore</flowPara></flowRoot>  </g>
 </svg>
