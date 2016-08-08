@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
-     inkscape:cx="2688.5976"
-     inkscape:cy="241.8544"
+     inkscape:cx="3304.606"
+     inkscape:cy="-233.66653"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -320,5 +320,72 @@
          y="594.22357"
          id="tspan4144-7-1-8-0-4-5-1"
          style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light';text-align:center;text-anchor:middle">Restrooms</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7899-6"
+       width="1053.5891"
+       height="750.94739"
+       x="4773.9614"
+       y="305.65744" />
+    <circle
+       style="opacity:1;fill:#6b8e9f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8395-9"
+       cx="5304.5474"
+       cy="815.19061"
+       r="142.98781" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 5318.0937,734.33597 0,36.19202 -96.718,0 0,88.66803 96.718,0 0,36.19287 80.5496,-80.52688 z"
+       id="rect7891-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:150.57827759px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6b8e9f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="5304.5386"
+       y="594.22357"
+       id="text4136-3-3-5-3-43-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="5304.5386"
+         y="594.22357"
+         id="tspan4144-7-1-8-0-4-3"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light';text-align:center;text-anchor:middle">Terrace</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7899-0-6"
+       width="1053.5891"
+       height="750.94739"
+       x="5973.9614"
+       y="305.65744" />
+    <circle
+       style="opacity:1;fill:#6b8e9f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8395-0-76"
+       cx="-6504.5474"
+       cy="815.19061"
+       r="142.98781"
+       transform="scale(-1,1)" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 6491.0011,734.33596 0,36.19202 96.7179,0 0,88.66803 -96.7179,0 0,36.19287 -80.5497,-80.52688 z"
+       id="rect7891-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:150.57827759px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6b8e9f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="6504.5391"
+       y="594.22357"
+       id="text4136-3-3-5-3-43-2-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="6504.5391"
+         y="594.22357"
+         id="tspan4144-7-1-8-0-4-5-6"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light';text-align:center;text-anchor:middle">Terrace</tspan></text>
   </g>
 </svg>
