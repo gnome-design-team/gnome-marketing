@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="3605.7181"
-     inkscape:cy="-1587.7515"
+     inkscape:cx="4156.413"
+     inkscape:cy="-1454.3085"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -429,5 +429,47 @@
          id="flowPara8587-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#6b8e9f;fill-opacity:1">Water is not drinkable!</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:70px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light';text-align:center;text-anchor:middle;fill:#6b8e9f;fill-opacity:1"
-         id="flowPara8616"> drinking water is available in the coffee area</flowPara></flowRoot>  </g>
+         id="flowPara8616"> drinking water is available in the coffee area</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7899-0-6-3"
+       width="1053.5891"
+       height="750.94739"
+       x="7153.9614"
+       y="305.65744" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:247.45758057px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6b8e9f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="7684.1606"
+       y="757.48895"
+       id="text4136-3-3-5-3-43-2-7-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="7684.1606"
+         y="757.48895"
+         id="tspan4144-7-1-8-0-4-5-6-3"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light';text-align:center;text-anchor:middle">Grace</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7899-0-6-3-2"
+       width="1053.5891"
+       height="750.94739"
+       x="8333.9609"
+       y="305.65744" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:247.45758057px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6b8e9f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="8864.1602"
+       y="757.48895"
+       id="text4136-3-3-5-3-43-2-7-5-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="8864.1602"
+         y="757.48895"
+         id="tspan4144-7-1-8-0-4-5-6-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light';text-align:center;text-anchor:middle">Ada</tspan></text>
+  </g>
 </svg>
