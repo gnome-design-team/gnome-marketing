@@ -117,25 +117,6 @@
          y="732.38196"
          id="tspan4144-7-1-8-0-0"
          style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light'">GUADEC attendees only</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:120.52455902px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6b8e9f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1899.8679"
-       y="-596.56616"
-       id="text4136-3-3-5-3-8"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="1899.8679"
-         y="-596.56616"
-         id="tspan4144-7-1-8-0-3"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light'">Unconference</tspan><tspan
-         sodipodi:role="line"
-         x="1899.8679"
-         y="-445.91046"
-         id="tspan8114"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light'">Proposals</tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7899-2-3-3-7-6"
@@ -557,5 +538,24 @@
          id="flowPara8587-5"
          style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:88.32207489px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light';text-align:center;text-anchor:middle;fill:#6b8e9f;fill-opacity:1">Please return</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:88.32207489px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light';text-align:center;text-anchor:middle;fill:#6b8e9f;fill-opacity:1"
-         id="flowPara4416">empty bottles</flowPara></flowRoot>  </g>
+         id="flowPara4416">empty bottles</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:120.52455902px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6b8e9f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3116.0916"
+       y="1462.5288"
+       id="text4136-3-3-5-3-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="3116.0916"
+         y="1462.5288"
+         id="tspan4144-7-1-8-0-3"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light'">Unconference</tspan><tspan
+         sodipodi:role="line"
+         x="3116.0916"
+         y="1613.1844"
+         id="tspan8114"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light'">Proposals</tspan></text>
+  </g>
 </svg>
