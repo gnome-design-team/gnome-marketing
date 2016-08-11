@@ -38,16 +38,18 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="512.87011"
-     inkscape:cy="278.42743"
+     inkscape:cx="315.55337"
+     inkscape:cy="252.84616"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4395"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -696,7 +698,7 @@
        xml:space="preserve"
        id="flowRoot4218"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.76866202,0,0,0.76866202,192.8628,515.94725)"><flowRegion
+       transform="matrix(0.76866202,0,0,0.76866202,187.28246,515.94725)"><flowRegion
          id="flowRegion4220"><rect
            id="rect4222"
            width="1136.7202"
@@ -716,7 +718,7 @@
          id="flowPara4230"
          style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:39.99969864px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRoot>    <g
        id="g4745"
-       transform="matrix(1.172651,0,0,1.2098875,718.82732,3435.4508)"
+       transform="matrix(1.172651,0,0,1.2098875,722.03819,3435.4508)"
        style="fill:#555753;fill-opacity:1">
       <g
          id="g4747"
@@ -793,63 +795,48 @@
     <g
        id="g4395"
        transform="translate(-1.2802426,0)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4248"
-         d="m 73.34899,887.70734 277.79196,0"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4248-9"
-         d="m 387.78175,887.70734 277.79195,0"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4248-9-9"
-         d="m 703.78175,887.70734 277.79195,0"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <flowRoot
-         transform="translate(114.85166,911.73731)"
-         style="font-style:normal;font-weight:normal;font-size:30.74648094px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4218-4"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4220-9"><rect
-             y="-13.415949"
-             x="-21.024792"
-             height="70.079659"
-             width="236.18428"
-             id="rect4222-1" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';text-align:center;writing-mode:lr-tb;text-anchor:middle"
-           id="flowPara4230-0">pfirsich</flowPara><flowPara
-           id="flowPara4391"
-           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';text-align:center;writing-mode:lr-tb;text-anchor:middle">Instructor</flowPara></flowRoot>      <flowRoot
-         transform="translate(425.65502,911.73731)"
-         style="font-style:normal;font-weight:normal;font-size:30.74648094px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4218-4-1"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4220-9-5"><rect
-             y="-13.415949"
-             x="-21.024792"
-             height="60.988289"
-             width="245.27565"
-             id="rect4222-1-4" /></flowRegion><flowPara
-           id="flowPara4385"
-           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';text-align:center;writing-mode:lr-tb;text-anchor:middle">traube</flowPara><flowPara
-           id="flowPara4389"
-           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';text-align:center;writing-mode:lr-tb;text-anchor:middle">Instructor</flowPara></flowRoot>      <flowRoot
-         transform="translate(721.76952,909.717)"
-         style="font-style:normal;font-weight:normal;font-size:30.74648094px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4218-4-1-2"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4220-9-5-2"><rect
-             y="-13.415949"
-             x="-21.024792"
-             height="80.18119"
-             width="283.66144"
-             id="rect4222-1-4-7" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';text-align:center;writing-mode:lr-tb;text-anchor:middle"
-           id="flowPara4230-0-1-0">apfel</flowPara><flowPara
-           id="flowPara4393"
-           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';text-align:center;writing-mode:lr-tb;text-anchor:middle">Director, GNOME Foundation</flowPara></flowRoot>    </g>
+      <g
+         id="g6271"
+         transform="translate(-12.826071,0)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 245.78175,887.70734 277.79195,0"
+           id="path4248-9"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 561.78175,887.70734 277.79195,0"
+           id="path4248-9-9"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4218-4-1"
+           style="font-style:normal;font-weight:normal;font-size:30.74648094px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(283.65502,911.73731)"><flowRegion
+             id="flowRegion4220-9-5"><rect
+               id="rect4222-1-4"
+               width="245.27565"
+               height="60.988289"
+               x="-21.024792"
+               y="-13.415949" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="flowPara4385">traube</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="flowPara4389">Instructor</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4218-4-1-2"
+           style="font-style:normal;font-weight:normal;font-size:30.74648094px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(579.76952,909.717)"><flowRegion
+             id="flowRegion4220-9-5-2"><rect
+               id="rect4222-1-4-7"
+               width="283.66144"
+               height="80.18119"
+               x="-21.024792"
+               y="-13.415949" /></flowRegion><flowPara
+             id="flowPara4230-0-1-0"
+             style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';text-align:center;writing-mode:lr-tb;text-anchor:middle">apfel</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="flowPara4393">Director, GNOME Foundation</flowPara></flowRoot>      </g>
+    </g>
   </g>
 </svg>
