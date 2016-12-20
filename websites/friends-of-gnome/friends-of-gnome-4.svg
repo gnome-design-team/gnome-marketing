@@ -55,9 +55,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="937.51291"
-     inkscape:cy="5894.8474"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="775.2325"
+     inkscape:cy="2272.8871"
      inkscape:document-units="px"
      inkscape:current-layer="g5286"
      showgrid="false"
@@ -100,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3466,317 +3466,12 @@
          x="134.02515"
          id="tspan5160"
          sodipodi:role="line">Donate to GNOME</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#926899;fill-opacity:1;stroke:none"
-       x="134.02515"
-       y="-2241.7085"
-       id="text5170"><tspan
-         style="font-size:22.5px;fill:#926899;fill-opacity:1"
-         sodipodi:role="line"
-         id="tspan5172"
-         x="134.02515"
-         y="-2241.7085">Donation amount</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path5174"
        d="M 133,-2713.1379 H 953"
        style="fill:none;fill-rule:evenodd;stroke:#d3d7d0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot5176"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none"
-       transform="translate(-0.683795,-2439.1338)"><flowRegion
-         id="flowRegion5178"><rect
-           style="fill:#3465a4"
-           id="rect5180"
-           width="570.19232"
-           height="193.4716"
-           x="134.70915"
-           y="225.46352" /></flowRegion><flowPara
-         id="flowPara5182"
-         style="font-weight:bold;fill:#3465a4">Currency</flowPara></flowRoot>    <rect
-       y="-2181.1377"
-       x="210.5"
-       height="29"
-       width="64"
-       id="rect5186"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
-       rx="3"
-       ry="3" />
-    <g
-       inkscape:label="#g15805"
-       transform="matrix(0.93617253,0,0,0.93566004,16.221105,-2459.7589)"
-       id="g5188"
-       style="display:inline">
-      <rect
-         y="261.97873"
-         x="206.99057"
-         height="17.100227"
-         width="17.090866"
-         id="rect5190"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-      <g
-         id="g5192">
-        <g
-           transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)"
-           id="g5194"
-           style="display:inline">
-          <g
-             id="g5196">
-            <rect
-               rx="15.428222"
-               y="125.5297"
-               x="50.570232"
-               height="28.919117"
-               width="29.385006"
-               id="rect5198"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e1e1e1;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:2.08222389;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-               ry="15.453857" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       inkscape:label="#g2928"
-       transform="matrix(0.93340838,0,0,0.93289741,-216.5588,-2459.0351)"
-       id="g5200"
-       style="display:inline">
-      <rect
-         y="261.97867"
-         x="456.99054"
-         height="17.150867"
-         width="17.141478"
-         id="rect5202"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-      <use
-         height="1"
-         width="1"
-         id="use5204"
-         xlink:href="#g7025"
-         y="0"
-         x="0"
-         style="display:inline"
-         transform="matrix(1.0029614,0,0,1.0029613,249.38699,-0.77583998)" />
-      <g
-         id="g5206">
-        <rect
-           ry="2.7766726"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2.08838987;marker:none;enable-background:accumulate"
-           id="rect5208"
-           width="5.5564694"
-           height="5.5533452"
-           x="462.22174"
-           y="267.2233"
-           rx="2.7766726" />
-      </g>
-    </g>
-    <flowRoot
-       transform="translate(95.316205,-2439.1338)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       id="flowRoot5210"
-       xml:space="preserve"><flowRegion
-         id="flowRegion5212"><rect
-           y="225.46352"
-           x="134.70915"
-           height="193.4716"
-           width="570.19232"
-           id="rect5214"
-           style="fill:#2e3436" /></flowRegion><flowPara
-         id="flowPara5216">$ USD</flowPara></flowRoot>    <g
-       style="display:inline"
-       id="g5218"
-       transform="matrix(0.93617253,0,0,0.93566004,90.221105,-2459.7589)"
-       inkscape:label="#g15805">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-         id="rect5220"
-         width="17.090866"
-         height="17.100227"
-         x="206.99057"
-         y="261.97873" />
-      <g
-         id="g5222">
-        <g
-           style="display:inline"
-           id="g5224"
-           transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
-          <g
-             id="g5226">
-            <rect
-               ry="15.453857"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e1e1e1;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:2.08222389;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-               id="rect5228"
-               width="29.385006"
-               height="28.919117"
-               x="50.570232"
-               y="125.5297"
-               rx="15.428222" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5230"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="translate(169.3162,-2439.1338)"><flowRegion
-         id="flowRegion5232"><rect
-           style="fill:#2e3436"
-           id="rect5234"
-           width="570.19232"
-           height="193.4716"
-           x="134.70915"
-           y="225.46352" /></flowRegion><flowPara
-         id="flowPara5236">€ EUR</flowPara></flowRoot>    <flowRoot
-       transform="translate(-0.683795,-2399.1986)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none"
-       id="flowRoot5238"
-       xml:space="preserve"><flowRegion
-         id="flowRegion5240"><rect
-           y="225.46352"
-           x="134.70915"
-           height="193.4716"
-           width="570.19232"
-           id="rect5242"
-           style="fill:#3465a4" /></flowRegion><flowPara
-         style="font-weight:bold;fill:#3465a4"
-         id="flowPara5244">Amount</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5246"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="translate(61.316205,-2399.1986)"><flowRegion
-         id="flowRegion5248"><rect
-           style="fill:#2e3436;fill-opacity:1"
-           id="rect5250"
-           width="570.19232"
-           height="193.4716"
-           x="134.70915"
-           y="225.46352" /></flowRegion><flowPara
-         id="flowPara5253"
-         style="font-weight:normal;fill:#2e3436;fill-opacity:1">$</flowPara></flowRoot>    <flowRoot
-       transform="translate(81.316205,-2399.1986)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       id="flowRoot5265"
-       xml:space="preserve"><flowRegion
-         id="flowRegion5267"><rect
-           y="225.46352"
-           x="134.70915"
-           height="193.4716"
-           width="570.19232"
-           id="rect5269"
-           style="fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
-         style="font-weight:normal;fill:#2e3436;fill-opacity:1"
-         id="flowPara5271">25</flowPara></flowRoot>    <rect
-       y="-2077.1377"
-       x="133.5"
-       height="35"
-       width="119"
-       id="rect5273"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:#305f04;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
-       rx="6.0000005"
-       ry="6" />
-    <text
-       id="text5275"
-       y="-2054.7869"
-       x="192.74603"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan5277"
-         y="-2054.7869"
-         x="192.74603"
-         sodipodi:role="line">Donate</tspan></text>
-    <rect
-       y="-2536.1377"
-       x="761.49994"
-       height="178"
-       width="191"
-       id="rect5362"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect5364"
-       width="191"
-       height="178"
-       x="552.5"
-       y="-2536.1377" />
-    <rect
-       y="-2536.1377"
-       x="342.5"
-       height="178"
-       width="191"
-       id="rect5366"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5376"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="translate(-106.9529,-2735.2878)"><flowRegion
-         id="flowRegion5378"><rect
-           style="font-size:25px;text-align:center;text-anchor:middle;fill:#2e3436"
-           id="rect5380"
-           width="818.61871"
-           height="164.12846"
-           x="134.70915"
-           y="225.46352" /></flowRegion><flowPara
-         id="flowPara5382"
-         style="font-size:25px;line-height:129.99999523%;text-align:center;text-anchor:middle;fill:#2e3436">Bank</flowPara><flowPara
-         style="font-size:25px;line-height:129.99999523%;text-align:center;text-anchor:middle;fill:#2e3436"
-         id="flowPara5384">Transfer</flowPara></flowRoot>    <flowRoot
-       transform="translate(103.0471,-2719.3378)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       id="flowRoot5386"
-       xml:space="preserve"><flowRegion
-         id="flowRegion5388"><rect
-           y="225.46352"
-           x="134.70915"
-           height="164.12846"
-           width="818.61871"
-           id="rect5390"
-           style="font-size:25px;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
-         id="flowPara5394"
-         style="font-size:25px;line-height:129.99999523%;text-align:center;text-anchor:middle;fill:#2e3436">Check</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5398"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="translate(312.54268,-2719.3378)"><flowRegion
-         id="flowRegion5400"><rect
-           style="font-size:25px;text-align:center;text-anchor:middle;fill:#2e3436"
-           id="rect5402"
-           width="818.61871"
-           height="164.12846"
-           x="134.70915"
-           y="225.46352" /></flowRegion><flowPara
-         style="font-size:25px;line-height:129.99999523%;text-align:center;text-anchor:middle;fill:#2e3436"
-         id="flowPara5404">Bitcoin</flowPara></flowRoot>    <flowRoot
-       transform="translate(219.86457,-2655.2878)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:69.99999881%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       id="flowRoot5406"
-       xml:space="preserve"><flowRegion
-         id="flowRegion5408"
-         style="line-height:69.99999881%"><rect
-           y="225.46352"
-           x="134.70915"
-           height="131.12846"
-           width="166.61873"
-           id="rect5410"
-           style="font-size:25px;line-height:69.99999881%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
-         id="flowPara5414"
-         style="font-size:13.75px;line-height:69.99999881%;text-align:center;text-anchor:middle;fill:#919191">For EU bank account holders only; tax deductible</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5418"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:69.99999881%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="translate(429.86457,-2655.2878)"><flowRegion
-         id="flowRegion5420"
-         style="line-height:69.99999881%"><rect
-           style="font-size:25px;line-height:69.99999881%;text-align:center;text-anchor:middle;fill:#2e3436"
-           id="rect5422"
-           width="166.61873"
-           height="131.12846"
-           x="134.70915"
-           y="225.46352" /></flowRegion><flowPara
-         style="font-size:13.75px;line-height:69.99999881%;text-align:center;text-anchor:middle;fill:#919191"
-         id="flowPara5426">Available to United States bank account holders; tax deductible</flowPara></flowRoot>    <flowRoot
        transform="translate(-0.693595,-2917.6379)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot5428"
@@ -4462,98 +4157,7 @@
            id="rect7361"
            style="fill:#2e3436" /></flowRegion><flowPara
          style="line-height:129.99999523%;fill:#2e3436"
-         id="flowPara7363">If an email address is provided, the &quot;you can contact me&quot; check box becomes sensitive. If the check box is checked when the donate button is pressed, we make a record of the email address for making future contact (should be recorded as a one time donor so can be differentiated from Friends of GNOME donors).</flowPara></flowRoot>    <g
-       transform="translate(-874.99104,-2188)"
-       id="g7367">
-      <g
-         id="g7369">
-        <g
-           style="display:inline"
-           id="g7371"
-           inkscape:label="#g14325"
-           transform="translate(990.99105,30.00192)">
-          <g
-             style="display:inline"
-             id="g7373"
-             transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
-            <g
-               transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)"
-               id="g7375"
-               style="display:inline">
-              <g
-                 id="g7377" />
-            </g>
-          </g>
-          <rect
-             y="30.362183"
-             x="17"
-             height="16"
-             width="16"
-             id="rect7379"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-          <g
-             style="stroke:#919191"
-             id="g7381">
-            <rect
-               ry="6"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e1e1e1;fill-opacity:1;stroke:#919191;stroke-width:2.09697676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-               id="rect7383"
-               width="29.559635"
-               height="29.154205"
-               x="50.440369"
-               y="125.3458"
-               rx="6"
-               transform="matrix(0.47304779,0,0,0.4807373,-6.3607039,-29.396216)" />
-          </g>
-        </g>
-        <g
-           style="display:inline"
-           id="g7385"
-           transform="matrix(0.99650823,0,0,0.99810193,971.21441,30.084943)"
-           inkscape:label="#g10801">
-          <use
-             transform="matrix(1.003504,0,0,1.0019017,19.813776,-0.08723712)"
-             style="display:inline"
-             x="0"
-             y="0"
-             xlink:href="#g5400"
-             id="use7387"
-             width="1"
-             height="1" />
-          <rect
-             y="30.332689"
-             x="36.905502"
-             height="16.030426"
-             width="16.023939"
-             id="rect7389"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-          <g
-             style="fill:#2e3436"
-             id="g7391">
-            <path
-               sodipodi:nodetypes="cccccccccc"
-               inkscape:connector-curvature="0"
-               id="path7393"
-               d="m 50.868001,31.380423 -6.9811,6.843038 -1.871896,-1.872654 -2.138425,-0.01563 0.01122,1.699486 2.936988,2.938186 c 0.586676,0.586674 1.537597,0.586674 2.124273,0 l 7.996316,-8.077832 0.002,-1.570761 z"
-               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <flowRoot
-       transform="translate(-1250.1687,-3137.2545)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot7395"
-       xml:space="preserve"><flowRegion
-         id="flowRegion7397"><rect
-           style="fill:#2e3436;fill-opacity:1"
-           y="987"
-           x="1408"
-           height="80"
-           width="643"
-           id="rect7399" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
-         id="flowPara7401">GNOME can contact me by email (we don't do this very often)</flowPara></flowRoot>    <flowRoot
+         id="flowPara7363">If an email address is provided, the &quot;you can contact me&quot; check box becomes sensitive. If the check box is checked when the donate button is pressed, we make a record of the email address for making future contact (should be recorded as a one time donor so can be differentiated from Friends of GNOME donors).</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7441"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
@@ -4566,21 +4170,7 @@
            x="134.70915"
            y="225.46352" /></flowRegion><flowPara
          id="flowPara7447"
-         style="line-height:129.99999523%;fill:#2e3436">If the check box is checked when the donate button is pressed, we make a record of the email address for making future contact (should be recorded as a one time donor so can be differentiated from Friends of GNOME donors).</flowPara></flowRoot>    <flowRoot
-       transform="translate(-0.68382263,-2551.6379)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:129.99999523%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none"
-       id="flowRoot13671"
-       xml:space="preserve"><flowRegion
-         id="flowRegion13673"><rect
-           style="line-height:129.99999523%;fill:#888a85;fill-opacity:1"
-           y="225.46352"
-           x="134.70915"
-           height="121.12846"
-           width="815.61871"
-           id="rect13675" /></flowRegion><flowPara
-         id="flowPara13677"><flowSpan
-           id="flowSpan13679"
-           style="fill:#2e3436">PayPal donations are made to the GNOME Foundation, a 501(c)(3) nonprofit organization, and can therefore be tax deductible in the United States. Contact your tax office for more information and to find out if you qualify.</flowSpan></flowPara></flowRoot>    <rect
+         style="line-height:129.99999523%;fill:#2e3436">If the check box is checked when the donate button is pressed, we make a record of the email address for making future contact (should be recorded as a one time donor so can be differentiated from Friends of GNOME donors).</flowPara></flowRoot>    <rect
        y="-2646.1377"
        x="1193.4999"
        height="178"
@@ -4718,13 +4308,6 @@
            y="225.46352" /></flowRegion><flowPara
          style="font-size:13.75px;line-height:69.99999881%;text-align:center;text-anchor:middle;fill:#ffffff"
          id="flowPara13785">For EU bank account holders only; tax deductible</flowPara></flowRoot>    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect5360"
-       width="191"
-       height="178"
-       x="133.49994"
-       y="-2536.1377" />
-    <rect
        y="-1676.1378"
        x="133.49994"
        height="178"
@@ -4985,8 +4568,425 @@
            x="134.70915"
            y="225.46352" /></flowRegion><flowPara
          style="font-size:13.75px;line-height:69.99999881%;text-align:center;text-anchor:middle;fill:#919191;fill-opacity:1"
-         id="flowPara14122">Tax deductible in the United States</flowPara></flowRoot>    <flowRoot
-       transform="translate(-315.953,-2719.3378)"
+         id="flowPara14122">Tax deductible in the United States</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#926899;fill-opacity:1;stroke:none"
+       x="134.02515"
+       y="-2351.7085"
+       id="text5170"><tspan
+         style="font-size:22.5px;fill:#926899;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan5172"
+         x="134.02515"
+         y="-2351.7085">Donation amount</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5176"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none"
+       transform="translate(-0.683795,-2549.1338)"><flowRegion
+         id="flowRegion5178"><rect
+           style="fill:#3465a4"
+           id="rect5180"
+           width="570.19232"
+           height="193.4716"
+           x="134.70915"
+           y="225.46352" /></flowRegion><flowPara
+         id="flowPara5182"
+         style="font-weight:bold;fill:#3465a4">Currency</flowPara></flowRoot>    <rect
+       y="-2291.1377"
+       x="210.5"
+       height="29"
+       width="64"
+       id="rect5186"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+       rx="3"
+       ry="3" />
+    <g
+       inkscape:label="#g15805"
+       transform="matrix(0.93617253,0,0,0.93566004,16.221105,-2569.7589)"
+       id="g5188"
+       style="display:inline">
+      <rect
+         y="261.97873"
+         x="206.99057"
+         height="17.100227"
+         width="17.090866"
+         id="rect5190"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+      <g
+         id="g5192">
+        <g
+           transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)"
+           id="g5194"
+           style="display:inline">
+          <g
+             id="g5196">
+            <rect
+               rx="15.428222"
+               y="125.5297"
+               x="50.570232"
+               height="28.919117"
+               width="29.385006"
+               id="rect5198"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e1e1e1;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:2.08222389;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               ry="15.453857" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label="#g2928"
+       transform="matrix(0.93340838,0,0,0.93289741,-216.5588,-2569.0351)"
+       id="g5200"
+       style="display:inline">
+      <rect
+         y="261.97867"
+         x="456.99054"
+         height="17.150867"
+         width="17.141478"
+         id="rect5202"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+      <use
+         height="1"
+         width="1"
+         id="use5204"
+         xlink:href="#g7025"
+         y="0"
+         x="0"
+         style="display:inline"
+         transform="matrix(1.0029614,0,0,1.0029613,249.38699,-0.77583998)" />
+      <g
+         id="g5206">
+        <rect
+           ry="2.7766726"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2.08838987;marker:none;enable-background:accumulate"
+           id="rect5208"
+           width="5.5564694"
+           height="5.5533452"
+           x="462.22174"
+           y="267.2233"
+           rx="2.7766726" />
+      </g>
+    </g>
+    <flowRoot
+       transform="translate(95.316205,-2549.1338)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot5210"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5212"><rect
+           y="225.46352"
+           x="134.70915"
+           height="193.4716"
+           width="570.19232"
+           id="rect5214"
+           style="fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara5216">$ USD</flowPara></flowRoot>    <g
+       style="display:inline"
+       id="g5218"
+       transform="matrix(0.93617253,0,0,0.93566004,90.221105,-2569.7589)"
+       inkscape:label="#g15805">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect5220"
+         width="17.090866"
+         height="17.100227"
+         x="206.99057"
+         y="261.97873" />
+      <g
+         id="g5222">
+        <g
+           style="display:inline"
+           id="g5224"
+           transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
+          <g
+             id="g5226">
+            <rect
+               ry="15.453857"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e1e1e1;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:2.08222389;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="rect5228"
+               width="29.385006"
+               height="28.919117"
+               x="50.570232"
+               y="125.5297"
+               rx="15.428222" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5230"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="translate(169.3162,-2549.1338)"><flowRegion
+         id="flowRegion5232"><rect
+           style="fill:#2e3436"
+           id="rect5234"
+           width="570.19232"
+           height="193.4716"
+           x="134.70915"
+           y="225.46352" /></flowRegion><flowPara
+         id="flowPara5236">€ EUR</flowPara></flowRoot>    <flowRoot
+       transform="translate(-0.683795,-2509.1986)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none"
+       id="flowRoot5238"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5240"><rect
+           y="225.46352"
+           x="134.70915"
+           height="193.4716"
+           width="570.19232"
+           id="rect5242"
+           style="fill:#3465a4" /></flowRegion><flowPara
+         style="font-weight:bold;fill:#3465a4"
+         id="flowPara5244">Amount</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5246"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="translate(61.316205,-2509.1986)"><flowRegion
+         id="flowRegion5248"><rect
+           style="fill:#2e3436;fill-opacity:1"
+           id="rect5250"
+           width="570.19232"
+           height="193.4716"
+           x="134.70915"
+           y="225.46352" /></flowRegion><flowPara
+         id="flowPara5253"
+         style="font-weight:normal;fill:#2e3436;fill-opacity:1">$</flowPara></flowRoot>    <flowRoot
+       transform="translate(81.316205,-2509.1986)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot5265"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5267"><rect
+           y="225.46352"
+           x="134.70915"
+           height="193.4716"
+           width="570.19232"
+           id="rect5269"
+           style="fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
+         style="font-weight:normal;fill:#2e3436;fill-opacity:1"
+         id="flowPara5271">25</flowPara></flowRoot>    <rect
+       y="-2187.1377"
+       x="133.5"
+       height="35"
+       width="119"
+       id="rect5273"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:#305f04;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+       rx="6.0000005"
+       ry="6" />
+    <text
+       id="text5275"
+       y="-2164.7869"
+       x="192.74603"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan5277"
+         y="-2164.7869"
+         x="192.74603"
+         sodipodi:role="line">Donate</tspan></text>
+    <rect
+       y="-2646.1377"
+       x="761.49994"
+       height="178"
+       width="191"
+       id="rect5362"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5364"
+       width="191"
+       height="178"
+       x="552.5"
+       y="-2646.1377" />
+    <rect
+       y="-2646.1377"
+       x="342.5"
+       height="178"
+       width="191"
+       id="rect5366"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5376"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="translate(-106.9529,-2845.2878)"><flowRegion
+         id="flowRegion5378"><rect
+           style="font-size:25px;text-align:center;text-anchor:middle;fill:#2e3436"
+           id="rect5380"
+           width="818.61871"
+           height="164.12846"
+           x="134.70915"
+           y="225.46352" /></flowRegion><flowPara
+         id="flowPara5382"
+         style="font-size:25px;line-height:129.99999523%;text-align:center;text-anchor:middle;fill:#2e3436">Bank</flowPara><flowPara
+         style="font-size:25px;line-height:129.99999523%;text-align:center;text-anchor:middle;fill:#2e3436"
+         id="flowPara5384">Transfer</flowPara></flowRoot>    <flowRoot
+       transform="translate(103.0471,-2829.3378)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot5386"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5388"><rect
+           y="225.46352"
+           x="134.70915"
+           height="164.12846"
+           width="818.61871"
+           id="rect5390"
+           style="font-size:25px;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara5394"
+         style="font-size:25px;line-height:129.99999523%;text-align:center;text-anchor:middle;fill:#2e3436">Check</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5398"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="translate(312.54268,-2829.3378)"><flowRegion
+         id="flowRegion5400"><rect
+           style="font-size:25px;text-align:center;text-anchor:middle;fill:#2e3436"
+           id="rect5402"
+           width="818.61871"
+           height="164.12846"
+           x="134.70915"
+           y="225.46352" /></flowRegion><flowPara
+         style="font-size:25px;line-height:129.99999523%;text-align:center;text-anchor:middle;fill:#2e3436"
+         id="flowPara5404">Bitcoin</flowPara></flowRoot>    <flowRoot
+       transform="translate(219.86457,-2765.2878)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:69.99999881%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot5406"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5408"
+         style="line-height:69.99999881%"><rect
+           y="225.46352"
+           x="134.70915"
+           height="131.12846"
+           width="166.61873"
+           id="rect5410"
+           style="font-size:25px;line-height:69.99999881%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara5414"
+         style="font-size:13.75px;line-height:69.99999881%;text-align:center;text-anchor:middle;fill:#919191">For EU bank account holders only; tax deductible</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5418"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:69.99999881%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="translate(429.86457,-2765.2878)"><flowRegion
+         id="flowRegion5420"
+         style="line-height:69.99999881%"><rect
+           style="font-size:25px;line-height:69.99999881%;text-align:center;text-anchor:middle;fill:#2e3436"
+           id="rect5422"
+           width="166.61873"
+           height="131.12846"
+           x="134.70915"
+           y="225.46352" /></flowRegion><flowPara
+         style="font-size:13.75px;line-height:69.99999881%;text-align:center;text-anchor:middle;fill:#919191"
+         id="flowPara5426">Available to United States bank account holders; tax deductible</flowPara></flowRoot>    <g
+       transform="translate(-874.99104,-2298)"
+       id="g7367">
+      <g
+         id="g7369">
+        <g
+           style="display:inline"
+           id="g7371"
+           inkscape:label="#g14325"
+           transform="translate(990.99105,30.00192)">
+          <g
+             style="display:inline"
+             id="g7373"
+             transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
+            <g
+               transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)"
+               id="g7375"
+               style="display:inline">
+              <g
+                 id="g7377" />
+            </g>
+          </g>
+          <rect
+             y="30.362183"
+             x="17"
+             height="16"
+             width="16"
+             id="rect7379"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+          <g
+             style="stroke:#919191"
+             id="g7381">
+            <rect
+               ry="6"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e1e1e1;fill-opacity:1;stroke:#919191;stroke-width:2.09697676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="rect7383"
+               width="29.559635"
+               height="29.154205"
+               x="50.440369"
+               y="125.3458"
+               rx="6"
+               transform="matrix(0.47304779,0,0,0.4807373,-6.3607039,-29.396216)" />
+          </g>
+        </g>
+        <g
+           style="display:inline"
+           id="g7385"
+           transform="matrix(0.99650823,0,0,0.99810193,971.21441,30.084943)"
+           inkscape:label="#g10801">
+          <use
+             transform="matrix(1.003504,0,0,1.0019017,19.813776,-0.08723712)"
+             style="display:inline"
+             x="0"
+             y="0"
+             xlink:href="#g5400"
+             id="use7387"
+             width="1"
+             height="1" />
+          <rect
+             y="30.332689"
+             x="36.905502"
+             height="16.030426"
+             width="16.023939"
+             id="rect7389"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+          <g
+             style="fill:#2e3436"
+             id="g7391">
+            <path
+               sodipodi:nodetypes="cccccccccc"
+               inkscape:connector-curvature="0"
+               id="path7393"
+               d="m 50.868001,31.380423 -6.9811,6.843038 -1.871896,-1.872654 -2.138425,-0.01563 0.01122,1.699486 2.936988,2.938186 c 0.586676,0.586674 1.537597,0.586674 2.124273,0 l 7.996316,-8.077832 0.002,-1.570761 z"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <flowRoot
+       transform="translate(-1250.1687,-3247.2545)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot7395"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7397"><rect
+           style="fill:#2e3436;fill-opacity:1"
+           y="987"
+           x="1408"
+           height="80"
+           width="643"
+           id="rect7399" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
+         id="flowPara7401">GNOME can contact me by email (we don't do this very often)</flowPara></flowRoot>    <flowRoot
+       transform="translate(-0.68382263,-2661.6379)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:129.99999523%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none"
+       id="flowRoot13671"
+       xml:space="preserve"><flowRegion
+         id="flowRegion13673"><rect
+           style="line-height:129.99999523%;fill:#888a85;fill-opacity:1"
+           y="225.46352"
+           x="134.70915"
+           height="121.12846"
+           width="815.61871"
+           id="rect13675" /></flowRegion><flowPara
+         id="flowPara13677"><flowSpan
+           id="flowSpan13679"
+           style="fill:#2e3436">PayPal donations are made to the GNOME Foundation, a 501(c)(3) nonprofit organization, and can therefore be tax deductible in the United States. Contact your tax office for more information and to find out if you qualify.</flowSpan></flowPara></flowRoot>    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5360"
+       width="191"
+       height="178"
+       x="133.49994"
+       y="-2646.1377" />
+    <flowRoot
+       transform="translate(-315.953,-2829.3378)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
        id="flowRoot5368"
        xml:space="preserve"><flowRegion
@@ -5002,7 +5002,7 @@
        xml:space="preserve"
        id="flowRoot13663"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:69.99999881%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="translate(10.864509,-2655.2878)"><flowRegion
+       transform="translate(10.864509,-2765.2878)"><flowRegion
          id="flowRegion13665"
          style="line-height:69.99999881%"><rect
            style="font-size:25px;line-height:69.99999881%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
@@ -6922,45 +6922,6 @@
        id="path12193"
        d="m 2493,-5518.1379 h 33"
        style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <g
-       id="g12222"
-       transform="translate(-1062.2054,3079.1212)">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot12201"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-         transform="translate(1059.3064,-5960.9379)"><flowRegion
-           id="flowRegion12197"><rect
-             style="fill:#2e3436"
-             id="rect12195"
-             width="818.61871"
-             height="164.12846"
-             x="134.70915"
-             y="225.46352" /></flowRegion><flowPara
-           style="line-height:129.99999523%;fill:#2e3436"
-           id="flowPara12199">Donations are used for:</flowPara></flowRoot>      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:25.19999886px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="1194.0154"
-         y="-5693.6309"
-         id="text12211"><tspan
-           style="line-height:25.19999886px;fill:#2e3436"
-           sodipodi:role="line"
-           x="1194.0154"
-           y="-5693.6309"
-           id="tspan12203">• GNOME's development infrastructure, which is essential for all our development work</tspan><tspan
-           sodipodi:role="line"
-           x="1194.0154"
-           y="-5668.4307"
-           id="tspan12207"><tspan
-             id="tspan12205"
-             style="line-height:25.19999886px;fill:#2e3436">• Travel sponsorship, for community members to attend hackfests and conferences</tspan></tspan><tspan
-           style="line-height:25.19999886px;fill:#2e3436"
-           id="tspan12209"
-           sodipodi:role="line"
-           x="1194.0154"
-           y="-5643.231">• Outreach activities, such as hack camps and GNOME's presence at conferences</tspan></text>
-    </g>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
        id="rect15651"
