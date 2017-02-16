@@ -15,7 +15,10 @@
    version="1.1"
    id="svg31634"
    inkscape:version="0.92.0 r"
-   sodipodi:docname="gnome-get-involved-flyer.svg">
+   sodipodi:docname="get-involved-leaflet.svg"
+   inkscape:export-filename="/home/aday/checkout/gnome-marketing/flyers/get-involved-leaflet.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs31628">
     <clipPath
@@ -63,8 +66,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="246.38881"
-     inkscape:cy="389.80628"
+     inkscape:cx="13.548648"
+     inkscape:cy="387.78597"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -81,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

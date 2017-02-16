@@ -15,7 +15,10 @@
    version="1.1"
    id="svg31634"
    inkscape:version="0.92.0 r"
-   sodipodi:docname="gnome-flyer-new.svg">
+   sodipodi:docname="friends-of-gnome-leaflet.svg"
+   inkscape:export-filename="/home/aday/checkout/gnome-marketing/flyers/friends-of-gnome-leaflet.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs31628">
     <clipPath
@@ -72,8 +75,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="246.38881"
-     inkscape:cy="389.80628"
+     inkscape:cx="13.548648"
+     inkscape:cy="387.78597"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -81,7 +84,8 @@
      inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata31631">
     <rdf:RDF>
@@ -140,7 +144,7 @@
            y="458.13226"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.03791523px;line-height:160.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          id="flowPara37254"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.03791523px;line-height:160.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start">Pay a monthly subscription to become a Friend of GNOME, and help to support the GNOME project.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.03791523px;line-height:160.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start">Pay a monthly subscription to become a Friend of GNOME and help to support the GNOME project.</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-664.77068,-732.16034)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:160.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot37266"
@@ -168,7 +172,7 @@
            width="412.34445"
            id="rect37268" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:160.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara37272">Donations pay for community members to attend hackfests, to keep GNOME's development infrastructure running and for outreach events and activities.</flowPara></flowRoot>    <g
+         id="flowPara37272">Donations pay for community members to attend hackfests, keep GNOME's development infrastructure running, and fund outreach events and activities.</flowPara></flowRoot>    <g
        id="g37526"
        transform="matrix(0.7857423,0,0,0.78574238,-697.08642,-295.67005)"
        clip-path="url(#clipPath5515)"
