@@ -143,9 +143,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="572.58747"
-     inkscape:cy="832.78742"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="625.78116"
+     inkscape:cy="950.51055"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
@@ -336,7 +336,7 @@
        xml:space="preserve"
        id="flowRoot8543"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:20.75104904px;line-height:25px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       transform="matrix(1.4135832,0,0,1.4135832,-196.40932,-236.04393)"><flowRegion
+       transform="matrix(1.4135832,0,0,1.4135832,-196.40932,-576.04393)"><flowRegion
          id="flowRegion8545"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:20.75104904px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"><rect
            id="rect8547"
@@ -799,7 +799,7 @@
        id="path7813"
        inkscape:connector-curvature="0" />
     <flowRoot
-       transform="matrix(1.4135832,0,0,1.4135832,263.73663,-236.04393)"
+       transform="matrix(1.4135832,0,0,1.4135832,263.73663,-576.04393)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:20.75104904px;line-height:25px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        id="flowRoot161"
        xml:space="preserve"><flowRegion
@@ -817,12 +817,12 @@
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:20.75104904px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
    id="flowSpan171">nd</flowSpan> August</flowPara></flowRoot>    <text
        id="text165"
-       y="413.74136"
+       y="73.741364"
        x="331.05591"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:76.51486969px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.41358316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.41358316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
-         y="413.74136"
+         y="73.741364"
          x="331.05591"
          id="tspan163"
          sodipodi:role="line">Conference</tspan></text>
@@ -830,18 +830,18 @@
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:76.51486969px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.41358316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        x="790.54254"
-       y="413.74136"
+       y="73.741364"
        id="text169"><tspan
          sodipodi:role="line"
          id="tspan167"
          x="790.54254"
-         y="413.74136"
+         y="73.741364"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.41358316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none">Unconference</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot179"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666794px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-7.9387471,-534.88189)"><flowRegion
+       transform="translate(-7.9387471,-874.8819)"><flowRegion
          id="flowRegion181"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666794px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:center;text-anchor:middle;fill:#ffffff"><rect
            id="rect183"
@@ -852,7 +852,7 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666794px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:center;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666794px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:center;text-anchor:middle;fill:#ffffff"
          id="flowPara327">Talks, demos, keynotes and social events</flowPara></flowRoot>    <flowRoot
-       transform="translate(442.57056,-534.88189)"
+       transform="translate(442.57056,-874.8819)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666794px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot232"
        xml:space="preserve"><flowRegion
@@ -3236,7 +3236,7 @@ AMBvfgE4rNgZVyxf2QAAAABJRU5ErkJggg==
        width="450.31577"
        style="stroke-width:2.2028985" />
     <flowRoot
-       transform="translate(91.483616,-884.88189)"
+       transform="translate(91.483616,-624.88189)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:48px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot301"
        xml:space="preserve"><flowRegion
@@ -3277,7 +3277,7 @@ AMBvfgE4rNgZVyxf2QAAAABJRU5ErkJggg==
        xml:space="preserve"
        id="flowRoot341"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666794px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(211.31082,-912.88189)"><flowRegion
+       transform="translate(211.31082,-652.88189)"><flowRegion
          id="flowRegion337"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666794px;line-height:120.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:center;text-anchor:middle;fill:#ffffff"><rect
            id="rect335"
