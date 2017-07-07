@@ -254,14 +254,14 @@
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5737.47874015748" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.275590551181" BORDERLEFT="56.6929133858268" BORDERRIGHT="39.9996850393701" BORDERTOP="39.9996850393701" BORDERBOTTOM="39.9996850393701" NUM="17" NAM="" MNAM="normal right page" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="941.890393700788" PAGEYPOS="5737.47874015748" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.275590551181" BORDERLEFT="56.6929133858268" BORDERRIGHT="39.9996850393701" BORDERTOP="39.9996850393701" BORDERBOTTOM="39.9996850393701" NUM="18" NAM="" MNAM="normal left page" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="245.81 225.188 315.499 295.588 370.255 388.346 450.709 464.646 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="6372.75401574803" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.275590551181" BORDERLEFT="39.9996850393701" BORDERRIGHT="39.9996850393701" BORDERTOP="39.9996850393701" BORDERBOTTOM="39.9996850393701" NUM="19" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0.0425196850393701" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="140.00031496063" YPOS="575.277165354331" OwnPage="1" ItemID="53088560" PTYPE="4" WIDTH="62.5552405949256" HEIGHT="24.6117235345582" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L62.5552 0 L62.5552 24.6117 L0 24.6117 L0 0 Z" copath="M0 0 L62.5552 0 L62.5552 24.6117 L0 24.6117 L0 0 Z" OnMasterPage="normal left page" gXpos="231606392.282666" gYpos="9761911087.30452" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="140.00031496063" YPOS="575.277165354331" OwnPage="1" ItemID="53088560" PTYPE="4" WIDTH="62.5552405949256" HEIGHT="24.6117235345582" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L62.5552 0 L62.5552 24.6117 L0 24.6117 L0 0 Z" copath="M0 0 L62.5552 0 L62.5552 24.6117 L0 24.6117 L0 0 Z" OnMasterPage="normal left page" gXpos="231776454.014948" gYpos="9767685739.55964" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Default Paragraph Style" FONTSIZE="18" FCOLOR=" Gray 3"/>
                 <var name="pgno" FONTSIZE="18" FCOLOR=" Gray 3"/>
                 <trail PARENT="Default Paragraph Style"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="839.335468066492" YPOS="575.277165354331" OwnPage="2" ItemID="53099920" PTYPE="4" WIDTH="62.5552405949256" HEIGHT="24.6117235345582" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L62.5552 0 L62.5552 24.6117 L0 24.6117 L0 0 Z" copath="M0 0 L62.5552 0 L62.5552 24.6117 L0 24.6117 L0 0 Z" OnMasterPage="normal right page" gXpos="2054488170.14022" gYpos="8951734363.96522" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" ALIGN="2" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="839.335468066492" YPOS="575.277165354331" OwnPage="2" ItemID="53099920" PTYPE="4" WIDTH="62.5552405949256" HEIGHT="24.6117235345582" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L62.5552 0 L62.5552 24.6117 L0 24.6117 L0 0 Z" copath="M0 0 L62.5552 0 L62.5552 24.6117 L0 24.6117 L0 0 Z" OnMasterPage="normal right page" gXpos="2055848663.99857" gYpos="8957509016.22034" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" ALIGN="2" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Default Paragraph Style" ALIGN="2" FONTSIZE="18" FCOLOR=" Gray 3"/>
                 <var name="pgno" FONTSIZE="18" FCOLOR=" Gray 3"/>
@@ -1513,75 +1513,76 @@
             <StoryText>
                 <DefaultStyle PARENT="financial report table row"/>
                 <tab FONT="Abyssinica SIL Regular"/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="FY 2013"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="FY 2014"/>
                 <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="FY 2015"/>
+                <tab FONT="Abyssinica SIL Regular"/>
+                <ITEXT FONT="Abyssinica SIL Regular" CH="FY 201"/>
+                <ITEXT CH="6"/>
                 <para PARENT="financial report table row"/>
                 <ITEXT CH="Advisory Board"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$160 000"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$130 000"/>
                 <tab/>
                 <ITEXT CH="$90 000"/>
+                <tab/>
+                <ITEXT CH="$60 000"/>
                 <para PARENT="financial report table row"/>
                 <ITEXT CH="Sponsorship"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$38 635"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$31 421"/>
                 <tab/>
                 <ITEXT CH="$28 773"/>
+                <tab/>
+                <ITEXT CH="£38 671"/>
                 <para PARENT="financial report table row"/>
                 <ITEXT CH="Individual donations"/>
-                <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$47 417"/>
                 <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$71 178"/>
                 <tab/>
                 <ITEXT CH="$229 057"/>
+                <tab/>
+                <ITEXT CH="$35 570"/>
                 <para PARENT="financial report table row"/>
                 <ITEXT CH="GUADEC"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$32 906"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$62 436"/>
                 <tab/>
                 <ITEXT CH="$38 244"/>
+                <tab/>
+                <ITEXT CH="$61 359"/>
                 <para PARENT="financial report table row"/>
                 <ITEXT CH="Royalties"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$7 336"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$974"/>
                 <tab/>
                 <ITEXT CH="$450"/>
+                <tab/>
+                <ITEXT CH="$13 988"/>
                 <para PARENT="financial report table row"/>
                 <ITEXT CH="OPW"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$249 500"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$552 850"/>
                 <tab/>
                 <ITEXT CH="$256 273"/>
+                <tab/>
+                <ITEXT CH="$0"/>
                 <para PARENT="financial report table row"/>
                 <ITEXT CH="Other"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$5 434"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$26 033"/>
                 <tab/>
                 <ITEXT CH="$1 377"/>
+                <tab/>
+                <ITEXT CH="$1 359"/>
                 <para PARENT="financial report table row"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="Total"/>
-                <tab FONT="Abyssinica SIL Regular"/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$521 228"/>
                 <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$874 892"/>
                 <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$644 174"/>
+                <tab FONT="Abyssinica SIL Regular"/>
+                <ITEXT FONT="Abyssinica SIL Regular" CH="$211 474"/>
                 <trail PARENT="financial report table row"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1589,83 +1590,78 @@
             <StoryText>
                 <DefaultStyle PARENT="financial report table row"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="FY 2013"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="FY 2014"/>
+                <tab FONT="Abyssinica SIL Regular"/>
+                <ITEXT FONT="Abyssinica SIL Regular" CH="FY 201"/>
+                <ITEXT CH="5"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="FY 2015"/>
+                <ITEXT FONT="Abyssinica SIL Regular" CH="FY 201"/>
+                <ITEXT CH="6"/>
                 <para PARENT="financial report table row"/>
                 <ITEXT CH="Administration fees"/>
-                <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$17 305"/>
                 <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$19 503"/>
                 <tab/>
                 <ITEXT CH="$19 750"/>
+                <tab/>
+                <ITEXT CH="£20 734"/>
                 <para/>
                 <ITEXT CH="Employees"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$220 262"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$156 520"/>
                 <tab/>
                 <ITEXT CH="$79 714"/>
+                <tab/>
+                <ITEXT CH="$71 290"/>
                 <para/>
                 <ITEXT CH="GUADEC"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$37 377"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$26 082"/>
                 <tab/>
                 <ITEXT CH="$50 155"/>
+                <tab/>
+                <ITEXT CH="$12 535"/>
                 <para/>
-                <ITEXT CH="Hackfests"/>
+                <ITEXT CH="Other events"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$29 534"/>
-                <tab FONT="Abyssinica SIL Regular"/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$26 817"/>
+                <ITEXT CH="$40 448"/>
                 <tab/>
-                <ITEXT CH="$6 981"/>
-                <para/>
-                <ITEXT CH="Miscellaneous events"/>
+                <ITEXT CH="$21 462"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$19 746"/>
-                <tab FONT="Abyssinica SIL Regular"/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$13 631"/>
-                <tab/>
-                <ITEXT CH="$14 481"/>
+                <ITEXT CH="$32 993"/>
                 <para/>
                 <ITEXT CH="Marketing"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$600"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$320"/>
                 <tab/>
                 <ITEXT CH="$350"/>
+                <tab/>
+                <ITEXT CH="$1 049"/>
                 <para/>
                 <ITEXT CH="Contracts"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="0"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$30 000"/>
                 <tab/>
-                <ITEXT CH="0"/>
+                <ITEXT CH="$0"/>
+                <tab/>
+                <ITEXT CH="$0"/>
                 <para/>
                 <ITEXT CH="OPW"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$275 369"/>
-                <tab FONT="Abyssinica SIL Regular"/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$427 535"/>
                 <tab/>
                 <ITEXT CH="$321 723"/>
+                <tab/>
+                <ITEXT CH="$0"/>
                 <para/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="Total"/>
                 <tab/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$600 193"/>
-                <tab FONT="Abyssinica SIL Regular"/>
-                <ITEXT FONT="Abyssinica SIL Regular" CH="$700 408"/>
+                <ITEXT FONT="Abyssinica SIL Regular" CH="$"/>
+                <ITEXT CH="623 279"/>
                 <tab/>
                 <ITEXT FONT="Abyssinica SIL Regular" CH="$493 155"/>
+                <tab FONT="Abyssinica SIL Regular"/>
+                <ITEXT FONT="Abyssinica SIL Regular" CH="$144 101"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
