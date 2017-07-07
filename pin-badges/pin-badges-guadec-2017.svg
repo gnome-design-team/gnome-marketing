@@ -98,9 +98,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="245.97426"
-     inkscape:cy="630.0596"
+     inkscape:zoom="2"
+     inkscape:cx="340.30337"
+     inkscape:cy="902.27975"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -3142,116 +3142,185 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccccccccc" />
     </g>
-    <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29538223;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 81.972141,206.7482 -5.738868,3.32941 -0.02264,6.64048 5.789494,3.32939 5.789241,-3.3238 -0.02518,-6.64607 z m 0,0.52789 v 4.80724 l 0.674935,0.40527 -0.674935,0.39051 -4.858119,-2.82083 z m 5.39368,3.09267 0.01807,6.12173 -5.124794,2.88794 v -6.09783 z"
-       id="path5246"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccc" />
-    <circle
-       r="16"
-       cy="261"
-       cx="36"
-       id="circle10982"
-       style="display:inline;opacity:1;fill:#ff8921;stroke:none;stroke-width:0.22120602;stroke-miterlimit:4;stroke-dasharray:0.8848241, 0.88482410000000000;stroke-dashoffset:0;stroke-opacity:1;fill-opacity:1" />
     <g
-       transform="matrix(0.95942378,0,0,0.95942378,-225.49589,28.165795)"
-       style="display:inline;fill:#ffffff"
-       id="g849">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 278.7795,235.00152 c 0,0 -0.11302,4.06234 -5.84302,4.03087 -4.86485,-0.0267 -4.96814,-3.03096 -4.96814,-3.03096 0.52967,4.99998 -0.99987,6.99933 -0.99987,6.99933 0,0 -0.10876,0.71567 -2.40596,0.5937 1.21604,1.73419 5.82245,5.16101 9.53788,4.2496 -0.54351,-0.40203 -0.78896,-0.78972 -1.10142,-1.1327 -0.0827,0.0113 -0.008,0.007 -0.0937,0.008 -2.15004,0.0106 -3.96826,-1.78109 -3.96826,-1.78109 0,0 4.05095,1.92192 5.65555,-0.53119 l -0.84368,-0.90636 c 0.9112,0.0218 2.09732,0.9775 2.01952,2.27054 -0.5437,-0.61824 -0.48847,-0.55195 -0.48847,-0.55195 0,0 -0.21842,0.22117 -0.53118,0.53119 0.71709,0.36804 0.94408,0.58432 1.60026,1.02178 3.20163,-2.3628 2.65119,-6.77228 2.43049,-11.77076 z m -4.27522,5.00693 c 0.84839,0 1.54667,0.69579 1.54667,1.54671 0,0.85092 -0.69828,1.5467 -1.54667,1.5467 -0.8484,0 -1.54666,-0.69578 -1.54666,-1.5467 0,-0.85092 0.69826,-1.54671 1.54666,-1.54671 z m -3.97375,-0.007 c 0.82596,0 1.46856,0.67143 1.46856,1.49985 0,0.82844 -0.6426,1.49986 -1.46856,1.49986 -0.82597,0 -1.49982,-0.67142 -1.49982,-1.49986 0,-0.82842 0.67385,-1.49985 1.49982,-1.49985 z"
-         id="path825"
-         sodipodi:nodetypes="csccccccccccccccssssssssss"
-         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.67424625;marker:none;enable-background:new" />
-      <path
-         inkscape:connector-curvature="0"
-         d="M 269.05437,245.0321 Z"
-         id="path827"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.99851286px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         d="M 269.08553,245.0946 Z"
-         id="path829"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.99851286px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 270.54553,241 c -0.30116,0 -0.54533,0.23761 -0.54533,0.53074 0,0.29311 0.24417,0.53072 0.54533,0.53072 0.30117,0 0.54533,-0.23761 0.54533,-0.53072 0,-0.29313 -0.24416,-0.53074 -0.54533,-0.53074 z"
-         id="path831"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      <ellipse
-         ry="0.5"
-         rx="0.73572785"
-         cy="-15.5"
-         cx="33.735729"
-         id="path833"
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         transform="matrix(0.69104101,0,0,1.000002,251.19585,257.03128)" />
-      <ellipse
-         ry="6.0987959"
-         rx="4.3310289"
-         cy="27.228739"
-         cx="6.0987959"
-         id="path835"
-         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.55635607;marker:none;enable-background:new"
-         transform="matrix(0.40472113,-0.11972332,0.15769825,0.31663504,258.23773,235.12592)" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 276.51358,249.00019 0.4849,-0.60519 c -0.9509,-1.22325 -2.95949,-2.43657 -2.95949,-2.43657 -0.33044,-0.2825 -0.53936,0.0546 -0.33671,0.3568 0,0 1.50633,1.89884 2.8113,2.68496 z"
-         id="path837"
-         sodipodi:nodetypes="ccssc"
-         inkscape:r_cx="true"
-         inkscape:r_cy="true"
-         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.27392486;marker:none" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 278.99823,251 c -0.0537,-1.66895 -0.77474,-3.11447 -2.13998,-2.99213 -1.10021,0.0986 -1.23652,1.77662 0.14023,1.99223 2.10063,0.32898 1.99975,0.9999 1.99975,0.9999 z"
-         id="path839"
-         sodipodi:nodetypes="cssc"
-         inkscape:r_cx="true"
-         inkscape:r_cy="true"
-         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;marker:none" />
+       id="g4812">
+      <circle
+         style="display:inline;opacity:1;fill:#ff8921;stroke:none;stroke-width:0.22120602;stroke-miterlimit:4;stroke-dasharray:0.8848241, 0.88482410000000000;stroke-dashoffset:0;stroke-opacity:1;fill-opacity:1"
+         id="circle10982"
+         cx="36"
+         cy="261"
+         r="16" />
+      <g
+         id="g849"
+         style="display:inline;fill:#ffffff"
+         transform="matrix(0.95942378,0,0,0.95942378,-224.96672,28.601418)">
+        <path
+           style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.67424625;marker:none;enable-background:new"
+           sodipodi:nodetypes="csccccccccccccccssssssssss"
+           id="path825"
+           d="m 278.7795,235.00152 c 0,0 -0.11302,4.06234 -5.84302,4.03087 -4.86485,-0.0267 -4.96814,-3.03096 -4.96814,-3.03096 0.52967,4.99998 -0.99987,6.99933 -0.99987,6.99933 0,0 -0.10876,0.71567 -2.40596,0.5937 1.21604,1.73419 5.82245,5.16101 9.53788,4.2496 -0.54351,-0.40203 -0.78896,-0.78972 -1.10142,-1.1327 -0.0827,0.0113 -0.008,0.007 -0.0937,0.008 -2.15004,0.0106 -3.96826,-1.78109 -3.96826,-1.78109 0,0 4.05095,1.92192 5.65555,-0.53119 l -0.84368,-0.90636 c 0.9112,0.0218 2.09732,0.9775 2.01952,2.27054 -0.5437,-0.61824 -0.48847,-0.55195 -0.48847,-0.55195 0,0 -0.21842,0.22117 -0.53118,0.53119 0.71709,0.36804 0.94408,0.58432 1.60026,1.02178 3.20163,-2.3628 2.65119,-6.77228 2.43049,-11.77076 z m -4.27522,5.00693 c 0.84839,0 1.54667,0.69579 1.54667,1.54671 0,0.85092 -0.69828,1.5467 -1.54667,1.5467 -0.8484,0 -1.54666,-0.69578 -1.54666,-1.5467 0,-0.85092 0.69826,-1.54671 1.54666,-1.54671 z m -3.97375,-0.007 c 0.82596,0 1.46856,0.67143 1.46856,1.49985 0,0.82844 -0.6426,1.49986 -1.46856,1.49986 -0.82597,0 -1.49982,-0.67142 -1.49982,-1.49986 0,-0.82842 0.67385,-1.49985 1.49982,-1.49985 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.99851286px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path827"
+           d="M 269.05437,245.0321 Z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.99851286px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path829"
+           d="M 269.08553,245.0946 Z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path831"
+           d="m 270.54553,241 c -0.30116,0 -0.54533,0.23761 -0.54533,0.53074 0,0.29311 0.24417,0.53072 0.54533,0.53072 0.30117,0 0.54533,-0.23761 0.54533,-0.53072 0,-0.29313 -0.24416,-0.53074 -0.54533,-0.53074 z"
+           inkscape:connector-curvature="0" />
+        <ellipse
+           transform="matrix(0.69104101,0,0,1.000002,251.19585,257.03128)"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path833"
+           cx="33.735729"
+           cy="-15.5"
+           rx="0.73572785"
+           ry="0.5" />
+        <ellipse
+           transform="matrix(0.40472113,-0.11972332,0.15769825,0.31663504,258.23773,235.12592)"
+           style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.55635607;marker:none;enable-background:new"
+           id="path835"
+           cx="6.0987959"
+           cy="27.228739"
+           rx="4.3310289"
+           ry="6.0987959" />
+        <path
+           style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.27392486;marker:none"
+           inkscape:r_cy="true"
+           inkscape:r_cx="true"
+           sodipodi:nodetypes="ccssc"
+           id="path837"
+           d="m 276.51358,249.00019 0.4849,-0.60519 c -0.9509,-1.22325 -2.95949,-2.43657 -2.95949,-2.43657 -0.33044,-0.2825 -0.53936,0.0546 -0.33671,0.3568 0,0 1.50633,1.89884 2.8113,2.68496 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;marker:none"
+           inkscape:r_cy="true"
+           inkscape:r_cx="true"
+           sodipodi:nodetypes="cssc"
+           id="path839"
+           d="m 278.99823,251 c -0.0537,-1.66895 -0.77474,-3.11447 -2.13998,-2.99213 -1.10021,0.0986 -1.23652,1.77662 0.14023,1.99223 2.10063,0.32898 1.99975,0.9999 1.99975,0.9999 z"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
     <g
-       id="g5355"
+       id="g4796"
+       transform="translate(0,0.60022709)">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5246"
+         d="m 81.972141,206.7482 -5.738868,3.32941 -0.02264,6.64048 5.789494,3.32939 5.789241,-3.3238 -0.02518,-6.64607 z m 0,0.52789 v 4.80724 l 0.674935,0.40527 -0.674935,0.39051 -4.858119,-2.82083 z m 5.39368,3.09267 0.01807,6.12173 -5.124794,2.88794 v -6.09783 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29538223;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         id="text4342"
+         y="224.05135"
+         x="74.897278"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.39229274px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17050904;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         xml:space="preserve"><tspan
+           y="224.05135"
+           x="74.897278"
+           id="tspan4340"
+           sodipodi:role="line"
+           style="fill:#ffffff;stroke-width:0.17050904">FLATPAK</tspan></text>
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29538223;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 127.97214,206.7482 -5.73887,3.32941 -0.0226,6.64048 5.7895,3.32939 5.78924,-3.3238 -0.0252,-6.64607 z m 0,0.52789 v 4.80724 l 0.67494,0.40527 -0.67494,0.39051 -4.85812,-2.82083 z m 5.39368,3.09267 0.0181,6.12173 -5.12479,2.88794 v -6.09783 z"
+         id="path5365"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+      <text
+         xml:space="preserve"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.39229274px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17050904;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         x="120.89728"
+         y="224.05135"
+         id="text5369"><tspan
+           style="fill:#ffffff;stroke-width:0.17050904"
+           sodipodi:role="line"
+           id="tspan5367"
+           x="120.89728"
+           y="224.05135">FLATPAK</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5371"
+         d="m 173.97212,206.7482 -5.73887,3.32941 -0.0226,6.64048 5.7895,3.32939 5.78924,-3.3238 -0.0252,-6.64607 z m 0,0.52789 v 4.80724 l 0.67494,0.40527 -0.67494,0.39051 -4.85812,-2.82083 z m 5.39368,3.09267 0.0181,6.12173 -5.12479,2.88794 v -6.09783 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29538223;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         id="text5375"
+         y="224.05135"
+         x="166.89729"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.39229274px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17050904;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         xml:space="preserve"><tspan
+           y="224.05135"
+           x="166.89729"
+           id="tspan5373"
+           sodipodi:role="line"
+           style="fill:#ffffff;stroke-width:0.17050904">FLATPAK</tspan></text>
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29538223;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 35.9721,206.7482 -5.73887,3.32941 -0.0226,6.64048 5.7895,3.32939 5.78924,-3.3238 -0.0252,-6.64607 z m 0,0.52789 v 4.80724 l 0.67494,0.40527 -0.67494,0.39051 -4.85812,-2.82083 z m 5.39368,3.09267 0.0181,6.12173 -5.12479,2.88794 v -6.09783 z"
+         id="path5377"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+      <text
+         xml:space="preserve"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.39229274px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17050904;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         x="28.897282"
+         y="224.05135"
+         id="text5381"><tspan
+           style="fill:#ffffff;stroke-width:0.17050904"
+           sodipodi:role="line"
+           id="tspan5379"
+           x="28.897282"
+           y="224.05135">FLATPAK</tspan></text>
+    </g>
+    <g
+       id="g4834"
        transform="translate(46)">
       <circle
          r="16"
          cy="261"
          cx="36"
-         id="circle5325"
+         id="circle4814"
          style="display:inline;opacity:1;fill:#ff8921;fill-opacity:1;stroke:none;stroke-width:0.22120602;stroke-miterlimit:4;stroke-dasharray:0.8848241, 0.8848241;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         transform="matrix(0.95942378,0,0,0.95942378,-225.49589,28.165795)"
+         transform="matrix(0.95942378,0,0,0.95942378,-224.96672,28.601418)"
          style="display:inline;fill:#ffffff"
-         id="g5343">
+         id="g4832">
         <path
            inkscape:connector-curvature="0"
            d="m 278.7795,235.00152 c 0,0 -0.11302,4.06234 -5.84302,4.03087 -4.86485,-0.0267 -4.96814,-3.03096 -4.96814,-3.03096 0.52967,4.99998 -0.99987,6.99933 -0.99987,6.99933 0,0 -0.10876,0.71567 -2.40596,0.5937 1.21604,1.73419 5.82245,5.16101 9.53788,4.2496 -0.54351,-0.40203 -0.78896,-0.78972 -1.10142,-1.1327 -0.0827,0.0113 -0.008,0.007 -0.0937,0.008 -2.15004,0.0106 -3.96826,-1.78109 -3.96826,-1.78109 0,0 4.05095,1.92192 5.65555,-0.53119 l -0.84368,-0.90636 c 0.9112,0.0218 2.09732,0.9775 2.01952,2.27054 -0.5437,-0.61824 -0.48847,-0.55195 -0.48847,-0.55195 0,0 -0.21842,0.22117 -0.53118,0.53119 0.71709,0.36804 0.94408,0.58432 1.60026,1.02178 3.20163,-2.3628 2.65119,-6.77228 2.43049,-11.77076 z m -4.27522,5.00693 c 0.84839,0 1.54667,0.69579 1.54667,1.54671 0,0.85092 -0.69828,1.5467 -1.54667,1.5467 -0.8484,0 -1.54666,-0.69578 -1.54666,-1.5467 0,-0.85092 0.69826,-1.54671 1.54666,-1.54671 z m -3.97375,-0.007 c 0.82596,0 1.46856,0.67143 1.46856,1.49985 0,0.82844 -0.6426,1.49986 -1.46856,1.49986 -0.82597,0 -1.49982,-0.67142 -1.49982,-1.49986 0,-0.82842 0.67385,-1.49985 1.49982,-1.49985 z"
-           id="path5327"
+           id="path4816"
            sodipodi:nodetypes="csccccccccccccccssssssssss"
            style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.67424625;marker:none;enable-background:new" />
         <path
            inkscape:connector-curvature="0"
            d="M 269.05437,245.0321 Z"
-           id="path5329"
+           id="path4818"
            style="fill:#ffffff;stroke:#000000;stroke-width:0.99851286px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            d="M 269.08553,245.0946 Z"
-           id="path5331"
+           id="path4820"
            style="fill:#ffffff;stroke:#000000;stroke-width:0.99851286px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            d="m 270.54553,241 c -0.30116,0 -0.54533,0.23761 -0.54533,0.53074 0,0.29311 0.24417,0.53072 0.54533,0.53072 0.30117,0 0.54533,-0.23761 0.54533,-0.53072 0,-0.29313 -0.24416,-0.53074 -0.54533,-0.53074 z"
-           id="path5333"
+           id="path4822"
            style="fill:#ffffff;fill-opacity:1;stroke:none" />
         <ellipse
            ry="0.5"
            rx="0.73572785"
            cy="-15.5"
            cx="33.735729"
-           id="ellipse5335"
+           id="ellipse4824"
            style="fill:#ffffff;fill-opacity:1;stroke:none"
            transform="matrix(0.69104101,0,0,1.000002,251.19585,257.03128)" />
         <ellipse
@@ -3259,13 +3328,13 @@
            rx="4.3310289"
            cy="27.228739"
            cx="6.0987959"
-           id="ellipse5337"
+           id="ellipse4826"
            style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.55635607;marker:none;enable-background:new"
            transform="matrix(0.40472113,-0.11972332,0.15769825,0.31663504,258.23773,235.12592)" />
         <path
            inkscape:connector-curvature="0"
            d="m 276.51358,249.00019 0.4849,-0.60519 c -0.9509,-1.22325 -2.95949,-2.43657 -2.95949,-2.43657 -0.33044,-0.2825 -0.53936,0.0546 -0.33671,0.3568 0,0 1.50633,1.89884 2.8113,2.68496 z"
-           id="path5339"
+           id="path4828"
            sodipodi:nodetypes="ccssc"
            inkscape:r_cx="true"
            inkscape:r_cy="true"
@@ -3273,75 +3342,13 @@
         <path
            inkscape:connector-curvature="0"
            d="m 278.99823,251 c -0.0537,-1.66895 -0.77474,-3.11447 -2.13998,-2.99213 -1.10021,0.0986 -1.23652,1.77662 0.14023,1.99223 2.10063,0.32898 1.99975,0.9999 1.99975,0.9999 z"
-           id="path5341"
+           id="path4830"
            sodipodi:nodetypes="cssc"
            inkscape:r_cx="true"
            inkscape:r_cy="true"
            style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;marker:none" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.39229274px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17050904;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       x="74.897278"
-       y="224.05135"
-       id="text4342"><tspan
-         style="fill:#ffffff;stroke-width:0.17050904"
-         sodipodi:role="line"
-         id="tspan4340"
-         x="74.897278"
-         y="224.05135">FLATPAK</tspan></text>
-    <path
-       sodipodi:nodetypes="cccccccccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path5365"
-       d="m 127.97214,206.7482 -5.73887,3.32941 -0.0226,6.64048 5.7895,3.32939 5.78924,-3.3238 -0.0252,-6.64607 z m 0,0.52789 v 4.80724 l 0.67494,0.40527 -0.67494,0.39051 -4.85812,-2.82083 z m 5.39368,3.09267 0.0181,6.12173 -5.12479,2.88794 v -6.09783 z"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29538223;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <text
-       id="text5369"
-       y="224.05135"
-       x="120.89728"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.39229274px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17050904;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       xml:space="preserve"><tspan
-         y="224.05135"
-         x="120.89728"
-         id="tspan5367"
-         sodipodi:role="line"
-         style="fill:#ffffff;stroke-width:0.17050904">FLATPAK</tspan></text>
-    <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29538223;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 173.97212,206.7482 -5.73887,3.32941 -0.0226,6.64048 5.7895,3.32939 5.78924,-3.3238 -0.0252,-6.64607 z m 0,0.52789 v 4.80724 l 0.67494,0.40527 -0.67494,0.39051 -4.85812,-2.82083 z m 5.39368,3.09267 0.0181,6.12173 -5.12479,2.88794 v -6.09783 z"
-       id="path5371"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccc" />
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.39229274px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17050904;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       x="166.89729"
-       y="224.05135"
-       id="text5375"><tspan
-         style="fill:#ffffff;stroke-width:0.17050904"
-         sodipodi:role="line"
-         id="tspan5373"
-         x="166.89729"
-         y="224.05135">FLATPAK</tspan></text>
-    <path
-       sodipodi:nodetypes="cccccccccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path5377"
-       d="m 35.9721,206.7482 -5.73887,3.32941 -0.0226,6.64048 5.7895,3.32939 5.78924,-3.3238 -0.0252,-6.64607 z m 0,0.52789 v 4.80724 l 0.67494,0.40527 -0.67494,0.39051 -4.85812,-2.82083 z m 5.39368,3.09267 0.0181,6.12173 -5.12479,2.88794 v -6.09783 z"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29538223;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <text
-       id="text5381"
-       y="224.05135"
-       x="28.897282"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.39229274px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17050904;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       xml:space="preserve"><tspan
-         y="224.05135"
-         x="28.897282"
-         id="tspan5379"
-         sodipodi:role="line"
-         style="fill:#ffffff;stroke-width:0.17050904">FLATPAK</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
