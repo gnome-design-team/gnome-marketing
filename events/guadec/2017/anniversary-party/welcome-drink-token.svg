@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="99mm"
-   height="52.5mm"
-   viewBox="0 0 374.17323 198.4252"
+   width="74mm"
+   height="52mm"
+   viewBox="0 0 279.68504 196.53544"
    version="1.1"
    id="svg34901"
    inkscape:version="0.92+devel unknown"
-   sodipodi:docname="welcome-drink-ticket.svg"
+   sodipodi:docname="welcome-drink-token (copy).svg"
    inkscape:export-filename="/home/jimmac/src/git/gnome/gnome-marketing/events/guadec/2017/birthday-party-graphic.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -71,9 +71,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="225.17343"
-     inkscape:cy="122.85163"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="200.98207"
+     inkscape:cy="141.07607"
      inkscape:document-units="px"
      inkscape:current-layer="g35778"
      showgrid="false"
@@ -88,7 +88,7 @@
      fit-margin-bottom="0"
      inkscape:snap-global="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -104,7 +104,7 @@
        originx="-10.583332"
        originy="-13.229169" />
     <sodipodi:guide
-       position="167.89367,18.517359"
+       position="20.768258,16.685105"
        orientation="0,1"
        id="guide4603"
        inkscape:locked="false" />
@@ -125,14 +125,14 @@
      inkscape:label="bg"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-10.583333,-416.28313)"
+     transform="translate(-10.583333,-418.17289)"
      style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="stuff"
      style="display:none;opacity:1"
-     transform="translate(-3.9468722e-7,-267.71438)">
+     transform="translate(-3.9468722e-7,-269.60414)">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect34917"
@@ -422,80 +422,66 @@
          id="flowPara35614"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;stroke-width:0.30628771px">'s</flowPara></flowRoot>  </g>
   <g
-     transform="translate(-3.9468722e-7,-267.71438)"
+     transform="translate(-3.9468722e-7,-269.60414)"
      style="display:inline;opacity:1"
      inkscape:label="stuff copy"
      id="g35778"
      inkscape:groupmode="layer">
     <flowRoot
-       transform="matrix(0.87096157,0,0,0.87096157,-220.4786,135.80361)"
-       style="font-style:normal;font-weight:normal;font-size:12.24700069px;line-height:6.00000048px;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30378306px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.87096157,0,0,0.87096157,-212.4786,138.15717)"
+       style="font-style:normal;font-weight:normal;font-size:9.18525028px;line-height:6.00000048px;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30378306px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot8350"
        xml:space="preserve"><flowRegion
-         style="font-size:12.24700069px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.30378306px"
+         style="font-size:9.18525028px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.30378306px"
          id="flowRegion8346"><rect
-           style="font-size:12.24700037px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.30378306px;"
+           style="font-size:9.18525027px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.30378306px;"
            y="352"
            x="271"
            height="95"
            width="445"
            id="rect8344" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.24700069px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.15342417px"
-         id="flowPara8348">Sponsored by</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.95149779,0,0,0.95149779,-323.49622,97.638579)"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.81559372px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:end;letter-spacing:0.86211163px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27807039px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot9590"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.81559372px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:end;letter-spacing:0.86211163px;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:0.27807039px"
-         id="flowRegion9586"><rect
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.81559344px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:end;letter-spacing:0.86211163px;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:0.27807039px;"
-           y="352"
-           x="271"
-           height="95"
-           width="445"
-           id="rect9584" /></flowRegion><flowPara
-         id="flowPara9588"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.81559372px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:end;letter-spacing:0.86211163px;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:0.14043812px">TOKEN</flowPara></flowRoot>    <rect
-       y="282.67416"
-       x="13.47789"
-       height="47.925148"
-       width="47.925148"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.18525028px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.15342417px"
+         id="flowPara8348">Sponsored by</flowPara></flowRoot>    <rect
+       y="301.7453"
+       x="20.346909"
+       height="63.113644"
+       width="63.113644"
        id="rect7474"
        style="fill:#dbdbdb;stroke:#dbdbdb;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7482"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.88207626px;line-height:6.00000048px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0.66331464px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13131665px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(2.0148499,0,0,2.0148499,-807.47956,-345.84874)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.55856991px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0.66506195px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13131665px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(2.0148499,0,0,2.0148499,-438.45504,-407.08085)"><flowRegion
          id="flowRegion7478"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.88207626px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0.66331464px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.13131665px"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.55856991px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0.66506195px;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.13131665px"><rect
            id="rect7476"
-           width="445"
-           height="95"
+           width="69.907463"
+           height="130.88841"
            x="271"
            y="352"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.88207638px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0.66331464px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.13131665px;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.55857001px;line-height:110%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0.66506195px;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.13131665px;" /></flowRegion><flowPara
          id="flowPara7480"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.88207626px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0.66331464px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.06632084px">WELCOME DRINK</flowPara></flowRoot>    <g
-       transform="matrix(0.10509882,0,0,0.10509882,85.3664,427.06718)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.55856991px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0.66506195px;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.06632084px">WELCOME DRINK TOKEN</flowPara></flowRoot>    <g
+       transform="matrix(0.09272597,0,0,0.09272597,74.938193,431.07617)"
        id="g873"
-       style="stroke-width:11.89356804">
+       style="stroke-width:13.48058033">
       <g
          id="g855"
          clip-rule="nonzero"
          clip-path="url(#clip1)"
          transform="translate(-1.1080525,-1.1080603)"
-         style="stroke-width:11.89356804">
+         style="stroke-width:13.48058033">
         <g
            id="g853"
            clip-rule="nonzero"
            clip-path="url(#clip2)"
-           style="stroke-width:11.89356804">
+           style="stroke-width:13.48058033">
           <path
              inkscape:connector-curvature="0"
              id="path851"
              d="M 226.07422,199.25 C 198.72656,236.89062 152.24609,255.5625 106.45703,247.29297 60.667969,239.02344 23.652344,205.27734 11.199219,160.44531 -1.253906,115.61328 13.054688,67.609375 48.015625,36.910156 82.980469,6.210938 132.42969,-1.769531 175.27344,16.378906 139.57422,9.902344 103.05078,22.242188 78.59375,49.042969 54.136719,75.847656 45.183594,113.34766 54.894531,148.30469 c 9.714844,34.96093 36.722657,62.47265 71.499999,72.82031 34.77734,10.35156 72.43359,2.08594 99.67969,-21.875"
-             style="fill:#de0021;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.89356804" />
+             style="fill:#de0021;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.48058033" />
         </g>
       </g>
       <g
@@ -503,17 +489,17 @@
          clip-rule="nonzero"
          clip-path="url(#clip3)"
          transform="translate(-1.1080525,-1.1080603)"
-         style="stroke-width:11.89356804">
+         style="stroke-width:13.48058033">
         <g
            id="g859"
            clip-rule="nonzero"
            clip-path="url(#clip4)"
-           style="stroke-width:11.89356804">
+           style="stroke-width:13.48058033">
           <path
              inkscape:connector-curvature="0"
              id="path857"
              d="m 86.578125,61.9375 c 22.886715,-27.5 59.777345,-39.023438 94.246095,-29.433594 34.47265,9.589844 60.11328,38.503906 65.51172,73.875004 5.39843,35.36718 -10.44922,70.61718 -40.49219,90.05078 -30.03906,19.43359 -68.6875,19.4414 -98.73437,0.0195 25.92187,9.75 55.07031,5.02344 76.58593,-12.42188 21.51172,-17.4414 32.16406,-44.98047 27.98438,-72.35937 C 207.5,84.289062 189.11719,61.175781 163.38281,50.945312 137.64453,40.714844 108.41406,44.898438 86.578125,61.9375"
-             style="fill:#51ba2b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.89356804" />
+             style="fill:#51ba2b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.48058033" />
         </g>
       </g>
       <g
@@ -521,22 +507,22 @@
          clip-rule="nonzero"
          clip-path="url(#clip5)"
          transform="translate(-1.1080525,-1.1080603)"
-         style="stroke-width:11.89356804">
+         style="stroke-width:13.48058033">
         <g
            id="g865"
            clip-rule="nonzero"
            clip-path="url(#clip6)"
-           style="stroke-width:11.89356804">
+           style="stroke-width:13.48058033">
           <path
              inkscape:connector-curvature="0"
              id="path863"
              d="M 94.425781,80.109375 C 115.43359,63.238281 145.29297,63.0625 166.5,79.683594 c 21.20312,16.625 28.16016,45.664066 16.79297,70.089846 -11.3711,24.42968 -38.06641,37.80468 -64.44141,32.28515 -26.371091,-5.51953 -45.464841,-28.48047 -46.082029,-55.41406 4.730469,14.91016 18.125,25.39063 33.734379,26.39453 15.61328,1.00391 30.24218,-7.67187 36.83984,-21.85547 C 149.94531,117 147.16797,100.21875 136.34766,88.921875 125.52344,77.625 108.87891,74.125 94.425781,80.109375"
-             style="fill:#4a4294;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.89356804" />
+             style="fill:#4a4294;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.48058033" />
         </g>
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-0.44000167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.89356804"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-0.44000167px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.48058033"
          x="255.94966"
          y="196.52718"
          id="text871"><tspan
@@ -544,7 +530,7 @@
            id="tspan869"
            x="255.94966"
            y="196.52718"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:208px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:-2.24000001px;stroke-width:11.89356804">Centricular</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:208px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:-2.24000001px;stroke-width:13.48058033">Centricular</tspan></text>
     </g>
   </g>
 </svg>
