@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:i="&amp;#38;#38;#38;#38;#38;#38;ns_ai;"
+   xmlns:ns="&amp;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -28,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="328.41133"
-     inkscape:cy="396.14006"
+     inkscape:zoom="1.3618"
+     inkscape:cx="33.857041"
+     inkscape:cy="547.81947"
      inkscape:document-units="mm"
-     inkscape:current-layer="printing-marks"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1136"
+     inkscape:window-width="3440"
+     inkscape:window-height="1376"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -245,15 +245,15 @@
          style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none" />
     </clipPath>
     <color-profile
-       id="color-profile39"
+       id="color-profile2194"
        name="PANTONE-process-uncoated"
        xlink:href="http://www.pantone.com/graphics/pantone-matching-system" />
     <color-profile
-       id="color-profile41"
+       id="color-profile2196"
        name="PANTONE-solid-uncoated"
        xlink:href="http://www.pantone.com/graphics/pantone-matching-system" />
     <color-profile
-       id="color-profile43"
+       id="color-profile2198"
        name="ISO-Coated-v2-300---ECI-"
        xlink:href="http://www.eci.org/en/colorstandards/offset#eci_offset_profiles_2009" />
     <linearGradient
@@ -530,7 +530,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -538,8 +538,7 @@
      transform="translate(8,-79)"
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1"
-     sodipodi:insensitive="true">
+     inkscape:label="Layer 1">
     <g
        id="g13250"
        transform="matrix(1.0076475,0,0,1.0076475,-2.0338067,-1.4410539)">
@@ -929,7 +928,7 @@
        clip-path="url(#clipPath7763)"
        style="stroke-width:1.16688752"
        id="g4446"
-       transform="matrix(0.22674279,0,0,0.22674279,14.773938,-66.079062)">
+       transform="matrix(0.22674279,0,0,0.22674279,-139.42372,-66.079062)">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -1315,7 +1314,7 @@
     <g
        style="fill:#ffffff;fill-opacity:1;stroke-width:2.17076254"
        id="g9921"
-       transform="matrix(0.12188497,0,0,0.12188497,-31.386765,152.5934)">
+       transform="matrix(0.12188497,0,0,0.12188497,-185.58443,152.5934)">
       <g
          id="g9889"
          transform="matrix(0.9944177,0,0,0.9944177,100.67823,-513.44707)"
@@ -1491,7 +1490,7 @@
            id="flowPara2855"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#000000">aavery</flowPara></flowRoot>    </g>
     <g
-       i:extraneous="self"
+       ns:extraneous="self"
        id="g8587"
        transform="matrix(0.13433191,0,0,0.13433191,36.213837,182.90122)"
        style="stroke-width:2.04493117">
@@ -2254,7 +2253,7 @@
                id="g7790"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1678.941,267.656 -1678.941,267.65 -1678.971,267.656 "
+                 points="-1678.971,267.656 -1678.941,267.656 -1678.941,267.65 "
                  id="polygon7786"
                  style="stroke-width:2.04493117" />
               <path
@@ -2280,7 +2279,7 @@
                id="g7802"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1735.742,267.656 -1735.742,267.65 -1735.771,267.656 "
+                 points="-1735.771,267.656 -1735.742,267.656 -1735.742,267.65 "
                  id="polygon7798"
                  style="stroke-width:2.04493117" />
               <path
@@ -2388,7 +2387,7 @@
                id="g7847"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1678.981,271.469 -1678.981,271.466 -1679.011,271.469 "
+                 points="-1679.011,271.469 -1678.981,271.469 -1678.981,271.466 "
                  id="polygon7843"
                  style="stroke-width:2.04493117" />
               <path
@@ -2414,7 +2413,7 @@
                id="g7859"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1735.782,271.469 -1735.782,271.466 -1735.811,271.469 "
+                 points="-1735.811,271.469 -1735.782,271.469 -1735.782,271.466 "
                  id="polygon7855"
                  style="stroke-width:2.04493117" />
               <path
@@ -2560,7 +2559,7 @@
                id="g7920"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1680.244,259.213 -1680.244,259.208 -1680.273,259.213 "
+                 points="-1680.273,259.213 -1680.244,259.213 -1680.244,259.208 "
                  id="polygon7916"
                  style="stroke-width:2.04493117" />
               <path
@@ -2586,7 +2585,7 @@
                id="g7932"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1737.044,259.213 -1737.044,259.208 -1737.073,259.213 "
+                 points="-1737.073,259.213 -1737.044,259.213 -1737.044,259.208 "
                  id="polygon7928"
                  style="stroke-width:2.04493117" />
               <path
@@ -2724,7 +2723,7 @@
                id="g7989"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1680.244,259.213 -1680.244,259.208 -1680.273,259.213 "
+                 points="-1680.273,259.213 -1680.244,259.213 -1680.244,259.208 "
                  id="polygon7985"
                  style="stroke-width:2.04493117" />
               <path
@@ -2750,7 +2749,7 @@
                id="g8001"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1737.044,259.213 -1737.044,259.208 -1737.073,259.213 "
+                 points="-1737.073,259.213 -1737.044,259.213 -1737.044,259.208 "
                  id="polygon7997"
                  style="stroke-width:2.04493117" />
               <path
@@ -3091,7 +3090,7 @@
                id="g8145"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1679.051,262.893 -1679.051,262.887 -1679.08,262.893 "
+                 points="-1679.08,262.893 -1679.051,262.893 -1679.051,262.887 "
                  id="polygon8141"
                  style="stroke-width:2.04493117" />
               <path
@@ -3117,7 +3116,7 @@
                id="g8157"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1735.851,262.893 -1735.851,262.887 -1735.886,262.893 "
+                 points="-1735.886,262.893 -1735.851,262.893 -1735.851,262.887 "
                  id="polygon8153"
                  style="stroke-width:2.04493117" />
               <path
@@ -3398,7 +3397,7 @@
                id="g8275"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1682.565,256.125 -1682.565,256.123 -1682.597,256.125 "
+                 points="-1682.597,256.125 -1682.565,256.125 -1682.565,256.123 "
                  id="polygon8271"
                  style="stroke-width:2.04493117" />
               <path
@@ -3415,7 +3414,7 @@
                id="g8283"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1739.368,256.125 -1739.368,256.123 -1739.4,256.125 "
+                 points="-1739.4,256.125 -1739.368,256.125 -1739.368,256.123 "
                  id="polygon8279"
                  style="stroke-width:2.04493117" />
               <path
@@ -3749,11 +3748,11 @@
                id="rect8416" />
             <polygon
                style="fill:#118011;stroke-width:2.04493117"
-               points="5.003,15.863 5.332,15.863 5.332,28.256 5.003,28.256 "
+               points="5.332,28.256 5.003,28.256 5.003,15.863 5.332,15.863 "
                id="polygon8418" />
             <polygon
                style="fill:#118011;stroke-width:2.04493117"
-               points="25.121,15.863 25.451,15.863 25.451,28.256 25.121,28.256 "
+               points="25.451,28.256 25.121,28.256 25.121,15.863 25.451,15.863 "
                id="polygon8420" />
             <linearGradient
                id="SVGID_1_-92"
@@ -4253,12 +4252,6 @@
        height="13.999999"
        x="-51.604374"
        y="176.77081" />
-    <path
-       style="fill:#ce5c00;fill-opacity:1;stroke:#919191;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
-       d="M -4.9999998,82.000012 H 8.5874995 L -4.9999998,95.587508 Z"
-       id="rect5305"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5273"
@@ -4774,7 +4767,7 @@
         <polygon
            style="stroke-width:10.3528738"
            fill="#5C3DCC"
-           points="234.96,242.309 261.255,268.613 314.99,214.877 261.035,160.913 234.723,187.225 264.071,214.877 "
+           points="314.99,214.877 261.035,160.913 234.723,187.225 264.071,214.877 234.96,242.309 261.255,268.613 "
            id="polygon12969" />
         <path
            style="stroke-width:10.3528738"
@@ -4791,12 +4784,12 @@
         <polygon
            style="stroke-width:10.3528738"
            fill="#5C3DCC"
-           points="257.54,473.097 287.856,473.097 287.856,483.725 246.352,483.725 246.352,417.605 257.54,417.605 "
+           points="287.856,483.725 246.352,483.725 246.352,417.605 257.54,417.605 257.54,473.097 287.856,473.097 "
            id="polygon12975" />
         <polygon
            style="stroke-width:10.3528738"
            fill="#5C3DCC"
-           points="324.991,473.097 355.308,473.097 355.308,483.725 313.803,483.725 313.803,417.605 324.991,417.605 "
+           points="355.308,483.725 313.803,483.725 313.803,417.605 324.991,417.605 324.991,473.097 355.308,473.097 "
            id="polygon12977" />
         <path
            style="stroke-width:10.3528738"
@@ -4850,6 +4843,316 @@
          d="m 343.8,73.7 c -0.7,0.2 -1.3,0.3 -1.9,0.3 -2.1,0 -3.1,-0.9 -3.1,-3.5 V 51 c 0,-10.3 -8.2,-15.3 -17.9,-15.3 -7.4,0 -11.4,0.9 -19.3,4.1 l -1.6,10.4 10.3,1.1 1.5,-5.1 c 2.1,-1.1 4.2,-1.3 6.9,-1.3 7.3,0 7.4,5.5 7.4,10.1 v 1.5 c -2.3,-0.3 -4.9,-0.4 -7.4,-0.4 -10.3,0 -21,2.6 -21,13.7 0,9.4 7.4,12.9 13.9,12.9 7.3,0 11.9,-4.4 14.5,-9 0.6,5.5 3.9,9 9.9,9 2.8,0 5.7,-0.8 8.1,-2.1 z m -27.6,-0.3 c -3.9,0 -5.3,-2.3 -5.3,-5.2 0,-4.9 4,-6.2 8.6,-6.2 2.1,0 4.4,0.3 6.5,0.6 -0.3,7.5 -5.2,10.8 -9.8,10.8 z M 298.9,12.9 279.4,81.6 h -12.7 l 19.5,-68.7 z m -26.2,0 -19.5,68.7 H 240.5 L 260,12.9 Z m -54,23.7 h 13.5 v 16.2 h -13.5 z m 0,28.9 h 13.5 v 16.2 h -13.5 z m -19.7,-0.6 10.2,1 -2.8,15.8 h -39.3 l -1.3,-6.8 24.8,-28.5 h -14.1 l -2,7 -9.3,-1 1.6,-15.8 h 39.5 l 1,6.8 -25,28.5 h 14.6 z M 134.5,35.7 c -16.2,0 -24.2,10.9 -24.2,24.1 0,14.4 9.6,22.9 23.5,22.9 14.4,0 24.8,-9.1 24.8,-23.5 0,-12.6 -7.9,-23.5 -24.1,-23.5 z m -0.3,37 c -7,0 -10.6,-6 -10.6,-13.8 0,-8.5 4.1,-13.4 10.7,-13.4 6.1,0 11,4.1 11,13.2 0,8.7 -4.4,14 -11.1,14 z M 98.7,71.8 h 6 v 9.8 H 85.9 V 56.3 c 0,-7.8 -2.6,-10.8 -7.7,-10.8 -6.2,0 -8.7,4.4 -8.7,10.7 v 15.7 h 6 v 9.8 H 56.6 V 56.3 c 0,-7.8 -2.6,-10.8 -7.7,-10.8 -6.2,0 -8.7,4.4 -8.7,10.7 v 15.7 h 8.6 v 9.8 H 21.4 v -9.8 h 6 V 46.4 h -6 v -9.8 h 18.9 v 6.8 c 2.7,-4.8 7.4,-7.7 13.7,-7.7 6.5,0 12.5,3.1 14.7,9.7 2.5,-6 7.6,-9.7 14.7,-9.7 8.1,0 15.5,4.9 15.5,15.6 v 20.5 z"
          class="st0"
          inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       y="84.256134"
+       x="-2.6929779"
+       height="59.014389"
+       width="77.160538"
+       id="rect7368-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.40796757;marker:none;enable-background:accumulate"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ce5c00;fill-opacity:1;stroke:#919191;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       d="M -4.9999998,82.000012 H 8.5874995 L -4.9999998,95.587508 Z"
+       id="rect5305"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="g7370-9"
+       style="opacity:0.47999998;fill:#276eb9;fill-opacity:1;stroke-width:0.75596666"
+       transform="matrix(0.7459454,0,0,0.74594551,-689.95791,-295.90648)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path7394-2"
+         d="m 957.62018,531.26538 v 12.27179 h -12.30664 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3f89d6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75596666;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path7428-3"
+         d="m 1019.0825,518.97292 v 12.27178 h -12.3067 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#276eb9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75596666;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path7432-1"
+         d="m 1006.7758,543.55784 v 12.27177 h -12.30661 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#276eb9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75596666;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path7434-8"
+         d="m 982.17672,555.8503 v 12.27178 h 12.30666 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#276eb9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75596666;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path7442-7"
+         d="m 969.91265,568.14277 v 12.27177 H 957.606 Z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#276eb9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75596666;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#276eb9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.13131309;marker:none;enable-background:accumulate"
+         d="m 140.45508,237.5957 -23.49024,23.42188 h 23.49024 z"
+         transform="matrix(0.35469531,0,0,0.35469526,907.80166,496.16111)"
+         id="path7446-4" />
+    </g>
+    <g
+       id="g7496-1"
+       style="opacity:0.47999998;fill:#2464a8;fill-opacity:1;stroke-width:0.75596666"
+       transform="matrix(0.7459454,0,0,0.74594551,-809.10312,-295.90648)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path7520-6"
+         d="m 1154.0238,568.14277 v 12.27177 h -12.3066 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2464a8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75596666;marker:none;enable-background:accumulate" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390983;marker:none;enable-background:accumulate"
+       d="M 31.095702,84.333833 24.2062,91.203698 h 9.179801 v -6.869865 z"
+       id="path7542-3" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390995;marker:none;enable-background:accumulate"
+       d="m 24.216665,91.219033 v 9.154077 h 9.180126 z"
+       id="path7546-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390995;marker:none;enable-background:accumulate"
+       d="m 33.3862,109.55804 v 9.15408 h -9.180052 z"
+       id="path7552-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390995;marker:none;enable-background:accumulate"
+       d="m 15.047206,118.72754 v 9.15408 H 5.8670817 Z"
+       id="path7554-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390995;marker:none;enable-background:accumulate"
+       d="m 42.566326,109.54263 v -9.15409 H 33.3862 Z"
+       id="path7572-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390995;marker:none;enable-background:accumulate"
+       d="m 51.725267,109.55804 v 9.15408 h -9.180126 z"
+       id="path7578-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390995;marker:none;enable-background:accumulate"
+       d="m 42.555732,118.72755 v 9.15408 h -9.180126 z"
+       id="path7582-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390995;marker:none;enable-background:accumulate"
+       d="m 60.894725,118.72755 v 9.15408 h -9.180052 z"
+       id="path7584-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390995;marker:none;enable-background:accumulate"
+       d="m 42.566326,137.05113 v -9.15407 H 33.3862 Z"
+       id="path7598-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390983;marker:none;enable-background:accumulate"
+       d="m 74.365411,123.58209 -4.31188,4.29948 h 4.31188 z"
+       id="path7610-8" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390995;marker:none;enable-background:accumulate"
+       d="m 51.725267,137.05113 v -9.15407 h 9.180052 z"
+       id="path7616-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="fill:#ffffff;fill-opacity:1;stroke-width:2.17076254"
+       id="g9921-6"
+       transform="matrix(0.12188497,0,0,0.12188497,-31.174174,152.79607)">
+      <g
+         id="g9889-2"
+         transform="matrix(0.9944177,0,0,0.9944177,100.67823,-513.44707)"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:3.63747883">
+        <g
+           transform="matrix(1.0736709,0,0,1.0736709,-558.02149,-205.22598)"
+           id="g9879-5"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:3.63747883">
+          <g
+             transform="matrix(0.11840388,0,0,0.11840388,865.19335,299.21794)"
+             id="g9877-2"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:3.63747883">
+            <g
+               transform="matrix(1.293235,0,0,1.293235,-4878.321,-1224.915)"
+               id="g9875-6"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:3.63747883">
+              <g
+                 transform="matrix(2.438586,0,0,2.438586,3659.952,1113.451)"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.63747883"
+                 id="g9855-9">
+                <g
+                   style="fill:#ffffff;fill-opacity:1;stroke-width:3.63747883"
+                   id="g9853-1">
+                  <path
+                     d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
+                     style="fill:#ffffff;fill-opacity:1;stroke-width:3.63747883"
+                     id="path9843-3"
+                     inkscape:connector-curvature="0" />
+                  <path
+                     d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
+                     style="fill:#ffffff;fill-opacity:1;stroke-width:3.63747883"
+                     id="path9845-3"
+                     inkscape:connector-curvature="0" />
+                  <path
+                     d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
+                     style="fill:#ffffff;fill-opacity:1;stroke-width:3.63747883"
+                     id="path9847-1"
+                     inkscape:connector-curvature="0" />
+                  <path
+                     d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 Z"
+                     style="fill:#ffffff;fill-opacity:1;stroke-width:3.63747883"
+                     id="path9849-5"
+                     inkscape:connector-curvature="0" />
+                  <path
+                     d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 Z"
+                     style="fill:#ffffff;fill-opacity:1;stroke-width:3.63747883"
+                     id="path9851-2"
+                     inkscape:connector-curvature="0" />
+                </g>
+              </g>
+              <g
+                 id="g9873-6"
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:3.63747883">
+                <path
+                   d="m 4176.2963,1214.4401 c -15.1078,0.4069 -27.0386,5.8367 -35.8126,16.25 -9.0861,10.8369 -13.6562,25.8104 -13.6562,44.9063 0,19.0432 4.5703,33.9757 13.6562,44.8124 9.1305,10.8369 21.6664,16.25 37.6563,16.25 16.034,0 28.6014,-5.4131 37.6875,-16.25 9.0859,-10.8367 13.6251,-25.7692 13.625,-44.8124 -1e-4,-19.0959 -4.5391,-34.0694 -13.625,-44.9063 -9.0861,-10.8366 -21.6536,-16.2499 -37.6875,-16.25 -0.6246,0 -1.2296,-0.016 -1.8437,0 z m 1.125,22 c 0.2415,-0.01 0.4737,0 0.7187,0 7.8833,10e-5 13.9919,3.4114 18.3125,10.25 4.3203,6.8388 6.4999,16.4913 6.5,28.9063 0,12.3623 -2.1799,21.9427 -6.5,28.7812 -4.3204,6.8389 -10.4293,10.2812 -18.3125,10.2812 -7.8391,0 -13.8983,-3.4423 -18.2187,-10.2812 -4.3204,-6.8385 -6.4999,-16.4189 -6.5,-28.7812 0,-12.4149 2.1798,-22.0675 6.5,-28.9063 4.1852,-6.6249 10.0123,-10.0428 17.5,-10.25 z"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.63747883"
+                   id="path9857-9"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 4005.6293,1325.612 c -13.3076,11.1757 -33.1067,11.0472 -41.3549,11.0472 -16.6133,0 -29.7747,-5.471 -39.4842,-16.413 -9.7097,-10.9946 -14.5644,-25.8819 -14.5644,-44.6622 0,-18.9906 4.9438,-33.9305 14.8316,-44.82 9.8878,-10.8892 23.4277,-16.3339 40.62,-16.334 6.6363,10e-5 12.9831,0.7366 19.0406,2.2094 6.1019,1.473 11.8475,3.6562 17.2368,6.5494 l -6.921,20.4608 c -3.0298,-1.6586 -6.4987,-3.2932 -9.7145,-4.4424 -5.4784,-1.8411 -10.979,-2.7617 -16.5018,-2.7618 -10.2442,10e-5 -18.15,3.3932 -23.7173,10.1792 -5.523,6.7336 -8.2844,16.3867 -8.2844,28.9594 0,12.4676 2.6723,22.0945 8.0172,28.8806 5.3446,6.7861 13.3768,10.1791 22.7818,10.1791 9.5548,0 15.4728,-2.4084 18.6291,-4.9461 v -20.3835 h -20.7001 v -20.3584 h 40.0855"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.63747883"
+                   id="path9859-4"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 4023.2108,1216.5605 h 16.2279 l 51.2775,70.8022 v -70.8022 h 21.8853 v 117.8103 h -16.2279 l -51.2774,-70.8022 v 70.8022 h -21.8854 v -117.8103"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.63747883"
+                   id="path9861-4"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 4246.3361,1216.5605 h 32.7366 l 22.7151,73.5479 22.8487,-73.5479 h 27.6698 l 12.5,117.8103 h -24.3186 l -7.5,-73.668 -22.9823,74.0213 h -16.3015 l -22.9824,-76.5213 -7.5,76.168 h -24.3854 l 12.5,-117.8103"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.63747883"
+                   id="path9863-6"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 4382.3597,1216.5605 h 69.4147 v 22.9624 h -43.6933 v 24.4365 h 33.5877 v 20.4623 h -33.5877 v 26.9868 h 45.1631 v 22.9623 h -70.8845 v -117.8103"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.699646px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.63747883"
+                   id="path9865-0"
+                   inkscape:connector-curvature="0" />
+                <g
+                   style="font-style:normal;font-weight:normal;font-size:30.68958855px;font-family:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.63747883"
+                   id="g9871-7">
+                  <path
+                     d="m 4474.5283,1193.3702 h 18.9262 v 2.5475 h -7.9421 v 19.8253 h -3.042 v -19.8253 h -7.9421 v -2.5475"
+                     style="letter-spacing:0.2523815;fill:#ffffff;fill-opacity:1;stroke-width:3.63747883"
+                     id="path9867-4"
+                     inkscape:connector-curvature="0" />
+                  <path
+                     d="m 4496.644,1193.3702 h 4.5105 l 5.7093,15.2249 5.7394,-15.2249 h 4.5105 v 22.3728 h -2.9521 v -19.6455 l -5.7693,15.3448 h -3.042 l -5.7692,-15.3448 v 19.6455 h -2.9371 v -22.3728"
+                     style="letter-spacing:0.2523815;fill:#ffffff;fill-opacity:1;stroke-width:3.63747883"
+                     id="path9869-3"
+                     inkscape:connector-curvature="0" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.49932289px;line-height:42.96768951px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.25176382;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+           x="298.63791"
+           y="180.08826"
+           id="text9883-7"><tspan
+             id="tspan9881-9"
+             x="298.63791"
+             y="180.08826"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.49932289px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:6.25176382">The</tspan></text>
+        <text
+           id="text9887-0"
+           y="180.08826"
+           x="501.38858"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.49932289px;line-height:42.96768951px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.25176382;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.49932289px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:6.25176382"
+             y="180.08826"
+             x="501.38858"
+             id="tspan9885-0">Conference</tspan></text>
+      </g>
+      <text
+         id="text9893-2"
+         y="-247.86864"
+         x="385.77158"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.93907166px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.31548047"
+         xml:space="preserve"
+         transform="scale(1.0020838,0.99792051)"><tspan
+           style="fill:#ffffff;fill-opacity:1;stroke-width:2.31548047"
+           y="-247.86864"
+           x="385.77158"
+           id="tspan9891-2">GUADEC</tspan></text>
     </g>
   </g>
   <style
