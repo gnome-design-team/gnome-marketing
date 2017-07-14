@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:ns="&amp;#38;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
+   xmlns:ns="&amp;#38;#38;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="250.52725"
-     inkscape:cy="423.5028"
+     inkscape:cx="318.27027"
+     inkscape:cy="552.64765"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -113,15 +113,15 @@
          style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none" />
     </clipPath>
     <color-profile
-       id="color-profile39"
+       id="color-profile12"
        name="PANTONE-process-uncoated"
        xlink:href="http://www.pantone.com/graphics/pantone-matching-system" />
     <color-profile
-       id="color-profile41"
+       id="color-profile14"
        name="PANTONE-solid-uncoated"
        xlink:href="http://www.pantone.com/graphics/pantone-matching-system" />
     <color-profile
-       id="color-profile43"
+       id="color-profile16"
        name="ISO-Coated-v2-300---ECI-"
        xlink:href="http://www.eci.org/en/colorstandards/offset#eci_offset_profiles_2009" />
     <linearGradient
@@ -322,7 +322,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -521,7 +521,8 @@
            width="323.94144"
            id="rect3170" /></flowRegion><flowPara
          id="flowPara3200">City Walking Tour</flowPara><flowPara
-         id="flowPara3339">Alan Turing statue, Sackville Gardens, M1 3HB</flowPara></flowRoot>    <flowRoot
+         id="flowPara3339"
+         style="fill:#919191">Alan Turing statue, Sackville Gardens, M1 3HB</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3184"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -534,9 +535,11 @@
            x="44.371368"
            y="360.41791"
            style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;font-size:10.6666668px;line-height:140%;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
-         id="flowPara3182">Twentieth Anniversary Party</flowPara><flowPara
-         id="flowPara3194">Manchester Museum of Science and Industry</flowPara><flowPara
-         id="flowPara8151">Liverpool Rd, M3 4FP</flowPara></flowRoot>    <flowRoot
+         id="flowPara3182">GNOME Twentieth Anniversary Party</flowPara><flowPara
+         id="flowPara3194"
+         style="fill:#919191">Manchester Museum of Science and Industry</flowPara><flowPara
+         id="flowPara8151"
+         style="fill:#919191">Liverpool Rd, M3 4FP</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,76.887474,55.217037)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot3192"
@@ -550,7 +553,8 @@
            width="323.94144"
            id="rect3186" /></flowRegion><flowPara
          id="flowPara3341">GUADEC football match</flowPara><flowPara
-         id="flowPara15735">Location TBA</flowPara></flowRoot>    <flowRoot
+         id="flowPara15735"
+         style="fill:#919191">Brooks Building Sports Hall</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3214"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -589,7 +593,7 @@
            x="44.371368"
            y="360.41791"
            style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;font-size:10.6666668px;fill:#000000;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
-         id="flowPara3230">18∶00</flowPara></flowRoot>    <flowRoot
+         id="flowPara3230">18∶30</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3251"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -657,7 +661,8 @@
            y="360.41791"
            style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;font-size:10.6666668px;line-height:140%;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
          id="flowPara3320">Drinks and food at The Wharf</flowPara><flowPara
-         id="flowPara3322">6 Slate Wharf, M15 4SW</flowPara></flowRoot>    <flowRoot
+         id="flowPara3322"
+         style="fill:#919191">6 Slate Wharf, M15 4SW</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,67.105593,18.661136)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot3332"
@@ -684,7 +689,8 @@
            y="360.41791"
            style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;font-size:10.6666668px;line-height:140%;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
          id="flowPara3347">Curry mile dinner</flowPara><flowPara
-         id="flowPara3349">Wilmslow Road, Runsholme</flowPara></flowRoot>    <flowRoot
+         id="flowPara3349"
+         style="fill:#919191">Wilmslow Road, Runsholme</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,67.105593,74.868928)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot3359"
@@ -697,7 +703,7 @@
            height="99.082031"
            width="323.94144"
            id="rect3353" /></flowRegion><flowPara
-         id="flowPara3357">19∶30</flowPara></flowRoot>    <flowRoot
+         id="flowPara3357">20∶00</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot10847"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -726,7 +732,7 @@
          id="flowPara15719"
          style="font-size:10.66666698px">City Walking Tour</flowPara><flowPara
          id="flowPara15721"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Alan Turing statue, Sackville Gardens, M1 3HB</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Alan Turing statue, Sackville Gardens, M1 3HB</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,67.105593,65.145494)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot15731"
@@ -753,7 +759,8 @@
            width="323.94144"
            id="rect15737" /></flowRegion><flowPara
          id="flowPara15743">After dinner drinks at the Turing Tap</flowPara><flowPara
-         id="flowPara15757">421-423 Oxford Road, M13 9WG</flowPara></flowRoot>    <flowRoot
+         id="flowPara15757"
+         style="fill:#919191">421-423 Oxford Road, M13 9WG</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot15753"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
