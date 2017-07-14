@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:ns="&amp;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
+   xmlns:ns="&amp;#38;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="164mm"
-   height="226mm"
-   viewBox="0 0 164 226"
+   width="168mm"
+   height="230mm"
+   viewBox="0 0 168 230"
    version="1.1"
    id="svg2022"
    inkscape:version="0.92+devel unknown"
@@ -28,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3618"
-     inkscape:cx="33.857041"
-     inkscape:cy="547.81947"
+     inkscape:zoom="1.925876"
+     inkscape:cx="196.41806"
+     inkscape:cy="656.90538"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
-     inkscape:window-width="3440"
-     inkscape:window-height="1376"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -63,40 +63,40 @@
        units="mm"
        id="grid2024"
        type="xygrid"
-       originx="-4.9999999"
-       originy="-5.0000001"
+       originx="-2.9999999"
+       originy="-3.0000002"
        enabled="true"
        empspacing="1" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide15855"
        orientation="0,1"
-       position="177.36499,112.99419" />
+       position="179.36499,114.99419" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide15869"
        orientation="1,0"
-       position="82,102" />
+       position="83.999999,209" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide6599"
        orientation="1,0"
-       position="8.0000002,6.0000002" />
+       position="10,8.0000003" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide6601"
        orientation="0,1"
-       position="19.999999,8.0000002" />
+       position="21.999999,10" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide6603"
        orientation="0.99999937,-0.0011229376"
-       position="155.99999,215.99999" />
+       position="158,223" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide6605"
        orientation="0,1"
-       position="3.9999999,217.99999" />
+       position="4,220" />
   </sodipodi:namedview>
   <defs
      id="defs2016">
@@ -245,15 +245,15 @@
          style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none" />
     </clipPath>
     <color-profile
-       id="color-profile2194"
+       id="color-profile39"
        name="PANTONE-process-uncoated"
        xlink:href="http://www.pantone.com/graphics/pantone-matching-system" />
     <color-profile
-       id="color-profile2196"
+       id="color-profile41"
        name="PANTONE-solid-uncoated"
        xlink:href="http://www.pantone.com/graphics/pantone-matching-system" />
     <color-profile
-       id="color-profile2198"
+       id="color-profile43"
        name="ISO-Coated-v2-300---ECI-"
        xlink:href="http://www.eci.org/en/colorstandards/offset#eci_offset_profiles_2009" />
     <linearGradient
@@ -530,12 +530,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(8,-79)"
+     transform="translate(10,-77.000005)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
@@ -3748,11 +3748,11 @@
                id="rect8416" />
             <polygon
                style="fill:#118011;stroke-width:2.04493117"
-               points="5.332,28.256 5.003,28.256 5.003,15.863 5.332,15.863 "
+               points="5.003,15.863 5.332,15.863 5.332,28.256 5.003,28.256 "
                id="polygon8418" />
             <polygon
                style="fill:#118011;stroke-width:2.04493117"
-               points="25.451,28.256 25.121,28.256 25.121,15.863 25.451,15.863 "
+               points="25.121,15.863 25.451,15.863 25.451,28.256 25.121,28.256 "
                id="polygon8420" />
             <linearGradient
                id="SVGID_1_-92"
@@ -4845,15 +4845,16 @@
          inkscape:connector-curvature="0" />
     </g>
     <rect
-       y="84.256134"
-       x="-2.6929779"
-       height="59.014389"
-       width="77.160538"
+       y="82.000008"
+       x="-5"
+       height="61.270527"
+       width="79"
        id="rect7368-0"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.40796757;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.4206185;marker:none;enable-background:accumulate"
        inkscape:export-filename="/home/andreasn/SparkleShare/gnome-marketing/annual-report-2014/mockup.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       clip-path="none" />
     <path
        style="fill:#ce5c00;fill-opacity:1;stroke:#919191;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        d="M -4.9999998,82.000012 H 8.5874995 L -4.9999998,95.587508 Z"
@@ -5010,7 +5011,7 @@
     <path
        inkscape:connector-curvature="0"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390983;marker:none;enable-background:accumulate"
-       d="m 74.365411,123.58209 -4.31188,4.29948 h 4.31188 z"
+       d="m 74,123.58209 -4.31188,4.29948 H 74 Z"
        id="path7610-8" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3281d4;fill-opacity:0.43773104;fill-rule:nonzero;stroke:none;stroke-width:0.56390995;marker:none;enable-background:accumulate"
@@ -5174,45 +5175,46 @@
      inkscape:groupmode="layer"
      inkscape:label="crop marks"
      id="printing-marks"
-     transform="translate(8,8)">
+     transform="translate(10,9.9999953)"
+     sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
-       d="M 0,-3 V -8"
+       d="m 2.125153e-7,-4.9999953 v -5"
        id="cropTL1"
        style="fill:none;stroke:#000000;stroke-width:0.25" />
     <path
        inkscape:connector-curvature="0"
-       d="M -3,6.0115001e-6 H -8"
+       d="M -5.0000001,4.56e-6 H -10"
        id="cropTL2"
        style="fill:none;stroke:#000000;stroke-width:0.25" />
     <path
        inkscape:connector-curvature="0"
-       d="M 148,-3 V -8"
+       d="m 148,-4.9999953 v -5"
        id="cropTR1"
        style="fill:none;stroke:#000000;stroke-width:0.25" />
     <path
        inkscape:connector-curvature="0"
-       d="m 151,0 h 5"
+       d="m 153,4.56e-6 h 5"
        id="cropTR2"
        style="fill:none;stroke:#000000;stroke-width:0.25" />
     <path
        inkscape:connector-curvature="0"
-       d="m 151,210 h 5"
+       d="m 153,210 h 5"
        id="cropBR2"
        style="fill:none;stroke:#000000;stroke-width:0.25" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.25"
        id="path5299"
-       d="M -3,210 H -8"
+       d="M -5.0000001,210 H -10"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.25"
        id="path5301"
-       d="m 0,213 v 5"
+       d="m -1.6000001e-7,215 v 5"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       d="m 148,213 v 5"
+       d="m 148,215 v 5"
        id="path5303"
        style="fill:none;stroke:#000000;stroke-width:0.25" />
   </g>

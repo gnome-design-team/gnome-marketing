@@ -15,7 +15,7 @@
    version="1.1"
    id="svg2022"
    inkscape:version="0.92+devel unknown"
-   sodipodi:docname="badge-side-2-test-test-test.svg"
+   sodipodi:docname="badge-side-2.svg"
    inkscape:export-filename="/home/aday/Dropbox/Public/guadec2017/badge-side-1-corner.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="503.79662"
-     inkscape:cy="238.04692"
+     inkscape:zoom="1"
+     inkscape:cx="412.01917"
+     inkscape:cy="367.83758"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -39,8 +39,8 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false"
-     showguides="true"
+     inkscape:snap-global="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -87,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1714,98 +1714,50 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     inkscape:label="Printing Marks"
+     inkscape:label="crop marks"
      id="printing-marks"
      transform="translate(13,13)"
-     sodipodi:insensitive="true"
-     style="display:inline">
-    <g
-       inkscape:label="CropMarks"
-       id="CropMarks">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropTL1"
-         d="M 0,-3 V -13"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropTL2"
-         d="M -3,0 H -13"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropTR1"
-         d="M 210,-3 V -13"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropTR2"
-         d="m 213,0 h 10"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropBL1"
-         d="m 0,151 v 10"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropBL2"
-         d="M -3,148 H -13"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropBR1"
-         d="m 210,151 v 10"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25"
-         id="cropBR2"
-         d="m 213,148 h 10"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       inkscape:label="BleedMarks"
-       id="BleedMarks">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
-         id="bleedTL1"
-         d="M -3,-3 V -13"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
-         id="bleedTL2"
-         d="M -3,-3 H -13"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
-         id="bleedTR1"
-         d="M 213,-3 V -13"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
-         id="bleedTR2"
-         d="m 213,-3 h 10"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
-         id="bleedBL1"
-         d="m -3,151 v 10"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
-         id="bleedBL2"
-         d="M -3,151 H -13"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
-         id="bleedBR1"
-         d="m 213,151 v 10"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0"
-         id="bleedBR2"
-         d="m 213,151 h 10"
-         inkscape:connector-curvature="0" />
-    </g>
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 0,-5 v -8"
+       id="cropTL1"
+       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -5,0 h -8"
+       id="cropTL2"
+       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 210,-5 v -8"
+       id="cropTR1"
+       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 215,0 h 8"
+       id="cropTR2"
+       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 0,153 v 8"
+       id="cropBL1"
+       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -5,148 h -8"
+       id="cropBL2"
+       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 210,153 v 8"
+       id="cropBR1"
+       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 215,148 h 8"
+       id="cropBR2"
+       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
   </g>
 </svg>
