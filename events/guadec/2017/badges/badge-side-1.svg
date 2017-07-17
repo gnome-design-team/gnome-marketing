@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:ns="&amp;#38;#38;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
+   xmlns:ns="&amp;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -32,12 +32,12 @@
      inkscape:cx="318.27027"
      inkscape:cy="552.64765"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5720"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1136"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -113,15 +113,15 @@
          style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none" />
     </clipPath>
     <color-profile
-       id="color-profile12"
+       id="color-profile13"
        name="PANTONE-process-uncoated"
        xlink:href="http://www.pantone.com/graphics/pantone-matching-system" />
     <color-profile
-       id="color-profile14"
+       id="color-profile15"
        name="PANTONE-solid-uncoated"
        xlink:href="http://www.pantone.com/graphics/pantone-matching-system" />
     <color-profile
-       id="color-profile16"
+       id="color-profile17"
        name="ISO-Coated-v2-300---ECI-"
        xlink:href="http://www.eci.org/en/colorstandards/offset#eci_offset_profiles_2009" />
     <linearGradient
@@ -322,7 +322,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1307,38 +1307,6 @@
            width="323.94144"
            id="rect10016" /></flowRegion><flowPara
          id="flowPara10022">Platinum Sponsors</flowPara></flowRoot>    <g
-       id="g4916"
-       transform="translate(0,-2.0528241)">
-      <flowRoot
-         transform="matrix(0.22034915,0,0,0.22034915,-5.058355,76.341843)"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:38.42386627px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20074582"
-         id="flowRoot2849"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:38.42386627px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Ultra-Light';text-align:center;text-anchor:middle;stroke-width:1.20074582"
-           id="flowRegion2845"><rect
-             style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:38.42386806px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Ultra-Light';text-align:center;text-anchor:middle;stroke-width:1.20074582;"
-             y="360.41791"
-             x="44.371368"
-             height="105.18956"
-             width="291.72412"
-             id="rect2843" /></flowRegion><flowPara
-           id="flowPara2847"
-           style="font-size:38.42386627px;line-height:100%;stroke-width:1.20074582">Angela Avery</flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot2857"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.26458333,0,0,0.26458333,-17.500112,70.744375)"><flowRegion
-           id="flowRegion2853"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#000000"><rect
-             id="rect2851"
-             width="323.94144"
-             height="99.082031"
-             x="44.371368"
-             y="360.41791"
-             style="-inkscape-font-specification:'Source Sans Pro';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;font-size:18.66666691px;fill:#000000;" /></flowRegion><flowPara
-           id="flowPara2855"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#000000">aavery</flowPara></flowRoot>    </g>
-    <g
        ns:extraneous="self"
        id="g8587"
        transform="matrix(0.13433191,0,0,0.13433191,36.213837,182.37205)"
@@ -4873,7 +4841,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="orange">
+     inkscape:label="orange"
+     style="display:none">
     <path
        style="fill:#f57600;fill-opacity:1;stroke:#919191;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        d="M 5.0000003,5.000006 H 19.645833 L 5.0000003,20.175002 Z"
@@ -4882,7 +4851,7 @@
        sodipodi:nodetypes="cccc" />
   </g>
   <g
-     inkscape:label="turqoise"
+     inkscape:label="turquoise"
      id="g5720"
      inkscape:groupmode="layer"
      style="display:none">
@@ -4909,7 +4878,7 @@
      inkscape:label="green"
      id="g5772"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:inline">
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
