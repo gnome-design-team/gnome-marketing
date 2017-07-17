@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:ns="&amp;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
+   xmlns:ns="&amp;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="318.27027"
-     inkscape:cy="552.64765"
+     inkscape:zoom="2"
+     inkscape:cx="189.28526"
+     inkscape:cy="720.53657"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5720"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -113,15 +113,15 @@
          style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none" />
     </clipPath>
     <color-profile
-       id="color-profile13"
+       id="color-profile20"
        name="PANTONE-process-uncoated"
        xlink:href="http://www.pantone.com/graphics/pantone-matching-system" />
     <color-profile
-       id="color-profile15"
+       id="color-profile22"
        name="PANTONE-solid-uncoated"
        xlink:href="http://www.pantone.com/graphics/pantone-matching-system" />
     <color-profile
-       id="color-profile17"
+       id="color-profile24"
        name="ISO-Coated-v2-300---ECI-"
        xlink:href="http://www.eci.org/en/colorstandards/offset#eci_offset_profiles_2009" />
     <linearGradient
@@ -647,7 +647,7 @@
            height="99.082031"
            width="323.94144"
            id="rect3304" /></flowRegion><flowPara
-         id="flowPara3308">+44 116 247 2222 </flowPara></flowRoot>    <flowRoot
+         id="flowPara3308">+44 161 247 2222 </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3324"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -3994,7 +3994,7 @@
            x="44.371368"
            y="360.41791"
            style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;font-size:10.6666668px;line-height:18.00000023px;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
-         id="flowPara5271">+44 116 881 5555</flowPara></flowRoot>    <flowRoot
+         id="flowPara5271">+44 161 881 5555</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,67.105593,161.94311)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot5281"
@@ -4842,7 +4842,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="orange"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:#f57600;fill-opacity:1;stroke:#919191;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        d="M 5.0000003,5.000006 H 19.645833 L 5.0000003,20.175002 Z"
@@ -4878,7 +4878,7 @@
      inkscape:label="green"
      id="g5772"
      inkscape:groupmode="layer"
-     style="display:inline">
+     style="display:none">
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
