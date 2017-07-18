@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:i="&amp;#38;#38;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
-   xmlns:ns="&amp;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
+   xmlns:ns0="&amp;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
+   xmlns:ns="&amp;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;#38;ns_ai;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -520,10 +520,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.088388348"
-     inkscape:cx="1797.178"
-     inkscape:cy="4019.0745"
+     inkscape:cx="-214.9948"
+     inkscape:cy="3687.8856"
      inkscape:document-units="mm"
-     inkscape:current-layer="g147674"
+     inkscape:current-layer="g2877"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="0"
@@ -579,7 +579,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3855,14 +3855,14 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      transform="translate(-23.47602,1752.6663)"
      id="g2877"
      inkscape:groupmode="layer"
      inkscape:label="all sponsors copy">
     <g
        id="g1521"
-       transform="matrix(0.53876952,0,0,0.53876952,206.73492,-701.05381)">
+       transform="matrix(0.47002381,0,0,0.47002381,245.95405,-783.74907)">
       <g
          id="g1503">
         <path
@@ -3912,7 +3912,7 @@
     </g>
     <g
        id="g1567"
-       transform="matrix(0.82774169,0,0,0.82774169,-21.641366,-689.41927)"
+       transform="matrix(0.72212381,0,0,0.72212381,46.718033,-773.59907)"
        style="stroke-width:4.3881259">
       <g
          id="g1523"
@@ -4033,7 +4033,7 @@
     <g
        style="stroke-width:3.1872201"
        id="g1581"
-       transform="matrix(1.0316605,0,0,1.0316605,484.01615,-406.46088)">
+       transform="matrix(0.90002307,0,0,0.90002307,487.85485,-526.7455)">
       <path
          style="stroke-width:3.1872201"
          id="path1569"
@@ -4074,7 +4074,7 @@
     <g
        style="stroke-width:3.8193717"
        id="g1617"
-       transform="matrix(0.84782446,0,0,0.84782446,274.8277,-216.23795)">
+       transform="matrix(0.73964407,0,0,0.73964407,305.35835,-355.50289)">
       <g
          style="stroke-width:3.8193717"
          id="g1613">
@@ -4175,7 +4175,7 @@
     <g
        style="stroke-width:5.58752489;enable-background:new"
        id="g1659"
-       transform="matrix(0.406866,0,0,0.40166747,337.89148,113.72013)">
+       transform="matrix(0.35495086,0,0,0.35041565,195.08052,-62.355003)">
       <g
          id="g1657"
          style="stroke-width:5.58752489">
@@ -4284,7 +4284,7 @@
       </g>
     </g>
     <g
-       transform="matrix(10.340427,0,0,10.340427,-246.80525,-3909.819)"
+       transform="matrix(9.1327314,0,0,9.1327314,52.813985,-3421.504)"
        id="g1687">
       <g
          style="stroke-width:10.3528738"
@@ -4299,7 +4299,7 @@
         <polygon
            style="stroke-width:10.3528738"
            fill="#5C3DCC"
-           points="234.723,187.225 264.071,214.877 234.96,242.309 261.255,268.613 314.99,214.877 261.035,160.913 "
+           points="314.99,214.877 261.035,160.913 234.723,187.225 264.071,214.877 234.96,242.309 261.255,268.613 "
            id="polygon1663" />
         <path
            style="stroke-width:10.3528738"
@@ -4316,12 +4316,12 @@
         <polygon
            style="stroke-width:10.3528738"
            fill="#5C3DCC"
-           points="246.352,417.605 257.54,417.605 257.54,473.097 287.856,473.097 287.856,483.725 246.352,483.725 "
+           points="287.856,483.725 246.352,483.725 246.352,417.605 257.54,417.605 257.54,473.097 287.856,473.097 "
            id="polygon1669" />
         <polygon
            style="stroke-width:10.3528738"
            fill="#5C3DCC"
-           points="313.803,417.605 324.991,417.605 324.991,473.097 355.308,473.097 355.308,483.725 313.803,483.725 "
+           points="355.308,483.725 313.803,483.725 313.803,417.605 324.991,417.605 324.991,473.097 355.308,473.097 "
            id="polygon1671" />
         <path
            style="stroke-width:10.3528738"
@@ -4363,7 +4363,7 @@
     </g>
     <g
        id="g1691"
-       transform="matrix(-0.49768456,0,0,-0.49768456,768.79119,-446.87024)">
+       transform="matrix(-0.43418119,0,0,-0.43418119,688.31115,-551.41538)">
       <path
          style="stroke-width:1"
          d="m 361.46936,-1144.6788 v -102.8984 H 1.4720961 v 102.8984 z m -260.00069,-13.1018 H 88.772336 l 19.501654,-68.697 h 12.69634 z m -26.195654,0 h -12.70428 l 19.50166,-68.697 h 12.69634 z m 232.199154,-22.801 c -6.5,0 -12.49977,-3.0991 -14.69978,-9.6991 -2.49999,6 -7.59979,9.6991 -14.69977,9.6991 -8.10002,0 -15.50272,-4.8981 -15.50272,-15.5981 v -20.4954 h -5.80358 v -9.8025 h 18.80203 v 25.2973 c 0,7.8 2.60363,10.8042 7.70363,10.8042 6.2,0 8.69743,-4.4009 8.69743,-10.7009 v -15.7014 h -6.00234 v -9.8026 h 18.90542 v 25.4007 c 0,7.8 2.59569,10.8042 7.69569,10.8042 6.20001,0 8.70538,-4.4009 8.70538,-10.7009 v -15.7014 h -8.60203 v -9.8026 h 27.39612 v 9.8026 h -5.99441 v 25.496 h 5.99441 v 9.8025 h -18.89744 v -6.7974 c -2.69998,4.8 -7.39807,7.6957 -13.69804,7.6957 z m -80.50293,0 c -16.19998,0 -24.0968,-10.9005 -24.0968,-23.5005 0,-14.4 10.39645,-23.4926 24.79643,-23.4926 13.89998,0 23.50056,8.4963 23.50056,22.8963 0,13.2 -8.00016,24.0968 -24.20019,24.0968 z m -186.398494,0 c -9.69999,0 -17.90363,-4.996 -17.90363,-15.296 v -19.5016 c 0,-2.6 -1.00056,-3.4981 -3.10056,-3.4981 -0.60002,0 -1.20009,0.1021 -1.90009,0.3021 l -0.29413,-6.9007 c 2.39999,-1.3 5.30117,-2.0988 8.10116,-2.0988 5.99998,0 9.2979,3.4995 9.89789,8.9995 2.60001,-4.6 7.20101,-8.9995 14.50102,-8.9995 6.49999,0 13.89679,3.4951 13.89679,12.8951 0,11.1 -10.69623,13.6981 -20.99625,13.6981 -2.49999,0 -5.10155,-0.097 -7.40156,-0.3976 v 1.5026 c 0,4.6 0.10156,10.0967 7.40156,10.0967 2.70002,0 4.80071,-0.1959 6.9007,-1.2959 l 1.49463,-5.104 10.30335,1.1051 -1.59798,10.3988 c -7.89999,3.1999 -11.90288,4.0942 -19.3029,4.0942 z m 154.097194,-0.8983 h -39.49621 l -1.0017,-6.7974 25.00313,-28.5011 h -14.60441 l -2.09881,6.9961 -10.2,-0.9938 2.79844,-15.8049 h 39.30539 l 1.29587,6.8054 -24.79644,28.4932 h 14.09556 l 2.00344,-6.9961 9.30166,1.0017 z m -51.89838,0 h -13.49931 v -16.2024 h 13.49931 z m 84.39844,-8.8962 c 6.60001,0 10.70088,-4.9039 10.70088,-13.4039 0,-7.8 -3.59752,-13.8014 -10.59753,-13.8014 -6.69998,0 -11.09835,5.3001 -11.09835,14.0001 0,9.1 4.89501,13.2052 10.995,13.2052 z m -185.198034,-16.5044 c 4.60003,0 8.60207,-1.3012 8.60207,-6.2011 0,-2.9 -1.40276,-5.1994 -5.30275,-5.1994 -4.59999,0 -9.50249,3.3042 -9.80249,10.8042 2.09999,0.3 4.40318,0.5963 6.50317,0.5963 z m 100.799594,-3.4981 h -13.49931 v -16.2024 h 13.49931 z"
@@ -4373,7 +4373,7 @@
     <g
        ns:extraneous="self"
        id="g2865"
-       transform="matrix(2.5137988,0,0,2.5137988,123.12116,-881.8926)"
+       transform="matrix(2.193044,0,0,2.193044,173.00921,-941.51326)"
        style="display:inline;stroke-width:2.04493117">
       <g
          id="g1725"
@@ -5134,7 +5134,7 @@
                id="g2051"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1678.971,267.656 -1678.941,267.656 -1678.941,267.65 "
+                 points="-1678.941,267.656 -1678.941,267.65 -1678.971,267.656 "
                  id="polygon2047"
                  style="stroke-width:2.04493117" />
               <path
@@ -5160,7 +5160,7 @@
                id="g2063"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1735.771,267.656 -1735.742,267.656 -1735.742,267.65 "
+                 points="-1735.742,267.656 -1735.742,267.65 -1735.771,267.656 "
                  id="polygon2059"
                  style="stroke-width:2.04493117" />
               <path
@@ -5268,7 +5268,7 @@
                id="g2109"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1679.011,271.469 -1678.981,271.469 -1678.981,271.466 "
+                 points="-1678.981,271.469 -1678.981,271.466 -1679.011,271.469 "
                  id="polygon2105"
                  style="stroke-width:2.04493117" />
               <path
@@ -5294,7 +5294,7 @@
                id="g2121"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1735.811,271.469 -1735.782,271.469 -1735.782,271.466 "
+                 points="-1735.782,271.469 -1735.782,271.466 -1735.811,271.469 "
                  id="polygon2117"
                  style="stroke-width:2.04493117" />
               <path
@@ -5440,7 +5440,7 @@
                id="g2183"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1680.273,259.213 -1680.244,259.213 -1680.244,259.208 "
+                 points="-1680.244,259.213 -1680.244,259.208 -1680.273,259.213 "
                  id="polygon2179"
                  style="stroke-width:2.04493117" />
               <path
@@ -5466,7 +5466,7 @@
                id="g2195"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1737.073,259.213 -1737.044,259.213 -1737.044,259.208 "
+                 points="-1737.044,259.213 -1737.044,259.208 -1737.073,259.213 "
                  id="polygon2191"
                  style="stroke-width:2.04493117" />
               <path
@@ -5604,7 +5604,7 @@
                id="g2253"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1680.273,259.213 -1680.244,259.213 -1680.244,259.208 "
+                 points="-1680.244,259.213 -1680.244,259.208 -1680.273,259.213 "
                  id="polygon2249"
                  style="stroke-width:2.04493117" />
               <path
@@ -5630,7 +5630,7 @@
                id="g2265"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1737.073,259.213 -1737.044,259.213 -1737.044,259.208 "
+                 points="-1737.044,259.213 -1737.044,259.208 -1737.073,259.213 "
                  id="polygon2261"
                  style="stroke-width:2.04493117" />
               <path
@@ -5971,7 +5971,7 @@
                id="g2411"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1679.08,262.893 -1679.051,262.893 -1679.051,262.887 "
+                 points="-1679.051,262.893 -1679.051,262.887 -1679.08,262.893 "
                  id="polygon2407"
                  style="stroke-width:2.04493117" />
               <path
@@ -5997,7 +5997,7 @@
                id="g2423"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1735.886,262.893 -1735.851,262.893 -1735.851,262.887 "
+                 points="-1735.851,262.893 -1735.851,262.887 -1735.886,262.893 "
                  id="polygon2419"
                  style="stroke-width:2.04493117" />
               <path
@@ -6278,7 +6278,7 @@
                id="g2543"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1682.597,256.125 -1682.565,256.125 -1682.565,256.123 "
+                 points="-1682.565,256.125 -1682.565,256.123 -1682.597,256.125 "
                  id="polygon2539"
                  style="stroke-width:2.04493117" />
               <path
@@ -6295,7 +6295,7 @@
                id="g2551"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1739.4,256.125 -1739.368,256.125 -1739.368,256.123 "
+                 points="-1739.368,256.125 -1739.368,256.123 -1739.4,256.125 "
                  id="polygon2547"
                  style="stroke-width:2.04493117" />
               <path
@@ -6629,11 +6629,11 @@
                id="rect2689" />
             <polygon
                style="fill:#118011;stroke-width:2.04493117"
-               points="5.332,15.863 5.332,28.256 5.003,28.256 5.003,15.863 "
+               points="5.003,28.256 5.003,15.863 5.332,15.863 5.332,28.256 "
                id="polygon2691" />
             <polygon
                style="fill:#118011;stroke-width:2.04493117"
-               points="25.451,15.863 25.451,28.256 25.121,28.256 25.121,15.863 "
+               points="25.121,28.256 25.121,15.863 25.451,15.863 25.451,28.256 "
                id="polygon2693" />
             <linearGradient
                id="linearGradient2699"
@@ -7046,7 +7046,7 @@
       </g>
     </g>
     <g
-       transform="matrix(19.026361,0,0,19.026361,62.299478,-4562.0754)"
+       transform="matrix(16.598642,0,0,16.598642,119.94822,-4141.5302)"
        id="g2875"
        style="display:inline">
       <path
@@ -7072,7 +7072,7 @@
        xml:space="preserve"
        id="flowRoot2940"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:133.33332825px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#4a86cf;fill-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,250.25095,-1675.9368)"><flowRegion
+       transform="matrix(0.23082312,0,0,0.23082312,283.91754,-1613.0726)"><flowRegion
          id="flowRegion2942"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:133.33332825px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#4a86cf;fill-opacity:1"><rect
            id="rect2944"
@@ -7083,7 +7083,7 @@
            style="-inkscape-font-specification:'Source Sans Pro, Light';font-family:'Source Sans Pro';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:133.33333501px;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#4a86cf;fill-opacity:1;" /></flowRegion><flowPara
          id="flowPara2946"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:133.33332825px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#4a86cf;fill-opacity:1">Platinum</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,251.14038,-1181.1665)"
+       transform="matrix(0.23082312,0,0,0.23082312,284.69348,-1202.6006)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:133.33332825px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#4a86cf;fill-opacity:1"
        id="flowRoot2954"
        xml:space="preserve"><flowRegion
@@ -7100,7 +7100,7 @@
        xml:space="preserve"
        id="flowRoot2962"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:133.33332825px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#4a86cf;fill-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,249.57901,-725.55299)"><flowRegion
+       transform="matrix(0.23082312,0,0,0.23082312,283.33133,-799.83054)"><flowRegion
          id="flowRegion2958"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:133.33332825px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#4a86cf;fill-opacity:1"><rect
            id="rect2956"
@@ -7111,7 +7111,7 @@
            style="-inkscape-font-specification:'Source Sans Pro, Light';font-family:'Source Sans Pro';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:133.33333501px;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#4a86cf;fill-opacity:1;" /></flowRegion><flowPara
          id="flowPara2960"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:133.33332825px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#4a86cf;fill-opacity:1">Silver</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,249.42055,-450.91385)"
+       transform="matrix(0.23082312,0,0,0.23082312,283.19309,-554.94303)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:133.33332825px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#4a86cf;fill-opacity:1"
        id="flowRoot2970"
        xml:space="preserve"><flowRegion
@@ -7124,7 +7124,21 @@
            width="1005.3887"
            id="rect2964" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:133.33332825px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#4a86cf;fill-opacity:1"
-         id="flowPara2968">Bronze</flowPara></flowRoot>  </g>
+         id="flowPara2968">Bronze</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5990"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:133.33332825px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#4a86cf;fill-opacity:1"
+       transform="matrix(0.23082312,0,0,0.23082312,283.19309,-361.05148)"><flowRegion
+         id="flowRegion5986"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:133.33332825px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#4a86cf;fill-opacity:1"><rect
+           id="rect5984"
+           width="1005.3887"
+           height="457.46149"
+           x="188.97638"
+           y="1841.2793"
+           style="-inkscape-font-specification:'Source Sans Pro, Light';font-family:'Source Sans Pro';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:133.33333501px;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#4a86cf;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara5988"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:133.33332825px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#4a86cf;fill-opacity:1">Supporter</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -7292,13 +7306,13 @@
        y="835.75104" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      transform="translate(-23.47602,1752.6663)"
      id="g147674"
      inkscape:groupmode="layer"
      inkscape:label="platinum &amp; gold">
     <g
-       i:extraneous="self"
+       ns0:extraneous="self"
        id="g147476"
        transform="matrix(2.37322,0,0,2.37322,140.47709,-774.83888)"
        style="stroke-width:2.04493117">
@@ -8061,7 +8075,7 @@
                id="g146662"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1678.941,267.65 -1678.971,267.656 -1678.941,267.656 "
+                 points="-1678.941,267.656 -1678.941,267.65 -1678.971,267.656 "
                  id="polygon146658"
                  style="stroke-width:2.04493117" />
               <path
@@ -8087,7 +8101,7 @@
                id="g146674"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1735.742,267.65 -1735.771,267.656 -1735.742,267.656 "
+                 points="-1735.742,267.656 -1735.742,267.65 -1735.771,267.656 "
                  id="polygon146670"
                  style="stroke-width:2.04493117" />
               <path
@@ -8195,7 +8209,7 @@
                id="g146720"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1678.981,271.466 -1679.011,271.469 -1678.981,271.469 "
+                 points="-1678.981,271.469 -1678.981,271.466 -1679.011,271.469 "
                  id="polygon146716"
                  style="stroke-width:2.04493117" />
               <path
@@ -8221,7 +8235,7 @@
                id="g146732"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1735.782,271.466 -1735.811,271.469 -1735.782,271.469 "
+                 points="-1735.782,271.469 -1735.782,271.466 -1735.811,271.469 "
                  id="polygon146728"
                  style="stroke-width:2.04493117" />
               <path
@@ -8367,7 +8381,7 @@
                id="g146794"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1680.244,259.208 -1680.273,259.213 -1680.244,259.213 "
+                 points="-1680.244,259.213 -1680.244,259.208 -1680.273,259.213 "
                  id="polygon146790"
                  style="stroke-width:2.04493117" />
               <path
@@ -8393,7 +8407,7 @@
                id="g146806"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1737.044,259.208 -1737.073,259.213 -1737.044,259.213 "
+                 points="-1737.044,259.213 -1737.044,259.208 -1737.073,259.213 "
                  id="polygon146802"
                  style="stroke-width:2.04493117" />
               <path
@@ -8531,7 +8545,7 @@
                id="g146864"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1680.244,259.208 -1680.273,259.213 -1680.244,259.213 "
+                 points="-1680.244,259.213 -1680.244,259.208 -1680.273,259.213 "
                  id="polygon146860"
                  style="stroke-width:2.04493117" />
               <path
@@ -8557,7 +8571,7 @@
                id="g146876"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1737.044,259.208 -1737.073,259.213 -1737.044,259.213 "
+                 points="-1737.044,259.213 -1737.044,259.208 -1737.073,259.213 "
                  id="polygon146872"
                  style="stroke-width:2.04493117" />
               <path
@@ -8898,7 +8912,7 @@
                id="g147022"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1679.051,262.887 -1679.08,262.893 -1679.051,262.893 "
+                 points="-1679.051,262.893 -1679.051,262.887 -1679.08,262.893 "
                  id="polygon147018"
                  style="stroke-width:2.04493117" />
               <path
@@ -8924,7 +8938,7 @@
                id="g147034"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1735.851,262.887 -1735.886,262.893 -1735.851,262.893 "
+                 points="-1735.851,262.893 -1735.851,262.887 -1735.886,262.893 "
                  id="polygon147030"
                  style="stroke-width:2.04493117" />
               <path
@@ -9205,7 +9219,7 @@
                id="g147154"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1682.565,256.123 -1682.597,256.125 -1682.565,256.125 "
+                 points="-1682.565,256.125 -1682.565,256.123 -1682.597,256.125 "
                  id="polygon147150"
                  style="stroke-width:2.04493117" />
               <path
@@ -9222,7 +9236,7 @@
                id="g147162"
                style="stroke-width:2.04493117">
               <polygon
-                 points="-1739.368,256.123 -1739.4,256.125 -1739.368,256.125 "
+                 points="-1739.368,256.125 -1739.368,256.123 -1739.4,256.125 "
                  id="polygon147158"
                  style="stroke-width:2.04493117" />
               <path
@@ -9556,11 +9570,11 @@
                id="rect147300" />
             <polygon
                style="fill:#118011;stroke-width:2.04493117"
-               points="5.003,28.256 5.003,15.863 5.332,15.863 5.332,28.256 "
+               points="5.332,15.863 5.332,28.256 5.003,28.256 5.003,15.863 "
                id="polygon147302" />
             <polygon
                style="fill:#118011;stroke-width:2.04493117"
-               points="25.121,28.256 25.121,15.863 25.451,15.863 25.451,28.256 "
+               points="25.451,15.863 25.451,28.256 25.121,28.256 25.121,15.863 "
                id="polygon147304" />
             <linearGradient
                id="linearGradient147310"
