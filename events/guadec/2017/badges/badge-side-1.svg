@@ -29,12 +29,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="279.32469"
-     inkscape:cy="337.84884"
+     inkscape:cx="417.57228"
+     inkscape:cy="598.79869"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
-     showgrid="false"
+     showgrid="true"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
      inkscape:window-height="1136"
@@ -322,7 +322,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -522,7 +522,7 @@
            id="rect3170" /></flowRegion><flowPara
          id="flowPara3200">City Walking Tour</flowPara><flowPara
          id="flowPara3339"
-         style="fill:#919191">Alan Turing statue, Sackville Gardens, M1 3HB</flowPara></flowRoot>    <flowRoot
+         style="fill:#919191">GUADEC Information Desk</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3184"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -567,7 +567,7 @@
            x="44.371368"
            y="360.41791"
            style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;font-size:10.6666668px;fill:#000000;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
-         id="flowPara3212">18∶30</flowPara></flowRoot>    <flowRoot
+         id="flowPara3212">18:20</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,67.105593,35.053939)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot3224"
@@ -580,7 +580,7 @@
            height="99.082031"
            width="323.94144"
            id="rect3216" /></flowRegion><flowPara
-         id="flowPara3222">19∶30</flowPara></flowRoot>    <flowRoot
+         id="flowPara3222">19:00</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3232"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -593,7 +593,7 @@
            x="44.371368"
            y="360.41791"
            style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;font-size:10.6666668px;fill:#000000;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
-         id="flowPara3230">18∶30</flowPara></flowRoot>    <flowRoot
+         id="flowPara3230">18:30</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3251"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -675,7 +675,7 @@
            height="99.082031"
            width="323.94144"
            id="rect3326" /></flowRegion><flowPara
-         id="flowPara3330">19∶00</flowPara></flowRoot>    <flowRoot
+         id="flowPara3330">19:00</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3351"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -703,7 +703,7 @@
            height="99.082031"
            width="323.94144"
            id="rect3353" /></flowRegion><flowPara
-         id="flowPara3357">20∶00</flowPara></flowRoot>    <flowRoot
+         id="flowPara3357">20:00</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot10847"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -732,7 +732,7 @@
          id="flowPara15719"
          style="font-size:10.66666698px">City Walking Tour</flowPara><flowPara
          id="flowPara15721"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Alan Turing statue, Sackville Gardens, M1 3HB</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">GUADEC Information Desk</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,67.105593,65.145494)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot15731"
@@ -745,7 +745,7 @@
            height="99.082031"
            width="323.94144"
            id="rect15725" /></flowRegion><flowPara
-         id="flowPara15729">18∶30</flowPara></flowRoot>    <flowRoot
+         id="flowPara15729">18:20</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,76.887474,84.493178)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot15745"
@@ -773,7 +773,7 @@
            x="44.371368"
            y="360.41791"
            style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;font-size:10.6666668px;fill:#000000;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
-         id="flowPara2939">20∶00 </flowPara><flowPara
+         id="flowPara2939">20:00 </flowPara><flowPara
          id="flowPara2943">- late</flowPara></flowRoot>    <g
        clip-path="url(#clipPath7763)"
        style="stroke-width:1.16688752"
