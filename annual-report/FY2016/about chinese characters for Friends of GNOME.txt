@@ -1,0 +1,4 @@
+Apparently neither the Droid, Liberation, Source Sans or Noto fonts can handle these Chinese characters properly.
+So you think "easy, I'll just dnf install adobe-source-han-sans-* and use 'Source Hans Sans CN' for the Friends of GNOME font style"... until you then encounter tofu for eastern-european characters like č.
+
+So revert to Droid Serif for most text, except the few Chinese lines.
