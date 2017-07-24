@@ -225,15 +225,15 @@
             <para PARENT="GNOME Heading 3"/>
             <ITEXT CH="•"/>
             <tab/>
-            <ITEXT CH="GUADEC Help Telephone: &lt;TBA&gt;"/>
+            <ITEXT CH="GUADEC Help Telephone: +44 740 486 0994"/>
             <para PARENT="GNOME Bullet List"/>
             <ITEXT CH="•"/>
             <tab/>
-            <ITEXT CH="GUADEC Organisation Team: info at NO SPAM guadec DOT org"/>
+            <ITEXT CH="GUADEC Organisation Team: info at code-of-conduct@guadec.org"/>
             <para PARENT="GNOME Bullet List"/>
             <ITEXT CH="•"/>
             <tab/>
-            <ITEXT CH="Individual contacts: &lt;TBA&gt;"/>
+            <ITEXT CH="Individual contacts: Emmanuele Bassi, Benjamin Berg, Rosanna Yuen"/>
             <para PARENT="GNOME Bullet List - Final Item"/>
             <ITEXT CH="Other useful numbers/links"/>
             <para PARENT="GNOME Heading 3"/>
