@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="174mm"
-   height="236mm"
-   viewBox="0 0 174 236"
+   width="168mm"
+   height="229.99998mm"
+   viewBox="0 0 168 229.99998"
    version="1.1"
    id="svg2022"
    inkscape:version="0.92+devel unknown"
@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="271.86023"
-     inkscape:cy="397.56778"
+     inkscape:cx="333.16276"
+     inkscape:cy="397.92971"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="printing-marks"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -58,25 +58,25 @@
        spacingx="1"
        spacingy="1"
        empspacing="1"
-       originx="13"
-       originy="13" />
+       originx="10"
+       originy="10" />
     <sodipodi:guide
-       position="13,9.9999997"
+       position="10,6.9999999"
        orientation="1,0"
        id="guide5752"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="100.27932,13.023924"
+       position="97.279322,10.023924"
        orientation="0,1"
        id="guide5754"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="19.999999,161.00001"
+       position="16.999999,158.00001"
        orientation="0,1"
        id="guide5756"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="223,8.9999997"
+       position="220,5.9999999"
        orientation="1,0"
        id="guide4883"
        inkscape:locked="false" />
@@ -96,7 +96,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(13,-74)"
+     transform="translate(10,-77.000018)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
@@ -1681,7 +1681,7 @@
      id="layer2"
      inkscape:label="guides"
      style="display:none"
-     transform="translate(0,62)">
+     transform="translate(-3,58.999982)">
     <rect
        y="149.65755"
        x="5e-07"
@@ -1743,48 +1743,47 @@
      inkscape:groupmode="layer"
      inkscape:label="crop marks"
      id="printing-marks"
-     transform="translate(13,75)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     transform="translate(10,71.999982)"
+     style="display:inline">
     <path
        inkscape:connector-curvature="0"
-       d="M -4.9999991,148.00001 H -12.999999"
+       d="m -5,148.0002 h -5"
        id="cropTL1"
-       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+       style="fill:none;stroke:#000000;stroke-width:0.22360678" />
     <path
        inkscape:connector-curvature="0"
-       d="m 9.2316284e-7,153.00001 v 8"
+       d="m 9.2316533e-7,153 v 5"
        id="cropTL2"
-       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+       style="fill:none;stroke:#000000;stroke-width:0.22360681" />
     <path
        inkscape:connector-curvature="0"
-       d="M -4.9999991,-61.999982 H -12.999999"
+       d="m -5,-61.999795 h -5"
        id="cropTR1"
-       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+       style="fill:none;stroke:#000000;stroke-width:0.22360678" />
     <path
        inkscape:connector-curvature="0"
-       d="m 9.2316284e-7,-66.999982 v -8"
+       d="m 9.2316284e-7,-66.999982 v -5"
        id="cropTR2"
-       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+       style="fill:none;stroke:#000000;stroke-width:0.22360678" />
     <path
        inkscape:connector-curvature="0"
-       d="m 153,148.00001 h 8"
+       d="m 153,148.00001 h 5"
        id="cropBL1"
-       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+       style="fill:none;stroke:#000000;stroke-width:0.22360678" />
     <path
        inkscape:connector-curvature="0"
-       d="m 148,153.00001 v 8"
+       d="m 148.0004,153 v 5"
        id="cropBL2"
-       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+       style="fill:none;stroke:#000000;stroke-width:0.22360681" />
     <path
        inkscape:connector-curvature="0"
-       d="m 153,-61.999982 h 8"
+       d="m 153,-61.999982 h 5"
        id="cropBR1"
-       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+       style="fill:none;stroke:#000000;stroke-width:0.22360678" />
     <path
        inkscape:connector-curvature="0"
-       d="m 148,-66.999982 v -8"
+       d="m 148,-66.999982 v -5"
        id="cropBR2"
-       style="fill:none;stroke:#000000;stroke-width:0.2236068" />
+       style="fill:none;stroke:#000000;stroke-width:0.22360678" />
   </g>
 </svg>
