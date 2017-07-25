@@ -28,14 +28,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="333.16276"
-     inkscape:cy="397.92971"
+     inkscape:cy="197.92971"
      inkscape:document-units="mm"
      inkscape:current-layer="printing-marks"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1136"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -1744,7 +1744,8 @@
      inkscape:label="crop marks"
      id="printing-marks"
      transform="translate(10,71.999982)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
        d="m -5,148.0002 h -5"
